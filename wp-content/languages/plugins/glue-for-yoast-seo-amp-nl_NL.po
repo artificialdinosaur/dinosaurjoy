@@ -1,0 +1,195 @@
+# Translation of Plugins - Glue for Yoast SEO &amp; AMP - Stable (latest release) in Dutch
+# This file is distributed under the same license as the Plugins - Glue for Yoast SEO &amp; AMP - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-09-25 19:34:04+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha\n"
+"Language: nl\n"
+"Project-Id-Version: Plugins - Glue for Yoast SEO &amp; AMP - Stable (latest release)\n"
+
+#. Author URI of the plugin
+msgid "https://yoast.com"
+msgstr "https://yoast.com"
+
+#. Author of the plugin
+msgid "Joost de Valk"
+msgstr "Joost de Valk"
+
+#: classes/views/admin-page.php:202 classes/views/admin-page.php:213
+msgid "Analytics code"
+msgstr "Analytics code"
+
+#. Plugin Name of the plugin
+msgid "Glue for Yoast SEO & AMP"
+msgstr "Glue voor Yoast SEO & AMP"
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/glue-for-yoast-seo-amp/"
+msgstr "https://wordpress.org/plugins/glue-for-yoast-seo-amp/"
+
+#: classes/views/admin-page.php:136 classes/views/admin-page.php:140
+msgid "Extra CSS"
+msgstr "Extra CSS"
+
+#. translators: %s: 'head' - as in HTML head - wrapped in <code> tags.
+#: classes/views/admin-page.php:153
+msgid "Extra code in %s"
+msgstr "Extra code in %s"
+
+#: classes/views/admin-page.php:169
+msgid "Extra code"
+msgstr "Extra code"
+
+#: classes/views/admin-page.php:180
+msgid "AMP Analytics"
+msgstr "AMP Analytics"
+
+#: classes/views/admin-page.php:131
+msgid "Background color"
+msgstr "Background color"
+
+#. translators: %s: google analytics tracking code.
+#: classes/views/admin-page.php:192
+msgid "Pageviews will be tracked using the following account: %s."
+msgstr "Pageviews worden gemeten met behulp van het volgende account: %s."
+
+#: classes/views/admin-page.php:128
+msgid "Blockquotes"
+msgstr "Blockquotes"
+
+#: classes/views/admin-page.php:109
+msgid "Links"
+msgstr "Links"
+
+#: classes/views/admin-page.php:210
+msgid "Optionally add a valid google analytics tracking code."
+msgstr "Optioneel kun je een geldig Google analytics code toevoegen."
+
+#: classes/views/admin-page.php:87
+msgid "AMP icon"
+msgstr "AMP icon"
+
+#: classes/views/admin-page.php:84
+msgid "Images"
+msgstr "Afbeeldingen"
+
+#: classes/views/admin-page.php:22
+msgid "Analytics"
+msgstr "Analytics"
+
+#: classes/views/admin-page.php:75
+msgid "Please note:"
+msgstr "Let op:"
+
+#: classes/backend.php:122
+msgid "Use Logo"
+msgstr "Gebruik Logo"
+
+#: classes/views/admin-page.php:21
+msgid "Design"
+msgstr "Design"
+
+#: classes/views/admin-page.php:96
+msgid "The image must be at least 696px wide."
+msgstr "De afbeelding moet minimaal 696px breed zijn."
+
+#: classes/views/admin-page.php:121
+msgid "No underline"
+msgstr "Niet onderstrepen"
+
+#: classes/views/admin-page.php:187
+msgid "Make sure to connect your Google Analytics plugin properly."
+msgstr "Zorg ervoor dat je Google Analytics plugin goed is verbonden."
+
+#: classes/views/admin-page.php:103
+msgid "Title color"
+msgstr "Titel kleur"
+
+#: classes/views/admin-page.php:102
+msgid "AMP Header color"
+msgstr "AMP Header kleur"
+
+#: classes/views/admin-page.php:99
+msgid "Content colors"
+msgstr "Inhoud kleuren"
+
+#: classes/views/admin-page.php:132
+msgid "Border color"
+msgstr "Randkleur"
+
+#: classes/views/admin-page.php:104 classes/views/admin-page.php:111
+#: classes/views/admin-page.php:130
+msgid "Text color"
+msgstr "Tekstkleur"
+
+#: classes/views/admin-page.php:118 classes/views/admin-page.php:120
+msgid "Underline"
+msgstr "Onderstrepen"
+
+#: classes/views/admin-page.php:184
+msgid "Because your Google Analytics plugin by Yoast is active, your AMP pages will also be tracked."
+msgstr "Omdat je Google Analytics plugin van Yoast actief is, worden ook je AMP pagina's gevolgd."
+
+#: classes/views/admin-page.php:199
+msgid "Optionally you can override the default AMP tracking code with your own by putting it below:"
+msgstr "Optioneel kun je de standaard AMP tracking code vervangen door je eigen code door het hieronder in te vullen:"
+
+#. Description of the plugin
+msgid "Makes sure the default WordPress AMP plugin uses the proper Yoast SEO metadata"
+msgstr "Zorgt er voor dat de standaard WordPress AMP plugin de juiste Yoast SEO metadata gebruikt. "
+
+#: classes/backend.php:65 classes/backend.php:66
+msgid "AMP"
+msgstr "AMP"
+
+#: classes/form.php:169 classes/views/admin-page.php:65
+msgid "Disabled"
+msgstr "Uitgeschakeld"
+
+#: classes/form.php:169 classes/views/admin-page.php:64
+msgid "Enabled"
+msgstr "Ingeschakeld"
+
+#: classes/views/admin-page.php:30
+msgid "Post is enabled by default, feel free to enable any of them."
+msgstr "Bericht is standaard ingeschakeld, voel je vrij om elk van hen in te schakelen."
+
+#: classes/views/admin-page.php:29
+msgid "Generally you'd want this to be your news post types."
+msgstr "Doorgaans wil je dat dit van het type nieuws berichten is."
+
+#: classes/views/admin-page.php:28
+msgid "Post types that have AMP support"
+msgstr "Bericht types die door AMP ondersteund worden"
+
+#: classes/views/admin-page.php:20
+msgid "Post types"
+msgstr "Bericht types"
+
+#: classes/views/admin-page.php:89
+msgid "Must be at least 32px &times; 32px"
+msgstr "Moet minimaal 32px bij 32px zijn"
+
+#: classes/views/admin-page.php:93
+msgid "Default image"
+msgstr "Standaard afbeelding"
+
+#: classes/views/admin-page.php:76
+msgid "Currently pages are not supported by the AMP plugin."
+msgstr "Momenteel worden pagina's niet ondersteund door de AMP plugin."
+
+#: classes/views/admin-page.php:95
+msgid "Used when a post doesn't have an image associated with it."
+msgstr "Wordt gebruikt wanneer een bericht geen verbonden afbeelding heeft."
+
+#: classes/views/admin-page.php:112
+msgid "Hover color"
+msgstr "Hover kleur"
+
+#: classes/views/admin-page.php:105
+msgid "Post meta info color"
+msgstr "Berichtmeta info kleur"

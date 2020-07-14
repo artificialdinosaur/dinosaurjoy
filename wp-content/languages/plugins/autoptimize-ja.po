@@ -1,0 +1,438 @@
+# Translation of Plugins - Autoptimize - Stable (latest release) in Japanese
+# This file is distributed under the same license as the Plugins - Autoptimize - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-11-15 06:23:53+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Plugins - Autoptimize - Stable (latest release)\n"
+
+#: classes/autoptimizeImages.php:976 classes/autoptimizeImages.php:997
+msgid "Images"
+msgstr "画像"
+
+#: classes/autoptimizeConfig.php:868
+msgid "JS, CSS  &amp; HTML"
+msgstr "JS、CSS  &amp; HTML"
+
+#: classes/autoptimizeConfig.php:407
+msgid "When aggregating JS or CSS, excluded files that are not minified (based on filename) are by default minified by Autoptimize despite being excluded. Uncheck this option if anything breaks despite excluding."
+msgstr "JS または CSS を連結する場合、縮小されていない (ファイル名に基づいて) 除外されたファイルは、デフォルトでは除外されているにもかかわらず Autoptimize によって縮小されます。除外してもうまくいかない場合は、このオプションを外してください。"
+
+#: classes/autoptimizeConfig.php:405
+msgid "Minify excluded CSS and JS files?"
+msgstr "除外されたCSSファイルとJSファイルを縮小する"
+
+#: classes/autoptimizeImages.php:1027
+msgid "Make your site significantly faster by just ticking a couple of checkboxes to optimize and lazy load your images, WebP support included!"
+msgstr "WebP サポートを含め、画像を最適化して遅延ロードするためにいくつかのチェックボックスをオンにするだけで、サイトを大幅に高速化できます。"
+
+#: classes/autoptimizeImages.php:1026
+msgid "Image optimization"
+msgstr "画像最適化"
+
+#: classes/autoptimizeImages.php:1030
+msgid "Optimize Images"
+msgstr "画像を最適化"
+
+#: classes/autoptimizeImages.php:1074
+msgid "Image Optimization quality"
+msgstr "画像最適化の品質"
+
+#: classes/autoptimizeConfig.php:275
+msgid "Aggregate CSS-files?"
+msgstr "CSS ファイルを連結する"
+
+#: classes/autoptimizeConfig.php:225
+msgid "Aggregate JS-files?"
+msgstr "JS ファイルを連結する"
+
+#: classes/autoptimizePartners.php:81
+msgid "More info"
+msgstr "詳細情報"
+
+#: classes/autoptimizeExtra.php:563
+msgid "Optimize YouTube videos"
+msgstr "YouTube 動画の最適化"
+
+#: classes/autoptimizeExtra.php:557 classes/autoptimizeExtra.php:574
+msgid "Click here to install and activate it."
+msgstr "インストールして有効化するには、ここをクリック。"
+
+#. translators: %s will be replaced by a link to the "async javascript" plugin.
+#: classes/autoptimizeExtra.php:555
+msgid "Configuration of async javascript is easier and more flexible using the %s plugin."
+msgstr "%s プラグインを使用すると、非同期 javascript の設定がより簡単で柔軟になります。"
+
+#: classes/autoptimizeExtra.php:569
+msgid "Click here to configure it."
+msgstr "ここをクリックして設定してください。"
+
+#: classes/autoptimizeExtra.php:470 classes/autoptimizeExtra.php:490
+msgid "Extra"
+msgstr "追加"
+
+#: classes/autoptimizeExtra.php:508
+msgid "Leave as is"
+msgstr "そのままにする"
+
+#: classes/autoptimizeExtra.php:524
+msgid "Remove query strings from static resources"
+msgstr "静的リソースからクエリー文字列を削除"
+
+#: classes/autoptimizeExtra.php:520
+msgid "Removes WordPress' core emojis' inline CSS, inline JavaScript, and an otherwise un-autoptimized JavaScript file."
+msgstr "WordPress コア絵文字のインライン CSS、インライン JavaScript、およびその他の自動化されていない JavaScript ファイルを削除します。"
+
+#: classes/autoptimizeExtra.php:518
+msgid "Remove emojis"
+msgstr "絵文字を削除"
+
+#: classes/autoptimizeCLI.php:30
+msgid "Cache flushed."
+msgstr "キャッシュをフラッシュしました。"
+
+#: classes/autoptimizeCLI.php:28
+msgid "Flushing the cache..."
+msgstr "キャッシュをフラッシュ中…"
+
+#: classes/autoptimizeExtra.php:502
+msgid "Extra Auto-Optimizations"
+msgstr "追加の自動最適化"
+
+#: classes/autoptimizeExtra.php:530
+msgid "Preconnect to 3rd party domains <em>(advanced users)</em>"
+msgstr "サードパーティのドメインに事前接続する <strong>(上級ユーザー向け)</strong>"
+
+#: classes/autoptimizeExtra.php:542
+msgid "Async Javascript-files <em>(advanced users)</em>"
+msgstr "非同期 JavaScript ファイル <strong>(上級ユーザー向け)</strong>"
+
+#: classes/autoptimizeExtra.php:532
+msgid "Add 3rd party domains you want the browser to <a href=\"https://www.keycdn.com/support/preconnect/#primary\" target=\"_blank\">preconnect</a> to, separated by comma's. Make sure to include the correct protocol (HTTP or HTTPS)."
+msgstr "ブラウザーに<a href=\"https://www.keycdn.com/support/preconnect/#primary\" target=\"_blank\">事前接続</a>させたいサードパーティドメインをカンマ区切りで追加してください。正しいプロトコル (HTTP または HTTPS) を含めるようにしてください。"
+
+#: classes/autoptimizeExtra.php:514
+msgid "Combine and load fonts asynchronously with <a href=\"https://github.com/typekit/webfontloader#readme\" target=\"_blank\">webfont.js</a>"
+msgstr "<a href=\"https://github.com/typekit/webfontloader#readme\" target=\"_blank\">webfont.js</a> で非同期にフォントを結合して読み込む。"
+
+#: classes/autoptimizeExtra.php:503
+msgid "The following settings can improve your site's performance even more."
+msgstr "次の設定を行うと、サイトのパフォーマンスがさらに向上します。"
+
+#: classes/autoptimizeExtra.php:506
+msgid "Google Fonts"
+msgstr "Google フォント"
+
+#: classes/autoptimizeConfig.php:391
+msgid "Misc Options"
+msgstr "その他オプション"
+
+#: classes/autoptimizeConfig.php:244 classes/autoptimizeConfig.php:294
+msgid "(deprecated)"
+msgstr "(廃止予定)"
+
+#: classes/autoptimizeConfig.php:237
+msgid "Load JavaScript early, this can potentially fix some JS-errors, but makes the JS render blocking."
+msgstr "JavaScript を早めに読み込みます。これにより、一部の JS エラーを修正できる可能性がありますが、JS レンダリングがブロッキングを行います。"
+
+#: classes/autoptimizeConfig.php:354
+msgid "Enter your CDN root URL to enable CDN for Autoptimized files. The URL can be http, https or protocol-relative (e.g. <code>//cdn.example.com/</code>). This is not needed for Cloudflare."
+msgstr "Autoptimized ファイルに対し CDN を有効化するため CDN ルート URL を入力してください。http、https、またはプロトコル相対 URL (例: <code>//cdn.example.com/</code>) を指定できます。これは、Cloudflare では必要ありません。"
+
+#: classes/autoptimizeConfig.php:459
+msgid "Need help? <a href='https://wordpress.org/plugins/autoptimize/faq/'>Check out the FAQ here</a>."
+msgstr "ヘルプが必要ですか ? <a href='https://wordpress.org/plugins/autoptimize/faq/'>こちらの FAQ をご覧ください</a>。"
+
+#: classes/autoptimizeConfig.php:425
+msgid "By default Autoptimize is also active on your shop's cart/ checkout, uncheck not to optimize those."
+msgstr "デフォルトでは、ショップのカート/支払い手続き画面でも自動最適化が有効になっていますが、最適化しないようにするにはチェックを外してください。"
+
+#: classes/autoptimizeConfig.php:423
+msgid "Also optimize shop cart/ checkout?"
+msgstr "ショッピングカート / 支払い手続きも最適化しますか ?"
+
+#. translators: Kilobytes + timestamp shown.
+#: classes/autoptimizeConfig.php:382
+msgid "%1$s files, totalling %2$s Kbytes (calculated at %3$s)"
+msgstr "%1$s個のファイル。合計%2$sKB (%3$sに計算)"
+
+#: classes/autoptimizeConfig.php:232
+msgid "Let Autoptimize also extract JS from the HTML. <strong>Warning</strong>: this can make Autoptimize's cache size grow quickly, so only enable this if you know what you're doing."
+msgstr "Autoptimize で HTML から JS を抽出することもできます。<strong>警告</strong>: これにより、Autoptimize のキャッシュサイズが急速に増加することがあります。何をしているのか理解している場合のみ有効化してください。"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://autoptimize.com/"
+msgstr "https://autoptimize.com/"
+
+#. Translators: %s is the cache directory location.
+#: classes/autoptimizeMain.php:642
+msgid "Autoptimize cannot write to the cache directory (%s), please fix to enable CSS/ JS optimization!"
+msgstr "Autoptimize はキャッシュディレクトリ (%s) に書き込めません。CSS/JS の最適化を有効にするには修正してください。"
+
+#: classes/autoptimizeToolbar.php:106
+msgid "Delete Cache"
+msgstr "キャッシュを削除"
+
+#: classes/autoptimizeToolbar.php:98
+msgid "Files"
+msgstr "ファイル"
+
+#: classes/autoptimizeToolbar.php:97
+msgid "Size"
+msgstr "サイズ"
+
+#: classes/autoptimizeCacheChecker.php:66
+msgid "Autoptimize cache size warning"
+msgstr "Autoptimize のキャッシュサイズ警告"
+
+#: classes/autoptimizeCacheChecker.php:67
+msgid "Autoptimize's cache size is getting big, consider purging the cache. Have a look at https://wordpress.org/plugins/autoptimize/faq/ to see how you can keep the cache size under control."
+msgstr "Autoptimize のキャッシュサイズが肥大化してきたので、キャッシュの削除を検討してください。キャッシュサイズの制御方法については、https:/ja./wordpress.org/plugins/autoptimize/faq/ をご覧ください。"
+
+#: classes/autoptimizePartners.php:143
+msgid "These Autoptimize power-ups and related services will improve your site's performance even more!"
+msgstr "これらの Autoptimize「パワーアップ」や関連サービスは、サイトのパフォーマンスをさらに向上させます。"
+
+#: classes/autoptimizePartners.php:38 classes/autoptimizePartners.php:139
+msgid "Optimize More!"
+msgstr "さらに最適化 !"
+
+#: classes/autoptimizePartners.php:53
+msgid "Have a look at <a href=\"http://optimizingmatters.com/\">optimizingmatters.com</a> for Autoptimize power-ups!"
+msgstr "Autoptimize「パワーアップ」については、<a href=\"http://optimizingmatters.com/\">optimizingmatters.com</a> をご覧ください。"
+
+#. translators: links to the Autoptimize settings page.
+#: classes/autoptimizeToolbar.php:138
+msgid "Dismiss this notice."
+msgstr "この通知を非表示にする。"
+
+#: classes/autoptimizeConfig.php:343
+msgid "Enable this if you want HTML comments to remain in the page."
+msgstr "これを有効にすると、HTML コメントをページに残すことができます。"
+
+#. translators: the variable contains a date.
+#: classes/autoptimizeConfig.php:854
+msgid "Posted %s"
+msgstr "投稿 %s"
+
+#: classes/autoptimizeConfig.php:282
+msgid "Check this option for Autoptimize to also aggregate CSS in the HTML."
+msgstr "この Autoptimize オプションをチェックすると、HTML の CSS を連結します。"
+
+#: classes/autoptimizeConfig.php:280
+msgid "Also aggregate inline CSS?"
+msgstr "インラインの CSS を連結"
+
+#: classes/autoptimizeConfig.php:230
+msgid "Also aggregate inline JS?"
+msgstr "インラインの JS を連結"
+
+#: classes/autoptimizeConfig.php:460
+msgid "Try my other plugins!"
+msgstr "私の他のプラグインも試してみてください。"
+
+#: classes/autoptimizeConfig.php:460
+msgid "Happy with Autoptimize?"
+msgstr "Autoptimize に満足していますか ?"
+
+#: classes/autoptimizeExtra.php:509
+msgid "Remove Google Fonts"
+msgstr "Google フォントの削除"
+
+#: classes/autoptimizeConfig.php:848
+msgid "No items"
+msgstr "項目なし"
+
+#: classes/autoptimizeConfig.php:700 classes/autoptimizeConfig.php:706
+msgid "Settings"
+msgstr "設定"
+
+#: classes/autoptimizeImages.php:1120
+#: classes/autoptimizeCriticalCSSSettings.php:283
+#: classes/autoptimizeExtra.php:580 classes/autoptimizeConfig.php:435
+msgid "Save Changes"
+msgstr "変更を保存"
+
+#: classes/autoptimizeConfig.php:468
+msgid "WordPress"
+msgstr "WordPress"
+
+#: classes/autoptimizeConfig.php:368
+msgid "Yes"
+msgstr "はい"
+
+#: classes/autoptimizeConfig.php:368
+msgid "No"
+msgstr "いいえ"
+
+#: classes/autoptimizeConfig.php:635 classes/autoptimizeConfig.php:638
+#: classes/autoptimizeConfig.php:641
+msgid "Autoptimize Options"
+msgstr "Autoptimize 設定"
+
+#: classes/autoptimizeImages.php:999 classes/autoptimizePartners.php:141
+#: classes/autoptimizeCriticalCSSSettings.php:112
+#: classes/autoptimizeExtra.php:492 classes/autoptimizeConfig.php:89
+#: classes/autoptimizeConfig.php:191
+msgid "Autoptimize Settings"
+msgstr "Autoptimize 設定"
+
+#: classes/autoptimizeConfig.php:349
+msgid "CDN Options"
+msgstr "CDN オプション"
+
+#: classes/autoptimizeConfig.php:268
+msgid "CSS Options"
+msgstr "CSS オプション"
+
+#: classes/autoptimizeConfig.php:371
+msgid "Cached styles and scripts"
+msgstr "キャッシュされたスタイルとスクリプト"
+
+#. Author of the plugin
+msgid "Frank Goossens (futtta)"
+msgstr "Frank Goossens (futtta)"
+
+#: classes/autoptimizeConfig.php:334
+msgid "HTML Options"
+msgstr "HTML オプション"
+
+#: classes/autoptimizeConfig.php:218
+msgid "JavaScript Options"
+msgstr "JavaScript オプション"
+
+#: classes/autoptimizeConfig.php:252
+msgid "Exclude scripts from Autoptimize:"
+msgstr "Autoptimize からスクリプトを除外: "
+
+#: classes/autoptimizeConfig.php:326
+msgid "A comma-separated list of CSS you want to exclude from being optimized."
+msgstr "最適化から除外する CSS のコンマ区切りのリストを指定してください。"
+
+#: classes/autoptimizeConfig.php:287
+msgid "Enable this to include small background-images in the CSS itself instead of as separate downloads."
+msgstr "この機能を有効にすると、個別に画像をダウンロードせず、CSS 自体に小さな背景画像を含めることができます。"
+
+#: classes/autoptimizeConfig.php:484
+msgid "Do not donate for this plugin!"
+msgstr "このプラグインに寄付をしないでください！"
+
+#: classes/autoptimizeConfig.php:469
+msgid "Web Technology"
+msgstr "ウェブテクノロジー"
+
+#. Plugin Name of the plugin
+#: classes/autoptimizeCacheChecker.php:110 classes/autoptimizeToolbar.php:79
+#: classes/autoptimizeConfig.php:467
+msgid "Autoptimize"
+msgstr "Autoptimize "
+
+#: classes/autoptimizeConfig.php:465
+msgid "futtta about"
+msgstr "futtta について"
+
+#: classes/autoptimizeConfig.php:436
+msgid "Save Changes and Empty Cache"
+msgstr "変更を保存してキャッシュを削除"
+
+#: classes/autoptimizeConfig.php:396
+msgid "By default files saved are static css/js, uncheck this option if your webserver doesn't properly handle the compression and expiry."
+msgstr "デフォルトで保存されるファイルは静的な CSS / JS になります。ウェブサーバーが圧縮と有効期限を正しく処理しない場合は、このオプションのチェックを外してください。"
+
+#: classes/autoptimizeConfig.php:394
+msgid "Save aggregated script/css as static files?"
+msgstr "連結されたスクリプト / CSS を静的ファイルとして保存"
+
+#: classes/autoptimizeConfig.php:367
+msgid "Can we write?"
+msgstr "書き込み権限"
+
+#: classes/autoptimizeConfig.php:363
+msgid "Cache folder"
+msgstr "キャッシュフォルダ"
+
+#: classes/autoptimizeToolbar.php:87 classes/autoptimizeConfig.php:360
+msgid "Cache Info"
+msgstr "キャッシュ情報"
+
+#: classes/autoptimizeConfig.php:352
+msgid "CDN Base URL"
+msgstr "CDN のベース URL"
+
+#: classes/autoptimizeConfig.php:323
+msgid "Exclude CSS from Autoptimize:"
+msgstr "Autoptimize から CSS を除外"
+
+#: classes/autoptimizeConfig.php:318
+msgid "Inline all CSS?"
+msgstr "すべての CSS をインライン化"
+
+#: classes/autoptimizeConfig.php:302
+msgid "Inline and Defer CSS?"
+msgstr "CSS のインライン化と遅延"
+
+#: classes/autoptimizeConfig.php:298
+msgid "Don't autoptimize CSS outside the head-section. If the cache gets big, you might want to enable this."
+msgstr "ヘッダーセクションの外側で CSS を自動最適化しないでください。キャッシュが肥大化してきた場合は、これを有効にすることができます。"
+
+#: classes/autoptimizeConfig.php:293
+msgid "Look for styles only in &lt;head&gt;?"
+msgstr "&lt;head&gt; 内のスタイルのみ探す"
+
+#: classes/autoptimizeConfig.php:285
+msgid "Generate data: URIs for images?"
+msgstr "データを生成 : 画像を URI 化"
+
+#: classes/autoptimizeConfig.php:271
+msgid "Optimize CSS Code?"
+msgstr "CSS コードを最適化"
+
+#: classes/autoptimizeConfig.php:262
+msgid "If your scripts break because of a JS-error, you might want to try this."
+msgstr "スクリプトが JS エラーで中断した場合は、これを試してください。"
+
+#: classes/autoptimizeConfig.php:260
+msgid "Add try-catch wrapping?"
+msgstr "try-catch の折り返しを追加"
+
+#: classes/autoptimizeConfig.php:248
+msgid "Mostly useful in combination with previous option when using jQuery-based templates, but might help keeping cache size under control."
+msgstr "jQuery ベースのテンプレートを使用する場合、以前のオプションと組み合わせて使用すると大抵便利ですが、キャッシュサイズを制御し続けるために役立つ可能性があります。"
+
+#: classes/autoptimizeConfig.php:243
+msgid "Look for scripts only in &lt;head&gt;?"
+msgstr "&lt;head&gt; 内のスクリプトのみ探す"
+
+#: classes/autoptimizeConfig.php:235
+msgid "Force JavaScript in &lt;head&gt;?"
+msgstr "&lt;head&gt; 内へ JavaScript を強制"
+
+#: classes/autoptimizeConfig.php:221
+msgid "Optimize JavaScript Code?"
+msgstr "JavaScript コードの最適化"
+
+#: classes/autoptimizeConfig.php:341
+msgid "Keep HTML comments?"
+msgstr "HTML コメントを残す"
+
+#: classes/autoptimizeConfig.php:337
+msgid "Optimize HTML Code?"
+msgstr "HTML コードを最適化"
+
+#: classes/autoptimizeMain.php:656
+msgid "Autoptimize has just been updated. Please <strong>test your site now</strong> and adapt Autoptimize config if needed."
+msgstr "Autoptimize が更新されました。<strong>サイトを今すぐテスト</strong>し、必要に応じて自動最適化の設定を調整してください。"
+
+#: classes/autoptimizeMain.php:649
+msgid "Thank you for installing and activating Autoptimize. Please configure it under \"Settings\" -> \"Autoptimize\" to start improving your site's performance."
+msgstr "Autoptimize をインストール・有効化していただきありがとうございます。サイトのパフォーマンスを向上させるには、\"設定\" -> \"Autoptimize\" で設定を行ってください。"
+
+#: classes/autoptimizeConfig.php:255
+msgid "A comma-separated list of scripts you want to exclude from being optimized, for example 'whatever.js, another.js' (without the quotes) to exclude those scripts from being aggregated by Autoptimize."
+msgstr "たとえば、 'whatever.js, another.js'（引用符なし）のように、最適化から除外するスクリプトのコンマ区切りのリストを指定してください。それらのスクリプトは Autoptimize による連結から除外されます。"

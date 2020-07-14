@@ -1,0 +1,4781 @@
+# Translation of Plugins - Complianz | GDPR/CCPA Cookie Consent - Stable (latest release) in German
+# This file is distributed under the same license as the Plugins - Complianz | GDPR/CCPA Cookie Consent - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-05-21 07:30:15+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha\n"
+"Language: de\n"
+"Project-Id-Version: Plugins - Complianz | GDPR/CCPA Cookie Consent - Stable (latest release)\n"
+
+#: cookiebanner/settings.php:611
+msgid "View preferences text"
+msgstr "Einstellungstext anzeigen"
+
+#: cookiebanner/settings.php:696
+msgid "Text on accept all button"
+msgstr "Text auf Schaltfläche Alle akzeptieren"
+
+#: cookiebanner/settings.php:683 cookiebanner/settings.php:695
+msgid "Accept all"
+msgstr "Alle akzeptieren"
+
+#: cookiebanner/settings.php:680
+msgid "Accept cookies"
+msgstr "Cookies akzeptieren"
+
+#: cookiebanner/settings.php:668
+msgid "Marketing category text"
+msgstr "Text der Marketingkategorie"
+
+#: cookiebanner/settings.php:653
+msgid "Statistics category text"
+msgstr "Text der Statistik-Kategorie"
+
+#: cookiebanner/settings.php:637
+msgid "Preferences category text"
+msgstr "Text der Einstellungskategorie"
+
+#: cookiebanner/settings.php:624
+msgid "Functional category text"
+msgstr "Text der funktionalen Kategorie"
+
+#: cookiebanner/settings.php:622
+msgid "Functional"
+msgstr "Funktional"
+
+#: cookiebanner/settings.php:518 cookiebanner/settings.php:534
+msgid "Categories"
+msgstr "Kategorien"
+
+#: cookiebanner/settings.php:516 cookiebanner/settings.php:543
+msgid "Accept all + categories"
+msgstr "Alle akzeptieren + Kategorien"
+
+#: cookiebanner/settings.php:515 cookiebanner/settings.php:542
+msgid "Accept all + view preferences"
+msgstr "Alle akzeptieren + Einstellungen anzeigen"
+
+#: cookiebanner/settings.php:514 cookiebanner/settings.php:541
+msgid "Legacy categories"
+msgstr "Veraltete Kategorien"
+
+#: cookiebanner/settings.php:513 cookiebanner/settings.php:540
+msgid "Accept/Deny"
+msgstr "Akzeptieren/Ablehnen"
+
+#: cookiebanner/settings.php:444
+msgid "Border color | Accept or Preferences button"
+msgstr "Rahmenfarbe | Schaltfläche Akzeptieren oder Einstellungen"
+
+#: cookiebanner/settings.php:435
+msgid "Text color | Accept or Preferences button"
+msgstr "Textfarbe | Schaltfläche Akzeptieren oder Einstellungen"
+
+#: cookiebanner/settings.php:426
+msgid "Background color | Accept or Preferences button"
+msgstr "Hintergrundfarbe | Schaltfläche Akzeptieren oder Einstellungen"
+
+#: cookiebanner/settings.php:404
+msgid "Border color | Deny button"
+msgstr "Rahmenfarbe | Schaltfläche Ablehnen"
+
+#: cookiebanner/settings.php:392
+msgid "Text color | Deny button"
+msgstr "Textfarbe | Schaltfläche Ablehnen"
+
+#: cookiebanner/settings.php:379
+msgid "Background color | Deny button"
+msgstr "Hintergrundfarbe | Schaltfläche Ablehnen"
+
+#: cookiebanner/settings.php:366
+msgid "Border color | Accept all button"
+msgstr "Rahmenfarbe | Schaltfläche Alle akzeptieren"
+
+#: cookiebanner/settings.php:353
+msgid "Text color | Accept all button"
+msgstr "Textfarbe | Schaltfläche Alle akzeptieren"
+
+#: cookiebanner/settings.php:340
+msgid "Background color | Accept all button"
+msgstr "Hintergrundfarbe | Schaltfläche Alle akzeptieren"
+
+#: cookiebanner/settings.php:328
+msgid "Background color | Inactive slider"
+msgstr "Hintergrundfarbe | Inaktiver Schieberegler"
+
+#: cookiebanner/settings.php:316
+msgid "Bullet color | Slider"
+msgstr "Aufzählungsfarbe | Schieberegler"
+
+#: cookiebanner/settings.php:302
+msgid "Background color | Slider"
+msgstr "Hintergrundfarbe | Schieberegler"
+
+#: cookiebanner/settings.php:293
+msgid "Text color | Banner"
+msgstr "Textfarbe | Banner"
+
+#: cookiebanner/settings.php:284
+msgid "Background color | Banner"
+msgstr "Hintergrundfarbe | Banner"
+
+#: cookiebanner/settings.php:274
+msgid "The text that appears on the button used to change consent, which shows when a choice has been made in the cookie warning."
+msgstr "Der Text, der auf der Schaltfläche zur Änderung der Zustimmung erscheint und anzeigt, was für eine Auswahl in der Cookie-Warnung getroffen wurde."
+
+#: cookiebanner/settings.php:273
+msgid "Manage consent text"
+msgstr "Zustimmungstext verwalten"
+
+#: cookiebanner/settings.php:272
+msgid "Manage consent"
+msgstr "Zustimmung verwalten"
+
+#: cookiebanner/settings.php:260
+msgid "Hide manage consent button"
+msgstr "Schaltfläche „Zustimmung verwalten“ ausblenden"
+
+#: cookiebanner/settings.php:251
+msgid "Max width of banner in pixels"
+msgstr "Maximale Breite des Banners in Pixeln"
+
+#: cookiebanner/settings.php:241
+msgid "After saving, a preview of the soft cookie wall will be shown for 3 seconds"
+msgstr "Nach dem Speichern wird 3 Sekunden lang eine Vorschau der Soft-Cookie-Wand angezeigt"
+
+#: cookiebanner/settings.php:222
+msgid "Slider"
+msgstr "Schieberegler"
+
+#: cookiebanner/settings.php:221
+msgid "Square"
+msgstr "Quadratisch"
+
+#: cookiebanner/settings.php:173
+msgid "Color scheme"
+msgstr "Farbschema"
+
+#: cookiebanner/settings.php:174
+msgid "This is not a setting, but a tool to switch all colors to a predefined set."
+msgstr "Dies ist keine Einstellung, sondern ein Werkzeug zum Umschalten aller Farben auf einen vordefinierten Satz."
+
+#: cookiebanner/settings.php:184
+msgid "Banner position"
+msgstr "Bannerposition"
+
+#: cookiebanner/settings.php:201
+msgid "Banner style"
+msgstr "Banner-Stil"
+
+#: cookiebanner/settings.php:216
+msgid "Checkbox style"
+msgstr "Checkbox-Stil"
+
+#: dist/blocks.build.js:1 src/block/block.js:185 src/block/block.js:208
+msgid "Document settings"
+msgstr "Dokumenteinstellungen"
+
+#: class-field.php:1731
+msgid "Services in %s"
+msgstr "Dienste in %s"
+
+#: cookie/class-cookie-admin.php:3420
+msgid "Sync cookies with Cookiedatabase.org"
+msgstr "Synchronisieren von Cookies mit Cookiedatabase.org"
+
+#: cookie/class-cookie-admin.php:3409
+msgid "Connecting to Cookiedatabase.org"
+msgstr "Herstellen einer Verbindung mit Cookiedatabase.org"
+
+#: config/documents/cookie-policy-eu.php:42
+#: config/documents/cookie-policy-ca.php:35
+msgctxt "Legal document cookie policy:paragraph title"
+msgid "Manage your consent settings"
+msgstr "Verwalten Sie Ihre Zustimmungseinstellungen "
+
+#: config/questions-wizard.php:109
+msgid "Complianz will generate the impressum based on the answers in the wizard, but you can also create your own, custom document."
+msgstr "Complianz generiert das Impressum basierend auf den Antworten im Assistenten. Du kannst jedoch auch ein eigenes, benutzerdefiniertes Dokument erstellen."
+
+#: config/questions-wizard.php:50
+msgid "If you want to dynamically apply privacy laws based on the visitor's location, consider upgrading to the %spremium version%s, which allows you to apply a privacy law specific for that region.."
+msgstr "Wenn du Datenschutzgesetze basierend auf dem Standort des Besuchers dynamisch anwenden möchtest, solltest du ein Upgrade auf die %sPremium-Version%s in Betracht ziehen, mit der du ein für diese Region spezifisches Datenschutzgesetz anwenden kannst."
+
+#: config/questions-wizard.php:107
+msgid "impressum"
+msgstr "Impressum"
+
+#: config/questions-wizard.php:44
+msgid "Which privacy law or guideline do you want to use as the default for your worldwide visitors?"
+msgstr "Welches Datenschutzgesetz oder welche Datenschutzrichtlinie möchtest du als Standard für deine weltweiten Besucher verwenden?"
+
+#: config/questions-wizard.php:42
+msgid "PIPEDA (Canada)"
+msgstr "PIPEDA (Kanada)"
+
+#: config/questions-wizard.php:41
+msgid "CCPA / United States"
+msgstr "CCPA / Vereinigte Staaten von Amerika"
+
+#: config/questions-wizard.php:39
+msgid "UK-GDPR, PECR, Data Protection Act (United Kingdom)"
+msgstr "UK-GDPR, PECR, Data Protection Act (Vereinigtes Königreich)"
+
+#: config/questions-wizard.php:37
+msgid "GDPR (European Union)"
+msgstr "DSGVO (Europäische Union)"
+
+#: config/steps.php:32 cookiebanner/class-cookiebanner.php:1311
+msgid "Impressum"
+msgstr "Impressum"
+
+#: config/steps.php:21
+msgctxt "intro company info"
+msgid "Here you can select the documents for your website"
+msgstr "Hier kannst du die Dokumente für deine Website auswählen"
+
+#: config/steps.php:13
+msgctxt "intro first step"
+msgid "Welcome to the Wizard."
+msgstr "Willkommen beim Assistenten."
+
+#: callback-notices.php:299
+msgid "The link to the privacy policy is used in your cookie policy."
+msgstr "Der Link zur Datenschutzrichtlinie wird in deiner Cookie-Richtlinie verwendet."
+
+#: callback-notices.php:297
+msgid "The link to the privacy policy is used in the cookie banner and in your cookie policy."
+msgstr "Der Link zur Datenschutzrichtlinie wird im Cookie-Banner und in deiner Cookie-Richtlinie verwendet."
+
+#: callback-notices.php:297 callback-notices.php:299
+msgid "It is recommended to select a privacy policy."
+msgstr "Es wird empfohlen, eine Datenschutzrichtlinie auszuwählen."
+
+#: class-field.php:976
+msgid "None selected"
+msgstr "Nichts ausgewählt"
+
+#: class-field.php:969
+msgid "No document"
+msgstr "Kein Dokument"
+
+#: class-field.php:954
+msgid "Custom URL"
+msgstr "Benutzerdefinierte URL"
+
+#: class-field.php:940
+msgid "Link to custom page"
+msgstr "Link zur benutzerdefinierten Seite"
+
+#: class-field.php:924
+msgid "Generate a comprehensive and legally validated %s with %spremium%s"
+msgstr "Erstelle eine umfassende und rechtlich validierte %s mit %sPremium%s"
+
+#: class-field.php:922
+msgid "Generated by Complianz"
+msgstr "Von Complianz erstellt"
+
+#: class-field.php:905
+msgid "Select how you want to add your %s."
+msgstr "Wähle aus, wie du deine %s hinzufügen möchtest."
+
+#: config/general-settings.php:155
+msgid "Enable cookie blocker for ajax loaded content"
+msgstr "Cookie-Blocker für durch Ajax geladene Inhalte aktivieren"
+
+#: config/steps.php:103
+msgid "Link to menu"
+msgstr "Link zum Menü"
+
+#: config/steps.php:100
+msgid "Create documents"
+msgstr "Dokumente erstellen"
+
+#: config/steps.php:96
+msgctxt "intro menu"
+msgid "Generate your documents, then you can add them to your menu directly or do it manually after the wizard is finished."
+msgstr "Generiere deine Dokumente und füge sie direkt oder manuell nach Abschluss des Assistenten zu deinem Menü hinzu."
+
+#: class-document.php:1629
+msgid "You haven't created all required pages yet. You can add missing pages in the previous step, or create them manually with the shortcode. You can come back later to this step to add your pages to the desired menu, or do it manually via Appearance > Menu."
+msgstr "Du hast noch nicht alle erforderlichen Seiten erstellt. Du kannst die fehlenden Seiten im vorherigen Schritt hinzufügen oder sie manuell mit dem Shortcode erstellen. Du kannst später zu diesem Schritt zurückkehren, um deine Seiten zum gewünschten Menü hinzuzufügen, oder manuell über Darstellung> Menü."
+
+#: class-document.php:1584
+msgid "Update pages"
+msgstr "Seiten aktualisieren"
+
+#: class-document.php:1582
+msgid "Create missing pages"
+msgstr "Erstelle die fehlenden Seiten"
+
+#: class-document.php:1537
+msgid "You haven't selected any legal documents to create. You can skip this step"
+msgstr "Du hast keine rechtlichen Dokumente zum Erstellen ausgewählt. Du kannst diesen Schritt überspringen"
+
+#: class-document.php:1532
+msgid "All necessary pages have been created already. You can update the page titles here if you want, then click the \"Update pages\" button."
+msgstr "Alle notwendigen Seiten wurden bereits erstellt. Du kannst die Seitentitel hier aktualisieren, wenn du möchtest, und dann auf die Schaltfläche \"Seiten aktualisieren\" klicken."
+
+#: class-document.php:1530
+msgid "The pages marked with X should be added to your website. You can create these pages with a shortcode, a Gutenberg block or use the below \"Create missing pages\" button."
+msgstr "Die mit X gekennzeichneten Seiten sollten deiner Website hinzugefügt werden. Du kannst diese Seiten mit einem Shortcode oder einem Gutenberg-Block erstellen oder die folgende Schaltfläche \"Fehlende Seiten erstellen\" verwenden."
+
+#: class-field.php:1731
+msgid "Cookies in %s"
+msgstr "Cookies in %s"
+
+#: class-field.php:1708
+msgid "Show deleted cookies"
+msgstr "Gelöschte Cookies anzeigen"
+
+#: class-document.php:467
+msgid "Region %s not activated for %s."
+msgstr "Region %s ist nicht aktiviert für %s."
+
+#: config/countries.php:331
+msgid "Swedish"
+msgstr "Schwedisch"
+
+#: config/countries.php:330
+msgid "Norwegian"
+msgstr "Norwegisch"
+
+#: config/countries.php:329
+msgid "Dutch"
+msgstr "Niederländisch"
+
+#: config/countries.php:328
+msgid "Italian"
+msgstr "Italienisch"
+
+#: config/countries.php:327
+msgid "French"
+msgstr "Französisch"
+
+#: config/countries.php:326
+msgid "Estonian"
+msgstr "Estländisch"
+
+#: config/countries.php:325
+msgid "Spanish"
+msgstr "Spanisch"
+
+#: config/countries.php:324
+msgid "Greek"
+msgstr "Griechisch"
+
+#: config/countries.php:321
+msgid "English"
+msgstr "Englisch"
+
+#: config/countries.php:322
+msgid "Danish"
+msgstr "Dänisch"
+
+#: config/countries.php:323
+msgid "German"
+msgstr "Deutsch"
+
+#. translators: 1: plugin name(s).
+#: integrations/TGM/required.php:93
+msgid "You have one ore more plugins compatible with the Consent API. To optimize compliancy, Complianz recommends the following plugin: %1$s."
+msgid_plural "Complianz recommends the following plugins: %1$s."
+msgstr[0] "Du hast ein oder mehrere Plugins, die mit der Consent-API kompatibel sind. Um die Konformität zu optimieren, empfiehlt Complianz, das folgende Plugin zu aktivieren: %1$s."
+msgstr[1] "Complianz empfiehlt die folgenden Plugins: %1$s."
+
+#. translators: 1: plugin name(s).
+#: integrations/TGM/required.php:87
+msgid "You have one ore more plugins compatible with the Consent API. To optimize compliancy, Complianz recommends to activate the following plugin: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "Du hast ein oder mehrere Plugins, die mit der Consent-API kompatibel sind. Um die Konformität zu optimieren, empfiehlt Complianz, das folgende Plugin zu aktivieren: %1$s."
+msgstr[1] "Die folgenden empfohlenen Plugins sind derzeit inaktiv: %1$s."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: integrations/TGM/class-tgm-plugin-activation.php:3613
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Installiere Plugin %1$s (%2$d/%3$d)"
+
+#: integrations/TGM/class-tgm-plugin-activation.php:3611
+msgid "All installations have been completed."
+msgstr "Alle Installationen sind abgeschlossen."
+
+#. translators: 1: plugin name.
+#: integrations/TGM/class-tgm-plugin-activation.php:3610
+msgid "%1$s installed successfully."
+msgstr "%1$s erfolgreich installiert."
+
+#: integrations/TGM/class-tgm-plugin-activation.php:3608
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Die Installation hat begonnen. Dieser Prozess kann einige Zeit in Anspruch nehmen, bitte habe einen Moment Geduld."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: integrations/TGM/class-tgm-plugin-activation.php:3605
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Installieren und Aktivieren von Plugin %1$s (%2$d/%3$d)"
+
+#: integrations/TGM/class-tgm-plugin-activation.php:3603
+msgid "All installations and activations have been completed."
+msgstr "Alle Installationen und Aktivierungen sind erfolgreich abgeschlossen."
+
+#. translators: 1: plugin name.
+#: integrations/TGM/class-tgm-plugin-activation.php:3602
+#: integrations/TGM/class-tgm-plugin-activation.php:3610
+msgid "Hide Details"
+msgstr "Details ausblenden"
+
+#. translators: 1: plugin name.
+#: integrations/TGM/class-tgm-plugin-activation.php:3602
+#: integrations/TGM/class-tgm-plugin-activation.php:3610
+msgid "Show Details"
+msgstr "Zeige Details"
+
+#. translators: 1: plugin name.
+#: integrations/TGM/class-tgm-plugin-activation.php:3602
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s erfolgreich installiert und aktiviert."
+
+#: integrations/TGM/class-tgm-plugin-activation.php:3600
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Die Installation und Aktivierung hat begonnen. Dieser Prozess kann einige Zeit in Anspruch nehmen, bitte habe einen Moment Geduld."
+
+#. translators: 1: plugin name.
+#: integrations/TGM/class-tgm-plugin-activation.php:3596
+msgid "The installation of %1$s failed."
+msgstr "Die Installation von %1$s ist fehlgeschlagen."
+
+#. translators: 1: plugin name, 2: error message.
+#: integrations/TGM/class-tgm-plugin-activation.php:3594
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Ein Fehler beim Installieren von %1$s ist aufgetreten: <strong>%2$s</strong>."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: integrations/TGM/class-tgm-plugin-activation.php:3591
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Aktualisiere Plugin %1$s (%2$d/%3$d)"
+
+#: integrations/TGM/class-tgm-plugin-activation.php:3251
+msgid "Plugin activation failed."
+msgstr "Aktivieren des Plugins fehlgeschlagen."
+
+#: integrations/TGM/class-tgm-plugin-activation.php:3027
+msgid "No plugins are available to be activated at this time."
+msgstr "Zurzeit sind keine Plugins zur Aktivierung verfügbar."
+
+#: integrations/TGM/class-tgm-plugin-activation.php:3001
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Es wurden keine Plugins zur Aktivierung ausgewählt. Nichts wurde verändert."
+
+#: integrations/TGM/class-tgm-plugin-activation.php:2895
+msgid "No plugins are available to be updated at this time."
+msgstr "Zurzeit sind keine Plugins zur Aktualisierung verfügbar."
+
+#: integrations/TGM/class-tgm-plugin-activation.php:2893
+msgid "No plugins are available to be installed at this time."
+msgstr "Zurzeit sind keine Plugins zur Installation verfügbar."
+
+#: integrations/TGM/class-tgm-plugin-activation.php:2852
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Es wurden keine Plugins zur Aktualisierung ausgewählt. Nichts wurde verändert."
+
+#: integrations/TGM/class-tgm-plugin-activation.php:2850
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Es wurden keine Plugins zur Installation ausgewählt. Nichts wurde verändert."
+
+#: integrations/TGM/class-tgm-plugin-activation.php:2819
+msgid "Activate"
+msgstr "Aktivieren"
+
+#: integrations/TGM/class-tgm-plugin-activation.php:2816
+msgid "Update"
+msgstr "Aktualisieren"
+
+#: integrations/TGM/class-tgm-plugin-activation.php:2810
+msgid "Install"
+msgstr "Installieren"
+
+#: integrations/TGM/class-tgm-plugin-activation.php:2777
+msgid "Upgrade message from the plugin author:"
+msgstr "Upgrade-Nachricht des Plugin-Autors:"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: integrations/TGM/class-tgm-plugin-activation.php:2707
+msgid "Activate %2$s"
+msgstr "Aktiviere %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: integrations/TGM/class-tgm-plugin-activation.php:2701
+msgid "Update %2$s"
+msgstr "Aktualisiere %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: integrations/TGM/class-tgm-plugin-activation.php:2696
+msgid "Install %2$s"
+msgstr "Installiere %2$s"
+
+#: integrations/TGM/class-tgm-plugin-activation.php:2647
+msgid "Status"
+msgstr "Status"
+
+#: integrations/TGM/class-tgm-plugin-activation.php:2646
+msgid "Version"
+msgstr "Version"
+
+#: integrations/TGM/class-tgm-plugin-activation.php:2642
+msgid "Type"
+msgstr "Typ"
+
+#: integrations/TGM/class-tgm-plugin-activation.php:2641
+msgid "Source"
+msgstr "Quelle"
+
+#: integrations/TGM/class-tgm-plugin-activation.php:2640
+msgid "Plugin"
+msgstr "Plugin"
+
+#: integrations/TGM/class-tgm-plugin-activation.php:2626
+msgid "No plugins to install, update or activate."
+msgstr "Keine Plugins zu installieren, aktualisieren oder aktivieren."
+
+#: integrations/TGM/class-tgm-plugin-activation.php:2603
+msgid "Available version:"
+msgstr "Verfügbarer Versionstand:"
+
+#: integrations/TGM/class-tgm-plugin-activation.php:2591
+msgid "Minimum required version:"
+msgstr "Erforderlicher Versionsstand:"
+
+#: integrations/TGM/class-tgm-plugin-activation.php:2583
+msgid "Installed version:"
+msgstr "Installierte Version:"
+
+#: integrations/TGM/class-tgm-plugin-activation.php:2575
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "unbekannt"
+
+#. translators: 1: number of plugins.
+#: integrations/TGM/class-tgm-plugin-activation.php:2493
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "<span class=\"count\">(%s)</span> zu aktivieren"
+msgstr[1] "<span class=\"count\">(%s)</span> zu aktivieren"
+
+#. translators: 1: number of plugins.
+#: integrations/TGM/class-tgm-plugin-activation.php:2489
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "<span class=\"count\">(%s)</span> Aktualisierung verfügbar"
+msgstr[1] "<span class=\"count\">(%s)</span> Aktualisierungen verfügbar"
+
+#. translators: 1: number of plugins.
+#: integrations/TGM/class-tgm-plugin-activation.php:2485
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "<span class=\"count\">(%s)</span> zu installieren"
+msgstr[1] "<span class=\"count\">(%s)</span> zu installieren"
+
+#. translators: 1: number of plugins.
+#: integrations/TGM/class-tgm-plugin-activation.php:2481
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Alle <span class=\"count\">(%s)</span>"
+msgstr[1] "Alle <span class=\"count\">(%s)</span>"
+
+#. translators: 1: install status, 2: update status
+#: integrations/TGM/class-tgm-plugin-activation.php:2435
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: integrations/TGM/class-tgm-plugin-activation.php:2426
+msgid "Update recommended"
+msgstr "Aktualisierung empfohlen"
+
+#: integrations/TGM/class-tgm-plugin-activation.php:2423
+msgid "Requires Update"
+msgstr "Aktualisierung erforderlich"
+
+#: integrations/TGM/class-tgm-plugin-activation.php:2420
+msgid "Required Update not Available"
+msgstr "Erforderliche Aktualisierung ist nicht verfügbar"
+
+#: integrations/TGM/class-tgm-plugin-activation.php:2414
+msgid "Active"
+msgstr "Aktviviert"
+
+#: integrations/TGM/class-tgm-plugin-activation.php:2412
+msgid "Installed But Not Activated"
+msgstr "Installiert, aber nicht aktiviert"
+
+#: integrations/TGM/class-tgm-plugin-activation.php:2408
+msgid "Not Installed"
+msgstr "Nicht installiert"
+
+#: integrations/TGM/class-tgm-plugin-activation.php:2391
+msgid "Pre-Packaged"
+msgstr "Gepackt"
+
+#: integrations/TGM/class-tgm-plugin-activation.php:2388
+msgid "External Source"
+msgstr "Externe Quelle"
+
+#: integrations/TGM/class-tgm-plugin-activation.php:2385
+msgid "WordPress Repository"
+msgstr "WordPress Repository"
+
+#: integrations/TGM/class-tgm-plugin-activation.php:2369
+msgid "Recommended"
+msgstr "Empfohlen"
+
+#: integrations/TGM/class-tgm-plugin-activation.php:2366
+msgid "Required"
+msgstr "Erforderlich"
+
+#. translators: %s: version number
+#: integrations/TGM/class-tgm-plugin-activation.php:2075
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: integrations/TGM/class-tgm-plugin-activation.php:1214
+#: integrations/TGM/class-tgm-plugin-activation.php:3041
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "und"
+
+#: integrations/TGM/class-tgm-plugin-activation.php:1030
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "Das externe Plugin-Paket besteht aus mehr als einer Datei, aber die Dateien sind nicht in einem Ordner verpackt."
+
+#: integrations/TGM/class-tgm-plugin-activation.php:1027
+#: integrations/TGM/class-tgm-plugin-activation.php:1030
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Bitte kontaktiere den Plugin-Anbieter und bitte ihn, seine Plugins nach den WordPress-Richtlinien zu verpacken."
+
+#: integrations/TGM/class-tgm-plugin-activation.php:1027
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "Das externe Plugin-Paket enthält keine Ordner mit der gewünschten Benennung (slug) und Umbenennung hat nicht funktioniert."
+
+#: integrations/TGM/class-tgm-plugin-activation.php:725
+msgid "Set the parent_slug config variable instead."
+msgstr "Setze die parent_slug Variable stattdessen."
+
+#: integrations/TGM/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr "Aktualisierung erforderlich"
+
+#: integrations/TGM/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Dieses Plugin muss aktualisiert werden, mit deinem Theme kompatibel zu sein."
+
+#: integrations/TGM/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr "Bitte wende dich sich an den Administrator dieser Seite um Hilfe zu erhalten."
+
+#: integrations/TGM/class-tgm-plugin-activation.php:403
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "Es sind ein oder mehrere erforderliche oder empfohlene Plugins zum installieren, aktualisieren oder aktivieren verfügbar."
+
+#: integrations/TGM/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr "Benachrichtigung verwerfen"
+
+#. translators: 1: dashboard link.
+#: integrations/TGM/class-tgm-plugin-activation.php:401
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Alle Plugins wurden erfolgreich installiert und aktiviert. %1$s"
+
+#. translators: 1: plugin name.
+#: integrations/TGM/class-tgm-plugin-activation.php:399
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "Plugin wurde nicht aktiviert. Es ist eine spätere Version von %s erforderlich für dieses Theme. Bitte aktualisiere das Plugin."
+
+#. translators: 1: plugin name.
+#: integrations/TGM/class-tgm-plugin-activation.php:397
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Nichts wurde verändert. Plugin %1$s war bereits aktiviert."
+
+#: integrations/TGM/class-tgm-plugin-activation.php:395
+#: integrations/TGM/class-tgm-plugin-activation.php:3045
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "Das folgende Plugin wurde erfolgreich aktiviert:"
+msgstr[1] "Die folgenden Plugins wurden erfolgreich aktiviert:"
+
+#: integrations/TGM/class-tgm-plugin-activation.php:394
+#: integrations/TGM/class-tgm-plugin-activation.php:3252
+msgid "Plugin activated successfully."
+msgstr "Plugin wurde erfolgreich aktiviert"
+
+#: integrations/TGM/class-tgm-plugin-activation.php:393
+#: integrations/TGM/class-tgm-plugin-activation.php:920
+#: integrations/TGM/class-tgm-plugin-activation.php:2626
+#: integrations/TGM/class-tgm-plugin-activation.php:3673
+msgid "Return to the Dashboard"
+msgstr "Zum Dashboard zurückkehren"
+
+#: integrations/TGM/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr "Zum Installer für erforderliche Plugins zurückkehren"
+
+#: integrations/TGM/class-tgm-plugin-activation.php:387
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Beginne Aktivieren des Plugins"
+msgstr[1] "Beginne Aktivieren der Plugins"
+
+#: integrations/TGM/class-tgm-plugin-activation.php:382
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Beginne Aktualisieren des Plugins"
+msgstr[1] "Beginne Aktualisieren der Plugins"
+
+#: integrations/TGM/class-tgm-plugin-activation.php:377
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Beginne Installieren des Plugins"
+msgstr[1] "Beginne Installieren der Plugins"
+
+#. translators: 1: plugin name(s).
+#: integrations/TGM/class-tgm-plugin-activation.php:371
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "Das folgende empfohlene Plugin ist derzeit deaktiviert: %1$s."
+msgstr[1] "Die folgenden empfohlenen Plugins sind derzeit deaktiviert: %1$s."
+
+#. translators: 1: plugin name(s).
+#: integrations/TGM/class-tgm-plugin-activation.php:365
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Das folgende erforderliche Plugin ist derzeit deaktiviert: %1$s."
+msgstr[1] "Die folgenden erforderlichen Plugins sind derzeit deaktiviert: %1$s."
+
+#. translators: 1: plugin name(s).
+#: integrations/TGM/class-tgm-plugin-activation.php:359
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Es ist ein Update verfügbar für: %1$s."
+msgstr[1] "Es sind ein Updates verfügbar für: %1$s."
+
+#. translators: 1: plugin name(s).
+#: integrations/TGM/class-tgm-plugin-activation.php:353
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "Das folgende Plugin muss auf die neueste Version aktualisiert werden, um maximale Kompatibilität mit diesem Theme sicherzustellen: %1$s."
+msgstr[1] "Die folgenden Plugins müssen auf die neueste Version aktualisiert werden, um maximale Kompatibilität mit diesem Theme sicherzustellen: %1$s."
+
+#. translators: 1: plugin name(s).
+#: integrations/TGM/class-tgm-plugin-activation.php:347
+msgid "This plugin recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Dieses Plugin empfiehlt das folgende Plugin: %1$s."
+msgstr[1] "Dieses Theme empfiehlt das folgende Plugin: %1$s."
+
+#. translators: 1: plugin name(s).
+#: integrations/TGM/class-tgm-plugin-activation.php:341
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Dieses Theme erfordert folgendes Plugin: %1$s."
+msgstr[1] "Dieses Theme erfordert folgende Plugins: %1$s."
+
+#: integrations/TGM/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr "Etwas mit der Plugin-API schlug fehl."
+
+#. translators: %s: plugin name.
+#: integrations/TGM/class-tgm-plugin-activation.php:339
+msgid "Updating Plugin: %s"
+msgstr "Aktualisiere Plugin: %s"
+
+#. translators: %s: plugin name.
+#: integrations/TGM/class-tgm-plugin-activation.php:337
+msgid "Installing Plugin: %s"
+msgstr "Installiere Plugin: %s"
+
+#: integrations/TGM/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr "Installiere Plugins"
+
+#: integrations/TGM/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr "Erforderliche Plugins installieren"
+
+#: config/cookie-settings.php:157
+msgid "Preferences cookies text"
+msgstr "Einstellungen für den Cookies Text"
+
+#: config/cookie-settings.php:156 cookiebanner/settings.php:636
+msgid "Preferences"
+msgstr "Vorlieben"
+
+#: config/purpose.php:64
+msgid "Audio, electronic, visual, thermal, olfactory, or similar information"
+msgstr "Audio-, elektronische, visuelle, thermische, olfaktorische oder ähnliche Informationen"
+
+#: functions.php:1914
+msgid "Opt-in settings (consent for statistics)"
+msgstr "Opt-In-Einstellungen (Zustimmung zur Statistik)"
+
+#: shepherd/tour.php:153
+msgid "End tour"
+msgstr "Einleitung beenden"
+
+#: shepherd/tour.php:152
+msgid "Start tour"
+msgstr "Einleitung starten"
+
+#: shepherd/tour.php:150
+msgid "Configure"
+msgstr "Konfigurieren"
+
+#: shepherd/tour.php:136
+msgid "You are ready to start the Wizard. For more information, FAQ, and support, please visit Complianz.io."
+msgstr "Du bist bereit, den Assistenten zu starten. Für weitere Informationen, FAQ und Support, bitte besuche Complianz.io."
+
+#: shepherd/tour.php:134
+msgid "Let's start the Wizard"
+msgstr "Lass uns den Assistenten starten"
+
+#: shepherd/tour.php:128
+msgid "Complianz tracks changes in your Cookie Notice and Cookie Policy with time-stamped documents. This is your consent registration while respecting the data minimization guidelines and won't store any user data."
+msgstr "Complianz verfolgt Änderungen in deinen Cookie-Hinweisen und Cookie-Richtlinien mit zeitgestempelten Dokumenten. Dies ist deine Einverständniserklärung unter Beachtung der Richtlinien zur Datenminimierung und speichert keine Benutzerdaten."
+
+#: shepherd/tour.php:121
+msgid "Adding Document CSS, disabling certain features, and other settings can be found here. You can also revisit the tour here."
+msgstr "Hier kannst du die Dokument-CSS hinzufügen, bestimmte Funktionen deaktivieren und andere Einstellungen vornehmen. Du kannst die Einführung auch hier erneut ansehen."
+
+#: shepherd/tour.php:114
+msgid "Based on your answers in the Wizard, we will automatically enable integrations with relevant services and plugins. In case you want to block extra scripts, you can add them to the Script Center."
+msgstr "Basierend auf deinen Antworten im Assistenten, werden wir automatisch Integrationen mit relevanten Diensten und Plugins aktivieren. Wenn du zusätzliche Skripte blockieren möchtest, kannst du diese zum Skriptcenter hinzufügen."
+
+#: shepherd/tour.php:106
+msgid "Here you can configure and style your cookie banner if the Wizard is completed. An extra tab will be added with region-specific settings."
+msgstr "Hier kannst du dein Cookie-Banner konfigurieren und gestalten, wenn der Assistent abgeschlossen ist. Eine zusätzliche Registerkarte mit regionenspezifischen Einstellungen wird hinzugefügt."
+
+#: shepherd/tour.php:105
+msgid "Cookie Banner"
+msgstr "Cookie-Banner"
+
+#: shepherd/tour.php:96
+msgid "This is where you configure your website for your specific region. It includes everything you need to get started. We will come back to the Wizard soon."
+msgstr "Hier konfigurierst du deine Website für deine Region. Es enthält alles, was du brauchst, um loszulegen. Wir werden bald zum Assistenten zurückkommen."
+
+#: shepherd/tour.php:95
+msgid "The Wizard"
+msgstr "Der Assistent"
+
+#: shepherd/tour.php:86
+msgid "This is your Dashboard. When the Wizard is completed, this will give you an overview of tasks, tools, and documentation."
+msgstr "Dies ist dein Dashboard. Nach Abschluss des Assistenten erhältst du einen Überblick über Aufgaben, Tools und Dokumentation."
+
+#: shepherd/tour.php:79
+msgid "Get ready for privacy legislation around the world. Follow a quick tour or start configuring the plugin!"
+msgstr "Mache dich bereit für Datenschutzgesetze auf der ganzen Welt. Folge einer kurzen Einweisung oder beginne mit der Konfiguration des Plugins!"
+
+#: shepherd/tour.php:78
+msgid "Welcome to Complianz"
+msgstr "Willkommen bei Complianz"
+
+#: config/general-settings.php:238
+msgid "Restart tour"
+msgstr "Einleitung wiederholen"
+
+#: config/general-settings.php:143
+msgid "Disable all plus ones and warnings on your dashboard."
+msgstr "Deaktiviere alle Pluszeichen und Warnungen in deinem Dashboard."
+
+#: config/general-settings.php:142
+msgid "Disable notifications"
+msgstr "Benachrichtigungen deaktivieren"
+
+#: config/countries.php:46
+msgid "PIPEDA"
+msgstr "PIPEDA"
+
+#: config/countries.php:44
+msgid "CA"
+msgstr "CA"
+
+#: config/documents/cookie-policy-ca.php:140
+msgctxt "Legal document cookie policy"
+msgid "To exercise these rights, please contact us. Please refer to the contact details at the bottom of this cookie statement. If you have a complaint about how we handle your data, we would like to hear from you."
+msgstr "Um diese Rechte auszuüben kontaktiere uns bitte. Bitte beziehe dich auf die Kontaktdaten am Ende dieser Cookie-Erklärung. Wenn du eine Beschwerde darüber hast, wie wir ihre Daten behandeln würden wir diese gerne hören."
+
+#: config/documents/cookie-policy-ca.php:138
+msgctxt "Legal document cookie policy"
+msgid "You have the right to address a challenge concerning non-compliance with PIPEDA to our organization and, if the issue is not resolved, to the Office of the Privacy Commissioner of Canada."
+msgstr "Du hast das Recht, eine Klage wegen Nichteinhaltung von PIPEDA an unsere Organisation und falls das Problem nicht gelöst wird, an das Büro des kanadischen Datenschutzbeauftragten zu richten."
+
+#: config/documents/cookie-policy-ca.php:137
+msgctxt "Legal document cookie policy"
+msgid "You have the right to withdraw consent at any time, subject to legal or contractual restrictions and reasonable notice. You will be informed of the implications of such withdrawal."
+msgstr "Du hast das Recht, die Einwilligung jederzeit vorbehaltlich rechtlicher oder vertraglicher Beschränkungen und einer angemessenen Kündigungsfrist zu widerrufen. Du wirst über die Auswirkungen eines solchen Rücktritts informiert."
+
+#: config/documents/cookie-policy-ca.php:136
+msgctxt "Legal document cookie policy"
+msgid "you may request correction or deletion of the data if it is incorrect or not or no longer relevant. Where appropriate, the amended information shall be transmitted to third parties having access to the information in question."
+msgstr "du kannst die Berichtigung oder Löschung der Daten verlangen, wenn diese unrichtig oder nicht mehr relevant sind. Gegebenenfalls werden die geänderten Informationen an Dritte weitergegeben, die Zugang zu den betreffenden Informationen haben."
+
+#: config/documents/cookie-policy-ca.php:135
+msgctxt "Legal document cookie policy"
+msgid "you may request an overview, in a commonly used format, of the data we process about you;"
+msgstr "du kannst die Berichtigung oder Löschung der Daten verlangen, wenn diese unrichtig oder nicht mehr relevant sind. Gegebenenfalls werden die geänderten Informationen an Dritte weitergegeben, die Zugang zu den betreffenden Informationen haben."
+
+#: config/documents/cookie-policy-ca.php:134
+msgctxt "Legal document cookie policy"
+msgid "you may object to the processing;"
+msgstr "du kannst der Bearbeitung widersprechen;"
+
+#: config/documents/cookie-policy-ca.php:133
+msgctxt "Legal document cookie policy"
+msgid "you may submit a request for access to the data we process about you;"
+msgstr "du kannst einen Antrag auf Zugang zu den Daten stellen, die wir über dich verarbeiten;"
+
+#: config/documents/cookie-policy-ca.php:115
+msgctxt "Legal document cookie policy"
+msgid "Please read the privacy statement of these social networks (which can change regularly) to read what they do with your (personal) data which they process using these cookies. The data that is retrieved is anonymized as much as possible."
+msgstr "Bitte lies die Datenschutzerklärung dieser sozialen Netzwerke (die sich regelmäßig ändern kann), um zu erfahren, wie sie mit deinen (persönlichen) Daten umgehen, die sie mithilfe dieser Cookies verarbeiten. Die abgerufenen Daten werden so weit wie möglich anonymisiert."
+
+#: config/documents/cookie-policy-ca.php:89
+msgctxt "Legal document cookie policy"
+msgid "You can object to the tracking by these cookies by clicking the \"Revoke cookie consent\" button."
+msgstr "Du kannst der Verfolgung durch diese Cookies widersprechen, indem du auf die Schaltfläche \"Cookie-Einwilligung widerrufen\" klickst."
+
+#: config/documents/cookie-policy-ca.php:52
+msgctxt "Legal document cookie policy"
+msgid "Some cookies ensure that certain parts of the website work properly and that your user preferences remain known. By placing functional cookies, we make it easier for you to visit our website. This way, you do not need to repeatedly enter the same information when visiting our website and, for example, the items remain in your shopping cart until you have paid."
+msgstr "Einige Cookies stellen sicher, dass bestimmte Teile der Website ordnungsgemäß funktionieren und deine Benutzereinstellungen weiterhin bekannt sind. Durch das Setzen von funktionalen Cookies erleichtern wir dir den Besuch unserer Website. Auf diese Weise musst du beim Besuch unserer Website nicht wiederholt dieselben Informationen eingeben und z.B. verbleiben die Artikel in deinem Warenkorb, bis du bezahlst."
+
+#: config/documents/cookie-policy-ca.php:40
+msgctxt "Legal document cookie policy:paragraph title"
+msgid "You can also disable the use of cookies via your browser, but please note that our website may no longer work properly."
+msgstr "Du kannst die Verwendung von Cookies auch über deinen Browser deaktivieren. Beachte jedoch, dass unsere Website möglicherweise nicht mehr ordnungsgemäß funktioniert."
+
+#: config/documents/cookie-policy-ca.php:32
+msgctxt "Legal document cookie policy"
+msgid "When you visit our website for the first time, we will show you a pop-up with an explanation about cookies. You do have the right to opt-out and to object against the further use of non-functional cookies."
+msgstr "Wenn du unsere Website zum ersten Mal besuchst, wird dir ein Pop-Up mit einer Erklärung zu Cookies angezeigt. Du hast das Recht, dich gegen die weitere Verwendung von nicht funktionsfähigen Cookies zu entscheiden und diesen zu widersprechen."
+
+#: config/documents/cookie-policy-ca.php:10
+msgctxt "Legal document cookie policy"
+msgid "This page was last changed on %s, last checked on %s and applies to citizens of Canada."
+msgstr "Diese Seite wurde zuletzt am %s geändert, zuletzt am %s überprüft und gilt für die Bürgerinnen und Bürger Kanadas."
+
+#: config/documents/documents.php:41
+msgid "Cookie policy (CA)"
+msgstr "Cookie-Richtlinie (CA)"
+
+#: config/cookie-settings.php:376 cookiebanner/settings.php:810
+msgid "This text is not shown in the preview, but is used instead of the Cookie Policy text when the region is US, and CCPA applies."
+msgstr "Dieser Text wird nicht in der Vorschau angezeigt, sondern wird anstelle des Cookie-Richtlinien-Textes verwendet, wenn die Region die USA ist und der CCPA zur Anwendung kommt."
+
+#: config/cookie-settings.php:361 cookiebanner/settings.php:795
+msgid "Text on link to the Cookie Policy"
+msgstr "Text zum Link auf die Cookie-Richtlinie"
+
+#: integrations/integrations-menu.php:204
+msgid "plugins"
+msgstr "Plugins"
+
+#: integrations/integrations-menu.php:109
+#: integrations/integrations-menu.php:218
+msgid "Placeholder active"
+msgstr "Platzhalter aktiv"
+
+#: integrations/integrations-menu.php:108
+#: integrations/integrations-menu.php:217
+msgid "Connected"
+msgstr "Verbunden"
+
+#: functions.php:441
+msgid "All regions"
+msgstr "Alle Regionen"
+
+#: callback-notices.php:310
+msgid "You have selected options that indicate your site processes sensitive, personal data. You should select 'Yes'"
+msgstr "Du hast  Optionen ausgewählt, dass deine Site sensible, persönliche Daten verarbeitet. Du solltest \"Ja\" wählen"
+
+#: callback-notices.php:129
+msgid "You can disable placeholders per service/plugin on the %sintegrations settings page%s"
+msgstr "Du kannst Platzhalter mittels Dienst/Plugin in den %sEinbindungen->Dienstleistungen%s deaktivieren."
+
+#: callback-notices.php:126 integrations/integrations-menu.php:96
+msgid "services"
+msgstr "Dienste"
+
+#: callback-notices.php:125 integrations/integrations-menu.php:94
+#: integrations/integrations-menu.php:203
+msgid "Enabled %s will be blocked on the front-end of your website until the user has given consent (opt-in), or after the user has revoked consent (opt-out). When possible a placeholder is activated. You can also disable or configure the placeholder to your liking."
+msgstr "Aktivierte %s werden im Front-End deiner Website blockiert, bis der Benutzer seine Zustimmung erteilt hat (Opt-In) oder nachdem der Benutzer die Zustimmung widerrufen hat (Opt-Out). Wenn möglich, wird ein Platzhalter aktiviert. Du kannst den Platzhalter auch nach deinen Wünschen deaktivieren oder konfigurieren."
+
+#: integrations/plugins/google-tagmanager-for-wordpress.php:148
+msgid "You have selected you do not share data with third party networks. Remarketing is now disabled in %s."
+msgstr "Du hast ausgewählt, dass du keine Daten für Netzwerke von Drittanbietern freigibst. Remarketing ist jetzt in %s deaktiviert."
+
+#: integrations/plugins/google-tagmanager-for-wordpress.php:53
+msgid "You use %s, which means the answer to this question should be Google Tag Manager."
+msgstr "Du verwendest %s. Dies bedeutet, dass die Antwort auf diese Frage Google Tag Manager sein sollte."
+
+#: integrations/plugins/contact-form-7.php:38
+msgid "Click to accept marketing cookies and enable this form"
+msgstr "Bitte hier klicken, um die Marketing-Cookies zu akzeptieren und dieses Formular zu aktivieren"
+
+#: cookie/class-cookie-admin.php:1551
+msgid "Proof of consent generation failed. Check your write permissions in the uploads directory"
+msgstr "Einverständniserklärung fehlgeschlagen. Überprüfen bitte deine Schreibrechte im Upload-Verzeichnis"
+
+#: cookie/class-cookie-admin.php:577
+msgid "View service on cookiedatabase.org"
+msgstr "Dienste auf cookiedatabase.org anzeigen"
+
+#: cookie/class-cookie-admin.php:366
+msgid "View cookie on cookiedatabase.org"
+msgstr "Cookie auf cookiedatabase.org anzeigen"
+
+#: config/cookie-settings.php:145 config/cookie-settings.php:188
+msgid "Accept marketing cookies text"
+msgstr "Akzeptiere Marketing-Cookies Text"
+
+#: config/questions-wizard.php:506
+msgid "Do you want to hyperlink cookie names so visitors can find more information on Cookiedatabase.org? These links will be added with a nofollow attribute so it won't hurt SEO."
+msgstr "Möchtest du Cookie-Namen per Hyperlink verknüpfen, damit Besucher mehr Informationen auf Cookiedatabase.org finden können? Diese Links werden mit einem Nofollow-Attribut versehen, damit SEO nicht verletzt wird."
+
+#: class-review.php:103
+msgid "Don't show again"
+msgstr "Nicht mehr anzeigen"
+
+#: config/general-settings.php:261
+msgid "Enabling this option will delete all your settings, and the Complianz tables when you deactivate and remove Complianz."
+msgstr "Wenn du diese Option aktivierst, werden alle deine Einstellungen und die Complianz-Tabellen gelöscht, sobald du Complianz deaktivierst und entfernst."
+
+#: config/general-settings.php:258
+msgid "Clear all data from Complianz on uninstall"
+msgstr "Bei der Deinstallation von Complianz alle Daten löschen"
+
+#: config/questions-wizard.php:379
+msgid "Do you want to ask consent for statistics?"
+msgstr "Möchtest du die Einwilligung für die Statistik einholen?"
+
+#: config/questions-wizard.php:65
+msgid "Do you target visitors from Germany and/or Austria?"
+msgstr "Zielst du auf Besucher aus Deutschland und / oder Österreich ab?"
+
+#: config/questions-wizard.php:48
+msgid "The plugin will apply the above-selected region's settings to all visitors worldwide."
+msgstr "Das Plugin wendet die Einstellungen der oben ausgewählten Region auf alle Besucher weltweit an."
+
+#: config/steps.php:42
+msgid "Details per purpose"
+msgstr "Details nach Verwendungszweck"
+
+#: config/cookie-settings.php:472 cookiebanner/settings.php:490
+msgid "Custom CSS for AMP"
+msgstr "Benutzerdefiniertes CSS für AMP"
+
+#: callback-notices.php:55
+msgid "You have configured your statistics tracking privacy-friendly with Google Analytics. Therefore, in most EU countries, asking for consent for placing these particular cookies is generally not required. For some countries, like Germany, asking consent for Google Analytics is always required."
+msgstr "Du hast dein Statistik-Tracking mit Google Analytics datenschutzfreundlich konfiguriert. Daher ist es in den meisten EU-Ländern im Allgemeinen nicht erforderlich, die Zustimmung zum Platzieren dieser speziellen Cookies einzuholen. In einigen Ländern wie Deutschland ist eine Einwilligung für Google Analytics immer erforderlich."
+
+#: integrations/plugins/google-analytics-dashboard-for-wp.php:96
+msgid "You have selected you do not share data with third party networks. Display advertising is now disabled in %s."
+msgstr "You have selected you do not share data with third party networks. Display advertising is now disabled in %s."
+
+#: integrations/plugins/google-analytics-dashboard-for-wp.php:92
+#: integrations/plugins/google-tagmanager-for-wordpress.php:144
+msgid "You have selected you anonymize IP addresses. This setting is now enabled in %s."
+msgstr "Du hast ausgewählt, dass du IP-Adressen anonymisierst. Diese Einstellung ist jetzt in %s aktiviert."
+
+#: config/warnings.php:91
+msgid "You haven't accepted the usage of the cookiedatabase.org API. To automatically complete your cookie descriptions, please choose yes in the integrations step."
+msgstr "Du hast die Verwendung der cookiedatabase.org-API nicht akzeptiert. Um deine Cookie-Beschreibungen automatisch zu vervollständigen, wähle „ Ja” im Integrationsschritt."
+
+#: config/warnings.php:86
+msgid "You have a duplicate implementation of your statistics tool on your site."
+msgstr "Du hast eine doppelte Implementierung deines Statistik-Tools auf deiner Site."
+
+#: config/warnings.php:76
+msgid "Enable the cookiedatabase.org API for automatic descriptions, or add these %smanually%s."
+msgstr "Aktiviere die cookiedatabase.org-API für automatische Beschreibungen, oder fügen diese %smanuell%s hinzu."
+
+#: config/warnings.php:74
+msgid "You have cookies with incomplete descriptions."
+msgstr "Du hast Cookies mit unvollständigen Beschreibungen."
+
+#: config/questions-wizard.php:784
+msgid "URL's from iFrames that should be blocked before consent."
+msgstr "URL's von iFrames, die vor der Einverständnis gesperrt werden sollten."
+
+#: config/questions-wizard.php:767
+msgid "The most common third party cookies are blocked automatically. If you want to block other third party cookies, enter the a unique part of the script source, or unique string from the inline script here, comma separated. For more information on this, please read %sthis%s article"
+msgstr "Die am häufigsten verwendeten Cookies von Drittanbietern werden automatisch blockiert. Wenn du andere Cookies von Drittanbietern blockieren möchtest, gib hier einen eindeutigen Teil der Skriptquelle oder eine eindeutige Zeichenfolge aus dem Inline-Skript ein, die durch Kommas getrennt ist. Weitere Informationen hierzu findest du in %sdiesem%s Artikel"
+
+#: config/questions-wizard.php:765
+msgid "(part of) URL's or unique string from the inline scripts of third-party scripts & plugins that should be blocked before consent."
+msgstr "(Teil von) URL's oder eindeutige Zeichenfolgen aus den Inline-Skripten von Skripten und Plugins von Drittanbietern, die vor der Zustimmung gesperrt werden sollten."
+
+#: config/questions-wizard.php:740
+msgid "Scripts to add services, for example, Facebook Pixel, Hotjar, etcetera."
+msgstr "Skripte zum Hinzufügen von Diensten, z.B. Facebook Pixel, Hotjar usw."
+
+#: config/questions-wizard.php:704
+msgid "Add the services to which your cookies belong here"
+msgstr "Füge hier die Dienste hinzu, zu denen deine Cookies gehören"
+
+#: config/questions-wizard.php:679
+msgid "Cookiedatabase sync"
+msgstr "Cookiedatabase-Sync"
+
+#: config/questions-wizard.php:492
+msgid "Without the API, you will have to manually describe all found cookies, their purpose, function, service and service types"
+msgstr "Ohne die API musst du alle gefundenen Cookies, deren Zweck, Funktion, Dienst und Diensttypen manuell beschreiben"
+
+#: config/questions-wizard.php:490
+msgid "Do you consent to the use of the cookiedatabase.org API?"
+msgstr "Stimmst du der Verwendung der cookiedatabase.org-API zu?"
+
+#: config/questions-wizard.php:216
+msgid "If so, the scan will be extended with the login URL so it can pick up cookies for the login page. "
+msgstr "In diesem Fall wird der Scan um die Anmelde-URL erweitert, sodass Cookies für die Anmeldeseite abgerufen werden können."
+
+#: config/questions-wizard.php:214
+msgid "Do you have users with access to the wp-admin part of your website, the user profile section of a forum, for example?"
+msgstr "Hast du Benutzer mit Zugriff auf den wp-admin-Teil deiner Website, z.B. den Benutzerprofilbereich eines Forums?"
+
+#: config/steps.php:83
+msgctxt "intro used cookies"
+msgid "Below services use cookies on your website to add functionality. You can use cookiedatabase.org to synchronize information or edit the service if needed. Unknown services will be moderated and added by cookiedatabase.org as soon as possible."
+msgstr "Die folgenden Dienste verwenden Cookies auf deiner Website, um Funktionen hinzuzufügen. Du kannst cookiedatabase.org verwenden, um Informationen zu synchronisieren oder den Dienst bei Bedarf zu bearbeiten. Unbekannte Dienste werden von cookiedatabase.org so schnell wie möglich moderiert und hinzugefügt."
+
+#: config/steps.php:82
+msgid "Used services"
+msgstr "verwendete Dienste"
+
+#: config/steps.php:76
+msgctxt "intro used cookies"
+msgid "The cookiedatabase.org community will be asked to add missing cookie information. To know more about cookiedatabase.org and cookie descriptions, please read %sthis article%s."
+msgstr "Die cookiedatabase.org-Community wird gebeten, fehlende Cookie-Informationen hinzuzufügen. Um mehr über cookiedatabase.org und Cookie-Beschreibungen zu erfahren, lese bitte %sdiesen Artikel%s."
+
+#: config/steps.php:74
+msgctxt "intro used cookies"
+msgid "With the automatic cookie scan, most first-party cookies should be detected. These cookies will be synchronized with cookiedatabase.org to get the latest information and complete descriptions. Descriptions are by default synchronized with cookiedatabase.org to keep your cookie policy up-to-date. To manually edit the cookie, either disable synchronization in your dashboard or make a contribution to cookiedatabase.org."
+msgstr "Beim automatischen Cookie-Scan sollten die meisten Erstanbieter-Cookies erkannt werden. Diese Cookies werden mit cookiedatabase.org synchronisiert, um die neuesten Informationen und vollständige Beschreibungen zu erhalten. Beschreibungen werden standardmäßig mit cookiedatabase.org synchronisiert, um deine Cookie-Richtlinie auf dem neuesten Stand zu halten. Deaktiviere zum manuellen Bearbeiten des Cookies entweder die Synchronisierung in deinem Dashboard oder leiste einen Beitrag zu cookiedatabase.org."
+
+#: config/documents/cookie-policy-us.php:215
+#: config/documents/cookie-policy-eu.php:180
+#: config/documents/cookie-policy-uk.php:184
+#: config/documents/cookie-policy-ca.php:163
+msgctxt "Legal document cookie policy"
+msgid "This cookie policy was synchronized with %scookiedatabase.org%s on %s"
+msgstr "Diese Cookie-Richtlinie wurde mit %scookiedatabase.org%s auf %s synchronisiert"
+
+#: callback-notices.php:177
+msgid "Complianz provides your Cookie Policy with comprehensive cookie descriptions, supplied by %scookiedatabase.org%s. We connect to this open-source database using an external API, which sends the results of the cookiescan (a list of found cookies, used plugins and your domain) to cookiedatabase.org, for the sole purpose of providing you with accurate descriptions and keeping them up-to-date at a weekly schedule. For more information, read the %sprivacy statement%s"
+msgstr "Complianz stellt deiner Cookie-Richtlinie umfassende Cookie-Beschreibungen zur Verfügung, die von %scookiedatabase.org%s bereitgestellt werden. Wir stellen eine Verbindung zu dieser Open-Source-Datenbank über eine externe API her, die die Ergebnisse des Cookie-Scans (eine Liste der gefundenen Cookies, der verwendeten Plugins und deiner Domain) an cookiedatabase.org sendet. Um dir genaue Beschreibungen und Informationen zukommen zu lassen werden diese wöchentlich aktualisiert. Weitere Informationen findest du in der %sDatenschutzerklärung%s"
+
+#: callback-notices.php:29
+msgid "Please make sure you remove your current implementation to prevent double statistics tracking."
+msgstr "Stelle bitte sicher, dass du deine aktuelle Implementierung entfernst, um doppelte statistische Verfolgung zu vermeiden."
+
+#: callback-notices.php:10 callback-notices.php:27
+msgid "This field has been pre-filled based on the scan results."
+msgstr "Dieses Feld wurde basierend auf den Scanergebnissen vorab ausgefüllt."
+
+#: cookie/class-cookie-admin.php:3386
+msgid "Your server does not have CURL installed, which is required for the sync. Please contact your hosting company to install CURL."
+msgstr "Auf deinem Server ist CURL nicht installiert, was für die Synchronisierung erforderlich ist. Bitte wende dich an dein Hosting-Unternehmen, um CURL zu installieren."
+
+#: cookie/class-cookie-admin.php:3379
+msgid "Synchronization disabled: This happens when all cookies have synchronized to cookiedatabase.org in the last week."
+msgstr "Synchronisation deaktiviert: Dies passiert, wenn alle Cookies in der letzten Woche mit cookiedatabase.org synchronisiert wurden."
+
+#: cookie/class-cookie-admin.php:3359
+msgid "If you want to clear all cookies from the plugin, you can do so here. You'll need to run a scan again afterwards. If you want to start with a clean slate, you might need to clear your browsercache, to make sure all cookies are removed from your browser as well."
+msgstr "Wenn du alle Cookies aus dem Plugin löschen möchtest, kannst du dies hier tun. Anschließend musst du erneut einen Scan ausführen. Wenn du mit einem sauberen Slate beginnen möchtest, musst du möglicherweise deinen Browsercache löschen, um sicherzustellen, dass auch alle Cookies aus deinem Browser entfernt werden."
+
+#: cookie/class-cookie-admin.php:3352
+msgid "Clear cookies"
+msgstr "Cookies löschen"
+
+#: cookie/class-cookie-admin.php:3350
+msgid "Are you sure? This will permanently delete the list of cookies."
+msgstr "Bist du sicher? Dies wird die Liste der Cookies dauerhaft löschen."
+
+#: cookie/class-cookie-admin.php:3305
+msgid "Your server does not have CURL installed, which is required for the scan. Please contact your hosting company to install CURL."
+msgstr "Auf deinem Server ist CURL nicht installiert, was für den Scan erforderlich ist. Bitte kontaktiere dein Hostingunternehmen, um CURL zu installieren."
+
+#: cookie/class-cookie-admin.php:3007
+msgid "(not synced yet)"
+msgstr "(noch nicht synchronisiert)"
+
+#: cookie/class-cookie-admin.php:2663
+msgid "Purpose pending investigation"
+msgstr "Gegenstand der Untersuchung"
+
+#: cookie/class-cookie-admin.php:979 cookie/class-cookie-admin.php:1235
+msgid "Could not connect to cookiedatabase.org"
+msgstr "Keine Verbindung zu cookiedatabase.org"
+
+#: cookie/class-cookie-admin.php:941 cookie/class-cookie-admin.php:1199
+msgid "A request is already running. Please be patient until the current request finishes"
+msgstr "Eine Anfrage läuft bereits. Bitte warte bis die aktuelle Anfrage abgeschlossen ist."
+
+#: cookie/class-cookie-admin.php:703 cookie/class-cookie-admin.php:882
+msgid "Cookies without selected service"
+msgstr "Cookies ohne ausgewählten Dienst"
+
+#: cookie/class-cookie-admin.php:648
+msgid "Service \"%s\""
+msgstr "Dienst \"%s\""
+
+#: cookie/class-cookie-admin.php:641
+msgid "Synchronization with cookiedatabase.org is not enabled for this service"
+msgstr "Die Synchronisation mit cookiedatabase.org ist für diesen Dienst nicht aktiviert"
+
+#: cookie/class-cookie-admin.php:639
+msgid "This service is not synchronized with cookiedatabase.org"
+msgstr "Dieser Dienst ist nicht mit cookiedatabase.org synchronisiert"
+
+#: cookie/class-cookie-admin.php:637
+msgid "This service has been synchronized with cookiedatabase.org"
+msgstr "Dieser Dienst wurde mit cookiedatabase.org synchronisiert"
+
+#: cookie/class-cookie-admin.php:622
+msgid "This service has missing fields"
+msgstr "Dieser Dienst hat fehlende Felder"
+
+#: cookie/class-cookie-admin.php:620
+msgid "The data for this service is complete"
+msgstr "Die Daten für diesen Dienst sind vollständig"
+
+#: cookie/class-cookie-admin.php:474
+msgid "Cookie \"%s\"%s%s"
+msgstr "Cookie \"%s\"%s%s"
+
+#: cookie/class-cookie-admin.php:472
+msgid "(Logged in users only, will be ignored)"
+msgstr "(Nur eingeloggte Benutzer, werden ignoriert)"
+
+#: cookie/class-cookie-admin.php:466
+msgid "(Administrator cookie, will be ignored)"
+msgstr "(Administrator-Cookie wird ignoriert)"
+
+#: cookie/class-cookie-admin.php:462
+msgid "This cookie has not been found in the scan for three months. Please check if you are still using this cookie"
+msgstr "Dieser Cookie wurde drei Monate lang nicht im Scan gefunden. Bitte überprüfe, ob du diesen Cookie noch verwendest"
+
+#: cookie/class-cookie-admin.php:456
+msgid "This cookie has not been detected on your site in the last three months"
+msgstr "Dieser Cookie wurde in den letzten drei Monaten auf deiner Website nicht erkannt"
+
+#: cookie/class-cookie-admin.php:454
+msgid "This cookie has recently been detected"
+msgstr "Dieser Cookie wurde kürzlich erkannt"
+
+#: cookie/class-cookie-admin.php:445
+msgid "This cookie is not shown on the cookie policy"
+msgstr "Dieser Cookie wird in der Cookie-Richtlinie nicht angezeigt"
+
+#: cookie/class-cookie-admin.php:443
+msgid "This cookie will be on your cookie policy"
+msgstr "Dieser Cookie wird in deine Cookie-Richtlinie aufgenommen"
+
+#: cookie/class-cookie-admin.php:434
+msgid "Synchronization with cookiedatabase.org is not enabled for this cookie"
+msgstr "Die Synchronisation mit cookiedatabase.org ist für diesen Cookie nicht aktiviert"
+
+#: cookie/class-cookie-admin.php:432
+msgid "This cookie is not synchronized with cookiedatabase.org"
+msgstr "Dieser Cookie ist nicht mit cookiedatabase.org synchronisiert"
+
+#: cookie/class-cookie-admin.php:430
+msgid "This cookie has been synchronized with cookiedatabase.org"
+msgstr "Dieser Cookie wurde mit cookiedatabase.org synchronisiert"
+
+#: cookie/class-cookie-admin.php:416
+msgid "This cookie has missing fields"
+msgstr "Dieser Cookie hat fehlende Felder"
+
+#: cookie/class-cookie-admin.php:414
+msgid "The data for this cookie is complete"
+msgstr "Die Daten für dieses Cookie sind vollständig"
+
+#: cookie/class-cookie-admin.php:307
+msgid "No purposes listed"
+msgstr "Keine Zwecke aufgelistet"
+
+#: cookie/class-cookie-admin.php:263
+msgid "Select a purpose"
+msgstr "Wähle einen Zweck"
+
+#: cookie/class-cookie-admin.php:239
+msgid "No service types listed"
+msgstr "Keine Dienst-Typen aufgelistet"
+
+#: cookie/class-cookie-admin.php:194
+msgid "Select a service type"
+msgstr "Wähle einen Dienst-Typ"
+
+#: cookie/class-cookie-admin.php:169
+msgid "No services listed"
+msgstr "Keine Dienste aufgelistet"
+
+#: cookie/class-cookie-admin.php:153
+msgid "Select or add a service"
+msgstr "Wähle einen Dienst aus oder fügen ihn hinzu"
+
+#: cookie/class-cookie.php:310 cookie/class-cookie.php:366
+msgid "%s days"
+msgstr "%s Tage"
+
+#: templates/cookie_settings.php:78
+msgid "Show cookie on Cookie Policy"
+msgstr "Cookie in Cookie-Richtlinie anzeigen"
+
+#: templates/cookie_settings.php:68
+msgid "Sync cookie info with cookiedatabase.org"
+msgstr "Synchronisiere die Cookie-Informationen mit cookiedatabase.org"
+
+#: templates/cookie_settings.php:53
+msgid "Collected Personal Data"
+msgstr "Gesammelte personenbezogene Daten"
+
+#: templates/cookie_settings.php:48
+msgid "Stores personal data"
+msgstr "Speichert persönliche Daten"
+
+#: templates/cookie_settings.php:26
+msgid "Cookie function"
+msgstr "Cookie-Funktion"
+
+#: templates/cookie_settings.php:11
+msgid "Service"
+msgstr "Dienst"
+
+#: templates/service_settings.php:39
+msgid "Sync service info with cookiedatabase.org"
+msgstr "Synchronisiere die Dienst-Informationen mit cookiedatabase.org"
+
+#: templates/service_settings.php:21
+msgid "Data is shared with this service"
+msgstr "Daten werden mit diesem Dienst geteilt"
+
+#: templates/service_settings.php:10
+msgid "Service type"
+msgstr "Dienst-Typ"
+
+#: templates/cookiepolicy_services.php:8
+msgid "Function"
+msgstr "Funktion"
+
+#: templates/cookie_settings.php:19 templates/cookiepolicy_services.php:7
+msgid "Retention"
+msgstr "Einbehaltung"
+
+#: class-admin.php:1480
+msgid "Complianz and the cookiedatabase.org community are working round the clock in adding more complete cookie descriptions, which will get added to your policy automatically. If you have any questions or issues regarding updating, please %scontact support%s or join the %scookiedatabase.org%s community!"
+msgstr "Complianz und die cookiedatabase.org-Community arbeiten rund um die Uhr daran, umfassendere Cookie-Beschreibungen hinzuzufügen, die automatisch zu deiner Richtlinie hinzugefügt werden. Wenn du Fragen oder Probleme bezüglich der Aktualisierung hast, wende dich bitte an den %sKontakt-Support%s oder trete der %scookiedatabase.org%s-Community bei!"
+
+#: class-admin.php:1469
+msgid "%sCheck the results%s of the cookiedatabase.org synchronization and complete missing descriptions."
+msgstr "%sÜberprüfen die Ergebnisse%s der cookiedatabase.org-Synchronisierung und vervollständige die fehlenden Beschreibungen."
+
+#: class-admin.php:1459
+msgid "Opt in to the %sCookiedatabase.org API%s"
+msgstr "Opt-in zur %sCookiedatabase.org-API%s"
+
+#: class-admin.php:1449
+msgid "Issue a new %scookiescan%s (we will automatically start one 30 minutes after update)"
+msgstr "Starte einen neuen %sCookie-Scan%s (30 Minuten nach dem Update wird automatisch einer gestartet)"
+
+#: class-admin.php:1444
+msgid "Please check the following to ensure a smooth update:"
+msgstr "Bitte überprüfe Folgendes, um ein reibungsloses Update zu gewährleisten:"
+
+#: class-admin.php:1441
+msgid "Complianz 4.0 is Live! This major update provides automatic comprehensive cookie descriptions by cookiedatabase.org!"
+msgstr "Complianz 4.0 ist Live! Dieses Hauptupdate enthält automatisch umfassende Cookie-Beschreibungen von cookiedatabase.org!"
+
+#: class-admin.php:1438
+msgid "Upgrade action required"
+msgstr "Upgrade-Maßnahme erforderlich"
+
+#: class-admin.php:987
+msgid "Document is not kept up to date by Complianz"
+msgstr "Das Dokument wird von Complianz nicht auf dem neuesten Stand gehalten"
+
+#: class-admin.php:985
+msgid "Document is kept up to date by Complianz"
+msgstr "Das Dokument wird von Complianz auf dem neuesten Stand gehalten"
+
+#: class-admin.php:975
+msgid "Click to view the document shortcode"
+msgstr "Klicke hier, um den Dokument-Shortcode anzuzeigen"
+
+#: functions.php:1578
+msgctxt "Legal document cookie policy"
+msgid "We use %s for %s."
+msgstr "Wir verwenden %s für %s."
+
+#: functions.php:1573
+msgid "This data is not shared with third parties."
+msgstr "Diesen Daten werden nicht mit Drittparteien geteilt."
+
+#: functions.php:1569
+msgid "For more information, please read the %s%s Privacy Policy%s."
+msgstr "Für weitere Informationen lese bitte die %s%sDatenschutz-Bestimmungen%s."
+
+#: functions.php:1561
+msgid "Miscellaneous"
+msgstr "Sonstiges"
+
+#: class-field.php:1797
+msgid "Add new service"
+msgstr "Neuen Dienst hinzufügen"
+
+#: class-field.php:1669 class-field.php:1759
+msgid "Settings saved"
+msgstr "Einstellungen gespeichert"
+
+#: dist/blocks.build.js:1 src/block/block.js:194 src/block/block.js:218
+msgid "Document sync status"
+msgstr "Dokument-Synchronisierungsstatus"
+
+#: class-document.php:1213 dist/blocks.build.js:1 src/block/block.js:150
+msgid "Edit document and stop synchronization"
+msgstr "Dokument bearbeiten und die Synchronisierung beenden"
+
+#: class-document.php:1209 dist/blocks.build.js:1 src/block/block.js:149
+msgid "Synchronize document with Complianz"
+msgstr "Dokument mit Complianz synchronisieren"
+
+#: class-document.php:1191
+msgid "Document status"
+msgstr "Dokumentstatus"
+
+#: integrations/plugins/beehive.php:114
+msgid "You have selected you do not share data with third party networks. Display advertising is now disabled in Beehive."
+msgstr "Du hast ausgewählt, dass du keine Daten für Netzwerke von Drittanbietern teilst. Werbung anzeigen, ist jetzt in Beehive deaktiviert."
+
+#: integrations/plugins/beehive.php:110
+msgid "You have selected you anonymize IP addresses. This setting is now enabled in Beehive."
+msgstr "Du hast ausgewählt, dass du IP-Adressen anonymisierst. Diese Einstellung ist jetzt in Beehive aktiviert."
+
+#: integrations/plugins/forminator.php:80
+#: integrations/plugins/happyforms.php:105
+msgid "Privacy"
+msgstr "Datenschutz"
+
+#: integrations/plugins/forminator.php:76
+#: integrations/plugins/happyforms.php:99
+msgid "Yes, I agree with the %sprivacy statement%s"
+msgstr "Ja, ich stimme der %sDatenschutzerklärung%s zu"
+
+#: integrations/plugins/forminator.php:15
+msgid "Please accept cookies so we can validate your request with reCaptcha, and submit this form"
+msgstr "Bitte akzeptiere die Cookies, damit wir deine Anfrage mit reCaptcha validieren und dieses Formular abschicken können"
+
+#: integrations/plugins/monsterinsights.php:65
+msgid "You have selected you do not share data with third party networks. Demographics is now disabled in MonsterInsights."
+msgstr "Du hast ausgewählt, dass du keine Daten für Netzwerke von Drittanbietern teilst. Demografie ist jetzt in MonsterInsights deaktiviert."
+
+#: integrations/plugins/forminator-addon-class.php:34
+msgid "Sorry, we failed to update settings, please check your form and try again"
+msgstr "Leider konnten wir die Einstellungen nicht aktualisieren. Bitte überprüfe dein Formular und versuche es erneut"
+
+#: integrations/plugins/forminator-addon-class.php:31
+msgid "Sorry but we failed to deactivate the Complianz integration, please try again"
+msgstr "Entschuldige, aber die Complianz-Integration konnte nicht deaktiviert werden. Bitte versuche es erneut"
+
+#: integrations/plugins/forminator-addon-class.php:28
+msgid "Sorry but we failed to activate the Complianz integration"
+msgstr "Entschuldigung, aber die Complianz-Integration konnte nicht aktiviert werden"
+
+#: integrations/plugins/forminator-addon-class.php:25
+msgid "Integrate Forminator with Complianz Privacy Suite"
+msgstr "Integriere Forminator in die Complianz Privacy Suite"
+
+#: callback-notices.php:166
+msgid "Because your site uses third party cookies, the cookie blocker is now activated. If you experience issues on the front-end of your site due to blocked scripts, you can disable specific services or plugin integrations in the %sintegrations section%s, or you can disable the cookie blocker entirely on the %ssettings page%s"
+msgstr "Da deine Site Cookies von Drittanbietern verwendet, ist der Cookie-Blocker jetzt aktiviert. Wenn aufgrund blockierter Skripte Probleme im Front-End deiner Site auftreten, kannst du bestimmte Dienste oder Plug-In-Integrationen im Abschnitt %sIntegrationsbereich%s deaktivieren oder den Cookie-Blocker auf der Seite %sEinstellungen%s vollständig deaktivieren"
+
+#: integrations/plugins/monsterinsights.php:60
+msgid "You have selected you anonymize IP addresses. This setting is now enabled in MonsterInsights."
+msgstr "Du hast ausgewählt, dass du IP-Adressen anonymisierst. Diese Einstellung ist jetzt in MonsterInsights aktiviert."
+
+#: config/documents/documents.php:29
+msgid "Cookie policy (UK)"
+msgstr "Cookie-Richtlinie (UK)"
+
+#: config/documents/documents.php:6
+msgid "Cookie policy (EU)"
+msgstr "Cookie-Richtlinie (EU)"
+
+#: config/questions-wizard.php:587
+msgid "Checking services here will add the associated cookies to your cookie policy, and block the service until consent is given (opt-in), or after consent is revoked (opt-out)"
+msgstr "Wenn du die Dienste hier überprüfst, werden die zugehörigen Cookies zu deiner Cookie-Richtlinie hinzugefügt und der Dienst gesperrt, bis die Zustimmung erteilt (Opt-In) oder nachdem die Zustimmung widerrufen wurde (Opt-Out)."
+
+#: config/questions-wizard.php:553
+msgid "You can configure Hotjar privacy-friendly, if you do this, no consent is required for Hotjar."
+msgstr "Du kannst Hotjar datenschutzfreundlich konfigurieren. In diesem Fall ist keine Zustimmung für Hotjar erforderlich."
+
+#: config/questions-wizard.php:551
+msgid "Is Hotjar configured in a privacy-friendly way?"
+msgstr "Ist Hotjar datenschutzfreundlich konfiguriert?"
+
+#: config/questions-wizard.php:537
+msgid "Checking services here will add the associated cookies to your cookie policy, and block the service until consent is given (opt-in), or after consent is revoked (opt-out)."
+msgstr "Wenn du die Dienste hier überprüfst, werden die zugehörigen Cookies zu deiner Cookie-Richtlinie hinzugefügt und der Dienst gesperrt, bis die Zustimmung erteilt (Opt-In) oder nachdem die Zustimmung widerrufen wurde (Opt-Out)."
+
+#: config/countries.php:58
+msgid "UK-GDPR"
+msgstr "UK-DSGVO"
+
+#: config/countries.php:56
+msgid "UK"
+msgstr "UK"
+
+#: config/steps.php:64
+msgid "Statistics - configuration"
+msgstr "Statistiken - Konfiguration"
+
+#: class-document.php:774 class-document.php:783
+msgctxt "if phonenumber is entered, this string is part of the sentence \"you may contact %s, via %s or by telephone via %s\""
+msgid "or by telephone on %s"
+msgstr "oder telefonisch bei %s"
+
+#: integrations/integrations-menu.php:210
+msgid "No active plugins detected in the integrations list."
+msgstr "In der Integrationsliste wurden keine aktiven Plugins erkannt."
+
+#: integrations/integrations-menu.php:200
+msgid "Below you will find the plugins currently detected and integrated with Complianz. Most plugins work by default, but you can also add a plugin to the script center or add it to the integration list."
+msgstr "Nachfolgend findest du die Plugins, die derzeit von Complianz erkannt und integriert werden. Die meisten Plugins funktionieren standardmäßig. Du kannst jedoch auch ein Plugin zum Script-Center oder zur Integrationsliste hinzufügen."
+
+#: integrations/integrations-menu.php:88
+msgid "%s are marked as not being used on your website in the %swizard%s."
+msgstr "%s wird im %sAssistenten%s deiner Website als nicht verwendet markiert."
+
+#: integrations/integrations-menu.php:81
+msgid "Third party services and social media"
+msgstr "Dienstleistungen von Drittanbietern und soziale Medien"
+
+#: class-admin.php:1171
+msgid "Well done! Your website is ready for your selected regions."
+msgstr "Gut gemacht! Deine Website ist für deine ausgewählten Regionen bereit."
+
+#: class-admin.php:1167
+msgid "Your website is not ready for your selected regions yet."
+msgstr "Deine Website ist noch nicht für deine ausgewählten Regionen bereit."
+
+#: class-admin.php:965
+msgid "Obsolete page, you can delete %s"
+msgstr "Veraltete Seite, du kannst %s löschen"
+
+#: config/steps.php:68 shepherd/tour.php:113
+#: integrations/integrations-menu.php:9 integrations/integrations-menu.php:10
+msgid "Integrations"
+msgstr "Einbindungen"
+
+#: callback-notices.php:264 callback-notices.php:283
+msgid "Categories are mandatory for your statistics configuration"
+msgstr "Kategorien sind für deine Statistikkonfiguration verpflichtend"
+
+#: callback-notices.php:260 callback-notices.php:279
+msgid "If you want to specify the categories used by Tag Manager, you need to enable categories."
+msgstr "Wenn du die vom Tag-Manager verwendeten Kategorien angeben möchtest, musst du die Kategorien aktivieren."
+
+#: integrations/integrations-menu.php:33
+msgid "Services"
+msgstr "Dienstleistungen"
+
+#: class-document.php:2456
+msgid ""
+"This document was generated to show efforts made to comply with privacy legislation.\n"
+"                            This document will contain the cookie policy and the cookie consent settings to proof consent\n"
+"                            for the time and region specified below. For more information about this document, please go\n"
+"                            to %shttps://complianz.io/consent%s."
+msgstr ""
+"Dieses Dokument wurde erstellt, um die Bemühungen zur Einhaltung der Datenschutzgesetze aufzuzeigen.\n"
+"                             Dieses Dokument enthält die Cookie-Richtlinie und die Cookie-Einwilligungseinstellungen zum Nachweis der Einwilligung\n"
+"                             für die unten angegebene Zeit und Region. Weitere Informationen zu diesem Dokument findest du unter\n"
+"                             %shttps://complianz.io/consent%s."
+
+#: class-document.php:2454 shepherd/tour.php:127
+msgid "Proof of Consent"
+msgstr "Einverständniserklärung"
+
+#: class-document.php:2451
+msgid "Cookie consent settings"
+msgstr "Cookie-Einwilligungseinstellungen"
+
+#: cookie/class-cookie-admin.php:1562
+msgid "Generate now"
+msgstr "Jetzt erstellen"
+
+#: cookie/class-cookie-admin.php:1547
+msgid "Proof of consent updated!"
+msgstr "Einverständniserklärung aktualisiert!"
+
+#: cookie/class-cookie-admin.php:1542
+msgid "When you make significant changes to your cookie policy, cookie banner or revoke functionality, we will add a time-stamped document under \"Proof of Consent\" with the latest changes. If there is any concern if your website was ready for GDPR at a point of time, you can use the Complianz Proof of Consent to show the efforts you made being compliant, while respecting data minimization and full control of consent registration by the user. On a daily basis, the document will be generated if the plugin has detected significant changes. For more information read our article about %suser consent registration%s."
+msgstr "Wenn du wesentliche Änderungen an deiner Cookie-Richtlinie, deinem Cookie-Banner oder deiner Widerrufsfunktion vornimmst, fügen wir unter „Einverständniserklärung” ein Dokument mit Zeitstempel und den neuesten Änderungen hinzu. Wenn du Bedenken hast, dass deine Website zu einem bestimmten Zeitpunkt für die DSGVO bereit war, kannst du mithilfe des Complianz-Zustimmungsnachweises nachweisen, dass du dich um die Einhaltung der Bestimmungen bemüht hast, wobei die Datenminimierung und die vollständige Kontrolle der Einwilligungsregistrierung durch den Benutzer zu beachten sind. Das Dokument wird täglich generiert, wenn das Plugin signifikante Änderungen festgestellt hat. Weitere Informationen findest du in unserem Artikel über die Registrierung von %sEinwilligung des Benutzers%s."
+
+#: class-cookiestatement-snapshot-table.php:182
+msgid "Created"
+msgstr "Erstellt"
+
+#: class-cookiestatement-snapshot-table.php:181
+msgid "File"
+msgstr "Datei"
+
+#: class-cookiestatement-snapshot-table.php:155
+msgid "File not found"
+msgstr "Datei nicht gefunden"
+
+#: class-cookiestatement-snapshot-table.php:111
+msgid "Search"
+msgstr "Suche"
+
+#: config/cookie-settings.php:69
+msgid "You can grey out the rest of the website, which makes it look like a cookie wall, but it is dismissible: a 'soft' cookie wall. This is not visible in preview, as it would prevent editing the options. Read more about the soft cookie wall in this %sarticle%s."
+msgstr "Du kannst den Rest der Website ausgrauen, wodurch sie wie eine Cookie-Wall aussieht. Es ist jedoch nicht zulässig, eine „weiche” Cookie-Wall zu verwenden. Dies ist in der Vorschau nicht sichtbar, da dies die Bearbeitung der Optionen verhindern würde. Weitere Informationen zur „weichen” Cookie-Wall findest du in diesem %sArtikel%s."
+
+#: config/cookie-settings.php:67 cookiebanner/settings.php:236
+msgid "Show as soft cookie wall"
+msgstr "Als „weiche” Cookie-Wall anzeigen"
+
+#: config/countries.php:197
+msgid "North Macedonia"
+msgstr "Nord Mazedonien"
+
+#: config/documents/cookie-policy-eu.php:18
+#: config/documents/cookie-policy-ca.php:23
+msgctxt "Legal document cookie policy"
+msgid "A script is a piece of program code that is used to make our website function properly and interactively. This code is executed on our server or on your device."
+msgstr "Ein Skript ist ein Teil des Programmcodes, mit dem unsere Website ordnungsgemäß und interaktiv funktioniert. Dieser Code wird auf unserem Server oder auf deinem Gerät ausgeführt."
+
+#: cookie/class-cookie-admin.php:1537 class-admin.php:763 class-admin.php:764
+#: class-admin.php:892
+msgid "Proof of consent"
+msgstr "Einverständniserklärung"
+
+#: integrations/plugins/wp-google-maps.php:23
+msgid "To enable Google Maps cookies, please click \"I Agree\""
+msgstr "Um Google Maps-Cookies zu aktivieren, bitte auf „Ich stimme zu” klicken"
+
+#: config/documents/cookie-policy-eu.php:159
+msgctxt "Legal document cookie policy"
+msgid "You can use your internet browser to automatically or manually delete cookies. You can also specify that certain cookies may not be placed. Another option is to change the settings of your internet browser so that you receive a message each time a cookie is placed. For more information about these options, please refer to the instructions in the Help section of your browser."
+msgstr "Du kannst deinen Internetbrowser verwenden, um Cookies automatisch oder manuell zu löschen. Du kannst auch festlegen, dass bestimmte Cookies möglicherweise nicht platziert werden. Eine weitere Möglichkeit besteht darin, die Einstellungen deines Internetbrowsers so zu ändern, dass du jedes Mal eine Nachricht erhältst, wenn ein Cookie gesetzt wird. Weitere Informationen zu diesen Optionen findest du in den Anweisungen im Hilfebereich deines Browsers."
+
+#: config/questions-wizard.php:187
+msgid "The email address will be obfuscated on the front-end to prevent spidering."
+msgstr "Die E-Mail-Adresse wird im Front-End verschleiert, um Spionage zu vermeiden."
+
+#: callback-notices.php:216
+msgid "With Tag Manager, you can also configure your (personalized) advertising based on consent."
+msgstr "Mit dem Tag-Manager kannst du deine (personalisierte) Werbung nach der Einwilligung konfigurieren."
+
+#: config/questions-wizard.php:655
+msgid "If you enable this, WordPress will not store personal data with comments and you won't need a consent checkbox for the comment form. The consent box will not be displayed."
+msgstr "Wenn du dies aktivierst, speichert WordPress keine persönlichen Daten mit Kommentaren und du benötigst kein Zustimmungskontrollkästchen für das Kommentarformular. Das Zustimmungsfeld wird nicht angezeigt."
+
+#: config/questions-wizard.php:652
+msgid "Disable storage of personal data by WP comments function and consent checkbox"
+msgstr "Deaktiviere die Speicherung personenbezogener Daten durch das Kontrollkästchen WP-Kommentarfunktion und Zustimmungskontrollkästchen"
+
+#: config/questions-wizard.php:95
+msgid "Complianz will generate the cookie policy based on your cookies and the answers in the wizard, but you can also create your own, custom document."
+msgstr "Complianz generiert die Cookie-Richtlinie basierend auf deinen Cookies und den Antworten im Assistenten. Du kannst jedoch auch dein eigenes, benutzerdefiniertes Dokument erstellen."
+
+#: callback-notices.php:143
+msgid "Your site uses Google Fonts. For best privacy compliance, we recommend to self host Google Fonts. To self host, follow the instructions in %sthis article%s"
+msgstr "Deine Site nutzt Google Fonts. Aufgrund der Einhaltung der Privatsphäre, empfehlen wir,  Google Fonts selbst zu hosten. Um Google Fonts selbst zu hosten, folge den Anleitungen in %sdiesem Artikel%s "
+
+#: config/countries.php:40
+msgid "CCPA"
+msgstr "CCPA"
+
+#. Author of the plugin
+msgid "RogierLankhorst, Complianz"
+msgstr "RogierLankhorst, Complianz"
+
+#: cookie/class-cookie-admin.php:3952
+msgid "Default Cookie banner"
+msgstr "Standard-Cookie-Banner"
+
+#: config/general-settings.php:116
+msgid "If you experience styling issues with video's or iframes you can disable the placeholder insertion, which in some themes can conflict with theme styling."
+msgstr "Wenn beim Design von Videos oder Iframes Stilprobleme auftreten, kannst du das Einfügen von Platzhaltern deaktivieren, was bei einigen Themen zu Konflikten mit dem Design von Themen führen kann."
+
+#: config/documents/cookie-policy-us.php:119
+#: config/documents/cookie-policy-eu.php:123
+#: config/documents/cookie-policy-uk.php:126
+#: config/documents/cookie-policy-ca.php:115
+msgid "%s is located in the United States."
+msgid_plural "%s are located in the United States."
+msgstr[0] "%s befindet sich in den Vereinigten Staaten"
+msgstr[1] "%s befinden sich in den Vereinigten Staaten"
+
+#: config/documents/cookie-policy-eu.php:123
+msgid "Please read the privacy statement of these social networks (which can change regularly) to read what they do with your (personal) data which they process using these cookies. The data that is retrieved is anonymized as much as possible."
+msgstr "Bitte lese die Datenschutzerklärung dieser sozialen Netzwerke (die sich regelmäßig ändern kann), um zu erfahren, wie sie mit deinen (persönlichen) Daten umgehen, die sie mithilfe dieser Cookies verarbeiten. Die abgerufenen Daten werden so weit wie möglich anonymisiert."
+
+#: config/general-settings.php:113
+msgid "Disable placeholder insertion"
+msgstr "Deaktiviere das Einfügen von Platzhaltern"
+
+#: config/documents/cookie-policy-eu.php:118
+#: config/documents/cookie-policy-ca.php:110
+msgctxt "Legal document cookie policy"
+msgid "On our website we have included buttons for %s to promote webpages (e.g. “like”, “pin”) or share (e.g. “tweet”) on social networks like %s. These buttons work using pieces of code coming from %s themselves. This code places cookies. These social media buttons also can store and process certain information, so a personalized advertisement can be shown to you."
+msgstr "Auf unserer Website haben wir Schaltflächen für %s eingefügt, um Webseiten (z.B. „Gefällt mir”, „Anheften”) oder Teilen (z. B. „Tweet”) in sozialen Netzwerken wie %s zu unterstützen. Diese Schaltflächen verwenden einen Code, der von %s selbst stammt. Dieser Code platziert Cookies. Diese Social-Media-Schaltflächen können auch bestimmte Informationen speichern und verarbeiten, sodass dir eine personalisierte Werbung angezeigt werden kann."
+
+#: config/documents/cookie-policy-eu.php:91
+#: config/documents/cookie-policy-ca.php:81
+msgctxt "Legal document cookie policy"
+msgid "On this website we use advertising cookies, enabling us to gain insights into the campaign results. This happens based on a profile we create based on your behavior on %s. With these cookies you, as website visitor are linked to a unique ID, but will not profile your behavior and interests to serve personalized ads."
+msgstr "Auf dieser Website verwenden wir Werbe-Cookies, um Einblicke in die Kampagnenergebnisse zu erhalten. Dies geschieht basierend auf einem Profil, das wir basierend auf deinem Verhalten auf %s erstellen. Mit diesen Cookies bist du als Website-Besucher mit einer eindeutigen ID verknüpft, können jedoch dein Verhalten und deine Interessen nicht für die Schaltung personalisierter Anzeigen profilieren."
+
+#: config/cookie-settings.php:22 cookiebanner/settings.php:160
+msgid "When enabled, this is the cookie banner that is used for all visitors. Enabling it will disable this setting on the current default banner. Disabling it will enable randomly a different default banner."
+msgstr "Wenn aktiviert, ist dies das Cookie-Banner, das für alle Besucher verwendet wird. Durch Aktivieren dieser Option wird diese Einstellung für das aktuelle Standardbanner deaktiviert. Durch Deaktivierung wird zufällig ein anderes Standardbanner aktiviert."
+
+#: config/cookie-settings.php:20 cookiebanner/settings.php:158
+msgid "Default cookie banner"
+msgstr "Standard-Cookie-Banner"
+
+#: config/cookie-settings.php:13 cookiebanner/settings.php:150
+msgid "For internal use only"
+msgstr "Nur für den internen Gebrauch"
+
+#: config/cookie-settings.php:11 cookiebanner/settings.php:149
+msgid "Descriptive title of the cookiebanner"
+msgstr "Beschreibender Titel des Cookie-Banners"
+
+#: config/cookie-settings.php:10 cookiebanner/settings.php:148
+msgid "Cookie banner title"
+msgstr "Cookie-Bannertitel"
+
+#: config/questions-wizard.php:618
+msgid "If you only use Google for advertising, and have activated the option to use only non personalized ads, you can select no here."
+msgstr "Wenn du Google nur für Werbung verwendest und die Option aktivierst, nur nicht personalisierte Anzeigen zu verwenden, kannst du hier Nein auswählen."
+
+#: config/questions-wizard.php:615
+msgid "Are any of your advertising cookies used to show personalized ads?"
+msgstr "Werden in deinen Werbe-Cookies personalisierte Anzeigen geschaltet?"
+
+#: config/questions-wizard.php:634
+msgid "Does your website use wordpress comments?"
+msgstr "Verwendet deine Website WordPress-Kommentare?"
+
+#: config/questions-wizard.php:158
+msgid "Address, City and Zipcode"
+msgstr "Adresse, Stadt und PLZ"
+
+#: cookiebanner/class-cookiebanner.php:186
+msgid "New cookie banner"
+msgstr "Neues Cookie-Banner"
+
+#: cookie/class-cookie-admin.php:1569 cookiebanner/cookiebanner.php:222
+msgid "Filter"
+msgstr "Filter"
+
+#: cookiebanner/cookiebanner.php:198
+msgid "Cookie banner settings"
+msgstr "Cookie-Banner-Einstellungen"
+
+#: cookiebanner/cookiebanner.php:78 cookiebanner/cookiebanner.php:79
+msgid "Cookie banner"
+msgstr "Cookie-Banner"
+
+#: cookiebanner/class-cookiebanner-table.php:242
+msgid "conversion"
+msgstr "Umwandlung"
+
+#: cookiebanner/class-cookiebanner-table.php:232
+msgid "Best performer"
+msgstr "Bester Performer"
+
+#: cookiebanner/class-cookiebanner-table.php:197
+msgid "Unnamed cookie banner"
+msgstr "Unbenanntes Cookie-Banner"
+
+#: cookiebanner/class-cookiebanner-table.php:184
+#: cookiebanner/class-cookiebanner-table.php:247
+msgid "Archive"
+msgstr "Archiv"
+
+#: cookiebanner/class-cookiebanner-table.php:179
+#: templates/cookie_settings.php:91
+msgid "Restore"
+msgstr "Wiederherstellen"
+
+#: cookiebanner/class-cookiebanner-table.php:137
+#: class-cookiestatement-snapshot-table.php:129
+msgid "name"
+msgstr "Name"
+
+#: cookiebanner/class-cookiebanner-table.php:118
+msgid "Archived cookiebanners"
+msgstr "Archivierte Cookie-Banner"
+
+#: cookiebanner/class-cookiebanner-table.php:115
+msgid "Active cookiebanners"
+msgstr "Aktivierte Cookie-Banner"
+
+#: cookiebanner/class-cookiebanner-table.php:74
+#: class-cookiestatement-snapshot-table.php:74
+msgid "Cookiebanners"
+msgstr "Cookie-Banner"
+
+#: cookiebanner/class-cookiebanner-table.php:73
+#: class-cookiestatement-snapshot-table.php:73
+msgid "Cookiebanner"
+msgstr "Cookie-Banner"
+
+#: class-document.php:918
+msgid "Complianz GDPR Cookie Consent does not process any personally identifiable information, which means there's no need to add text about this plugin to your privacy policy. The used cookies (all functional) will be automatically added to your cookie policy. You can find our privacy policy %shere%s."
+msgstr "Die Cookie-Einwilligung von Complianz GDPR verarbeitet keine personenbezogenen Daten. Das bedeutet, dass du deiner Datenschutzrichtlinie keinen Text zu diesem Plugin hinzufügen musst. Die verwendeten Cookies (alle funktionsfähigen) werden automatisch zu deiner Cookie-Richtlinie hinzugefügt. Du findest unsere Datenschutzrichtlinie %shier%s."
+
+#: functions.php:1921
+msgid "All consent types"
+msgstr "Alle Zustimmungsarten"
+
+#: functions.php:1919
+msgid "Opt-out"
+msgstr "Opt-out"
+
+#: functions.php:1917
+msgid "Opt-in"
+msgstr "Opt-in"
+
+#: integrations/plugins/wpforms.php:22
+msgid "(WP Forms)"
+msgstr "(WP Forms)"
+
+#: complianz-gpdr.php:49
+msgid "Complianz GDPR cannot be activated. The plugin requires WordPress 4.6 or higher"
+msgstr "Complianz GDPR kann nicht aktiviert werden. Das Plugin benötigt WordPress 4.6 oder höher"
+
+#: complianz-gpdr.php:42
+msgid "Complianz GDPR cannot be activated. The plugin requires PHP 5.6 or higher"
+msgstr "Complianz GDPR kann nicht aktiviert werden. Das Plugin benötigt PHP 5.6 oder höher"
+
+#: cron/cron.php:50
+msgid "Once every month"
+msgstr "Einmal monatlich"
+
+#: config/general-settings.php:131
+msgid "The blocked content text appears when for example a Youtube video is embedded. Because Youtube places cookie which require consent, the video will be blocked initially, with an explanatory text."
+msgstr "Der blockierte Inhaltstext wird angezeigt, wenn zum Beispiel ein Youtube-Video eingebettet ist. Da YouTube Cookies setzt, die einer Zustimmung erfordern, wird das Video zunächst mit einem erläuternden Text blockiert."
+
+#: config/general-settings.php:128
+msgid "Blocked content text"
+msgstr "Blockierter Inhaltstext"
+
+#: config/documents/cookie-policy-eu.php:67
+msgctxt "Legal document cookie policy"
+msgid "Because statistics are being tracked anonymously, no permission is asked to place analytical cookies."
+msgstr "Da Statistiken anonym erfasst werden, ist keine Erlaubnis erforderlich, um analytische Cookies zu platzieren."
+
+#: config/documents/cookie-policy-eu.php:60
+msgctxt "Legal document cookie policy"
+msgid "We ask your permission to place analytical cookies."
+msgstr "Wir bitten um deine Erlaubnis, analytische Cookies zu setzen."
+
+#: config/documents/cookie-policy-eu.php:59
+#: config/documents/cookie-policy-ca.php:58
+msgctxt "Legal document cookie policy"
+msgid "We use analytical cookies to optimize the website experience for our users. With these analytical cookies we get insights in the usage of our website."
+msgstr "Wir verwenden analytische Cookies, um das Website-Erlebnis für unsere Nutzer zu optimieren. Mit diesen analytischen Cookies erhalten wir Einblicke in die Nutzung unserer Website."
+
+#: config/cookie-settings.php:320 cookiebanner/settings.php:764
+msgid "Timeout in seconds"
+msgstr "Zeitüberschreitung in Sekunden"
+
+#: config/cookie-settings.php:308 cookiebanner/settings.php:752
+msgid "When dismiss on time out is enabled, the cookie warning will be dismissed after 10 seconds, or the time you choose below."
+msgstr "Wenn die Option zum Deaktivieren einer Zeitüberschreitung aktiviert ist, wird die Cookie-Warnung nach 10 Sekunden oder der von dir gewählten Zeit gelöscht."
+
+#: config/cookie-settings.php:306 cookiebanner/settings.php:750
+msgid "Dismiss on timeout"
+msgstr "Ablehnung wegen Zeitüberschreitung"
+
+#: config/cookie-settings.php:294 cookiebanner/settings.php:738
+msgid "When dismiss on scroll is enabled, the cookie warning will be dismissed as soon as the user scrolls."
+msgstr "Wenn das Deaktivieren des Bildlaufs aktiviert ist, wird die Cookie-Warnung gelöscht, sobald der Benutzer einen Bildlauf durchführt."
+
+#: config/cookie-settings.php:293 cookiebanner/settings.php:737
+msgid "Dismiss on scroll"
+msgstr "Ablehnung beim Blättern "
+
+#: config/general-settings.php:243
+msgid "Are you sure? This will remove all Complianz data."
+msgstr "Bist du dir sicher? Dies löscht alle Complianz-Daten."
+
+#: config/questions-wizard.php:392
+msgid "Do you want Complianz to configure your statistics?"
+msgstr "Möchtest du, dass Complianz deine Statistiken konfiguriert?"
+
+#: config/questions-wizard.php:232
+msgid "Also consider future purposes. Regarding personalized products: these are products and/or services which are personalized based on visitor's behavior. E.g. advertisements based on pages visited."
+msgstr "Berücksichtige auch zukünftige Zwecke. Bei personalisierten Produkten: Dies sind Produkte und / oder Dienstleistungen, die auf der Grundlage des Besucherverhaltens personalisiert werden. z.B. Werbung basierend auf besuchten Seiten."
+
+#: class-admin.php:1052
+msgid "Like Complianz | GDPR/CCPA Cookie Consent?"
+msgstr "Magst du die Complianz | GDPR/CCPA Cookie-Einwilligung?"
+
+#. Plugin URI of the plugin
+msgid "https://www.wordpress.org/plugins/complianz-gdpr"
+msgstr "https://www.wordpress.org/plugins/complianz-gdpr"
+
+#. Plugin Name of the plugin
+msgid "Complianz | GDPR/CCPA Cookie Consent"
+msgstr "Complianz | GDPR/CCPA Cookie-Einwilligung"
+
+#: dist/blocks.build.js:1 src/block/block.js:259
+msgid "cookie statement"
+msgstr "Cookie-Erklärung"
+
+#: config/questions-wizard.php:122 dist/blocks.build.js:1
+#: src/block/block.js:258
+msgid "privacy statement"
+msgstr "Datenschutzerklärung"
+
+#: dist/blocks.build.js:1 src/block/block.js:254
+msgid "Legal document - Complianz"
+msgstr "Gesetzliches Dokument - Complianz"
+
+#: dist/blocks.build.js:1 src/block/block.js:163
+msgid "Select a document type from the dropdownlist"
+msgstr "Wähle einen Dokumententyp aus der Auswahlliste"
+
+#: dist/blocks.build.js:1 src/block/block.js:161
+msgid "Click this block to show the options"
+msgstr "Klicke auf diesen Block, um die Optionen anzuzeigen"
+
+#: dist/blocks.build.js:1 src/block/block.js:154
+msgid "No documents found. Please finish the Complianz Privacy Suite wizard to generate documents"
+msgstr "Keine Dokumente gefunden. Bitte stelle den Complianz Privacy Suite Assistenten fertig, um Dokumente zu erstellen."
+
+#: dist/blocks.build.js:1 src/block/block.js:145
+msgid "Loading..."
+msgstr "Laden..."
+
+#: dist/blocks.build.js:1 src/block/block.js:144 src/block/block.js:189
+#: src/block/block.js:212
+msgid "Select a document"
+msgstr "Wähle ein Dokument"
+
+#: config/questions-wizard.php:395
+msgid "It's recommended to let Complianz handle the statistics script. This way, the plugin can detect if it needs to be hooked into the cookie consent code or not. But if you have set it up yourself and don't want to change this, you can choose to do so"
+msgstr "Es wird empfohlen, dass Complianz das Statistikskript handhabt. Auf diese Weise kann das Plugin erkennen, ob es in den Cookie-Zustimmungscode eingebunden werden muss oder nicht. Wenn du es jedoch selbst eingerichtet hast und dies nicht ändern möchtest, kannst du dies gerne machen"
+
+#: config/questions-wizard.php:148
+msgid "Who is the owner of the website (person or company)?"
+msgstr "Wer ist der Eigentümer der Website (Person oder Unternehmen)?"
+
+#: config/steps.php:25
+msgid "Website information"
+msgstr "Information über die Website"
+
+#: functions.php:1002
+msgid "For more information on this subject, please read this %sarticle%s"
+msgstr "Für mehr Informationen zu diesem Thema, bitte diesen %sArtikel%s lesen"
+
+#: callback-notices.php:226
+msgid "You have indicated you use a statistics tool which tracks personal data. You can insert this script here so it only fires if the user consents to this."
+msgstr "Du hast angedeutet, ein Statisitk-Tool zu verwenden, dass persönliche Daten erhebt. Du kannst dieses Script hier einfügen, damit es nur ausgeführt wird, wenn der Benutzer damit einverstanden ist."
+
+#: callback-notices.php:32
+msgid "If you add the ID for your statistics tool here, Complianz will configure your site for statistics tracking."
+msgstr "Wenn du die ID für dein Statistik-Tool hier hinzufügst, wird Complian deine Site für „Statistik verfolgen” konfigurieren."
+
+#: callback-notices.php:21
+msgid "You have selected options which indicate your statistics tracking needs a cookie banner. To enable Complianz to handle the statistics, you should remove your current statistics tracking, and configure it in Complianz"
+msgstr "Du hast Optionen ausgewählt, die darauf hinweisen, dass für deine Statistiken ein Cookie-Banner erforderlich ist. Damit Complianz mit den Statistiken umgehen kann, solltest du dein aktuelles Statistik-Tracking entfernen und in Complianz konfigurieren"
+
+#: class-admin.php:909
+msgid "Manage shop privacy"
+msgstr "Shop-Privatsphäre verwalten"
+
+#: config/general-settings.php:129
+msgctxt "Accept cookies on blocked content"
+msgid "Click to accept marketing cookies and enable this content"
+msgstr "Bitte hier klicken, um die Marketing-Cookies zu akzeptieren und diesen inhalt zu aktivieren"
+
+#: class-document.php:1637
+msgid "You sell personal data from your customers. This means you are required to put the \"%s\" page clearly visible on your homepage."
+msgstr "Du verkaufst persönliche Daten deiner Kunden. Dies bedeutet, dass du verpflichtet bist, die „%s” Seite deutlich sichtbar auf deiner Homepage anzuzeigen."
+
+#: class-wizard.php:1019
+msgid "Finish and check cookie banner settings"
+msgstr "Beenden und Cookie-Banner-Einstellungen überprüfen"
+
+#: templates/do-not-sell-my-personal-data-form.php:13
+msgid "Send"
+msgstr "Senden"
+
+#: templates/do-not-sell-my-personal-data-form.php:12
+msgid "email@email.com"
+msgstr "E-Mail@E-Mail.com"
+
+#: templates/do-not-sell-my-personal-data-form.php:11
+msgid "Your name"
+msgstr "Dein Name"
+
+#: cron/cron.php:58
+msgid "Once every day"
+msgstr "Einmal täglich"
+
+#: cron/cron.php:54
+msgid "Once every week"
+msgstr "Einmal wöchentlich"
+
+#: integrations/integrations-menu.php:37
+msgid "Plugins"
+msgstr "Plugins"
+
+#: config/questions-wizard.php:136 dist/blocks.build.js:1
+#: src/block/block.js:260
+msgid "disclaimer"
+msgstr "Haftungsausschluss"
+
+#: config/steps.php:16
+msgctxt "intro first step"
+msgid "Please note that you can always save and finish the wizard later (if you need a break), use our %sdocumentation%s for additional information or log a %ssupport ticket%s if you need our assistance."
+msgstr "Bitte beachte, dass du jederzeit speichern und den Assistenten später fertigstellen kannst (falls du eine Pause benötigst). Nutze auch unsere %sDokumentation%s für zusätzliche Informationen oder sende ein %sSupport-Ticket%s falls du unsere Unterstützung benötigst."
+
+#: config/questions-wizard.php:81
+msgid "There are some rules which only apply to California."
+msgstr "Einige Regeln betreffen nur Kalifornien."
+
+#: config/questions-wizard.php:79
+msgid "Do you target visitors from California?"
+msgstr "Zielst du auf Besucher aus Kalifornien ab?"
+
+#: config/general-settings.php:216
+msgid "You can use this to export your settings to another site"
+msgstr "Du kannst dies verwenden, um deine Einstellungen zu einer anderen Seite zu exportieren"
+
+#: config/purpose.php:36
+msgid "IP address"
+msgstr "IP-Adresse"
+
+#: config/dynamic-fields.php:26
+msgid "What data do you collect for this purpose?"
+msgstr "Welche Daten sammelst du zu diesem Zweck?"
+
+#: class-review.php:98
+msgid "Maybe later"
+msgstr "Vielleicht später"
+
+#: class-review.php:93
+msgid "Leave a review"
+msgstr "Hinterlasse eine Kritik"
+
+#: class-review.php:86
+msgid "Hi, you have been using Complianz | GDPR cookie consent for a month now, awesome! If you have a moment, please consider leaving a review on WordPress.org to spread the word. We greatly appreciate it! If you have any questions or feedback, leave us a %smessage%s."
+msgstr "Hallo, du verwendest Complianz | GDPR-Cookie-Einverständnis seit einem Monat, super! Wenn du einen Moment Zeit hast, könntest du eine Rezension auf WordPress.org hinterlassen, um es weiterzuverbreiten. Wir schätzen es sehr! Wenn du Fragen oder Rückmeldungen hast, hinterlasse uns eine %sNachricht%s."
+
+#: integrations/plugins/wpforms.php:61
+#: integrations/plugins/contact-form-7.php:113
+msgid "To submit this form, you need to accept our %sprivacy statement%s"
+msgstr "Um dieses Fomular zu versenden, musst du unsere %sDatenschutzerklärung%s akzeptieren."
+
+#: integrations/plugins/contact-form-7.php:94
+msgid "(Contact form 7)"
+msgstr "(Contact form 7)"
+
+#: integrations/plugins/gravity-forms.php:17
+msgid "(Gravity Forms)"
+msgstr "(Gravity Forms)"
+
+#: integrations/plugins/gravity-forms.php:31
+msgid "To submit this form, you need to accept our privacy statement"
+msgstr "Um dieses Fomular zu versenden, musst du unsere Datenschutzerklärung akzeptieren."
+
+#: DNSMPD/class-DNSMPD.php:177
+msgid "Your email address was already registered!"
+msgstr "Deine E-Mail-Adresse wurde bereits registriert!"
+
+#: DNSMPD/class-DNSMPD.php:174
+msgid "Your request has been processed successfully!"
+msgstr "Deine Anfrage wurde erfolgreich bearbeitet!"
+
+#: DNSMPD/class-DNSMPD.php:152
+msgid "That's a long name you got there. Please try to shorten the name."
+msgstr "Das ist ein langer Name den du da hast. Bitte versuchen ihn abzukürzen."
+
+#: DNSMPD/class-DNSMPD.php:146
+msgid "Please enter your name"
+msgstr "Bitte deinen Namen eingeben"
+
+#: DNSMPD/class-DNSMPD.php:140
+msgid "Please enter a valid email address."
+msgstr "Bitte eine gültige E-Mail-Adresse eingeben."
+
+#: DNSMPD/class-DNSMPD.php:134
+msgid "Sorry, it looks like you're a bot"
+msgstr "Entschuldigung, es scheint du bist ein Roboter"
+
+#: DNSMPD/class-DNSMPD.php:72
+msgid "Search Customers"
+msgstr "Suche Kunden"
+
+#: DNSMPD/class-DNSMPD.php:61
+msgid "Do Not Sell My Personal Information requests"
+msgstr "„Meine persönlichen Informationen nicht verkaufen”-Anfragen"
+
+#: DNSMPD/class-DNSMPD.php:46 DNSMPD/class-DNSMPD.php:47
+msgid "DNSMPI"
+msgstr "DNSMPI"
+
+#: cookiebanner/class-cookiebanner-table.php:207
+#: DNSMPD/class-DNSMPD-table.php:150
+#: class-cookiestatement-snapshot-table.php:165
+#: templates/cookie_settings.php:88 templates/service_settings.php:49
+msgid "Delete"
+msgstr "Löschen"
+
+#: DNSMPD/class-DNSMPD-table.php:146
+msgid "Unnamed user"
+msgstr "Unbenannter Benutzer"
+
+#: DNSMPD/class-DNSMPD-table.php:64
+msgid "Users"
+msgstr "Benutzer"
+
+#: DNSMPD/class-DNSMPD-table.php:63
+msgid "User"
+msgstr "Benutzer"
+
+#. Description of the plugin
+msgid "Complianz Privacy Suite for GDPR, CaCPA, DSVGO, AVG with a conditional cookie warning and customized cookie policy"
+msgstr "Complianz Privacy Suite für GDPR, CaCPA, DSGVO, AVG mit bedingter Cookie-Warnung und benutzerdefinierten Cookie-Richtlinien"
+
+#: functions.php:1056
+msgid "(select a region)"
+msgstr "(wähle eine Region)"
+
+#: functions.php:152
+msgid "Denied"
+msgstr "Verweigert"
+
+#: functions.php:149
+msgid "Accepted"
+msgstr "Akzeptiert"
+
+#: functions.php:148 functions.php:151
+msgid "Current status: %s"
+msgstr "Momentaner Status: %s"
+
+#: config/warnings.php:69
+msgid "Your documents have not been updated in the past 12 months. Run the wizard to check your settings."
+msgstr "Deine Dokumente wurden in den letzen 12 Monaten nicht aktualisiert. Starte bitte den Assistenten um deine Einstellungen zu überprüfen."
+
+#: config/warnings.php:21
+msgid "Not all fields have been entered, or you have not clicked the \"finish\" button yet."
+msgstr "Nicht alle Felder wurden bearbeitet, oder du hast den „Fertig stellen”-Button noch nicht betätigt."
+
+#: config/warnings.php:13
+msgid "The browser setting Do Not Track is not respected yet - (%spremium%s)"
+msgstr "Die Browsereinstellung „Nicht verfolgen” wird noch nicht beachtet - (%sPremium%s)"
+
+#: config/warnings.php:12
+msgid "Do Not Track is respected."
+msgstr "„Nicht verfolgen” wird beachtet"
+
+#: config/steps.php:93
+msgctxt "intro menu"
+msgid "Get ready to finish your configuration."
+msgstr "Bereite dich auf den Abschluss der Konfiguration vor."
+
+#: config/steps.php:57
+msgctxt "intro scan"
+msgid "The cookie scan will request several pages on your site to check if cookies are placed and will check the html of your site for known third party scripts. The cookie scan will be recurring weekly to keep you up-to-date!"
+msgstr "Der Cookie-Scan wird verschiedene Seiten deiner Seite anfordern um zu prüfen ob Cookies platziert sind und wird die html deiner Seite auf bekannte Scripts Drittanbieter absuchen. Der Cookie-Scan wird wöchentlich durchgeführt werden um dich auf dem neusten Stand zu halten!"
+
+#: config/steps.php:12
+msgid "Visitors"
+msgstr "Besucher"
+
+#: config/steps.php:15
+msgctxt "intro first step"
+msgid "The answers in the first step of the wizard are needed to configure your documents and consent banner specifically to your needs."
+msgstr "Die Antworten des ersten Schritts des Assistenten werden benötigt, um deine Dokumente und Zustimmungsbanner speziell auf dich zurechtzuschneiden."
+
+#: config/steps.php:14
+msgctxt "intro first step"
+msgid "We have tried to make our Wizard as simple and fast as possible. Although these questions are all necessary, if there’s any way you think we can improve the plugin, please let us %sknow%s!"
+msgstr "Wir haben versucht diesen Assistenten so einfach und schnell wie möglich zu gestalten. Dennoch sind diese Fragen alle von Nöten. Wenn du Verbesserungsvorschläge hast lass uns dies bitte %swissen%s!"
+
+#: config/questions-wizard.php:230
+msgid "Indicate for what purpose personal data is processed via your website:"
+msgstr "Gib an, zu welchem Zweck personenbezogene Daten über deine Website verarbeitet werden:"
+
+#: config/questions-wizard.php:201
+msgid "Phone number"
+msgstr "Telefonnummer"
+
+#: config/questions-wizard.php:46
+msgid "This will determine how many and what kind of legal documents and the type of cookie banner and other requirements your site needs."
+msgstr "Dies wird die für deine Seite benötigte Menge und Art von Rechtsdokumenten als auch die Art der Cookie-Banner sowie andere Vorraussetzungen bestimmen ."
+
+#: config/general-settings.php:251
+msgid "This will reset all settings to defaults. All data in the Complianz plugin will be deleted"
+msgstr "Dadurch werden alle Einstellungen auf die Standardwerte zurückgesetzt. Alle Daten im Complianz-Plugin werden gelöscht"
+
+#: config/general-settings.php:249
+msgid "Reset settings"
+msgstr "Einstellungen zurücksetzen"
+
+#: config/general-settings.php:228
+msgid "If you want to import your settings, please check out the %spremium version%s"
+msgstr "Wenn du deine Einstellungen importieren möchtest, informiere dich bitte über die %sPremium-Version%s"
+
+#: config/general-settings.php:226
+msgid "Import settings"
+msgstr "Einstellungen importieren"
+
+#: config/general-settings.php:214
+msgid "Export settings"
+msgstr "Export-Einstellungen"
+
+#: config/general-settings.php:198
+msgctxt "email signature"
+msgid "Regards,"
+msgstr "Grüße,"
+
+#: config/general-settings.php:197
+msgid "Your request has been processed successfully."
+msgstr "Deine Anfrage wurde erfolgreich bearbeitet."
+
+#: config/general-settings.php:195
+msgid "Hi {name}"
+msgstr "Hallo {name}"
+
+#: config/general-settings.php:193
+msgid "Notification email content"
+msgstr "Inhalt der Benachrichtigungs-E-Mail"
+
+#: config/general-settings.php:181
+msgid "Your request has been processed"
+msgstr "Deine Anfrage wurde bearbeitet"
+
+#: config/general-settings.php:179
+msgid "Notification email subject"
+msgstr "Thema der Benachrichtigungs-E-Mail"
+
+#: config/general-settings.php:167
+msgid "When emails are sent, you can choose the sender email address here. Please note that it should have this website's domain as sender domain, otherwise the server might block the email from being sent."
+msgstr "Wenn E-Mails versendet werden kannst du die Absenderadresse der E-Mail hier wählen. Bitte beachte, dass diese die Domain der Website die Domain des Senders enthält, da der Server ansonsten den Versand der E-Mail blockieren könnte."
+
+#: config/general-settings.php:164
+msgid "Notification sender email address"
+msgstr "E-Mail-Adresse des Absenders"
+
+#: config/documents/cookie-policy-eu.php:175
+msgctxt "Legal document cookie policy"
+msgid "Email:"
+msgstr "E-Mail:"
+
+#: config/documents/cookie-policy-eu.php:174
+msgctxt "Legal document cookie policy"
+msgid "Website:"
+msgstr "Website:"
+
+#: config/documents/cookie-policy-eu.php:167
+#: config/documents/cookie-policy-ca.php:149
+msgctxt "Legal document cookie policy:paragraph title"
+msgid "Contact details"
+msgstr "Kontaktdaten"
+
+#: config/documents/cookie-policy-eu.php:158
+#: config/documents/cookie-policy-ca.php:144
+msgctxt "Legal document cookie policy:paragraph title"
+msgid "Enabling/disabling and deleting cookies"
+msgstr "Aktivierung/Deaktivierung und Löschen von Cookies"
+
+#: config/documents/cookie-policy-eu.php:146
+msgctxt "Legal document cookie policy"
+msgid "Right to rectification: you have the right to supplement, correct, have deleted or blocked your personal data whenever you wish."
+msgstr "Recht auf Berichtigung: Du hast das Recht wann immer du wünscht, deine persönlichen Daten zu ergänzen, zu korrigieren sowie gelöscht oder blockiert zu bekommen."
+
+#: config/documents/cookie-policy-eu.php:145
+msgctxt "Legal document cookie policy"
+msgid "Right of access: You have the right to access your personal data that is known to us."
+msgstr "Zugriffsrecht: Du hast das Recht deine uns bekannten persönlichen Daten einzusehen."
+
+#: config/documents/cookie-policy-eu.php:144
+msgctxt "Legal document cookie policy"
+msgid "You have the right to know why your personal data is needed, what will happen to it, and how long it will be retained for."
+msgstr "Du hast das Recht zu wissen, warum deine persönlichen Daten gebraucht werden, was mit ihnen passiert und wie lange diese verwahrt werden."
+
+#: config/documents/cookie-policy-eu.php:138
+#: config/documents/cookie-policy-ca.php:131
+msgctxt "Legal document cookie policy"
+msgid "You have the following rights with respect to your personal data:"
+msgstr "Du hast in Bezug auf deine persönlichen Daten die folgenden Rechte:"
+
+#: config/documents/cookie-policy-eu.php:136
+#: config/documents/cookie-policy-ca.php:128
+msgctxt "Legal document cookie policy:paragraph title"
+msgid "Your rights with respect to personal data"
+msgstr "Deine Rechte in Bezug auf persönliche Daten"
+
+#: templates/cookiepolicy_services.php:13
+msgctxt "Legal document cookie policy"
+msgid "Sharing"
+msgstr "Weitergabe"
+
+#: config/documents/cookie-policy-eu.php:128
+#: config/documents/cookie-policy-ca.php:120
+msgctxt "Legal document cookie policy:paragraph title"
+msgid "Placed cookies"
+msgstr "Platzierte Cookies"
+
+#: config/documents/cookie-policy-eu.php:112
+#: config/documents/cookie-policy-ca.php:104
+msgctxt "Legal document cookie policy"
+msgid "On our website we do not use social media buttons to promote web pages or share them on social networks."
+msgstr "Auf unserer Website nutzen wir keine Soziale-Medien-Buttons um Internetseiten zu bewerten oder in sozialen Netzwerken zu teilen."
+
+#: config/documents/cookie-policy-eu.php:111
+#: config/documents/cookie-policy-eu.php:117
+#: config/documents/cookie-policy-ca.php:103
+#: config/documents/cookie-policy-ca.php:109
+msgctxt "Legal document cookie policy:paragraph title"
+msgid "Social media buttons"
+msgstr "Soziale-Medien-Buttons"
+
+#: config/documents/cookie-policy-eu.php:105
+#: config/documents/cookie-policy-ca.php:97
+msgctxt "Legal document cookie policy"
+msgid "We do not use any advertising cookies on this website."
+msgstr "Wir verwenden keine Werbecookies auf dieser Website."
+
+#: config/documents/cookie-policy-eu.php:99
+msgctxt "Legal document cookie policy"
+msgid "Because these cookies are marked as tracking cookies, we ask your permission to place these."
+msgstr "Da diese Cookies als Verfolgungs-Cookie markiert sind, benötigen wir deine Zustimmung, um diese zu platzieren."
+
+#: config/documents/cookie-policy-eu.php:81
+#: config/documents/cookie-policy-eu.php:90
+#: config/documents/cookie-policy-eu.php:104
+#: config/documents/cookie-policy-ca.php:71
+#: config/documents/cookie-policy-ca.php:80
+#: config/documents/cookie-policy-ca.php:96
+msgctxt "Legal document cookie policy:paragraph title"
+msgid "Advertising cookies"
+msgstr "Werbecookies"
+
+#: config/documents/cookie-policy-eu.php:75
+#: config/documents/cookie-policy-ca.php:65
+msgctxt "Legal document cookie policy"
+msgid "We do not use analytical cookies on this website."
+msgstr "Wir verwenden keine Analysecookies auf dieser Website."
+
+#: config/documents/cookie-policy-eu.php:58
+#: config/documents/cookie-policy-eu.php:66
+#: config/documents/cookie-policy-eu.php:74
+#: config/documents/cookie-policy-ca.php:57
+#: config/documents/cookie-policy-ca.php:64
+msgctxt "Legal document cookie policy:paragraph title"
+msgid "Analytical cookies"
+msgstr "Analysecookies"
+
+#: config/documents/cookie-policy-eu.php:52
+#: config/documents/cookie-policy-ca.php:51
+msgctxt "Legal document cookie policy:paragraph title"
+msgid "Technical or functional cookies"
+msgstr "Technische oder funktionelle Cookies"
+
+#: config/documents/cookie-policy-eu.php:48
+#: config/documents/cookie-policy-ca.php:48
+msgctxt "Legal document cookie policy:paragraph title"
+msgid "Cookies"
+msgstr "Cookies"
+
+#: config/documents/cookie-policy-ca.php:43
+msgctxt "Legal document cookie policy:paragraph title"
+msgid "Third parties"
+msgstr "Drittparteien:"
+
+#: config/documents/cookie-policy-eu.php:26
+#: config/documents/cookie-policy-eu.php:34
+#: config/documents/cookie-policy-ca.php:31
+msgctxt "Legal document cookie policy:paragraph title"
+msgid "Consent"
+msgstr "Zustimmung"
+
+#: config/documents/cookie-policy-eu.php:21
+#: config/documents/cookie-policy-ca.php:26
+msgctxt "Legal document cookie policy:paragraph title"
+msgid "What is a web beacon?"
+msgstr "Was ist ein Web beacon?"
+
+#: config/documents/cookie-policy-eu.php:17
+#: config/documents/cookie-policy-ca.php:22
+msgctxt "Legal document cookie policy:paragraph title"
+msgid "What are scripts?"
+msgstr "Was sind Skripte?"
+
+#: config/documents/cookie-policy-eu.php:13
+#: config/documents/cookie-policy-ca.php:18
+msgctxt "Legal document cookie policy:paragraph title"
+msgid "What are cookies?"
+msgstr "Was sind Cookies?"
+
+#: config/documents/cookie-policy-eu.php:9
+#: config/documents/cookie-policy-ca.php:13
+msgctxt "Legal document cookie policy:paragraph title"
+msgid "Introduction"
+msgstr "Einführung"
+
+#: config/documents/cookie-policy-eu.php:6
+msgctxt "Legal document cookie policy"
+msgid "This cookie statement was last updated on %s and applies to citizens of the European Economic Area."
+msgstr "Diese Cookie-Erklärung wurde zuletzt am %s aktualisiert und gilt für Bürger der Europäischen Wirtschaftszone."
+
+#: config/countries.php:52
+msgid "GDPR"
+msgstr "GDPR"
+
+#: config/countries.php:50
+msgid "EU"
+msgstr "EU"
+
+#: config/countries.php:38
+msgid "US"
+msgstr "US"
+
+#: config/cookie-settings.php:385 cookiebanner/settings.php:820
+msgid "Text on link to privacy statement"
+msgstr "Text des Links zur Datenschutzerklärung"
+
+#: config/cookie-settings.php:384 cookiebanner/settings.php:819
+#: integrations/plugins/gravity-forms.php:69
+msgid "Privacy statement"
+msgstr "Datenschutzerklärung"
+
+#: config/cookie-settings.php:372 cookiebanner/settings.php:806
+msgid "Text on link to the Do Not Sell My Personal Information page."
+msgstr "Text zum Link der zur Seite „Do Not Sell My Personal Information“ führt."
+
+#: config/cookie-settings.php:279 cookiebanner/settings.php:263
+msgid "If you hide this button, you should at least leave the option to revoke consent on your cookie policy or Do Not Sell My Personal Information page"
+msgstr "Wenn du diesen Button ausblendest, solltest du zumindest die Option zum Widerrufen deiner Zustimmung betreffend, deine Cookie-Richtlinien oder \"Meine persönlichen Informationen nicht verkaufen\"-Seite angezeigt lassen."
+
+#: config/cookie-settings.php:275
+msgid "Hide settings button"
+msgstr "\"Einstellungen ausblenden\"-Button"
+
+#: config/cookie-settings.php:210 cookiebanner/settings.php:708
+msgid "Text on link to cookie policy"
+msgstr "Text des Links zu den Cookie-Richtlinien"
+
+#: config/general-settings.php:11
+msgid "If enabled, the cookie warning will not show for countries without a cookie law, and will adjust the warning type depending on supported privacy laws"
+msgstr "Wenn aktiviert, wird die Cookie-Warnung nicht in Ländern ohne Cookie-Gesetze erscheinen und wird abhänig von unterstützten Datenschutzgesetzen abgeändert werden."
+
+#: config/purpose.php:81
+msgid "other information concerning the child or the parents, combined with an identifier as described above."
+msgstr "Andere Informationen Kinder oder Eltern betreffend, kombiniert mit einer wie oben beschriebenen Markierung."
+
+#: config/purpose.php:79
+msgid "an identifier that permits the physical or online contacting of a child"
+msgstr "eine Kennung welche die physische- oder Online-Kontaktaufnahme zu einem Kind gestattet"
+
+#: config/purpose.php:78
+msgid "a Social Security number"
+msgstr "eine Sozialversicherungsnummer"
+
+#: config/purpose.php:77
+msgid "a telephone number"
+msgstr "eine Telefonnummer"
+
+#: config/purpose.php:75
+msgid "an email address from the parent or guardian"
+msgstr "eine E-Mail-Adresse der Eltern od. des Erziehungsberechtigten"
+
+#: config/purpose.php:73
+msgid "an email address from the child"
+msgstr "eine E-Mail-Adresse des Kindes"
+
+#: config/purpose.php:71
+msgid "a home or other physical address including street name and name of a city or town"
+msgstr "ein Zuhause oder andere physische Adresse einschließlich Straßenname und Name der Stadt/Ort"
+
+#: config/purpose.php:70
+msgid "a first and last name"
+msgstr "ein Vor- und Nachname"
+
+#: config/purpose.php:63
+msgid "Geolocation data"
+msgstr "Geolokalisierungsdaten"
+
+#: config/purpose.php:61
+msgid "Internet activity information, including, but not limited to, browsing history, search history, and information regarding a consumer's interaction with an Internet Web site, application, or advertisement."
+msgstr "Informationen über Internetaktivitäten, einschließlich, aber nicht ausschließlich, Browserverlauf, Suchverlauf und Informationen über die Interaktionen des Kunden mit einer Internetseite, einem Programm oder einer Werbung."
+
+#: config/purpose.php:59
+msgid "Biometric information"
+msgstr "Biometrische Informationen"
+
+#: config/purpose.php:57
+msgid "Commercial information, including records of personal property, products or services purchased, obtained, or considered"
+msgstr "Kommerzielle Informationen, einschließlich Aufzeichnungen von persönlichem Eigentum sowie von erworbenen, erlangten oder berücksichtigten Produkten oder Dienstleistungen"
+
+#: config/purpose.php:55
+msgid "Health insurance information"
+msgstr "Informationen zur Krankenversicherung"
+
+#: config/purpose.php:54
+msgid "Medical information"
+msgstr "Medizinische Informationen"
+
+#: config/purpose.php:52
+msgid "Financial information such as bank account number of credit card number"
+msgstr "Finanzielle Informationen wie beispielsweise Bankkonto- oder Kreditkartennummer"
+
+#: config/purpose.php:51
+msgid "Bank account number"
+msgstr "Kontonummer"
+
+#: config/purpose.php:50
+msgid "Employment history"
+msgstr "Personalverlauf"
+
+#: config/purpose.php:48
+msgid "Professional or employment-related information"
+msgstr "Beschäftigungs- oder Angestelltenbezogene Informationen"
+
+#: config/purpose.php:46
+msgid "Education information"
+msgstr "Ausbildungsinformationen"
+
+#: config/purpose.php:44
+msgid "Insurance policy number"
+msgstr "Krankenversicherungsnummer"
+
+#: config/purpose.php:42
+msgid "State identification card number"
+msgstr "Personalausweisnummer"
+
+#: config/purpose.php:41
+msgid "Driver's license"
+msgstr "Führerschein"
+
+#: config/purpose.php:40
+msgid "Passport number"
+msgstr "Ausweisnummer"
+
+#: config/purpose.php:38
+msgid "Physical characteristics or description"
+msgstr "Physische Charakteristika oder Beschreibung"
+
+#: config/purpose.php:37
+msgid "A signature"
+msgstr "Eine Unterschrift"
+
+#: config/purpose.php:34
+msgid "Any other identifier that permits the physical or online contacting of a specific individual"
+msgstr "Jede andere Kennung, welche die physische- oder Online-Kontaktaufnahme zu einem spezifischen Individuum erlaubt"
+
+#: config/purpose.php:32
+msgid "A social security number"
+msgstr "Eine Sozialversicherungsnummer"
+
+#: config/purpose.php:31
+msgid "A telephone number"
+msgstr "Eine Telefonnummer"
+
+#: config/purpose.php:30
+msgid "An email address"
+msgstr "Eine E-Mail-Adresse"
+
+#: config/purpose.php:28
+msgid "A home or other physical address, including street name and name of a city or town"
+msgstr "Ein Zuhause oder andere physische Adresse, einschließlich Straßenname und Name der Stadt/Ort"
+
+#: config/purpose.php:26
+msgid "Account name or alias"
+msgstr "Name oder Pseudonym des Kontos"
+
+#: config/purpose.php:24
+msgid "A first and last name"
+msgstr "Ein Vor- und Nachname"
+
+#: config/purpose.php:21
+msgid "To sell data to third parties"
+msgstr "Um Daten an Drittparteien zu verkaufen"
+
+#: config/purpose.php:15
+msgid "To be able to offer personalized products and services."
+msgstr "Um personalisierte Produkte und Dienstleistungen anbieten zu können."
+
+#: config/purpose.php:13
+msgid "Compiling and analyzing statistics for website improvement."
+msgstr "Erstellung und Analyse von Statistiken zur Verbesserung der Website."
+
+#: config/purpose.php:11
+msgid "To be able to comply with legal obligations"
+msgstr "Um den gesetzlichen Verpflichtungen nachkommen zu können."
+
+#: config/purpose.php:9
+msgid "To support services or products that a customer wants to buy or has purchased"
+msgstr "Zur Unterstützung von Dienstleistungen oder Produkten, die dein Kunde kaufen möchte oder gekauft hat"
+
+#: config/purpose.php:8
+msgid "Newsletters"
+msgstr "Rundschreiben"
+
+#: config/purpose.php:6
+msgid "Registering an account"
+msgstr "Registrierung eines Kontos"
+
+#: config/purpose.php:5
+msgid "Payments"
+msgstr "Zahlungen"
+
+#: config/purpose.php:3
+msgid "Contact - Through phone, mail, email and/or webforms"
+msgstr "Kontakt - Über Telefon, Post, E-Mail und/oder Webformulare"
+
+#: class-wizard.php:513
+msgid "If this user stops editing, the lock will expire after %s minutes."
+msgstr "Wenn dieser Benutzer die Bearbeitung einstellt, wird die Sperre nach %s Minute(n) aufgehoben."
+
+#: class-wizard.php:511
+msgid "The wizard is currently being edited by %s"
+msgstr "Der Assistent wird im Moment von %s bearbeitet"
+
+#: class-wizard.php:139
+msgid "Your site needs a cookie warning. The cookie warning has been configured with default settings. Check the cookie warning settings to customize it."
+msgstr "Deine Site benötigt eine Cookie-Warnung. Die Cookie-Warnung wurde mit den Standardeinstellungen konfiguriert. Überprüfe bitte die Cookie-Warneinstellungen, um sie anzupassen."
+
+#: class-wizard.php:130
+msgid "Click '%s' to complete the configuration. You can come back to change your configuration at any time."
+msgstr "Klicke auf '%s', um die Konfiguration abzuschließen. Du kannst jederzeit zurückkehren, um die Einstellungen zu verändern."
+
+#: class-wizard.php:128
+msgid "All steps have been completed."
+msgstr "Alle Schritte wurden ausgeführt."
+
+#: class-field.php:1983
+msgid "Name of the third party with whom you share the data"
+msgstr "Name der Drittparteien mit denen du Daten teilst"
+
+#: class-field.php:1945
+msgid "Add new %s"
+msgstr "Neue %s hinzufügen"
+
+#: class-field.php:1934 class-field.php:2041
+msgid "New entry"
+msgstr "Neuer Eintrag"
+
+#: class-field.php:1886
+msgid "%s country"
+msgstr "%s Land"
+
+#: class-field.php:1874
+msgid "A processing agreement outside Complianz Privacy Suite"
+msgstr "Ein Verarbeitungsvereinbarung außerhalb Compilanz Privacy Suite"
+
+#: class-field.php:1851
+msgid "Name of the %s with whom you share the data"
+msgstr "Name der %s mit denen du Daten teilst"
+
+#: class-field.php:1825
+msgid "list"
+msgstr "Liste"
+
+#: templates/service_settings.php:25
+msgid "Privacy Statement URL"
+msgstr "URL der Datenschutzerklärung"
+
+#: class-field.php:1587
+msgid "Start"
+msgstr "Anfang"
+
+#: class-document.php:1608
+msgid "Your WordPress version does not support the functions needed for this step. You can upgrade to the latest WordPress version, or add the pages manually to a menu."
+msgstr "Deine WordPress-Version unterstüzt die für diesen Schritt nötigen Funktionen nicht. Du kannst auf die neuste WordPress-Version upgraden, oder die Seiten manuell einem Menü hinzufügen."
+
+#: class-document.php:1042
+msgctxt "Email message in notification email"
+msgid "Your legal documents on %s have not been updated in 12 months. Please log in and run the wizard to check if everything is up to date."
+msgstr "Deine Rechtsdokumente auf %s wurden seid 12 Monaten nicht aktualisiert. Bitte logge dich ein und starte den Assistenten um zu überprüfen ob alles auf dem neusten Stand ist."
+
+#: class-document.php:1036
+msgctxt "Subject in notification email"
+msgid "Your legal documents on %s need to be updated."
+msgstr "Deine Rechtsdokumente auf %s müssen aktualisiert werden."
+
+#: cookie/class-cookie-admin.php:3336
+msgid "Third party scripts will get detected if they're listed in the third party list."
+msgstr "Skripte von Drittparteien werden erkannt, wenn sie in der Drittparteienliste aufgeführt werden."
+
+#: cookie/class-cookie-admin.php:3323
+msgid "You are using an anonymous window. This will prevent most cookies from being placed. Please run the scan in a normal browser window."
+msgstr "Du verwendest ein anonymes Fenster. Dies verhindert die Platzierung der meisten Cookies. Bitte führe den Scan in einem normalen Browserfenster aus."
+
+#: cookie/class-cookie-admin.php:3320
+msgid "You are using an ad blocker. This will prevent most cookies from being placed. Please run the scan without an adblocker enabled."
+msgstr "Du verwendest einen AdBlocker. Dies verhindert die Platzierung der meisten Cookies. Bitte führe den Scan ohne aktivierten AdBlocker aus."
+
+#: cookie/class-cookie-admin.php:3314
+msgid "You have Do Not Track enabled. This will prevent most cookies from being placed. Please run the scan with Do Not Track disabled."
+msgstr "Du hast „Nicht verfolgen” aktiviert.  Dies verhindert die Platzierung der meisten Cookies. Bitte führe den Scan ohne aktiviertes \"Nicht verfolgen\" aus."
+
+#: integrations/integrations-menu.php:50
+msgctxt "intro script center"
+msgid "The script center should be used to add and block third-party scripts and iFrames before consent is given, or when consent is revoked. For example Hotjar and embedded video’s."
+msgstr "Das Script-Center sollte genutzt werden um Skripte Drittparteien sowie iFrames hinzuzufügen und zu blockieren wenn Zustimmung gegeben oder zurückgenommen wurde. Zum Beispiel Hotjar und eingebettete Videos."
+
+#: class-admin.php:1282
+msgid "Your site is configured for %s."
+msgstr "Deine Seite ist für %s konfiguriert."
+
+#: class-admin.php:1263
+msgid "System status"
+msgstr "System-Status"
+
+#: class-admin.php:1255
+msgid "Nothing on your to do list"
+msgstr "Nichts auf deiner ToDo-Liste"
+
+#: class-admin.php:1208
+msgid "Tasks"
+msgstr "Aufgaben"
+
+#: class-admin.php:1066
+msgid "Discover premium"
+msgstr "Entdecke Premium"
+
+#: class-admin.php:1062
+msgid "& more!"
+msgstr "& mehr!"
+
+#: class-admin.php:1061
+msgid "Premium support"
+msgstr "Premium-Support"
+
+#: class-admin.php:1060
+msgid "More legal documents"
+msgstr "Mehr Rechtsdokumente"
+
+#: class-admin.php:1059
+msgid "Multiple regions"
+msgstr "Mehrere Regionen"
+
+#: class-admin.php:1057
+msgid "A/B testing"
+msgstr "A/B-Test"
+
+#: class-admin.php:1055
+msgid "Then you'll like the premium plugin even more! With: "
+msgstr "Dann wirst du das Premium-Plugin noch mehr mögen! Mit:"
+
+#: class-admin.php:1042
+msgid "Privacy Statement (%s) - (%spremium%s)"
+msgstr "Datenschutzerklärung (%s) - (%sPremium%s)"
+
+#: class-admin.php:1000
+msgid "You should create a %s"
+msgstr "Du solltest ein %s erstellen"
+
+#: config/steps.php:20 config/steps.php:91 class-admin.php:920
+msgid "Documents"
+msgstr "Dokumente"
+
+#: class-admin.php:140
+msgid "Data successfully cleared"
+msgstr "Daten erfolgreich gereinigt"
+
+#: callback-notices.php:207
+msgid "You have indicated your site does not use cookies. If you're sure about this, you can skip this step"
+msgstr "Du hast angedeutet, dass deine Seite keine Cookies verwendet. Wenn du damit sicher bist, kannst du diesen Schritt überspringen"
+
+#: callback-notices.php:83
+msgid "The scan found forms on your site, which means answer should probably include \"contact\"."
+msgstr "Der Scan hat Fomulare auf deiner Seite entdeckt, was bedeutet dass du vermutlich \"Kontakt\" einschließen sollten."
+
+#: integrations/plugins/caos-host-analytics-local.php:83
+#: integrations/plugins/beehive.php:45
+#: integrations/plugins/monsterinsights.php:35
+msgid "You use %s, which means the answer to this question should be Google Analytics."
+msgstr "Du verwendest %s. Dies bedeutet, dass die Antwort auf diese Frage Google-Analytics sein sollte."
+
+#: config/documents/cookie-policy-eu.php:35
+msgctxt "Legal document cookie policy"
+msgid "When you visit our website for the first time, we will show you a pop-up with an explanation about cookies. As soon as you click on \"%s\", you consent to us using the categories of cookies and plug-ins you selected in the pop-up, as described in this cookie statement. You can disable the use of cookies via your browser, but please note that our website may no longer work properly."
+msgstr "Wenn du unsere Website das erste Mal besuchst, zeigen wir Ihnen ein Pop-Up mit einer Erklärung über Cookies. Sobald du auf \"%s\" klickst, gibst du uns dein Einverständnis alle von dir gewählten Kategorien von Cookies und Plugins wie in dieser Cookie-Erklärung beschrieben zu verwenden. Du kannst die Verwendung von Cookies über deinen Browser deaktivieren, aber bitte beachte, dass unsere Website dann unter Umständen nicht richtig funktioniert."
+
+#: config/cookie-settings.php:277
+msgid "If you want to hide the revoke button, enable this check box. The revoke button will normally show after making a choice."
+msgstr "Wenn du den Widerrufs-Button ausblenden möchtest, markiere dieses Kontrollkästchen. Der Widerrufs-Button wird normalerweise erscheinen nachdem du eine Entscheidung getroffen hast."
+
+#: functions.php:85
+msgid "Based on your Analytics configuration you should fire Analytics as a non-functional cookie with a category of your choice, for example cmplz_event_0."
+msgstr "Basierend auf deiner Analytics-Konfiguration solltest du Analytics als Non-funktionales Cookie aus einer Kategorie deiner Wahl entfernen, zum Beispiel cmplz_event_0."
+
+#: functions.php:81
+msgid "Based on your Analytics configuration you should fire Analytics as a functional cookie on event cmplz_event_functional."
+msgstr "Basierend auf deiner Analytics-Konfiguration solltest du Analytics als funktionales Cookie aus dem Ereignis cmplz_event_functional entfernen."
+
+#: DNSMPD/csv.php:59 DNSMPD/class-DNSMPD-table.php:166
+msgid "Email"
+msgstr "E-Mail"
+
+#: class-cookiestatement-snapshot-table.php:163
+msgid "Download"
+msgstr "Herunterladen"
+
+#: config/warnings.php:7
+msgid "The Complianz plugin has new features. Please check the wizard to see if all your settings are still up to date."
+msgstr "Das Complianz-Plugin hat neue Funktionen. Bitte kontrolliere den Assistenten, ob alle Einstellungen noch aktuell sind."
+
+#: config/questions-wizard.php:431
+msgid "For the Google Analytics UA code, log on and click Admin and copy the UA code below Tracking-ID."
+msgstr "Für den Google Analytics UA-Code melde dich bitte an, klicke auf Admin und kopiere den UA-Code unter Tracking-ID."
+
+#: config/questions-wizard.php:414
+msgid "For the Google Tag Manager code, log on. Then, you will immediatly see Container codes. The one next to your website name is the code you will need to fill in here, the Container ID."
+msgstr "Melde dich für den Google Tag-Manager-Code an. Danach siehst du dann sofort die Containercodes. Der Code neben deinem Website-Namen ist der Code, den du hier eingeben musst. Die Container-ID."
+
+#: config/questions-wizard.php:350
+msgid "If you use Tag Manager to fire scripts on your site, Complianz will automatically enable categories."
+msgstr "Wenn du einen Tag-Manager verwendest, um Skripts auf deiner Site auszulösen, aktiviert Complianz automatisch Kategorien."
+
+#: config/questions-wizard.php:348
+msgid "Tag Manager fires scripts which place cookies"
+msgstr "Tag-Manager startet Skripte, die Cookies setzen."
+
+#: config/questions-wizard.php:327
+msgid "With Tag Manager you can configure the selective firing of cookies in the Tag Manager dashboard."
+msgstr "Mit Tag-Manager kannst du das selektive Auslösen von Cookies im Tag-Manager-Dashboard konfigurieren."
+
+#: config/questions-wizard.php:299
+msgid "If you do not check to always block acquiring IP addresses, the IP addresses will get acquired as soon as the user accepts statistics or higher."
+msgstr "Wenn du das grundsätzliche Beziehen von IP-Adressen nicht ausgewählt hast, werden die IP-Adressen bezogen, sobald der Benutzer Statistiken oder höherem zugestimmt hat."
+
+#: config/questions-wizard.php:296
+msgid "Always block acquiring of IP addresses"
+msgstr "Blockiere die Beschaffung der IP-Adresse dauerhaft"
+
+#: config/general-settings.php:72
+msgid "Enable if you want to add custom CSS for the documents"
+msgstr "Aktivieren, wenn du benutzerdefiniertes CSS für die Dokumente hinzufügen möchtest."
+
+#: config/general-settings.php:69
+msgid "Add custom document CSS"
+msgstr "Hinzufügen von benutzerdefinierten Dokumenten CSS"
+
+#: config/cookie-settings.php:439 cookiebanner/settings.php:452
+msgid "Use Custom CSS"
+msgstr "Benutzerdefiniertes CSS verwenden"
+
+#: config/cookie-settings.php:258 cookiebanner/settings.php:564
+msgid "First category, Second category"
+msgstr "Erste Kategorie, Zweite Kategorie"
+
+#: config/cookie-settings.php:253
+msgid "Enter your custom Tag Manager categories, comma separated. The first item will fire event cmplz_event_0, the second one will fire cmplz_event_1 and so on. At page load cmplz_event_functional is fired, Marketing fires cmplz_event_all"
+msgstr "Gib die benutzerdefinierten Tag-Manager-Kategorien, kommagetrennt ein. Der erste Gegenstand startet das Ereignis cmplz_event_0, der zweite das Ereignis cmplz_event_1 und so weiter. Bei Seitenaufruf wird cmplz_event_funktional ausgeführt, Marketing startet cmplz_event_all."
+
+#: config/cookie-settings.php:251 cookiebanner/settings.php:557
+msgid "Custom Tag Manager categories"
+msgstr "Benutzerdefinierte Tag-Manager-Kategorien"
+
+#: config/cookie-settings.php:223 config/cookie-settings.php:238
+#: cookiebanner/settings.php:521 cookiebanner/settings.php:537
+msgid "Depending on your settings and cookies you use, there can be two or three categories. With Tag Manager you can use more, custom categories."
+msgstr "Je nach deinen Einstellungen und den von dir verwendeten Cookies, kann es zwei oder drei Kategorien geben. Mit dem Tag-Manager können von dir mehrere, benutzerdefinierte Kategorien verwendet werden."
+
+#: config/cookie-settings.php:221 config/cookie-settings.php:236
+#: cookiebanner/settings.php:519 cookiebanner/settings.php:535
+msgid "With categories, you can let users choose which category of cookies they want to accept."
+msgstr "Bei Kategorien kannst du den Benutzern die Wahl lassen, welche Kategorie von Cookies sie akzeptieren möchten."
+
+#: config/cookie-settings.php:220 config/cookie-settings.php:235
+msgid "Use categories"
+msgstr "Kategorien verwenden"
+
+#: config/cookie-settings.php:82
+msgid "The text that appears on the revoke button, which shows when a choice has been made in the cookie warning."
+msgstr "Der Text, der auf dem Widerrufs-Button erscheint, der anzeigt, wenn in der Cookie-Warnung eine Auswahl getroffen wurde."
+
+#: config/cookie-settings.php:80 config/cookie-settings.php:122
+msgid "Settings text"
+msgstr "Einstellungstext"
+
+#: config/cookie-settings.php:186 cookiebanner/settings.php:681
+msgid "This text is shown in the button which accepts all cookies. These are generally marketing related cookies, so you could also name it \"Marketing\""
+msgstr "Dieser Text wird auf dem Button angezeigt, der alle Cookies akzeptiert. Dies sind im Allgemeinen marketingbezogene Cookies, so dass du sie auch \"Marketing\" nennen kannst."
+
+#: config/cookie-settings.php:185
+msgid "All cookies"
+msgstr "Alle Cookies"
+
+#: config/cookie-settings.php:174 cookiebanner/settings.php:655
+msgid "It depends on your settings if this category is necessary, so it will conditionally show"
+msgstr "Es hängt von deinen Einstellungen ab, ob diese Kategorie notwendig ist, so dass sie bedingt angezeigt wird."
+
+#: config/cookie-settings.php:172
+msgid "Statistics cookies text"
+msgstr "Text für Statistik-Cookies"
+
+#: config/steps.php:61 config/cookie-settings.php:171
+#: cookiebanner/settings.php:652 class-admin.php:1058
+msgid "Statistics"
+msgstr "Statistiken"
+
+#: config/cookie-settings.php:144 cookiebanner/settings.php:667
+msgid "Marketing"
+msgstr "Marketing"
+
+#: config/cookie-settings.php:94 config/cookie-settings.php:133
+#: cookiebanner/settings.php:581
+msgid "Functional cookies text"
+msgstr "Text für funktionale Cookies"
+
+#: config/cookie-settings.php:131
+msgid "Functional cookies"
+msgstr "Funktionale Cookies"
+
+#: config/cookie-settings.php:121 cookiebanner/settings.php:610
+msgid "View preferences"
+msgstr "Einstellungen anzeigen"
+
+#: config/cookie-settings.php:108
+msgid "Save settings text"
+msgstr "Einstellungstext speichern"
+
+#: config/cookie-settings.php:107 cookiebanner/settings.php:595
+msgid "Save preferences"
+msgstr "Einstellungen speichern"
+
+#: config/cookie-settings.php:97 cookiebanner/settings.php:584
+msgid "When a users clicks this button, the message is dismissed, without activating all cookies. This can be described as a \"dismiss\" button or as an \"activate functional cookies\" only button."
+msgstr "Wenn ein Benutzer auf diesen Button klickt, wird die Nachricht abgelehnt, ohne alle Cookies zu aktivieren. Dies kann als \"Ablehnen\"-Button oder als reiner \"Funktionale Cookies aktivieren\"-Button beschrieben werden."
+
+#: config/cookie-settings.php:93 cookiebanner/settings.php:580
+msgid "Functional only"
+msgstr "Nur funktionsfähig"
+
+#: config/cookie-settings.php:56 cookiebanner/settings.php:206
+msgid "Minimal"
+msgstr "Minimal"
+
+#: config/cookie-settings.php:39 cookiebanner/settings.php:189
+msgid "Center"
+msgstr "Zentrum"
+
+#: config/general-settings.php:37
+msgid "Duration in days of the A/B testing period"
+msgstr "Dauer in Tagen des A/B-Testzeitraums"
+
+#: config/general-settings.php:25
+msgid "If enabled, the plugin will track which cookie warning has the best conversion rate."
+msgstr "Wenn aktiviert, verfolgt das Plugin, welche Cookie-Warnung die beste Konversionsrate hat."
+
+#: config/general-settings.php:23
+msgid "Enable A/B testing"
+msgstr "A/B-Test aktivieren"
+
+#: config/class-config.php:670
+msgid "If you want to run a/b testing to track which banner gets the highest acceptance ratio, %sget premium%s."
+msgstr "Wenn du A/B-Tests durchführen möchtest, um zu verfolgen, welches Banner die höchste Akzeptanzrate erhält, dann wähle %sErhalte Premium%s."
+
+#: cookiebanner/class-cookiebanner-table.php:204
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: class-wizard.php:931
+msgid "This document has been saved as \"%s\" (%sview%s). You can view existing documents on the %soverview page%s"
+msgstr "Dieses Dokument wurde als \"%s\" (%sAnsehen%s) gespeichert. Du kannst vorhandene Dokumente auf der %sÜbersichtsseite%s ansehen."
+
+#: class-field.php:1871
+msgid "No agreement selected"
+msgstr "Keine Vereinbarung ausgewählt"
+
+#: class-field.php:1862
+msgid "Select the processing agreement you made with this %s, or %screate one%s"
+msgstr "Wähle die Datenschutzvereinbarung die du mit %s erstellt hast, oder %sErstelle eine%s"
+
+#: config/warnings.php:64
+msgid "Matomo is being used, but is not configured in Complianz."
+msgstr "Matomo wird verwendet, ist aber in Complianz nicht konfiguriert."
+
+#: config/warnings.php:59
+msgid "Google Tagmanager is being used, but is not configured in Complianz."
+msgstr "Google Tag-Manager wird verwendet, ist aber in Complianz nicht konfiguriert."
+
+#: config/questions-wizard.php:463
+msgid "e.g. https://domain.com/stats"
+msgstr "z.B. https://domain.com/stats"
+
+#: config/questions-wizard.php:458
+msgid "Enter the URL of Matomo"
+msgstr "Gib die URL von Matomo ein"
+
+#: config/questions-wizard.php:443
+msgid "Enter your Matomo site ID"
+msgstr "Bitte deine Matomo-Standort-ID eingeben"
+
+#: config/general-settings.php:93
+msgid "Add your own custom document css here"
+msgstr "Füge hier deine eigene benutzerdefinierte Dokumenten-CSS hinzu."
+
+#: config/general-settings.php:79
+msgid "Custom document CSS"
+msgstr "Benutzerdefiniertes Dokument CSS"
+
+#: integrations/integrations-menu.php:41
+msgid "Script Center"
+msgstr "Skript-Center"
+
+#: config/questions-wizard.php:535
+msgid "Select the types of third party services you use on your site."
+msgstr "Wähle die Arten von Drittanbieterdiensten aus, die du auf deiner Website nutzst."
+
+#: config/questions-wizard.php:522
+msgid "e.g. services like Google Fonts, Maps or recaptcha usually place cookies."
+msgstr "z.B. Dienste wie Google Fonts, Maps oder Recaptcha setzen normalerweise Cookies."
+
+#: config/questions-wizard.php:520
+msgid "Does your website use third party services?"
+msgstr "Nutzt deine Website Dienstleistungen von Drittanbietern?"
+
+#: config/cookie-settings.php:448 cookiebanner/settings.php:462
+msgid "Custom CSS"
+msgstr "Benutzerdefiniertes CSS"
+
+#: cookie/class-cookie-admin.php:3138
+msgid "Third party services"
+msgstr "Dienstleistungen von Drittanbietern"
+
+#: cookie/class-cookie-admin.php:3123
+msgid "Social media"
+msgstr "Soziale Medien"
+
+#: cookie/class-cookie-admin.php:3102
+msgid "Cookies on your own domain"
+msgstr "Cookies auf deiner eigenen Domain"
+
+#: class-admin.php:1109
+msgid "Check out the docs on complianz.io!"
+msgstr "Schau dir die Dokumente auf complianz.io! an."
+
+#: class-admin.php:1106
+msgid "Documentation"
+msgstr "Dokumentation"
+
+#: callback-notices.php:98
+msgid "The scan found third party services on your website: %s, this means the answer should be yes."
+msgstr "Die Überprüfung fand Dienste von Drittanbietern für %s auf deiner Website, was bedeutet, dass die Antwort ja sein sollte."
+
+#: config/general-settings.php:62
+msgid "Disable if you don't want the default Complianz document CSS to load"
+msgstr "Bitte deaktiviere diese Option, wenn das standardmäßige Complianz-Dokument-CSS nicht geladen werden soll"
+
+#: config/general-settings.php:59
+msgid "Use document CSS"
+msgstr "Dokument CSS verwenden"
+
+#: config/cookie-settings.php:431
+msgid "Border color"
+msgstr "Randfarbe"
+
+#: class-wizard.php:1003
+msgid "View document"
+msgstr "Dokument anzeigen"
+
+#: cookiebanner/class-cookiebanner-table.php:228 DNSMPD/csv.php:58
+#: DNSMPD/class-DNSMPD-table.php:165 templates/cookie_settings.php:4
+#: templates/cookiepolicy_services.php:6 templates/service_settings.php:3
+msgid "Name"
+msgstr "Name"
+
+#: class-field.php:815
+msgid "No options found"
+msgstr "Keine Optionen gefunden"
+
+#: class-admin.php:1218
+msgid "No cookies detected yet"
+msgstr "Noch keine Cookies erkannt"
+
+#: config/questions-wizard.php:365
+msgid "If ip numbers are anonymized, the statistics cookie do not require a cookie warning"
+msgstr "Wenn IP-Nummern anonymisiert sind, erfordert das Statistik-Cookie keine Cookiewarnung."
+
+#: config/questions-wizard.php:362
+msgid "Do you anonymize ip numbers in Matomo?"
+msgstr "Anonymisierst du IP-Nummern in Matomo?"
+
+#: config/questions-wizard.php:273
+msgid "Yes, with Matomo"
+msgstr "Ja, mit Matomo"
+
+#: config/general-settings.php:104
+msgid "Not recommended. You can disable the brute force blocking of third party scripts if you encounter issues with styling on your front-end."
+msgstr "Nicht empfohlen. Du kannst die Brute-Force-Blockierung von Skripten von Drittanbietern deaktivieren, wenn du Probleme mit dem Styling auf deinem Frontend hast."
+
+#: config/general-settings.php:102
+msgid "Disable cookie blocker"
+msgstr "Cookie-Blocker deaktivieren"
+
+#: cookie/class-cookie-admin.php:1645
+msgid "You use Matomo for statistics on your site, but ip numbers are not anonymized, so you should your tracking script here"
+msgstr "Du verwendest Matomo für Statistiken auf deiner Website, aber die IP-Nummern sind nicht anonymisiert."
+
+#: cookie/class-cookie-admin.php:1642
+msgid "You use Matomo for statistics on your site, with ip numbers anonymized, so it is not necessary to add the script here."
+msgstr "Du verwendest Matomo für Statistiken auf deiner Website, mit anonymisierten IP-Nummern, so dass es nicht notwendig ist, das Skript hier hinzuzufügen."
+
+#: class-admin.php:1161
+msgid "Your progress"
+msgstr "Dein Fortschritt"
+
+#: class-admin.php:1194
+msgid "Continue"
+msgstr "Weiter"
+
+#: class-admin.php:1148
+msgid "Free"
+msgstr "Kostenlos"
+
+#: class-admin.php:1122
+msgid "Stay up to date with the latest news"
+msgstr "Bleibe auf dem Laufenden mit den neuesten Nachrichten."
+
+#: class-admin.php:1119
+msgid "Our blog"
+msgstr "Unser Blog"
+
+#: class-admin.php:1096
+msgid "Need new features or languages? Let us know!"
+msgstr "Benötigst du neue Funktionen oder Sprachen? Lass es uns wissen!"
+
+#: class-admin.php:1093
+msgid "Feature requests"
+msgstr "Funktionsanfragen"
+
+#: class-admin.php:1082
+msgid "Trusted by over 4 million WordPress users"
+msgstr "Vertrauen von über 4 Millionen WordPress-Nutzern"
+
+#: class-admin.php:1079
+msgid "Really Simple SSL"
+msgstr "Sehr einfache SSL"
+
+#: class-admin.php:593 class-admin.php:776
+msgid "Upgrade to premium"
+msgstr "Upgrade auf Premium"
+
+#: class-admin.php:900
+msgid "Erase personal data"
+msgstr "Persönliche Daten löschen"
+
+#: class-admin.php:896
+msgid "Export personal data"
+msgstr "Persönliche Daten exportieren"
+
+#: class-admin.php:877
+msgid "Upgrade to Complianz premium for %spremium support%s"
+msgstr "Upgrade auf Complianz-Premium für %sPremium-Support%s"
+
+#: class-admin.php:869
+msgid "Create processing agreement"
+msgstr "Bearbeitungsvereinbarung anlegen"
+
+#: class-admin.php:863 class-admin.php:871
+msgid "(%spremium%s)"
+msgstr "(%sPremium%s)"
+
+#: class-admin.php:861
+msgid "Create dataleak report"
+msgstr "Datenleck-Bericht erstellen"
+
+#: class-admin.php:855
+msgid "Ask your questions on the %sWordPress forum%s"
+msgstr "Stelle deine Fragen im %sWordPress-Forum%s"
+
+#: class-admin.php:849
+msgid "For the most common issues see the Complianz %sknowledge base%s"
+msgstr "Für die häufigsten Probleme siehe Complianz %sWissensbasis%s"
+
+#: class-admin.php:840
+msgid "Tools"
+msgstr "Werkzeuge"
+
+#: class-admin.php:606
+msgid "All fields have been completed, but you have not clicked the finish button yet."
+msgstr "Alle Felder sind ausgefüllt, aber du hast noch nicht auf die \"Fertig stellen\"-Button geklickt."
+
+#: config/warnings.php:30
+msgid "Please review step %s of the wizard for changes in cookies."
+msgstr "Bitte überprüfe Schritt %s des Assistenten auf Änderungen in den Cookies."
+
+#: cookiebanner/cookiebanner.php:203
+msgid "Please complete the wizard to check if you need a cookie warning."
+msgstr "Bitte vervollständige den Assistenten, um zu prüfen, ob du eine Cookie-Warnung benötigst."
+
+#: class-admin.php:806
+msgid "Your license needs to be activated to unlock the wizard"
+msgstr "Deine Lizenz muss aktiviert sein, um den Assistenten freizuschalten."
+
+#. Author URI of the plugin
+msgid "https://www.complianz.io"
+msgstr "https://www.complianz.io"
+
+#: functions.php:142
+msgid "Revoke cookie consent"
+msgstr "Cookie-Einwilligung widerrufen"
+
+#: config/steps.php:73
+msgid "Used cookies"
+msgstr "Verwendete Cookies"
+
+#: config/steps.php:27
+msgctxt "intro company info"
+msgid "We need some information to be able to generate your documents."
+msgstr "Wir benötigen einige Informationen, um deine Dokumente erstellen zu können."
+
+#: config/steps.php:9 cookiebanner/edit.php:97 cookiebanner/edit.php:114
+msgid "General"
+msgstr "Allgemein"
+
+#: config/questions-wizard.php:691
+msgid "Add the used cookies here"
+msgstr "Füge hier die verwendeten Cookies hinzu"
+
+#: config/questions-wizard.php:786
+msgid "The most common third party cookies are blocked automatically. If you want to block other third party cookies, enter the iframe source here, comma separated. For more information on this, please read %sthis%s article"
+msgstr "Die gängigsten Cookies von Drittanbietern werden automatisch blockiert. Wenn du andere Drittanbieter-Cookies blockieren möchtest, gib hier die Iframe-Quelle mit Komma getrennt ein. Für weitere Informationen hierzu bitte den Artikel von %sHIER%s lesen."
+
+#: config/questions-wizard.php:724 config/questions-wizard.php:747
+msgid "To be able to activate cookies when a user accepts the cookie policy, the scripts that are used for these cookies need to be entered here, without <script></script> tags. For more information on this, please read %sthis%s article"
+msgstr "Um Cookies aktivieren zu können, wenn ein Benutzer die Cookie-Richtlinie akzeptiert, müssen die Skripte, die für diese Cookies verwendet werden, hier ohne <script></script>-Tags eingegeben werden. Für weitere Informationen hierzu bitte %sdiesen%s Artikel lesen."
+
+#: config/questions-wizard.php:717
+msgid "Statistics script"
+msgstr "Statistik-Skript"
+
+#: config/questions-wizard.php:722 config/questions-wizard.php:745
+msgid "Paste here all your scripts that activate cookies. Enter the scripts without the script tags"
+msgstr "Füge hier alle deine Skripte ein, die Cookies aktivieren. Gib die Skripte ohne die Skript-Tags ein."
+
+#: config/questions-wizard.php:585
+msgid "Select the types of social media you use on the site"
+msgstr "Wähle die Arten von Sozialen-Medien, die du auf der Website verwendest."
+
+#: config/questions-wizard.php:572
+msgid "e.g. Facebook, Twitter, LinkedIn sharing buttons or widgets. These usually place cookies"
+msgstr "z.B. Facebook, Twitter, LinkedIn Buttons zum Teilen oder Widgets. Diese platzieren in der Regel Cookies"
+
+#: config/questions-wizard.php:570
+msgid "Does your website use social media buttons or widgets?"
+msgstr "Benutzt deine Website Soziale-Medien-Buttons oder Widgets?"
+
+#: config/questions-wizard.php:601
+msgid "Does your website use cookies for advertising?"
+msgstr "Verwendet deine Website Cookies für Werbezwecke?"
+
+#: config/questions-wizard.php:476
+msgid "This website uses cookies or similiar techniques."
+msgstr "Diese Website verwendet Cookies oder ähnliche Techniken."
+
+#: config/questions-wizard.php:426
+msgid "Enter your Analytics UA code"
+msgstr "Gib deinen Analytics UA-Code ein."
+
+#: config/questions-wizard.php:409
+msgid "Enter your Google Tagmanager code"
+msgstr "Gib deinen Google Tag-Manager-Code ein"
+
+#: config/questions-wizard.php:301
+msgid "If you can check all three options, you might not need a cookie warning on your site."
+msgstr "Wenn du alle drei Optionen überprüfen kannst, benötigst du möglicherweise keine Cookie-Warnung auf deiner Website."
+
+#: config/questions-wizard.php:324
+msgid "Acquiring IP-addresses is blocked."
+msgstr "Der Erwerb von IP-Adressen wird blockiert."
+
+#: config/questions-wizard.php:294 config/questions-wizard.php:322
+msgid "Google is not allowed to use this data for other Google services"
+msgstr "Google ist nicht berechtigt, diese Daten für andere Google-Dienste zu verwenden."
+
+#: config/questions-wizard.php:292 config/questions-wizard.php:320
+msgid "I have accepted the Google data processing amendment"
+msgstr "Ich habe die Änderung der Google-Datenverarbeitung akzeptiert."
+
+#: config/questions-wizard.php:289 config/questions-wizard.php:317
+msgid "Regarding the previous question, can you give more information?"
+msgstr "Was die vorherige Frage betrifft, kannst du weitere Informationen geben?"
+
+#: config/questions-wizard.php:275
+msgid "Yes, with Google Tag Manager"
+msgstr "Ja, mit Google Tag-Manager"
+
+#: config/questions-wizard.php:271
+msgid "Yes, with Google Analytics"
+msgstr "Ja, mit Google Analytics"
+
+#: config/questions-wizard.php:269
+msgid "Yes, and the personal data is available to us."
+msgstr "Ja, und die persönlichen Daten stehen uns zur Verfügung."
+
+#: config/questions-wizard.php:267
+msgid "Yes, anonymous"
+msgstr "Ja, anonym"
+
+#: config/questions-wizard.php:264
+msgid "Do you compile statistics of your website?"
+msgstr "Erstellst du Statistiken über deine Website?"
+
+#: config/questions-wizard.php:202
+msgid "What is the telephone number your visitors can use to contact you about privacy issues?"
+msgstr "Wie lautet die Telefonnummer, die deine Besucher verwenden können, um dich wegen Fragen bezüglich des Datenschutzes zu kontaktieren?"
+
+#: config/questions-wizard.php:189
+msgid "What is the email address your visitors can use to contact you about privacy issues?"
+msgstr "Wie lautet die E-Mail-Adresse, die deine Besucher verwenden können, um dich wegen Fragen bezüglich des Datenschutzes zu kontaktieren?"
+
+#: config/questions-wizard.php:176
+msgid "This setting is automatically selected based on your WordPress language setting."
+msgstr "Diese Einstellung wird automatisch anhand deiner WordPress-Spracheinstellung ausgewählt."
+
+#: config/questions-wizard.php:174
+msgid "What is your Country?"
+msgstr "In welchem Land lebst du?"
+
+#: config/questions-wizard.php:162
+msgid "What is your address?"
+msgstr "Wie ist deine Adresse?"
+
+#: config/questions-wizard.php:93
+msgid "cookie policy"
+msgstr "Cookie-Richtlinie"
+
+#: config/documents/cookie-policy-eu.php:168
+#: config/documents/cookie-policy-ca.php:150
+msgctxt "Legal document cookie policy"
+msgid "For questions and/or comments about our cookie policy and this statement, please contact us by using the following contact details:"
+msgstr "Für Fragen und/oder Kommentare über unsere Cookie-Richtlinien und diese Aussage kontaktiere uns bitte mittels der folgenden Kontaktdaten:"
+
+#: config/documents/cookie-policy-eu.php:163
+msgctxt "Legal document cookie policy"
+msgid "Please note that our website may not work properly if all cookies are disabled. If you do delete the cookies in your browser, they will be placed again after your consent when you visit our websites again."
+msgstr "Bitte nimm zur Kenntnis, dass unsere Website möglicherweise nicht richtig funktioniert wenn alle Cookies deaktiviert sind. Wenn du die Cookies in deinem Browser löschst, werden diese neu platziert wenn du unsere Website erneut besuchst."
+
+#: config/documents/cookie-policy-ca.php:145
+msgctxt "Legal document cookie policy"
+msgid "You can use your internet browser to automatically or manually delete cookies. You can also specify that certain cookies may not be placed. Another option is to change the settings of your internet browser so that you receive a message each time a cookie is placed. For more information about these options, please refer to the instructions in the Help section of your browser. Or you can indicate your preferences on the following page: https://youradchoices.ca "
+msgstr "Du kannst deinen Internetbrowser verwenden um automatisch oder manuell Cookies zu löschen. Du kannst außerdem spezifizieren ob spezielle Cookies nicht platziert werden sollen. Eine andere Möglichkeit ist es deinen  Internetbrowser derart einzurichten, dass du jedes Mal benachrichtigt wirst, wenn ein Cookie platziert wird. Für weitere Information über diese Möglichkeiten beachte die Anweisungen in der Hilfesektion deines Browsers. Oder du kannst deine Vorlieben auf der folgenden Seite zum Ausdruck bringen: https://youradchoices.ca"
+
+#: config/documents/cookie-policy-eu.php:154
+msgctxt "Legal document cookie policy"
+msgid "To exercise these rights, please contact us. Please refer to the contact details at the bottom of this cookie statement. If you have a complaint about how we handle your data, we would like to hear from you, but you also have the right to submit a complaint to the supervisory authority (the Data Protection Authority)."
+msgstr "Um diese Rechte auszuüben kontaktiere uns bitte. Bitte beziehe dich auf die Kontaktdaten am Ende dieser Cookie-Erklärung. Wenn du eine Beschwerde darüber hast, wie wir ihre Daten behandeln würden wir diese gerne hören, aber du hast auch das Recht diese an die Aufsichtsbehörde (der Datenschutzbehörde) zu richten."
+
+#: config/documents/cookie-policy-eu.php:149
+msgctxt "Legal document cookie policy"
+msgid "Right to object: you may object to the processing of your data. We comply with this, unless there are justified grounds for processing."
+msgstr "Widerspruchsrecht: Du kannst der Verarbeitung deiner Daten widersprechen. Wir entsprechen dem, es sei denn es gibt berechtigte Gründe für die Verarbeitung."
+
+#: config/documents/cookie-policy-eu.php:148
+msgctxt "Legal document cookie policy"
+msgid "Right to transfer your data: you have the right to request all your personal data from the controller and transfer it in its entirety to another controller."
+msgstr "Recht auf Datentransfer deiner Daten: Du hast das Recht, alle deine persönlichen Daten von einem Kontrolleur anzufordern und in ihrer Gesamtheit zu einem anderen Kontrolleur zu transferieren."
+
+#: config/documents/cookie-policy-eu.php:147
+msgctxt "Legal document cookie policy"
+msgid "If you give us your consent to process your data, you have the right to revoke that consent and to have your personal data deleted."
+msgstr "Wenn du uns dein Einverständnis zur Verarbeitung deiner Daten gegeben hast, hast du das Recht dieses Einverständnis zu widerrufen und deine persönlichen Daten löschen zu lassen."
+
+#: config/dynamic-fields.php:19
+msgid "Purpose:"
+msgstr "Zweck:"
+
+#: config/documents/cookie-policy-eu.php:82
+#: config/documents/cookie-policy-ca.php:72
+msgctxt "Legal document cookie policy"
+msgid "On this website we use advertising cookies, enabling us to personalize the advertisements for you, and we (and third parties) gain insights into the campaign results. This happens based on a profile we create based on your click and surfing on and outside %s. With these cookies you, as website visitor are linked to a unique ID, so you do not see the same ad more than once for example."
+msgstr "Auf dieser Website benutzen wir Werbecookies, die uns ermöglichen Werbung für dich zu personalisieren, und wir (sowie Drittparteien) bekommen Einsicht in Kampagnenresultate. Dies geschieht anhand der Profile, die wir aufgrund deines Klick- und Surfverhaltens auf und außerhalb von &s angelegt haben. Mit diesen Cookies bist du als Seitenbesucher an eine einzigartige ID gebunden, sodass du zum Beispiel die selbe Werbung nicht mehrfach angezeigt bekommst."
+
+#: config/documents/cookie-policy-eu.php:53
+msgctxt "Legal document cookie policy"
+msgid "Some cookies ensure that certain parts of the website work properly and that your user preferences remain known. By placing functional cookies, we make it easier for you to visit our website. This way, you do not need to repeatedly enter the same information when visiting our website and, for example, the items remain in your shopping cart until you have paid. We may place these cookies without your consent."
+msgstr "Einige Cookies stellen sicher, dass Teile unserer Website richtig funktionieren und deine Nutzervorlieben bekannt bleiben. Durch das Platzieren funktionaler Cookies machen wir es dir einfacher unsere Website zu besuchen. Auf diese Weise musst du bei Besuchen unserer Website nicht wiederholt die gleichen Informationen eingeben, oder deine Gegenstände bleiben beispielsweise in deinem Warenkorb bis du bezahlst. Wir können diese Cookies ohne dein Einverständnis platzieren."
+
+#: config/documents/cookie-policy-ca.php:44
+msgctxt "Legal document cookie policy"
+msgid "We have made agreements about the use of cookies with other companies that place cookies. However, we cannot guarantee that these third parties handle your personal data in a reliable or secure manner. Parties such as Google are to be considered as independent data controllers. We recommend that you read the privacy statements of these companies."
+msgstr "Wir haben Vereinbarungen über die Verwendung von Cookies mit anderen Unternehmen getroffen, die Cookies platzieren. Wir können jedoch nicht garantieren, dass diese Dritten mit deinen personenbezogenen Daten zuverlässig oder sicher umgehen. Parteien wie Google sind als unabhängige Datenverantwortliche zu betrachten. Wir empfehlen dir, die Datenschutzerklärungen dieser Unternehmen zu lesen."
+
+#: config/documents/cookie-policy-eu.php:27
+msgctxt "Legal document cookie policy"
+msgid "When you visit our website for the first time, we will show you a pop-up with an explanation about cookies. As soon as you click on \"%s\", you consent to us using all cookies and plug-ins as described in the pop-up and this cookie statement. You can disable the use of cookies via your browser, but please note that our website may no longer work properly."
+msgstr "Wenn du unsere Website zum ersten Mal besuchst, wird dir ein Popup mit einer Erklärung zu Cookies angezeigt. Sobald du auf \"%s\" klickst, stimmst du zu, dass wir alle Cookies und Plug-Ins verwenden, die im Popup und in dieser Cookie-Erklärung beschrieben sind. Du kannst die Verwendung von Cookies über deinen Browser deaktivieren. Beachte jedoch, dass unsere Website möglicherweise nicht mehr ordnungsgemäß funktioniert."
+
+#: config/documents/cookie-policy-eu.php:22
+#: config/documents/cookie-policy-ca.php:27
+msgctxt "Legal document cookie policy"
+msgid "A web beacon (or a pixel tag) is a small, invisible piece of text or image on a website that is used to monitor traffic on a website. In order to do this, various data about you is stored using web beacons."
+msgstr "Ein Web-Beacon (auch Pixel-Tag genannt), ist ein kleines unsichtbares Textfragment oder Bild auf einer Website, das benutzt wird, um den Verkehr auf der Website zu überwachen. Um dies zu ermöglichen werden diverse Daten von dir mittels Web-Beacons gespeichert."
+
+#: config/documents/cookie-policy-eu.php:14
+#: config/documents/cookie-policy-ca.php:19
+msgctxt "Legal document cookie policy"
+msgid "A cookie is a small simple file that is sent along with pages of this website and stored by your browser on the hard drive of your computer or another device. The information stored therein may be returned to our servers or to the servers of the relevant third parties during a subsequent visit."
+msgstr "Ein Cookie ist eine einfache kleine Datei, die gemeinsam mit den Seiten einer Internetadresse versendet und vom Webbrowser auf dem PC oder einem anderen Gerät gespeichert werden kann. Die darin gespeicherten Informationen können während folgender Besuche zu unseren oder den Servern relevanter Drittanbieter gesendet werden."
+
+#: config/documents/cookie-policy-eu.php:10
+#: config/documents/cookie-policy-ca.php:14
+msgctxt "Legal document cookie policy"
+msgid "Our website, %s (hereinafter: \"the website\") uses cookies and other related technologies (for convenience all technologies are referred to as \"cookies\"). Cookies are also placed by third parties we have engaged. In the document below we inform you about the use of cookies on our website."
+msgstr "Unsere Website, %s (im folgenden: \"Die Website\") verwendet Cookies und ähnliche Technologien (der Einfachheit halber werden all diese unter \"Cookies\" zusammengefasst). Cookies werden außerdem von uns beauftragten Drittparteien platziert. In dem unten stehendem Dokument informieren wir dich über die Verwendung von Cookies auf unserer Website."
+
+#: config/countries.php:313
+msgid "Zimbabwe"
+msgstr "Simbabwe"
+
+#: config/countries.php:312
+msgid "Zambia"
+msgstr "Sambia"
+
+#: config/countries.php:311
+msgid "Yemen"
+msgstr "Jemen"
+
+#: config/countries.php:310
+msgid "Western Sahara"
+msgstr "Westliche Sahara"
+
+#: config/countries.php:309
+msgid "Wallis And Futuna"
+msgstr "Wallis und Futuna"
+
+#: config/countries.php:308
+msgid "Virgin Islands, U.S."
+msgstr "Jungferninseln, USA"
+
+#: config/countries.php:307
+msgid "Virgin Islands, British"
+msgstr "Jungferninseln, Britisch"
+
+#: config/countries.php:306
+msgid "Viet Nam"
+msgstr "Vietnam"
+
+#: config/countries.php:305
+msgid "Venezuela"
+msgstr "Venezuela"
+
+#: config/countries.php:304
+msgid "Vanuatu"
+msgstr "Vanuatu"
+
+#: config/countries.php:303
+msgid "Uzbekistan"
+msgstr "Usbekistan"
+
+#: config/countries.php:302
+msgid "Uruguay"
+msgstr "Uruguay"
+
+#: config/countries.php:301
+msgid "United States Outlying Islands"
+msgstr "Vereinigte Staaten Außeninseln"
+
+#: config/countries.php:300
+msgid "United States"
+msgstr "Vereinigte Staaten von Amerika"
+
+#: config/countries.php:299
+msgid "United Kingdom"
+msgstr "Vereinigtes Königreich"
+
+#: config/countries.php:298
+msgid "United Arab Emirates"
+msgstr "Vereinigte Arabische Emirate"
+
+#: config/countries.php:297
+msgid "Ukraine"
+msgstr "Ukraine"
+
+#: config/countries.php:296
+msgid "Uganda"
+msgstr "Uganda"
+
+#: config/countries.php:295
+msgid "Tuvalu"
+msgstr "Tuvalu"
+
+#: config/countries.php:294
+msgid "Turks And Caicos Islands"
+msgstr "Turks- und Caicosinseln"
+
+#: config/countries.php:293
+msgid "Turkmenistan"
+msgstr "Turkmenistan"
+
+#: config/countries.php:292
+msgid "Turkey"
+msgstr "Türkei"
+
+#: config/countries.php:291
+msgid "Tunisia"
+msgstr "Tunesien"
+
+#: config/countries.php:290
+msgid "Trinidad And Tobago"
+msgstr "Trinidad und Tobago"
+
+#: config/countries.php:289
+msgid "Tonga"
+msgstr "Tonga"
+
+#: config/countries.php:288
+msgid "Tokelau"
+msgstr "Tokelau"
+
+#: config/countries.php:287
+msgid "Togo"
+msgstr "Togo"
+
+#: config/countries.php:286
+msgid "Timor-Leste"
+msgstr "Timor-Leste"
+
+#: config/countries.php:285
+msgid "Thailand"
+msgstr "Thailand"
+
+#: config/countries.php:284
+msgid "Tanzania"
+msgstr "Tansania"
+
+#: config/countries.php:283
+msgid "Tajikistan"
+msgstr "Tadschikistan"
+
+#: config/countries.php:282
+msgid "Taiwan"
+msgstr "Taiwan"
+
+#: config/countries.php:281
+msgid "Syrian Arab Republic"
+msgstr "Syrische Arabische Republik"
+
+#: config/countries.php:280
+msgid "Switzerland"
+msgstr "Schweiz"
+
+#: config/countries.php:279
+msgid "Sweden"
+msgstr "Schweden"
+
+#: config/countries.php:278
+msgid "Swaziland"
+msgstr "Swasiland"
+
+#: config/countries.php:277
+msgid "Svalbard And Jan Mayen"
+msgstr "Svalbard und Jan Mayen"
+
+#: config/countries.php:276
+msgid "Suriname"
+msgstr "Surinam"
+
+#: config/countries.php:275
+msgid "Sudan"
+msgstr "Sudan"
+
+#: config/countries.php:274
+msgid "Sri Lanka"
+msgstr "Sri Lanka"
+
+#: config/countries.php:273
+msgid "Spain"
+msgstr "Spanien"
+
+#: config/countries.php:272
+msgid "South Georgia And Sandwich Isl."
+msgstr "Südgeorgien und Sandwich-Insel."
+
+#: config/countries.php:271
+msgid "South Africa"
+msgstr "Südafrika"
+
+#: config/countries.php:270
+msgid "Somalia"
+msgstr "Somalia"
+
+#: config/countries.php:269
+msgid "Solomon Islands"
+msgstr "Solomoninseln"
+
+#: config/countries.php:268
+msgid "Slovenia"
+msgstr "Slowenien"
+
+#: config/countries.php:267
+msgid "Slovakia"
+msgstr "Slowakei"
+
+#: config/countries.php:266
+msgid "Singapore"
+msgstr "Singapur"
+
+#: config/countries.php:265
+msgid "Sierra Leone"
+msgstr "Sierra Leone"
+
+#: config/countries.php:264
+msgid "Seychelles"
+msgstr "Seychellen"
+
+#: config/countries.php:263
+msgid "Serbia"
+msgstr "Serbien"
+
+#: config/countries.php:262
+msgid "Senegal"
+msgstr "Senegal"
+
+#: config/countries.php:261
+msgid "Saudi Arabia"
+msgstr "Saudi-Arabien"
+
+#: config/countries.php:260
+msgid "Sao Tome And Principe"
+msgstr "Sao Tome und Principe"
+
+#: config/countries.php:259
+msgid "San Marino"
+msgstr "San Marino"
+
+#: config/countries.php:258
+msgid "Samoa"
+msgstr "Samoa"
+
+#: config/countries.php:257
+msgid "Saint Vincent And Grenadines"
+msgstr "St. Vincent und Grenadinen"
+
+#: config/countries.php:256
+msgid "Saint Pierre And Miquelon"
+msgstr "St. Pierre und Miquelon"
+
+#: config/countries.php:255
+msgid "Saint Martin"
+msgstr "St. Martin"
+
+#: config/countries.php:254
+msgid "Saint Lucia"
+msgstr "St. Lucia"
+
+#: config/countries.php:253
+msgid "Saint Kitts And Nevis"
+msgstr "St. Kitts und Nevis"
+
+#: config/countries.php:252
+msgid "Saint Helena"
+msgstr "St. Helena"
+
+#: config/countries.php:251
+msgid "Saint Barthelemy"
+msgstr "St. Barthelemäus"
+
+#: config/countries.php:250
+msgid "Rwanda"
+msgstr "Ruanda"
+
+#: config/countries.php:249
+msgid "Russian Federation"
+msgstr "Russische Föderation"
+
+#: config/countries.php:248
+msgid "Romania"
+msgstr "Rumänien"
+
+#: config/countries.php:247
+msgid "Reunion"
+msgstr "Reunion"
+
+#: config/countries.php:246
+msgid "Qatar"
+msgstr "Katar"
+
+#: config/countries.php:245
+msgid "Puerto Rico"
+msgstr "Puerto Rico"
+
+#: config/countries.php:244
+msgid "Portugal"
+msgstr "Portugal"
+
+#: config/countries.php:243
+msgid "Poland"
+msgstr "Polen"
+
+#: config/countries.php:242
+msgid "Pitcairn"
+msgstr "Pitcairn"
+
+#: config/countries.php:241
+msgid "Philippines"
+msgstr "Philippinen"
+
+#: config/countries.php:240
+msgid "Peru"
+msgstr "Peru"
+
+#: config/countries.php:239
+msgid "Paraguay"
+msgstr "Paraguay"
+
+#: config/countries.php:238
+msgid "Papua New Guinea"
+msgstr "Papua Neu Guinea"
+
+#: config/countries.php:237
+msgid "Panama"
+msgstr "Panama"
+
+#: config/countries.php:236
+msgid "Palestinian Territory, Occupied"
+msgstr "Palästinensisches Gebiet, besetzt"
+
+#: config/countries.php:235
+msgid "Palau"
+msgstr "Palau"
+
+#: config/countries.php:234
+msgid "Pakistan"
+msgstr "Pakistan"
+
+#: config/countries.php:233
+msgid "Oman"
+msgstr "Oman"
+
+#: config/countries.php:232
+msgid "Norway"
+msgstr "Norwegen"
+
+#: config/countries.php:231
+msgid "Northern Mariana Islands"
+msgstr "Nördliche Marianen"
+
+#: config/countries.php:230
+msgid "Norfolk Island"
+msgstr "Norfolkinsel"
+
+#: config/countries.php:229
+msgid "Niue"
+msgstr "Niue"
+
+#: config/countries.php:228
+msgid "Nigeria"
+msgstr "Nigeria"
+
+#: config/countries.php:227
+msgid "Niger"
+msgstr "Niger"
+
+#: config/countries.php:226
+msgid "Nicaragua"
+msgstr "Nicaragua"
+
+#: config/countries.php:225
+msgid "New Zealand"
+msgstr "Neuseeland"
+
+#: config/countries.php:224
+msgid "New Caledonia"
+msgstr "Neukaledonien"
+
+#: config/countries.php:223
+msgid "Netherlands Antilles"
+msgstr "Niederländische Antillen"
+
+#: config/countries.php:222
+msgid "Netherlands"
+msgstr "Niederlande"
+
+#: config/countries.php:221
+msgid "Nepal"
+msgstr "Nepal"
+
+#: config/countries.php:220
+msgid "Nauru"
+msgstr "Nauru"
+
+#: config/countries.php:219
+msgid "Namibia"
+msgstr "Namibia"
+
+#: config/countries.php:218
+msgid "Myanmar"
+msgstr "Myanmar"
+
+#: config/countries.php:217
+msgid "Mozambique"
+msgstr "Mosambik"
+
+#: config/countries.php:216
+msgid "Morocco"
+msgstr "Marokko"
+
+#: config/countries.php:215
+msgid "Montserrat"
+msgstr "Montserrat"
+
+#: config/countries.php:214
+msgid "Montenegro"
+msgstr "Montenegro"
+
+#: config/countries.php:213
+msgid "Mongolia"
+msgstr "Mongolien"
+
+#: config/countries.php:212
+msgid "Monaco"
+msgstr "Monaco"
+
+#: config/countries.php:211
+msgid "Moldova"
+msgstr "Moldawien"
+
+#: config/countries.php:210
+msgid "Micronesia, Federated States Of"
+msgstr "Mikronesien, Föderierte Staaten von"
+
+#: config/countries.php:209
+msgid "Mexico"
+msgstr "Mexiko"
+
+#: config/countries.php:208
+msgid "Mayotte"
+msgstr "Mayotte"
+
+#: config/countries.php:207
+msgid "Mauritius"
+msgstr "Mauritius"
+
+#: config/countries.php:206
+msgid "Mauritania"
+msgstr "Mauretanien"
+
+#: config/countries.php:205
+msgid "Martinique"
+msgstr "Martinique"
+
+#: config/countries.php:204
+msgid "Marshall Islands"
+msgstr "Marshallinseln"
+
+#: config/countries.php:203
+msgid "Malta"
+msgstr "Malta"
+
+#: config/countries.php:202
+msgid "Mali"
+msgstr "Mali"
+
+#: config/countries.php:201
+msgid "Maldives"
+msgstr "Malediven"
+
+#: config/countries.php:200
+msgid "Malaysia"
+msgstr "Malaysia"
+
+#: config/countries.php:199
+msgid "Malawi"
+msgstr "Malawi"
+
+#: config/countries.php:198
+msgid "Madagascar"
+msgstr "Madagaskar"
+
+#: config/countries.php:196
+msgid "Macao"
+msgstr "Macau"
+
+#: config/countries.php:195
+msgid "Luxembourg"
+msgstr "Luxemburg"
+
+#: config/countries.php:194
+msgid "Lithuania"
+msgstr "Litauen"
+
+#: config/countries.php:193
+msgid "Liechtenstein"
+msgstr "Liechtenstein"
+
+#: config/countries.php:192
+msgid "Libyan Arab Jamahiriya"
+msgstr "Libysch-Arabische Dschamahirija"
+
+#: config/countries.php:191
+msgid "Liberia"
+msgstr "Liberien"
+
+#: config/countries.php:190
+msgid "Lesotho"
+msgstr "Lesotho"
+
+#: config/countries.php:189
+msgid "Lebanon"
+msgstr "Libanon"
+
+#: config/countries.php:188
+msgid "Latvia"
+msgstr "Lettland"
+
+#: config/countries.php:187
+msgid "Lao People's Democratic Republic"
+msgstr "Demokratische Volksrepublik Laos"
+
+#: config/countries.php:186
+msgid "Kyrgyzstan"
+msgstr "Kirgisistan"
+
+#: config/countries.php:185
+msgid "Kuwait"
+msgstr "Kuwait"
+
+#: config/countries.php:184
+msgid "Korea"
+msgstr "Korea"
+
+#: config/countries.php:183
+msgid "Kiribati"
+msgstr "Kiribati"
+
+#: config/countries.php:182
+msgid "Kenya"
+msgstr "Kenia"
+
+#: config/countries.php:181
+msgid "Kazakhstan"
+msgstr "Kasachstan"
+
+#: config/countries.php:180
+msgid "Jordan"
+msgstr "Jordanien"
+
+#: config/countries.php:179
+msgid "Jersey"
+msgstr "Jersey"
+
+#: config/countries.php:178
+msgid "Japan"
+msgstr "Japan"
+
+#: config/countries.php:177
+msgid "Jamaica"
+msgstr "Jamaika"
+
+#: config/countries.php:176
+msgid "Italy"
+msgstr "Italien"
+
+#: config/countries.php:175
+msgid "Israel"
+msgstr "Israel"
+
+#: config/countries.php:174
+msgid "Isle Of Man"
+msgstr "Isle Of Man"
+
+#: config/countries.php:173
+msgid "Ireland"
+msgstr "Irland"
+
+#: config/countries.php:172
+msgid "Iraq"
+msgstr "Irak"
+
+#: config/countries.php:171
+msgid "Iran, Islamic Republic Of"
+msgstr "Iran, Islamische Republik"
+
+#: config/countries.php:170
+msgid "Indonesia"
+msgstr "Indonesien"
+
+#: config/countries.php:169
+msgid "India"
+msgstr "Indien"
+
+#: config/countries.php:168
+msgid "Iceland"
+msgstr "Island"
+
+#: config/countries.php:167
+msgid "Hungary"
+msgstr "Ungarn"
+
+#: config/countries.php:166
+msgid "Hong Kong"
+msgstr "Hong Kong"
+
+#: config/countries.php:165
+msgid "Honduras"
+msgstr "Honduras"
+
+#: config/countries.php:164
+msgid "Holy See (Vatican City State)"
+msgstr "Heiliger Stuhl (Vatikanstadt)"
+
+#: config/countries.php:163
+msgid "Heard Island & Mcdonald Islands"
+msgstr "Heard Insel & McDonald Inseln"
+
+#: config/countries.php:162
+msgid "Haiti"
+msgstr "Haiti"
+
+#: config/countries.php:161
+msgid "Guyana"
+msgstr "Guyana"
+
+#: config/countries.php:160
+msgid "Guinea-Bissau"
+msgstr "Guinea-Bissau"
+
+#: config/countries.php:159
+msgid "Guinea"
+msgstr "Guinea"
+
+#: config/countries.php:158
+msgid "Guernsey"
+msgstr "Guernsey"
+
+#: config/countries.php:157
+msgid "Guatemala"
+msgstr "Guatemala"
+
+#: config/countries.php:156
+msgid "Guam"
+msgstr "Guam"
+
+#: config/countries.php:155
+msgid "Guadeloupe"
+msgstr "Guadeloupe"
+
+#: config/countries.php:154
+msgid "Grenada"
+msgstr "Grenada"
+
+#: config/countries.php:153
+msgid "Greenland"
+msgstr "Grönland"
+
+#: config/countries.php:152
+msgid "Greece"
+msgstr "Griechenland"
+
+#: config/countries.php:151
+msgid "Gibraltar"
+msgstr "Gibraltar"
+
+#: config/countries.php:150
+msgid "Ghana"
+msgstr "Ghana"
+
+#: config/countries.php:149
+msgid "Germany"
+msgstr "Deutschland"
+
+#: config/countries.php:148
+msgid "Georgia"
+msgstr "Georgien"
+
+#: config/countries.php:147
+msgid "Gambia"
+msgstr "Gambia"
+
+#: config/countries.php:146
+msgid "Gabon"
+msgstr "Gabon"
+
+#: config/countries.php:145
+msgid "French Southern Territories"
+msgstr "Französische Südterritorien"
+
+#: config/countries.php:144
+msgid "French Polynesia"
+msgstr "Französisch-Polynesien"
+
+#: config/countries.php:143
+msgid "French Guiana"
+msgstr "Französisch-Guayana"
+
+#: config/countries.php:142
+msgid "France"
+msgstr "Frankreich"
+
+#: config/countries.php:141
+msgid "Finland"
+msgstr "Finnland"
+
+#: config/countries.php:140
+msgid "Fiji"
+msgstr "Fidschi"
+
+#: config/countries.php:139
+msgid "Faroe Islands"
+msgstr "Färöer"
+
+#: config/countries.php:138
+msgid "Falkland Islands (Malvinas)"
+msgstr "Falklandinseln (Malvinas)"
+
+#: config/countries.php:137
+msgid "Ethiopia"
+msgstr "Äthiopien"
+
+#: config/countries.php:136
+msgid "Estonia"
+msgstr "Estland"
+
+#: config/countries.php:135
+msgid "Eritrea"
+msgstr "Eritrea"
+
+#: config/countries.php:134
+msgid "Equatorial Guinea"
+msgstr "Äquatorialguinea"
+
+#: config/countries.php:133
+msgid "El Salvador"
+msgstr "El Salvador"
+
+#: config/countries.php:132
+msgid "Egypt"
+msgstr "Ägypten"
+
+#: config/countries.php:131
+msgid "Ecuador"
+msgstr "Ecuador"
+
+#: config/countries.php:130
+msgid "Dominican Republic"
+msgstr "Dominikanische Republik"
+
+#: config/countries.php:129
+msgid "Dominica"
+msgstr "Dominika"
+
+#: config/countries.php:128
+msgid "Djibouti"
+msgstr "Dschibuti"
+
+#: config/countries.php:127
+msgid "Denmark"
+msgstr "Dänemark"
+
+#: config/countries.php:126
+msgid "Czech Republic"
+msgstr "Tschechische Republik"
+
+#: config/countries.php:125
+msgid "Cyprus"
+msgstr "Zypern"
+
+#: config/countries.php:124
+msgid "Cuba"
+msgstr "Kuba"
+
+#: config/countries.php:123
+msgid "Croatia"
+msgstr "Kroatien"
+
+#: config/countries.php:122
+msgid "Cote D'Ivoire"
+msgstr "Elfenbeinküste"
+
+#: config/countries.php:121
+msgid "Costa Rica"
+msgstr "Costa Rica"
+
+#: config/countries.php:120
+msgid "Cook Islands"
+msgstr "Cook-Inseln"
+
+#: config/countries.php:119
+msgid "Congo, Democratic Republic"
+msgstr "Kongo, Demokratische Republik"
+
+#: config/countries.php:118
+msgid "Congo"
+msgstr "Kongo"
+
+#: config/countries.php:117
+msgid "Comoros"
+msgstr "Komoren"
+
+#: config/countries.php:116
+msgid "Colombia"
+msgstr "Kolumbien"
+
+#: config/countries.php:115
+msgid "Cocos (Keeling) Islands"
+msgstr "Cocos (Keeling) Inseln"
+
+#: config/countries.php:114
+msgid "Christmas Island"
+msgstr "Weihnachtsinsel"
+
+#: config/countries.php:113
+msgid "China"
+msgstr "China"
+
+#: config/countries.php:112
+msgid "Chile"
+msgstr "Chile"
+
+#: config/countries.php:111
+msgid "Chad"
+msgstr "Tschad"
+
+#: config/countries.php:110
+msgid "Central African Republic"
+msgstr "Zentralafrikanische Republik"
+
+#: config/countries.php:109
+msgid "Cayman Islands"
+msgstr "Kaimaninseln"
+
+#: config/countries.php:108
+msgid "Cape Verde"
+msgstr "Kap Verde"
+
+#: config/countries.php:107
+msgid "Canada"
+msgstr "Kanada"
+
+#: config/countries.php:106
+msgid "Cameroon"
+msgstr "Kamerun"
+
+#: config/countries.php:105
+msgid "Cambodia"
+msgstr "Kambodscha"
+
+#: config/countries.php:104
+msgid "Burundi"
+msgstr "Burundi"
+
+#: config/countries.php:103
+msgid "Burkina Faso"
+msgstr "Burkina Faso"
+
+#: config/countries.php:102
+msgid "Bulgaria"
+msgstr "Bulgarien"
+
+#: config/countries.php:101
+msgid "Brunei Darussalam"
+msgstr "Brunei Darussalam"
+
+#: config/countries.php:100
+msgid "British Indian Ocean Territory"
+msgstr "Britisches Territorium im Indischen Ozean"
+
+#: config/countries.php:99
+msgid "Brazil"
+msgstr "Brasilien"
+
+#: config/countries.php:98
+msgid "Bouvet Island"
+msgstr "Bouvet Insel"
+
+#: config/countries.php:97
+msgid "Botswana"
+msgstr "Botswana"
+
+#: config/countries.php:96
+msgid "Bosnia And Herzegovina"
+msgstr "Bosnien und Herzegowina"
+
+#: config/countries.php:95
+msgid "Bolivia"
+msgstr "Bolivien"
+
+#: config/countries.php:94
+msgid "Bhutan"
+msgstr "Bhutan"
+
+#: config/countries.php:93
+msgid "Bermuda"
+msgstr "Bermuda"
+
+#: config/countries.php:92
+msgid "Benin"
+msgstr "Benin"
+
+#: config/countries.php:91
+msgid "Belize"
+msgstr "Belize"
+
+#: config/countries.php:90
+msgid "Belgium"
+msgstr "Belgien"
+
+#: config/countries.php:89
+msgid "Belarus"
+msgstr "Weißrussland"
+
+#: config/countries.php:88
+msgid "Barbados"
+msgstr "Barbados"
+
+#: config/countries.php:87
+msgid "Bangladesh"
+msgstr "Bangladesch"
+
+#: config/countries.php:86
+msgid "Bahrain"
+msgstr "Bahrain"
+
+#: config/countries.php:85
+msgid "Bahamas"
+msgstr "Bahamas"
+
+#: config/countries.php:84
+msgid "Azerbaijan"
+msgstr "Aserbaidschan"
+
+#: config/countries.php:83
+msgid "Austria"
+msgstr "Österreich"
+
+#: config/countries.php:82
+msgid "Australia"
+msgstr "Australien"
+
+#: config/countries.php:81
+msgid "Aruba"
+msgstr "Aruba"
+
+#: config/countries.php:80
+msgid "Armenia"
+msgstr "Armenien"
+
+#: config/countries.php:79
+msgid "Argentina"
+msgstr "Argentinien"
+
+#: config/countries.php:78
+msgid "Antigua And Barbuda"
+msgstr "Antigua und Barbuda"
+
+#: config/countries.php:77
+msgid "Antarctica"
+msgstr "Antarktis"
+
+#: config/countries.php:76
+msgid "Anguilla"
+msgstr "Anguilla"
+
+#: config/countries.php:75
+msgid "Angola"
+msgstr "Angola"
+
+#: config/countries.php:74
+msgid "Andorra"
+msgstr "Andorra"
+
+#: config/countries.php:73
+msgid "American Samoa"
+msgstr "Amerikanisch-Samoa"
+
+#: config/countries.php:72
+msgid "Algeria"
+msgstr "Algerien"
+
+#: config/countries.php:71
+msgid "Albania"
+msgstr "Albanien"
+
+#: config/countries.php:70
+msgid "Aland Islands"
+msgstr "Aland-Inseln"
+
+#: config/countries.php:69
+msgid "Afghanistan"
+msgstr "Afghanistan"
+
+#: config/cookie-settings.php:41 cookiebanner/settings.php:191
+msgid "Push down"
+msgstr "Nach unten drücken"
+
+#: cookiebanner/class-cookiebanner-table.php:234
+msgid "Default"
+msgstr "Standard"
+
+#: config/cookie-settings.php:55 cookiebanner/settings.php:205
+msgid "Edgeless"
+msgstr "Randlos"
+
+#: config/cookie-settings.php:54 cookiebanner/settings.php:204
+#: cookiebanner/settings.php:220
+msgid "Classic"
+msgstr "Klassisch"
+
+#: config/cookie-settings.php:53 cookiebanner/settings.php:203
+msgid "Block"
+msgstr "Blockieren"
+
+#: config/cookie-settings.php:51
+msgid "Style"
+msgstr "Stil"
+
+#: config/cookie-settings.php:38 cookiebanner/settings.php:188
+msgid "Floating right"
+msgstr "schwebend rechts"
+
+#: config/cookie-settings.php:37 cookiebanner/settings.php:187
+msgid "Floating left"
+msgstr "schwebend links"
+
+#: config/cookie-settings.php:40 cookiebanner/settings.php:190
+msgid "Banner top"
+msgstr "Banner oben"
+
+#: config/cookie-settings.php:36 cookiebanner/settings.php:186
+msgid "Banner bottom"
+msgstr "Banner unten"
+
+#: config/cookie-settings.php:34
+msgid "Popup position"
+msgstr "Pop-Up Position"
+
+#: config/cookie-settings.php:209 cookiebanner/settings.php:707
+#: functions.php:1590
+msgid "Read more"
+msgstr "Weiterlesen"
+
+#: config/cookie-settings.php:336 config/cookie-settings.php:337
+#: cookiebanner/settings.php:780 cookiebanner/settings.php:781
+#: integrations/plugins/gravity-forms.php:52
+#: integrations/plugins/gravity-forms.php:57
+#: integrations/plugins/gravity-forms.php:58
+msgid "Accept"
+msgstr "Akzeptieren"
+
+#: config/cookie-settings.php:201 config/cookie-settings.php:348
+#: cookiebanner/settings.php:721 cookiebanner/settings.php:833
+msgid "Cookie message"
+msgstr "Cookie-Meldung"
+
+#: config/cookie-settings.php:199 config/cookie-settings.php:346
+#: cookiebanner/settings.php:719 cookiebanner/settings.php:831
+msgid "We use cookies to optimize our website and our service."
+msgstr "Wir verwenden Cookies, um unsere Website und unseren Service zu optimieren."
+
+#: config/general-settings.php:51
+msgid "Cookie banner expiration in days"
+msgstr "Ablauf des Cookie-Banners in Tagen"
+
+#: config/cookie-settings.php:422
+msgid "Button text color"
+msgstr "Button für Textfarbe"
+
+#: config/cookie-settings.php:413
+msgid "Button background color"
+msgstr "Button für Hintergrundfarbe"
+
+#: config/cookie-settings.php:405
+msgid "Popup text color"
+msgstr "Pop-Up Textfarbe"
+
+#: config/cookie-settings.php:396
+msgid "Popup background color"
+msgstr "Pop-Up Hintergrundfarbe"
+
+#: config/general-settings.php:9
+msgid "Use geolocation"
+msgstr "Geolokalisierung verwenden"
+
+#: config/warnings.php:38
+msgid "You don't have SSL on your site yet. Most hosting companies can install SSL for you, which you can quickly enable with %sReally Simple SSL%s"
+msgstr "Du hast noch kein SSL auf deiner Seite. Die meisten Hosting-Unternehmen können SSL für dich installieren, was du mit %sReally Simple SSL%s schnell aktivieren kannst."
+
+#: config/warnings.php:36
+msgid "Great! You're already on SSL!"
+msgstr "Großartig! Du hast bereits SSL!"
+
+#: config/warnings.php:54
+msgid "Google Analytics is being used, but is not configured in Complianz."
+msgstr "Google-Analytics wird verwendet, ist aber nicht in Complianz konfiguriert."
+
+#: config/warnings.php:49
+msgid "Please review step %s of the wizard for changes in plugin privacy statements and cookies."
+msgstr "Bitte überprüfen Schritt %s des Assistenten auf Änderungen in den Plugin-Datenschutzbestimmungen und den Cookies."
+
+#: config/warnings.php:47
+msgid "Plugin changes have been detected."
+msgstr "Plugin-Änderungen wurden erkannt."
+
+#: config/warnings.php:45
+msgid "No plugin changes have been detected."
+msgstr "Es wurden keine Plugin-Änderungen festgestellt."
+
+#: config/warnings.php:28
+msgid "Cookie changes have been detected."
+msgstr "Cookie-Änderungen wurden erkannt."
+
+#: config/warnings.php:26
+msgid "No cookie changes have been detected."
+msgstr "Es wurden keine Cookie-Änderungen festgestellt."
+
+#: config/warnings.php:19
+msgid "The wizard has been completed."
+msgstr "Der Assistent ist abgeschlossen."
+
+#: config/class-config.php:665
+msgid "To enable the warning only for countries with a cookie law, %sget premium%s."
+msgstr "Um die Warnung nur für Länder mit einem Cookie-Gesetz zu aktivieren, %shole dir Premium%s."
+
+#: config/questions-wizard.php:277 config/class-config.php:661
+msgid "No"
+msgstr "Nein"
+
+#: config/class-config.php:660
+msgid "Yes"
+msgstr "Ja"
+
+#: class-wizard.php:988 shepherd/tour.php:148
+msgid "Next"
+msgstr "Nächste"
+
+#: class-wizard.php:978 shepherd/tour.php:149
+msgid "Previous"
+msgstr "Vorherige"
+
+#: class-wizard.php:948
+msgid "To learn what %s are and what you need them for, please read this  %sarticle%s"
+msgstr "Um zu erfahren, was %s sind und wofür du sie brauchst, bitte diesen %sArtikel%s lesen."
+
+#: class-wizard.php:943
+msgid "dataleak reports"
+msgstr "Datenleck-Berichte"
+
+#: class-wizard.php:938
+msgid "processing agreements"
+msgstr "Verarbeitungsvertrag"
+
+#: class-wizard.php:914
+msgid "Changes saved successfully"
+msgstr "Änderungen erfolgreich gespeichert"
+
+#: class-wizard.php:600
+msgid "%s min"
+msgstr "%s min"
+
+#: config/steps.php:109 class-wizard.php:132 class-wizard.php:1004
+msgid "Finish"
+msgstr "Fertigstellen"
+
+#: class-wizard.php:124
+msgid "Not all required fields are completed yet. Please check the steps to complete all required questions"
+msgstr "Es sind noch nicht alle Pflichtfelder ausgefüllt. Bitte überprüfe die Schritte, um alle erforderlichen Fragen zu beantworten."
+
+#: class-wizard.php:112
+msgid "Changes in cookies detected"
+msgstr "Änderungen in Cookies erkannt"
+
+#: class-wizard.php:63
+msgid "The wizard isn't completed yet. If you have answered all required questions, you just need to click 'finish' to complete it. In the wizard some general data is entered which is needed for this document. %sPlease complete the wizard first%s."
+msgstr "Der Assistent ist noch nicht fertig. Wenn du alle erforderlichen Fragen beantwortet habst, brauchst du nur auf \"Fertig stellen\" zu klicken, um sie zu vervollständigen. Im Assistent werden einige allgemeine Daten eingegeben, die für dieses Dokument benötigt werden. %sBitte den Assistenten zuerst fertigstellen%s."
+
+#: class-wizard.php:58
+msgid "Great, the main wizard is completed. This means the general data is already in the system, and you can continue with the next question. This will start a new, empty document."
+msgstr "Großartig, der Assistent ist fertiggestellt. Dies bedeutet, dass die allgemeinen Daten bereits im System sind und du mit der nächsten Frage fortfahren kannst. Dies wird ein neues, leeres Dokument beginnen."
+
+#: class-field.php:1910 class-field.php:2018
+msgid "What type of data is shared"
+msgstr "Welche Art von Daten werden gemeinsam genutzt?"
+
+#: class-field.php:1995
+msgid "Third party country"
+msgstr "Drittland"
+
+#: class-field.php:2049
+msgid "Add new third-party"
+msgstr "Neue Drittpartei hinzufügen"
+
+#: class-field.php:1716
+msgid "Add new cookie"
+msgstr "Neuen Cookie hinzufügen"
+
+#: config/steps.php:36 class-field.php:1898 class-field.php:2008
+#: templates/cookie_settings.php:34
+msgid "Purpose"
+msgstr "Zweck"
+
+#: config/steps.php:50
+msgid "Cookies"
+msgstr "Cookies"
+
+#: class-field.php:1644 class-field.php:1927 class-field.php:2036
+msgid "Remove"
+msgstr "Entfernen"
+
+#: class-field.php:1632
+msgid "Description"
+msgstr "Beschreibung"
+
+#: class-field.php:1622
+msgid "Add new"
+msgstr "Neue hinzufügen"
+
+#: class-field.php:1602 class-field.php:1923 class-field.php:2032
+#: cookiebanner/edit.php:150 class-wizard.php:1045
+#: templates/cookie_settings.php:85 templates/service_settings.php:46
+msgid "Save"
+msgstr "Speichern"
+
+#: class-field.php:1482
+msgid "Choose an option"
+msgstr "Wähle eine Option"
+
+#: class-field.php:520
+msgid "This field is required. Please complete the question before continuing"
+msgstr "Dieses Feld muss ausgefüllt werden. Bitte füllen die Frage aus, bevor du weitermachst."
+
+#: class-document.php:879
+msgid "and"
+msgstr "und"
+
+#: class-document.php:721
+msgid "(See annex %s)"
+msgstr "(Siehe Anlage %s)"
+
+#: class-document.php:715
+msgid "(See paragraph %s)"
+msgstr "(Siehe Paragraph %s)"
+
+#: class-document.php:600
+msgid "Annex"
+msgstr "Anhang"
+
+#: class-document.php:1675
+msgid "Select a menu"
+msgstr "Wähle ein Menü"
+
+#: class-document.php:1650
+msgid "Great! All your generated documents have been assigned to a menu, so you can skip this step."
+msgstr "Wunderbar! Alle deine erstellten Dokumente wurden einem Menü zugewiesen, sodass du diesen Schritt überspringen kannst."
+
+#: class-document.php:1644
+msgid "The generated document %s has not been assigned to a menu yet, you can do this now, or skip this step and do it later."
+msgid_plural "The generated documents %s have not been assigned to a menu yet, you can do this now, or skip this step and do it later."
+msgstr[0] "Das generierte Dokument %s wurde noch keinem Menü zugewiesen. Du kannst dies jetzt tun oder diesen Schritt überspringen und später ausführen."
+msgstr[1] "Die generierten Dokumente %s wurden noch keinem Menü zugewiesen. Du kannst dies jetzt tun oder diesen Schritt überspringen und später ausführen."
+
+#: class-document.php:1620
+msgid "No menus were found. Skip this step, or %screate a menu%s first."
+msgstr "Kein Menü gefunden. Überspringe diesen Schritt, oder zuerst  %sEin Menü erstellen%s ."
+
+#: cookie/class-cookie-admin.php:3345
+msgid "Re-scan"
+msgstr "Erneutes Scannen"
+
+#: cookie/class-cookie-admin.php:3334
+msgid "Cookies as detected by the automatic cookie scan. Please note that only cookies set on your own domain are detected by this scan."
+msgstr "Cookies, die vom automatischen Cookie-Scan erkannt werden. Bitte beachte, dass nur Cookies auf deiner eigenen Domain erkannt werden."
+
+#: config/questions-wizard.php:251 config/steps.php:54
+#: cookie/class-cookie-admin.php:3327
+msgid "Cookie scan"
+msgstr "Cookie-Scan"
+
+#: cookie/class-cookie-admin.php:3094
+msgid "Cookie scan in progress"
+msgstr "Cookie-Scan läuft"
+
+#: cookie/class-cookie-admin.php:3092
+msgid "No cookies detected"
+msgstr "Keine Cookies erkannt"
+
+#: cookie/class-cookie-admin.php:2985
+msgid "%s at %s"
+msgstr "%s um %s Uhr"
+
+#: callback-notices.php:245
+msgid "The cookie scan detected %s types of cookies on your site which means the answer to this question should be Yes."
+msgstr "Der Cookie-Scan erkannte %s Arten von Cookies auf deiner Website, was bedeutet, dass die Antwort auf diese Frage Ja lauten sollte."
+
+#: callback-notices.php:248
+msgid "The cookie scan detected no cookies on your site which means the answer to this question can be answered with No."
+msgstr "Der Cookie-Scan hat keine Cookies auf deiner Website erkannt, was bedeutet, dass diese Frage mit Nein beantwortet werden kann."
+
+#: callback-notices.php:46
+msgid "The cookie scan detected %s on your site, which means the answer to this question should be %s."
+msgstr "Der Cookie-Scan hat %s auf deiner Site gefunden. Die Antwort auf diese Frage sollte %s lauten."
+
+#: cookiebanner/cookiebanner.php:210
+msgid "Your website requires a cookie warning, these settings will determine how the popup will look."
+msgstr "Deine Website benötigt eine Cookie-Warnung. Diese Einstellungen bestimmen, wie das Pop-Up aussehen wird."
+
+#: cookiebanner/cookiebanner.php:207
+msgid "Your website does not require a cookie warning, so these settings do not apply."
+msgstr "Deine Website benötigt keine Cookie-Warnung, daher gelten diese Einstellungen nicht."
+
+#: class-admin.php:1299
+msgid "Last cookie scan on %s"
+msgstr "Letzter Cookie-Scan am %s"
+
+#: class-admin.php:1295
+msgid "Your site does not require a cookie warning. No cookie warning has been enabled."
+msgstr "Deine Website benötigt keine Cookie-Warnung. Es wurde keine Cookie-Warnung aktiviert."
+
+#: class-admin.php:1291
+msgid "Your site requires a cookie warning, which has been enabled"
+msgstr "Deine Website benötigt eine Cookie-Warnung, die aktiviert wurde."
+
+#: class-admin.php:732 class-admin.php:733 shepherd/tour.php:85
+msgid "Dashboard"
+msgstr "Übersichtsseite"
+
+#: class-admin.php:741 class-admin.php:742 class-admin.php:798
+msgid "Wizard"
+msgstr "Assistent"
+
+#: class-admin.php:721
+msgid "Complianz"
+msgstr "Complianz"
+
+#: class-admin.php:714
+msgid "Complianz %s"
+msgstr "Complianz %s"
+
+#: class-admin.php:587
+msgid "Support"
+msgstr "Unterstützung"
+
+#: config/cookie-settings.php:79 class-admin.php:580 class-admin.php:754
+#: class-admin.php:755 class-admin.php:1373 shepherd/tour.php:120
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: callback-notices.php:73
+msgid "The scan found social media buttons or widgets for %s on your site, which means the answer should be yes"
+msgstr "Der Scan fand Soziale-Medien-Buttons oder Widgets für %s auf deiner Website, was bedeutet, dass die Antwort ja sein sollte."

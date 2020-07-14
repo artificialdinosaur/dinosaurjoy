@@ -1,0 +1,2387 @@
+# Translation of Plugins - EWWW Image Optimizer - Stable (latest release) in Japanese
+# This file is distributed under the same license as the Plugins - EWWW Image Optimizer - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-02-23 02:23:48+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Plugins - EWWW Image Optimizer - Stable (latest release)\n"
+
+#: trunk/bulk.php:309 bulk.php:309
+msgid "in seconds, 0 = disabled"
+msgstr "単位: 秒 (0 = 無効)"
+
+#. translators: used for Table Cleanup progress bar, like so: batch 32/346
+#: trunk/bulk.php:181 bulk.php:181
+msgid "batch"
+msgstr "バッチ"
+
+#. translators: %d: number of images
+#: trunk/bulk.php:174 bulk.php:174
+msgid "%d total images"
+msgstr "%d枚の画像"
+
+#: trunk/bulk.php:117 bulk.php:117
+msgid "Clean Optimization Records"
+msgstr "最適化記録を削除"
+
+#: trunk/bulk.php:58 trunk/bulk.php:60 bulk.php:58 bulk.php:60
+msgid "Search"
+msgstr "検索"
+
+#: trunk/common.php:9784 common.php:9784
+msgid "To disable auto-scaling for an image, add \"skip-autoscale\" to the HTML element via a class or attribute."
+msgstr "画像の自動サイズ変換を無効化するには、無効化したい画像の HTML に \"skip-autoscale\"  クラスまたは属性を追加してください。"
+
+#: trunk/common.php:9735 common.php:9735
+msgid "Smart Image Conversion"
+msgstr "スマート画像変換"
+
+#: trunk/common.php:9734 common.php:9734
+msgid "Automatic WebP Conversion"
+msgstr "自動 WebP 変換"
+
+#: trunk/common.php:7936 trunk/common.php:8013 common.php:7936 common.php:8013
+msgid "Restore & Re-optimize"
+msgstr "復元 & 再最適化"
+
+#. translators: %s: A link to the documentation
+#: trunk/common.php:1703 common.php:1703
+msgid "Could not activate Easy IO, please try again in a few minutes. If this error continues, please see %s for troubleshooting steps."
+msgstr "Easy IO を有効化できませんでした。数分経った後にもう一度お試しください。エラーが続く場合、%s を参照してトラブルシューティングしてください。"
+
+#: trunk/aux-optimize.php:259 aux-optimize.php:259
+msgid "file not found"
+msgstr "ファイルが見つかりません。"
+
+#. translators: 1: current page in list of images 2: total pages for list of
+#. images
+#: trunk/bulk.php:69 trunk/aux-optimize.php:118 bulk.php:69
+#: aux-optimize.php:118
+msgid "page %1$d of %2$d"
+msgstr "%1$dページ目 (%2$dページ中)"
+
+#. translators: %d: number of image records found
+#: trunk/aux-optimize.php:115 aux-optimize.php:115
+msgid "%d items displayed"
+msgstr "%d個を表示中"
+
+#. translators: 1: number of image records displayed, 2: number of total
+#. records found
+#: trunk/aux-optimize.php:105 aux-optimize.php:105
+msgid "%1$d items displayed of %2$d records found"
+msgstr "%1$d件を表示中 (%2$d件中)"
+
+#. translators: %d: number of image records found
+#: trunk/aux-optimize.php:102 aux-optimize.php:102
+msgid "%d items found"
+msgstr "%d件見つかりました。"
+
+#: trunk/common.php:9618 common.php:9618
+msgid "Easy IO copies your images to our CDN for optimization and does not affect the local images stored on your server. The Basic settings are not necessary for performance while Easy IO is active, but can help you to save server storage space."
+msgstr "最適化の際に Easy IO は画像を CDN にコピーするため、サーバーに保存されているローカルの画像には影響を及ぼしません。 Easy IO がアクティブなときは、パフォーマンスのための基本設定は必要ありませんが、サーバーのストレージスペースの節約に役立ちます。"
+
+#: trunk/bulk.php:92 trunk/bulk.php:392 bulk.php:92 bulk.php:392
+msgid "Clear Queue"
+msgstr "キューをクリアする"
+
+#: trunk/bulk.php:388 bulk.php:388
+msgid "Would you like to clear the queue and rescan for images?"
+msgstr "キューをクリアして画像を再スキャンしますか ?"
+
+#. translators: %s: number of images, formatted for locale
+#. translators: %s: number of images
+#: trunk/bulk.php:363 trunk/aux-optimize.php:1172 bulk.php:363
+#: aux-optimize.php:1172
+msgid "Optimize %s images"
+msgstr "%s点の画像を最適化"
+
+#: trunk/bulk.php:239 trunk/bulk.php:245 bulk.php:239 bulk.php:245
+msgid "The total number of images found will be displayed before optimization begins."
+msgstr "最適化を開始する前に、検出された画像の総数が表示されます。"
+
+#. translators: 1: number of images 2: number of registered image sizes
+#: trunk/bulk.php:238 trunk/bulk.php:244 bulk.php:238 bulk.php:244
+msgid "%1$s uploaded item in the Media Library has been selected with up to %2$d image files per upload."
+msgid_plural "%1$s uploaded items in the Media Library have been selected with up to %2$d image files per upload."
+msgstr[0] "アップロードごとに最大%2$d個の画像ファイルを含む、メディアライブラリ内の%1$s個のアップロードファイルが選択されました。"
+
+#. translators: %s: number of images
+#: trunk/aux-optimize.php:1155 aux-optimize.php:1155
+msgid "There is %s image ready to optimize."
+msgid_plural "There are %s images ready to optimize."
+msgstr[0] "最適化できる画像が%s点あります。"
+
+#: trunk/bulk.php:228 bulk.php:228
+msgid "Resume where you left off:"
+msgstr "中断した場所から再開する:"
+
+#: trunk/common.php:9792 common.php:9792
+msgid "Use low-quality versions of your images as placeholders via Easy IO. Can improve user experience, but may be slower than blank placeholders."
+msgstr "プレースホルダーとして Easy IO を使った低品質のバージョンを使用します。ユーザーエクスペリエンスを向上できますが、空白よりも遅くなる可能性があります。"
+
+#: trunk/common.php:9783 common.php:9783
+msgid "When used with Easy IO and/or JS WebP Rewriting, the plugin will load the best available image size and format for each device."
+msgstr "Easy IO や JS WebP Rewriting を使用すると、プラグインは各デバイスに最適な画像サイズとフォーマットをロードします。"
+
+#: trunk/common.php:9782 common.php:9782
+msgid "Improves actual and perceived loading time as images will be loaded only as they enter (or are about to enter) the viewport."
+msgstr "画像がビューポートに入る (または入ろうとしている) 時のみ読み込まれるため、読み込み速度を改善します。"
+
+#: trunk/common.php:9740 common.php:9740
+msgid "Learn more about Easy IO"
+msgstr "Easy IO についてさらに詳しく"
+
+#: trunk/common.php:9726 common.php:9726
+msgid "Easy IO"
+msgstr "Easy IO"
+
+#: trunk/common.php:9724 common.php:9724
+msgid "Then, let us know so we can find a fix for the problem."
+msgstr "次に、問題の解決策を見つけられるように、私たちにお知らせください。"
+
+#: trunk/common.php:9723 common.php:9723
+msgid "Having problems? Try disabling Lazy Load and Include All Resources. Finally, disable Easy IO if problems remain."
+msgstr "お困りですか? 遅延読み込みを無効にして、すべてのリソースを含めるようにしてください。問題が残っている場合は、最終手段として Easy IO を無効にしてください。"
+
+#: trunk/common.php:9589 trunk/common.php:9722 common.php:9589 common.php:9722
+msgid "Easy Mode"
+msgstr "イージーモード"
+
+#: trunk/common.php:1089 common.php:1089
+msgid "Suggested Easy IO Text:"
+msgstr "Easy IO 推奨テキスト:"
+
+#: unique.php:2734 trunk/unique.php:2734
+msgid "Image could not be converted to WebP."
+msgstr "画像を WebP に変換できませんでした。"
+
+#: unique.php:2730 trunk/unique.php:2730
+msgid "WebP image larger than original, saved anyway with Force WebP option."
+msgstr "オリジナルよりも大きい WebP 画像は、「強制WebP」オプションにより保存されました。"
+
+#: unique.php:2723 trunk/unique.php:2723
+msgid "WebP image was larger than original."
+msgstr "オリジナルよりも大きい WebP 画像です。"
+
+#: unique.php:2682 trunk/unique.php:2682
+msgid "WebP image already exists."
+msgstr "WebP 画像はすでに存在しています。"
+
+#: unique.php:2679 trunk/unique.php:2679
+msgid "File is not writable."
+msgstr "ファイルは書き込み可能ではありません。"
+
+#: unique.php:2677 trunk/unique.php:2677
+msgid "Could not find file."
+msgstr "ファイルが見つかりませんでした。"
+
+#: unique.php:1755 trunk/unique.php:1755
+msgid "Path traversal in filename not allowed."
+msgstr "ファイル名のパストラバーサルは許可されていません。"
+
+#: unique.php:189 trunk/unique.php:189
+msgid "The free mode of EWWW Image Optimizer is only supported on Linux, FreeBSD, Mac OSX, Solaris, and Windows."
+msgstr "EWWW Image Optimizer の無料版は、Linux、FreeBSD、Mac OSX、Solaris、およびWindows でのみサポートされています。"
+
+#: trunk/bulk.php:344 bulk.php:344
+msgid "Skip compression and only attempt WebP conversion."
+msgstr "圧縮をスキップし、WebP 変換のみを試みます。"
+
+#: trunk/bulk.php:342 bulk.php:342
+msgid "WebP Only"
+msgstr "WebP のみ"
+
+#. translators: 1: An image URL on a CDN 2: An image URL 3: An example folder
+#. URL
+#: trunk/common.php:10099 common.php:10099
+msgid "For example, with a CDN URL of %1$s and a local URL of %2$s you would enter %3$s."
+msgstr "例えば、CDN の URL が %1$s でローカル URL が %2$s の場合は、%3$s を入力します。"
+
+#: trunk/common.php:10095 common.php:10095
+msgid "Optionally include a folder with the URL if your CDN path is different from your local path."
+msgstr "CDN パスがローカルパスと異なる場合は、必要に応じて URL にフォルダーを含めてください。"
+
+#: trunk/common.php:10094 common.php:10094
+msgid "Enter additional URL patterns, like a CDN URL, that should be permitted for JS WebP Rewriting. One URL per line, must include the domain name (cdn.example.com)."
+msgstr "「JS WebP Rewriting」に許可する必要のある追加の URL パターン (CDN URL など) を入力します。 1行につき1つの URL を入力し、URL にはドメイン名 (cdn.example.com) を含める必要があります。"
+
+#: trunk/common.php:8055 common.php:8055
+msgid "Not optimized"
+msgstr "未最適化"
+
+#: trunk/common.php:1662 common.php:1662
+msgid "It looks like you already started optimizing your images, you will need to generate WebP images via the Bulk Optimizer."
+msgstr "画像の最適化をすでに開始しているようです。Bulk Optimizer を使用して WebP 画像を生成する必要があります。"
+
+#: trunk/aux-optimize.php:340 aux-optimize.php:340
+msgid "All records have been removed from the optimization history."
+msgstr "すべてのレコードが最適化の履歴から削除されました。"
+
+#: trunk/aux-optimize.php:192 trunk/aux-optimize.php:244
+#: trunk/aux-optimize.php:283 aux-optimize.php:192 aux-optimize.php:244
+#: aux-optimize.php:283
+msgid "Remove from history"
+msgstr "履歴から削除する"
+
+#: trunk/bulk.php:304 bulk.php:304
+msgid "View optimization history."
+msgstr "最適化の履歴を表示する。"
+
+#: trunk/bulk.php:160 bulk.php:160
+msgid "Warning: this cannot be undone. Re-optimizing images will use additional API credits."
+msgstr "警告: これは元に戻せません。画像を再度最適化する際には、追加の API クレジットが使用されます。"
+
+#: trunk/bulk.php:158 bulk.php:158
+msgid "Warning: this cannot be undone and will cause a bulk optimize to re-optimize all images."
+msgstr "警告: これは元に戻すことはできず、一括最適化によりすべての画像が再最適化されます。"
+
+#: trunk/bulk.php:102 bulk.php:102
+msgid "Erase Optimization History"
+msgstr "最適化履歴を消去"
+
+#: trunk/bulk.php:99 bulk.php:99
+msgid "The optimization history prevents the plugin from re-optimizing images, but you may erase the history to reduce database size or to force the plugin to re-optimize all images."
+msgstr "最適化の履歴があると、プラグインで画像を再度最適化することができませんが、履歴を消去することで、データベースサイズを縮小したり、すべての画像をプラグインで再度最適化させることができます。"
+
+#: trunk/bulk.php:35 bulk.php:35
+msgid "Nothing has been optimized yet!"
+msgstr "まだ最適化された項目はありません。"
+
+#: trunk/common.php:9889 common.php:9889
+msgid "Optimize the original version of images that have been scaled down by WordPress."
+msgstr "WordPress によって縮小された画像のオリジナルバージョンを最適化します。"
+
+#: trunk/common.php:9885 common.php:9885
+msgid "Include Originals"
+msgstr "オリジナルを含める"
+
+#: trunk/common.php:9570 common.php:9570
+msgid "View optimized images."
+msgstr "最適化された画像を表示する。"
+
+#: trunk/common.php:1834 common.php:1834
+msgid "Post Review"
+msgstr "レビューを投稿"
+
+#: trunk/common.php:1833 common.php:1833
+msgid "If you could take a few moments to rate it on WordPress.org, we would really appreciate your help making the plugin better. Thanks!"
+msgstr "WordPress.org で評価していただくことで、プラグイン改善の助けになります。ありがとうございます。"
+
+#: trunk/common.php:1832 common.php:1832
+msgid "Hi, you've been using the EWWW Image Optimizer for a while, and we hope it has been a big help for you."
+msgstr "こんにちは、しばらくの間 EWWW Image Optimizer をご使用いただいておりますが、お役に立てていれば幸いです。 "
+
+#: trunk/common.php:10110 common.php:10110
+msgid "WebP images are served automatically by Easy Image Optimizer."
+msgstr "WebP 画像は Easy Image Optimizer により自動提供されます。"
+
+#. translators: 1: automatically (link) 2: manually (link)
+#: unique.php:686 trunk/unique.php:686
+msgid "You are missing pngout. Install %1$s or %2$s."
+msgstr "pngout が見つかりません。%1$s または %2$s をインストールしてください。"
+
+#: trunk/common.php:1864 common.php:1864
+msgid "Enable the EWWW I.O. support beacon, which gives you access to documentation and our support team right from your WordPress dashboard. To assist you more efficiently, we collect the current url, IP address, browser/device information, and debugging information."
+msgstr "WordPress ダッシュボードからドキュメントやサポートチームに直接アクセスできるようにするため、EWWW I.O サポートビーコンを有効化してください。より効率的に支援するために、現在のURL、IP アドレス、ブラウザ / デバイス情報、およびデバッグ情報を収集します。"
+
+#: trunk/common.php:1789 common.php:1789
+msgid "EWWW Image Optimizer has detected a WP/LR Sync process. To optimize new thumbnails, you may run the Bulk Optimizer from the Media menu. This notice may be dismissed after the Sync process is complete."
+msgstr "EWWW Image Optimizer は、WP / LR 同期プロセスを検出しました。新しいサムネイルを最適化するには、「メディア」メニューから Bulk Optimizer を実行します。同期プロセスが完了するとこの通知は消えます。"
+
+#: trunk/common.php:1715 common.php:1715
+msgid "Easy IO setup and verification is complete."
+msgstr "Easy IOのセットアップと検証が完了しました"
+
+#: trunk/common.php:9949 common.php:9949
+msgid "Allow resizing of existing images outside the Media Library. Use this to resize images specified under the Folders to Optimize setting when running Bulk or Scheduled Optimization."
+msgstr "メディアライブラリ外にある画像のサイズ変更を許可します。「一括最適化」または「予約済みの最適化」を実行するときに、「最適化するフォルダー」設定で指定された画像のサイズを変更するために使用します。"
+
+#: trunk/common.php:9935 common.php:9935
+msgid "Resize uploaded images to these dimensions."
+msgstr "アップロードした画像をこれらのサイズに変更します。"
+
+#: trunk/common.php:9928 common.php:9928
+msgid "Resize Images"
+msgstr "画像のリサイズ"
+
+#: trunk/common.php:7794 common.php:7794
+msgid "Media Cloud image"
+msgstr "メディアクラウド画像"
+
+#: trunk/common.php:7789 common.php:7789
+msgid "WP Stateless image"
+msgstr "WP Stateless の画像"
+
+#. translators: %s: A file system path
+#: trunk/common.php:2842 common.php:2842
+msgid "Could not save Folder to Optimize: %s. Access denied."
+msgstr "「最適化するフォルダー」を保存できませんでした: %s。アクセスが拒否されました。"
+
+#: trunk/common.php:10108 common.php:10108
+msgid "WebP images are served automatically by Easy IO."
+msgstr "WebP 画像は Easy IO により自動提供されます。"
+
+#: trunk/common.php:7761 common.php:7761
+msgid "Amazon-hosted image"
+msgstr "Amazonがホストする画像"
+
+#: trunk/common.php:10152 common.php:10152
+msgid "Upgrade to premium image optimization"
+msgstr "プレミアム画像最適化へのアップグレード"
+
+#: trunk/common.php:10151 common.php:10151
+msgid "Write a review"
+msgstr "レビューを書く"
+
+#: trunk/common.php:10150 common.php:10150
+msgid "Translate EWWW I.O."
+msgstr "EWWW I.O を翻訳する。"
+
+#: trunk/common.php:10149 common.php:10149
+msgid "Here are some ways you can contribute to the development of this plugin:"
+msgstr "このプラグインの開発に貢献できるいくつかの方法があります:"
+
+#: trunk/common.php:9778 common.php:9778
+msgid "Lazy Load"
+msgstr "遅延読み込み"
+
+#: trunk/common.php:9596 trunk/common.php:10148 common.php:9596
+#: common.php:10148
+msgid "Contribute"
+msgstr "寄稿する"
+
+#: trunk/common.php:9595 trunk/common.php:10123 common.php:9595
+#: common.php:10123
+msgid "Support"
+msgstr "サポート"
+
+#: trunk/common.php:7781 common.php:7781
+msgid "Offloaded Media"
+msgstr "オフロードされたメディア"
+
+#: trunk/common.php:1763 common.php:1763
+msgid "EWWW Image Optimizer has detected a WooCommerce thumbnail regeneration. To optimize new thumbnails, you may run the Bulk Optimizer from the Media menu. This notice may be dismissed after the regeneration is complete."
+msgstr "EWWW Image OptimizerがWooCommerceのサムネイルの再生成を検出しました。新しいサムネイルを最適化するには、[メディア]メニューから[Bulk Optimizer]を実行します。この通知は、再生完了後に却下される可能性があります。"
+
+#: trunk/common.php:1730 common.php:1730
+msgid "ShortPixel image optimization has been disabled to prevent conflicts with Easy IO (EWWW Image Optimizer)."
+msgstr "ShortPixel image optimization は、Easy IO (EWWW Image Optimizer) との競合を防ぐために無効化されています。"
+
+#: unique.php:563 trunk/unique.php:563
+msgid "Sites that use Easy IO already have built-in image optimization and may dismiss this notice to disable local compression."
+msgstr "Easy IO を使用するサイトには既に画像最適化が組み込まれているため、この通知を無視してローカル圧縮を無効にすることができます。"
+
+#: trunk/bulk.php:1124 bulk.php:1124
+msgid "Images compressed by TinyJPG and TinyPNG have been skipped, refresh and use the Force Re-optimize option to override."
+msgstr "TinyJPG および TinyPNG で圧縮された画像はスキップされました。上書きするには、再読み込みを行い、「再最適化オプション」を使用してください。"
+
+#: trunk/common.php:10064 common.php:10064
+msgid "JS WebP Rewriting"
+msgstr "JS WebP Rewriting"
+
+#: trunk/common.php:3954 common.php:3954
+msgid "Could not validate EWWW Image Optimizer API key, please check your key to ensure it is correct."
+msgstr "EWWW Image Optimizer APIキーを検証できませんでした。キーが正しいことを確認してください。"
+
+#: unique.php:562 trunk/unique.php:562
+msgid "An API key or Easy IO subscription will allow you to offload the compression to our dedicated servers instead."
+msgstr "API キーまたは Easy IO サブスクリプションを使用すると、代わりに専用サーバーに圧縮をオフロードすることができます。"
+
+#: trunk/common.php:9698 common.php:9698
+msgid "These levels use the compression API."
+msgstr "これらのレベルは圧縮APIを使用します。"
+
+#: trunk/common.php:9655 common.php:9655
+msgid "Color profiles are preserved when using the API or Easy IO."
+msgstr "API または Easy IO を使用する際、カラープロファイルは保持されます。"
+
+#: trunk/bulk.php:208 bulk.php:208
+msgid "Bulk Optimization will alter your original images and cannot be undone. Please be sure you have a backup of your images before proceeding."
+msgstr "一括最適化は元の画像を変更するため、元に戻すことはできません。続行する前に、必ず画像のバックアップを取ってください。"
+
+#. Author of the plugin
+msgid "Exactly WWW"
+msgstr "正確なWWW"
+
+#: trunk/classes/class-ewwwio-gd-editor.php:244
+#: trunk/classes/class-ewwwio-imagick-editor.php:257
+#: classes/class-ewwwio-gd-editor.php:244
+#: classes/class-ewwwio-imagick-editor.php:257
+msgid "Could not calculate resized image dimensions"
+msgstr "サイズ変更された画像のサイズを計算できませんでした。"
+
+#: trunk/common.php:9756 common.php:9756
+msgid "Enable high quality premium compression for all images. Disable to use Pixel Perfect mode instead."
+msgstr "すべての画像に高品質のプレミアム圧縮を有効にします。 Pixel Perfectモードを使用する場合は無効にしてください。"
+
+#: trunk/common.php:9748 common.php:9748
+msgid "Use Easy IO for all resources in wp-includes/ and wp-content/, including JavaScript, CSS, fonts, etc."
+msgstr "wp-includes/ や wp-content/ 以下の JavaScript、CSS、フォントなどのすべてのリソースに ExactDN を使用する。"
+
+#: trunk/common.php:9747 common.php:9747
+msgid "Include All Resources"
+msgstr "全てのリソースを含む"
+
+#: trunk/common.php:9693 common.php:9693
+msgid "High Compression"
+msgstr "高圧縮"
+
+#: trunk/common.php:9668 trunk/common.php:9680 common.php:9668 common.php:9680
+msgid "Premium Plus"
+msgstr "プレミアムプラス"
+
+#: trunk/common.php:9667 trunk/common.php:9679 common.php:9667 common.php:9679
+msgid "Premium"
+msgstr "プレミアム"
+
+#: trunk/common.php:9666 trunk/common.php:9678 common.php:9666 common.php:9678
+msgid "Pixel Perfect Plus"
+msgstr "ピクセルパーフェクトプラス"
+
+#: trunk/common.php:9664 trunk/common.php:9675 trunk/common.php:9686
+#: trunk/common.php:9692 common.php:9664 common.php:9675 common.php:9686
+#: common.php:9692
+msgid "Pixel Perfect"
+msgstr "ピクセルパーフェクト"
+
+#: trunk/common.php:9311 common.php:9311
+msgid "Enable premium compression."
+msgstr "プレミアム圧縮を有効にする"
+
+#: trunk/common.php:5834 common.php:5834
+msgid "File is not an image."
+msgstr "ファイルは画像ではありません。"
+
+#: trunk/common.php:4647 common.php:4647
+msgid "Unknown resize error"
+msgstr "不明なサイズ変更エラー"
+
+#: trunk/common.php:4547 trunk/common.php:4563 common.php:4547 common.php:4563
+msgid "Could not verify API key"
+msgstr "APIキーを確認できませんでした"
+
+#: trunk/classes/class-ewwwio-gd-editor.php:577
+#: trunk/classes/class-ewwwio-imagick-editor.php:574
+#: classes/class-ewwwio-gd-editor.php:577
+#: classes/class-ewwwio-imagick-editor.php:574
+msgid "Image Editor Save Failed"
+msgstr "イメージエディターの保存に失敗しました"
+
+#: trunk/classes/class-ewwwio-gd-editor.php:298
+#: trunk/classes/class-ewwwio-gd-editor.php:340
+#: trunk/classes/class-ewwwio-imagick-editor.php:377
+#: classes/class-ewwwio-gd-editor.php:298
+#: classes/class-ewwwio-gd-editor.php:340
+#: classes/class-ewwwio-imagick-editor.php:377
+msgid "Image resize failed."
+msgstr "画像のサイズ変更に失敗しました。"
+
+#: unique.php:2776 unique.php:2822 trunk/unique.php:2776 trunk/unique.php:2822
+msgid "insufficient memory available for installation"
+msgstr "インストールするためのメモリが不足しています"
+
+#: unique.php:2759 trunk/unique.php:2759
+msgid "zlib or phar extension missing from PHP"
+msgstr "Zlib 拡張か Phar 拡張が PHP にインストールされていません"
+
+#: unique.php:181 trunk/unique.php:181
+msgid "Then, activate it on the settings page."
+msgstr "その後、設定ページで有効にします。"
+
+#: unique.php:180 trunk/unique.php:180
+msgid "Purchase a subscription."
+msgstr "購読購入する。"
+
+#. translators: %s: Name of a web host, like WordPress.com or Pantheon.
+#: unique.php:179 trunk/unique.php:179
+msgid "The EWWW Image Optimizer requires an API key or an Easy IO subscription to optimize images on %s sites."
+msgstr "EWWW Image Optimizer で %s サイトの画像を最適化するには、API キーまたは ExactDN サブスクリプションが必要です。"
+
+#: trunk/ewww-image-optimizer.php:160 trunk/ewww-image-optimizer.php:168
+#: trunk/ewww-image-optimizer.php:176 trunk/ewww-image-optimizer.php:184
+#: ewww-image-optimizer.php:160 ewww-image-optimizer.php:168
+#: ewww-image-optimizer.php:176 ewww-image-optimizer.php:184
+msgid "Install now."
+msgstr "今すぐインストール"
+
+#: trunk/common.php:10375 common.php:10375
+msgid "Help"
+msgstr "ヘルプ"
+
+#: trunk/common.php:10068 common.php:10068
+msgid "Use this if the Apache rewrite rules do not work, or if your images are served from a CDN."
+msgstr "Apacheのリライトルールが機能しない場合、またはイメージがCDNから提供されている場合は、これを使用してください。"
+
+#: trunk/common.php:10041 common.php:10041
+msgid "Image conversion requires one of the following PHP libraries: GD, Imagick, or GMagick."
+msgstr "画像変換には、GD、Imagick、または GMagick のいずれかの PHP ライブラリが必要です。"
+
+#. translators: 1: JPG, GIF or PNG 2: JPG or PNG
+#: trunk/common.php:10011 trunk/common.php:10021 trunk/common.php:10032
+#: common.php:10011 common.php:10021 common.php:10032
+msgid "%1$s to %2$s Conversion"
+msgstr "%1$s を %2$s に変換"
+
+#: trunk/common.php:9955 common.php:9955
+msgid "Remember that each image size will affect your API credits."
+msgstr "それぞれの画像サイズがあなたのAPIクレジットに影響することを忘れないでください。"
+
+#: trunk/common.php:9878 common.php:9878
+msgid "Include Media Folders"
+msgstr "メディアフォルダを含む"
+
+#: trunk/common.php:9736 common.php:9736
+msgid "JS/CSS Minification and Compression"
+msgstr "JS/CSS の最小化と圧縮"
+
+#: trunk/common.php:9732 trunk/common.php:9755 common.php:9732 common.php:9755
+msgid "Premium Compression"
+msgstr "プレミアム圧縮"
+
+#: trunk/common.php:9644 trunk/common.php:9651 common.php:9644 common.php:9651
+msgid "Optimization API Key"
+msgstr "Optimization API Key"
+
+#: trunk/common.php:9593 trunk/common.php:10046 common.php:9593
+#: common.php:10046
+msgid "WebP"
+msgstr "WebP"
+
+#: trunk/common.php:9592 trunk/common.php:9991 common.php:9592 common.php:9991
+msgid "Convert"
+msgstr "変換"
+
+#: trunk/common.php:9590 trunk/common.php:9807 common.php:9590 common.php:9807
+msgid "Advanced"
+msgstr "上級者向け"
+
+#: trunk/common.php:9588 trunk/common.php:9616 common.php:9588 common.php:9616
+msgid "Basic"
+msgstr "ベーシック"
+
+#: trunk/common.php:9550 common.php:9550
+msgid "Scale or reduce the dimensions of your images for more savings."
+msgstr "より多くの節約のために画像を拡大縮小する。"
+
+#: trunk/common.php:9528 common.php:9528
+msgid "Reduce the file size of your images without affecting quality."
+msgstr "画質に影響を与えずにファイルサイズを小さくします。"
+
+#: trunk/common.php:9518 trunk/common.php:9540 common.php:9518 common.php:9540
+msgid "You got the perfect score!"
+msgstr "完璧なスコアを獲得しました。"
+
+#: trunk/common.php:9518 trunk/common.php:9540 common.php:9518 common.php:9540
+msgid "How do I get to 100%?"
+msgstr "100%にするにはどうすれば良いですか ?"
+
+#: trunk/common.php:9497 common.php:9497
+msgid "Remove metadata from JPG images."
+msgstr "JPG画像からメタデータを削除"
+
+#: trunk/common.php:9447 common.php:9447
+msgid "Install webp."
+msgstr "webpをインストール"
+
+#: trunk/common.php:9434 common.php:9434
+msgid "Install gifsicle."
+msgstr "gifsicleをインストール"
+
+#: trunk/common.php:9421 common.php:9421
+msgid "Install pngquant."
+msgstr "pngquantをインストール"
+
+#: trunk/common.php:9408 common.php:9408
+msgid "Install pngout"
+msgstr "pngoutをインストール"
+
+#: trunk/common.php:9395 common.php:9395
+msgid "Install optipng."
+msgstr "optipngをインストール"
+
+#: trunk/common.php:9382 common.php:9382
+msgid "Install jpegtran."
+msgstr "jpegtranをインストール"
+
+#: trunk/common.php:9369 common.php:9369
+msgid "JPG quality level should be between 50 and 90 for optimal resizing."
+msgstr "最適なリサイズを行うには、JPG の品質レベルを50〜90にする必要があります。"
+
+#: trunk/common.php:9363 common.php:9363
+msgid "Configure maximum image dimensions in Resize settings."
+msgstr "「リサイズ設定」で最大画像サイズを設定してください。"
+
+#: trunk/common.php:9328 common.php:9328
+msgid "Enable Easy IO for automatic resizing."
+msgstr "自動リサイズのために Easy IO を有効化してください。"
+
+#: trunk/common.php:9281 common.php:9281
+msgid "Enable premium compression with an API key or Easy IO."
+msgstr "API キーまたは Easy IO を使用してプレミアム圧縮を有効化してください。"
+
+#: trunk/common.php:9267 common.php:9267
+msgid "Purchase more"
+msgstr "もっと購入する"
+
+#: trunk/common.php:9267 common.php:9267
+msgid "Out of credits"
+msgstr "クレジットがありません"
+
+#: trunk/common.php:9263 common.php:9263
+msgid "Enable premium compression for PNG images."
+msgstr "PNG画像のプレミアム圧縮を有効にする。"
+
+#: trunk/common.php:9258 common.php:9258
+msgid "Enable premium compression for JPG images."
+msgstr "JPG画像のプレミアム圧縮を有効にする。"
+
+#: trunk/common.php:9243 common.php:9243
+msgid "Optimization Status"
+msgstr "最適化ステータス"
+
+#: trunk/common.php:10126 common.php:10126
+msgid "Server Status"
+msgstr "サーバーの状態"
+
+#: trunk/common.php:1823 common.php:1823
+msgid "Change the Media Library to List mode for additional image optimization information and actions."
+msgstr "追加の画像最適化情報およびアクションについては、メディアライブラリをリストモードに変更してください。"
+
+#: trunk/common.php:1677 common.php:1677
+msgid "Pngout was successfully installed."
+msgstr "Pngoutは正常にインストールされました。"
+
+#: trunk/common.php:1089 common.php:1089
+msgid "User-submitted images that are displayed on this site will be transmitted and stored on a global network of third-party servers (a CDN)."
+msgstr "このサイトに表示されるユーザー送信画像は、第三者のサーバー (CDN) のグローバルネットワークに送信され、保存されます。"
+
+#: trunk/common.php:1088 common.php:1088
+msgid "User-submitted images may be transmitted to image compression servers in the United States and stored there for up to 30 days."
+msgstr "ユーザーが投稿した画像は、米国内の画像圧縮サーバーに送信され最大30日間保存されます。"
+
+#: trunk/common.php:1088 common.php:1088
+msgid "Suggested API Text:"
+msgstr "提案された API テキスト :"
+
+#: trunk/common.php:1087 common.php:1087
+msgid "If you accept user-submitted images and use the API or Easy IO, those images may be transmitted to third-party servers in foreign countries. If Backup Originals is enabled, images are stored for 30 days. Otherwise, no images are stored on the API for longer than 30 minutes."
+msgstr "ユーザーが送信した画像に API または Easy IO を使用すると、それらの画像は海外のサードパーティサーバーに送信されます。オリジナルのバックアップが有効になっている場合、画像は30日間保存されます。それ以外の場合、API には長くても30分間しか画像が保存されません。"
+
+#: trunk/common.php:1085 common.php:1085
+msgid "By default, the EWWW Image Optimizer does not store any personal data nor share it with anyone."
+msgstr "デフォルトでは、EWWW Image Optimizerは個人データを保存したり、他の人と共有することはありません。"
+
+#: trunk/classes/class-ewwwio-install-cloud.php:88
+#: classes/class-ewwwio-install-cloud.php:88
+msgid "A partial installation already exists. Please remove it and try again."
+msgstr "部分的なインストールが既に存在します。削除してやり直してください。"
+
+#: trunk/classes/class-ewwwio-install-cloud.php:83
+#: classes/class-ewwwio-install-cloud.php:83
+msgid "The plugins folder is not writable, you may install the EWWW Image Optimizer Cloud manually."
+msgstr "pluginsフォルダは書き込み可能ではありません、あなたは手動でEWWW Image Optimizer Cloudをインストールすることができます。"
+
+#: trunk/classes/class-ewww-nextgen.php:436
+#: trunk/classes/class-ewww-flag.php:711 trunk/common.php:7755
+#: classes/class-ewww-nextgen.php:436 classes/class-ewww-flag.php:711
+#: common.php:7755
+msgid "Show Metadata"
+msgstr "メタデータを表示"
+
+#: trunk/bulk.php:1954 bulk.php:1954
+msgid "Show Debug Output"
+msgstr "デバッグ出力を表示"
+
+#: trunk/aux-optimize.php:32 trunk/common.php:10259 aux-optimize.php:32
+#: common.php:10259
+msgid "Copy"
+msgstr "コピー"
+
+#: trunk/common.php:9323 common.php:9323
+msgid "Plugins that remove query strings are unnecessary with Easy IO. You may remove them at your convenience."
+msgstr "Easy IO では、クエリ文字列を削除するプラグインは必要ありません。都合の良いときに削除することができます。"
+
+#: trunk/common.php:9302 common.php:9302
+msgid "If you use the File Optimization options within WP Rocket, you should also enter your Easy IO CNAME in the WP Rocket CDN settings (reserved for CSS and Javascript):"
+msgstr "WP Rocket 内でファイル最適化オプションを使用する場合は、WP Rocket の CDN 設定 (CSS と Javascript 用に確保済み) に Easy IO CNAME も入力する必要があります。"
+
+#: trunk/ewww-image-optimizer.php:183 ewww-image-optimizer.php:183
+msgid "The regular version of the EWWW Image Optimizer plugin is not permitted on WP NET sites. Please deactivate EWWW Image Optimizer and install EWWW Image Optimizer Cloud to optimize your images."
+msgstr "通常バージョンの EWWW Image Optimizer プラグインは WP NET サイト上では動作しません。EWWW Image Optimizer を無効化し、EWWW Image Optimizer Cloud をインストールし画像の最適化に使ってください。"
+
+#: trunk/common.php:9272 common.php:9272
+msgid "View Usage"
+msgstr "使い方を表示"
+
+#. translators: 1: Number of images 2: Number of days until renewal
+#: trunk/common.php:4002 common.php:4002
+msgid "optimized %1$d images, renewal is in %2$d day."
+msgid_plural "optimized %1$d images, renewal is in %2$d days."
+msgstr[0] "%1$d 枚の画像を最適化し、リニューアルは %2$d 日後です。"
+
+#: trunk/aux-optimize.php:1159 aux-optimize.php:1159
+msgid "You do not appear to have enough image credits to complete this operation."
+msgstr "この操作を完了するために必要な画像クレジットをお持ちでないようです。"
+
+#: trunk/common.php:9594 common.php:9594
+msgid "Overrides"
+msgstr "上書きする"
+
+#: trunk/common.php:9481 trunk/common.php:9489 common.php:9481 common.php:9489
+msgid "Re-test"
+msgstr "再テスト"
+
+#: trunk/common.php:9317 common.php:9317
+msgid "Active, not yet verified."
+msgstr "アクティブ、未認証です。"
+
+#: trunk/common.php:9315 common.php:9315
+msgid "Temporarily disabled."
+msgstr "一時的に無効化されています。"
+
+#: trunk/common.php:1723 common.php:1723
+msgid "The next major release of EWWW Image Optimizer will require PHP 5.6 or greater. Newer versions of PHP, like 7.1 and 7.2, are significantly faster and much more secure. If you are unsure how to upgrade to a supported version, ask your webhost for instructions."
+msgstr "EWWW Image Optimizer の次のメジャーリリースでは、PHP 5.6以降が必要になります。 7.1や7.2などの PHP のより新しいバージョンは、パフォーマンスが良く、はるかに安全です。サポートされているバージョンにアップグレードする方法がわからない場合は、ホスティング会社にお尋ねください。"
+
+#: trunk/common.php:10205 common.php:10205
+msgid "Remove Rewrite Rules"
+msgstr "リライトルールを削除"
+
+#: trunk/common.php:8907 common.php:8907
+msgid "Removal failed"
+msgstr "削除に失敗しました"
+
+#: trunk/common.php:8905 common.php:8905
+msgid "Removal successful"
+msgstr "削除に成功しました"
+
+#: trunk/common.php:1755 common.php:1755
+msgid "New thumbnails will be optimized by the EWWW Image Optimizer as they are generated. You may wish to disable the plugin and run a bulk optimize later to speed up the process."
+msgstr "新しいサムネイル画像は EWWW Image Optimizer プラグインによって生成される度に最適化されます。サムネイル画像の生成プロセスをより早く行うためには、プラグインを無効化して、後で一括最適化を行ってください。"
+
+#: trunk/common.php:10588 common.php:10588
+msgid "The Debug Log is empty."
+msgstr "デバッグログは空です。"
+
+#: trunk/common.php:9549 trunk/common.php:9591 trunk/common.php:9915
+#: common.php:9549 common.php:9591 common.php:9915
+msgid "Resize"
+msgstr "リサイズ"
+
+#: trunk/common.php:9527 common.php:9527
+msgid "Compress"
+msgstr "圧縮"
+
+#: trunk/common.php:4025 common.php:4025
+msgid "no credits remaining, please purchase more."
+msgstr "クレジットが残っていない場合は、購入してください。"
+
+#: trunk/bulk.php:303 bulk.php:303
+msgid "Previously optimized images will be skipped by default, check this box before scanning to override."
+msgstr "以前に最適化された画像はデフォルトでスキップされます。スキャン前にこのボックスをチェックすると上書き出来ます。"
+
+#: trunk/common.php:9921 common.php:9921
+msgid "Highlight images that need to be resized because the browser is scaling them down. Only visible for Admin users and adds a button to the admin bar to detect scaled images that have been lazy loaded."
+msgstr "ハイライトされている画像はブラウザーによって縮小されて表示されているため、リサイズが必要です。管理バーにボタンを追加し、縮小表示され遅延ロードされている画像を検出しましょう。"
+
+#: trunk/ewww-image-optimizer.php:175 ewww-image-optimizer.php:175
+msgid "The regular version of the EWWW Image Optimizer plugin is not permitted on Flywheel sites. Please deactivate EWWW Image Optimizer and install EWWW Image Optimizer Cloud to optimize your images."
+msgstr "通常バージョンの EWWW Image Optimizer プラグインでは Flywheel サイト上では動きません。画像を最適化するには、EWWW Image Optimizer を無効化し、EWWW Image Optimizer Cloud プラグインを使用してください。"
+
+#: trunk/common.php:9917 common.php:9917
+msgid "Resize Detection"
+msgstr "リサイズ検知"
+
+#: trunk/common.php:9738 common.php:9738
+msgid "Purchase a subscription for your site."
+msgstr "このサイト用のサブスクリプションを購入する。"
+
+#: trunk/common.php:9608 common.php:9608
+msgid "Configure network-wide settings in the Network Admin."
+msgstr "サイトネットワーク管理者からサイトネットワーク全体の設定を変更する。"
+
+#: trunk/common.php:9300 common.php:9300
+msgid "Verified"
+msgstr "証明済み"
+
+#: trunk/common.php:9288 common.php:9288
+msgid "Inactive, please disable the Image Performance option on the Jetpack Dashboard."
+msgstr "無効、Jetpack のダッシュボードから画像パフォーマンスオプションを無効化してください。"
+
+#. translators: %s: admin email as configured in settings
+#: trunk/classes/class-ewwwio-tracking.php:363
+#: classes/class-ewwwio-tracking.php:363
+msgid "Allow EWWW Image Optimizer to track plugin usage? Opt-in to tracking and receive 500 free image credits in your admin email: %s. No sensitive data is tracked."
+msgstr "プラグインの使われ方調査をとプラグインの改善のために EWWW Image Optimizer へ匿名でデータ送信することを許可しますか ? トラッキングを有効しデータを送信することで500枚の無料画像クレジットが以下の管理者メールアドレスに付与されます: %s。これには機密データは含まれません。"
+
+#: trunk/ewww-image-optimizer.php:167 ewww-image-optimizer.php:167
+msgid "The regular version of the EWWW Image Optimizer plugin is not permitted on Kinsta sites. Please deactivate EWWW Image Optimizer and install EWWW Image Optimizer Cloud to optimize your images."
+msgstr "レギュラーバージョンの EWWW Image Optimizer プラグインは Kinsta サイトで使用できません。画像を最適化するには EWWW Image Optimizer を無効化し、EWWW Image Optimizer Cloud をインストールしてください。"
+
+#: trunk/bulk.php:700 bulk.php:700
+msgid "more..."
+msgstr "もっと見る"
+
+#: trunk/bulk.php:690 bulk.php:690
+msgid "Temporary failure, attempts remaining:"
+msgstr "一時的な失敗、試行が残っています:"
+
+#: trunk/bulk.php:686 bulk.php:686
+msgid "Operation timed out, you may need to increase the max_execution_time or memory_limit for PHP"
+msgstr "操作がタイムアウトしました。PHP の max_execution_time と memory_limit の値を上げる必要があるかもしれません。"
+
+#: trunk/common.php:10129 common.php:10129
+msgid "Enable Embedded Help"
+msgstr "埋め込み型のヘルプを有効化"
+
+#: trunk/common.php:10132 common.php:10132
+msgid "Enable the support beacon, which gives you access to documentation and our support team right from your WordPress dashboard. To assist you more efficiently, we may collect the current url, IP address, browser/device information, and debugging information."
+msgstr "WordPress のダッシュボードからドキュメントとサポートチームにアクセス出来るようにするサポートビーコンを有効化します。より効率的な手助けをするために、現在の URL、IP アドレス、ブラウザー / デバイス情報やデバック情報が収集されることがあります。"
+
+#: trunk/bulk.php:200 bulk.php:200
+msgid "Please disable Scheduled optimization before continuing."
+msgstr "続ける前にスケジュール最適化を無効化してください。"
+
+#: trunk/common.php:9699 common.php:9699
+msgid "All methods used by the EWWW Image Optimizer are intended to produce visually identical images."
+msgstr "EWWW Image Optimizer では、視覚的に同一なイメージを生成する方法が使われています。"
+
+#: trunk/common.php:9485 common.php:9485
+msgid "Disabled by Shield's Lock to Location feature"
+msgstr "Shield's Lock の位置情報機能により無効化済み"
+
+#: trunk/common.php:9479 common.php:9479
+msgid "Disabled automatically, async requests blocked"
+msgstr "自動的に無効化済み、async リクエストがブロックされました"
+
+#: trunk/common.php:9474 common.php:9474
+msgid "Disabled, sleep function missing"
+msgstr "無効化済み、スリープ関数が欠けています"
+
+#: trunk/common.php:9472 common.php:9472
+msgid "Disabled by administrator"
+msgstr "管理者によって無効化済み"
+
+#: trunk/aux-optimize.php:1163 aux-optimize.php:1163
+msgid "Why are there so many images?"
+msgstr "なぜたくさんの画像があるのですか ?"
+
+#: trunk/common.php:9648 common.php:9648
+msgid "Remove API key"
+msgstr "API キーを削除"
+
+#: trunk/common.php:9986 common.php:9986
+msgid "*Settings to disable creation and optimization of individual sizes must be configured for each individual site."
+msgstr "個別のサイトの作成と最適化を無効化する設定は、個々のサイトごとに設定されています。"
+
+#: trunk/common.php:9627 trunk/common.php:10158 common.php:9627
+#: common.php:10158
+msgid "Allow EWWW Image Optimizer to anonymously track how this plugin is used and help us make the plugin better. Opt-in to tracking and receive 500 API image credits free. No sensitive data is tracked."
+msgstr "プラグインの使われ方調査をとプラグインの改善のために EWWW Image Optimizer へ匿名でデータ送信することを許可します。トラッキングを有効しデータを送信することで500枚の無料画像クレジットが付与されます。これには機密データは含まれません。"
+
+#: trunk/common.php:9626 trunk/common.php:10154 common.php:9626
+#: common.php:10154
+msgid "Allow Usage Tracking?"
+msgstr "使用状況トラッキングを許可しますか ?"
+
+#: trunk/common.php:9623 common.php:9623
+msgid "Allow individual sites to configure their own settings and override all network options."
+msgstr "個々のサイトが独自の設定を行い、すべてのネットワークオプションを上書きすることを許可する。"
+
+#: trunk/common.php:9623 common.php:9623
+msgid "Allow Single-site Override"
+msgstr "単一サイトの上書きを許可"
+
+#: trunk/common.php:10124 common.php:10124
+msgid "Documentation"
+msgstr "ドキュメンテーション"
+
+#: trunk/classes/class-ewwwio-tracking.php:366 trunk/common.php:1866
+#: classes/class-ewwwio-tracking.php:366 common.php:1866
+msgid "Do not allow"
+msgstr "許可しない"
+
+#: trunk/classes/class-ewwwio-tracking.php:365 trunk/common.php:1865
+#: classes/class-ewwwio-tracking.php:365 common.php:1865
+msgid "Allow"
+msgstr "許可する"
+
+#: trunk/classes/class-ewwwio-tracking.php:364 trunk/common.php:1756
+#: classes/class-ewwwio-tracking.php:364 common.php:1756
+msgid "Learn more."
+msgstr "詳しく見る。"
+
+#: trunk/ewww-image-optimizer.php:144 ewww-image-optimizer.php:144
+msgid "Only one version of the EWWW Image Optimizer can be active at a time. Please deactivate other copies of the plugin."
+msgstr "EWWW Image Optimizer は同時に1つのバージョンしか有効化出来ません。他のコピーのプラグインを無効化してください。"
+
+#: trunk/ewww-image-optimizer.php:137 ewww-image-optimizer.php:137
+msgid "EWWW Image Optimizer requires PHP 5.6 or greater. Newer versions of PHP, like 7.1 and 7.2, are significantly faster and much more secure. If you are unsure how to upgrade to a supported version, ask your webhost for instructions."
+msgstr "EWWW Image Optimizer は PHP 5.6 以上を要求します。PHP 7.1 や 7.2 といったより新しいバージョンの PHP は動作が早く、セキュリティ的にも安全です。PHP のアップグレード方法に不明点がある場合、お使いのホスティング会社にお尋ねください。。"
+
+#: trunk/common.php:9897 common.php:9897
+msgid "Provide paths containing images to be optimized using the Bulk Optimizer and Scheduled Optimization."
+msgstr "一括最適化とスケジュール最適化を使用して、最適化する画像を含むパスを提供します。"
+
+#: trunk/common.php:9882 common.php:9882
+msgid "Scan all images from the latest two folders of the Media Library during the Bulk Optimizer and Scheduled Optimization."
+msgstr "一括最適化とスケジュール最適化が実行されている間、メディアライブラリの最新の2つのフォルダ内のすべての画像がスキャンされます。"
+
+#: trunk/common.php:9875 common.php:9875
+msgid "*Include Media Library Folders has been disabled because it will cause the scanner to ignore the disabled resizes."
+msgstr "※スキャナに無効なサイズ変更を無視させるため、メディアライブラリーフォルダーを含める設定は無効化されました。"
+
+#: trunk/common.php:9814 common.php:9814
+msgid "Use this to override the default WordPress quality level of 82. Applies to image editing, resizing, PNG to JPG conversion, and JPG to WebP conversion. Does not affect the original uploaded image unless maximum dimensions are set and resizing occurs."
+msgstr "これをデフォルトの WordPress の82の品質レベルを上書きするために使います。画像の編集、サイズ変更、PNG から JPG への変換、JPG から WebP の変換に適応されるようになります。最大サイズが指定されリサイズが行われない限りは元の画像に影響を与えることはありません。"
+
+#: trunk/common.php:9704 common.php:9704
+msgid "Store a copy of your original images on our secure server for 30 days. *Requires an active API key."
+msgstr "元の画像のコピーを30日間安全なサーバーに保存する。※有効な API キーが必要です。"
+
+#: trunk/common.php:9702 common.php:9702
+msgid "Backup Originals"
+msgstr "バックアップ元"
+
+#. translators: %s: S3 Image Optimizer (link)
+#: trunk/common.php:9230 common.php:9230
+msgid "Images stored in an Amazon S3 bucket can be optimized using our %s."
+msgstr "Amazon S3 bucket に保存された画像は、%s を使用して最適化することができます。"
+
+#. translators: %s: JPG, PNG, GIF, or PDF
+#: trunk/common.php:7844 trunk/common.php:7882 common.php:7844 common.php:7882
+msgid "%s compression disabled"
+msgstr "%s への圧縮が無効化されました"
+
+#: trunk/common.php:3370 common.php:3370
+msgid "Unable to restore image."
+msgstr "画像を復元できません。"
+
+#: trunk/common.php:3357 common.php:3357
+msgid "No image ID was provided."
+msgstr "画像 ID は提供されませんでした。"
+
+#. translators: %s: number of seconds
+#. Translators: %s: The localized number of seconds
+#. Translators: %s: localized number of seconds
+#. translators: %s: localized number of seconds
+#. Translators: %s: number of seconds, localized
+#: trunk/bulk.php:1943 trunk/bulk.php:1949
+#: trunk/classes/class-ewww-nextgen.php:934
+#: trunk/classes/class-ewww-nextcellent.php:685
+#: trunk/classes/class-ewwwio-cli.php:298
+#: trunk/classes/class-ewwwio-cli.php:397
+#: trunk/classes/class-ewwwio-cli.php:475 trunk/classes/class-ewww-flag.php:621
+#: trunk/common.php:5164 bulk.php:1943 bulk.php:1949
+#: classes/class-ewww-nextgen.php:934 classes/class-ewww-nextcellent.php:685
+#: classes/class-ewwwio-cli.php:298 classes/class-ewwwio-cli.php:397
+#: classes/class-ewwwio-cli.php:475 classes/class-ewww-flag.php:621
+#: common.php:5164
+msgid "Elapsed: %s second"
+msgid_plural "Elapsed: %s seconds"
+msgstr[0] "経過時間: %s 秒"
+
+#: trunk/bulk.php:697 bulk.php:697
+msgid "remaining"
+msgstr "残り"
+
+#. translators: %d: number of images
+#: trunk/classes/class-ewwwio-cli.php:94 classes/class-ewwwio-cli.php:94
+msgid "%1$d image in the Media Library has been selected."
+msgid_plural "%1$d images in the Media Library have been selected."
+msgstr[0] "%1$d 個の画像が選択されています。"
+
+#: trunk/bulk.php:692 bulk.php:692
+msgid "Previous failure due to broken/missing metadata, skipped resizes for attachment:"
+msgstr "破損または誤ったメタデータが発見されましたため、添付ファイルのリサイズをスキップしました:"
+
+#. translators: 1: $table_prefix 2: wp-config.php
+#: trunk/common.php:4714 common.php:4714
+msgid "<strong>ERROR</strong>: %1$s in %2$s can only contain numbers, letters, and underscores."
+msgstr "<strong>ERROR</strong>: %2$s の%1$sは，数字・英字・アンダースコアだけが許可されています．"
+
+#: trunk/bulk.php:1475 bulk.php:1475
+msgid "Increasing PHP's memory_limit setting will allow for faster scanning with fewer database queries. Please allow up to 10 minutes for changes to memory limit to be detected."
+msgstr "PHP の memory_limit 設定を増やすことで幾つかのデータベース・アクセスが高速化されます。メモリ上限の検出には最大10分かかります。"
+
+#: trunk/aux-optimize.php:827 aux-optimize.php:827
+msgid "Stage 2 unable to complete due to memory restrictions. Please increase the memory_limit setting for PHP and try again."
+msgstr "Stage 2 メモリ制限のため、処理が完了できませんでした。PHP の memory_limit の設定を増やして再度実行してください。"
+
+#: trunk/common.php:10499 common.php:10499
+msgid "Detect Scaled Images"
+msgstr "サイズを変更する画像を調べます"
+
+#: trunk/common.php:9935 common.php:9935
+msgid "in pixels"
+msgstr "ピクセル単位"
+
+#: trunk/common.php:9926 common.php:9926
+msgid "*Imsanity settings override the EWWW resize dimensions."
+msgstr "※Imsanity プラグインの設定が EWWW のサイズ変換の次元を上書きします。"
+
+#: trunk/common.php:9975 common.php:9975
+msgid "Disabling creation of the full-size preview for PDF files will disable all PDF preview sizes"
+msgstr "PDF ファイルのフルサイズプレビューの作成を無効にすると、すべての PDF プレビューサイズが無効になります"
+
+#: trunk/common.php:9904 common.php:9904
+msgid "A file that matches any pattern or path provided will not be optimized."
+msgstr "いずれかのパターンかパスに一致するファイルは最適化されません。"
+
+#: trunk/common.php:9902 common.php:9902
+msgid "One path per line, partial paths allowed, but no urls."
+msgstr "一行に一つパスを記述してください (部分パスは良いですが、URL は無効です)。"
+
+#: trunk/common.php:9902 common.php:9902
+msgid "Folders to Ignore"
+msgstr "無視するフォルダー"
+
+#. translators: %d: The number of resize/thumbnail images
+#: trunk/common.php:7958 trunk/common.php:8050 common.php:7958 common.php:8050
+msgid "%d size to compress"
+msgid_plural "%d sizes to compress"
+msgstr[0] "%d サイズ圧縮します"
+
+#. translators: %s: human-readable file size
+#: trunk/common.php:8254 common.php:8254
+msgid "Total Size: %s"
+msgstr "合計サイズ: %s"
+
+#. translators: %d: number of resizes/thumbnails compressed
+#: trunk/common.php:8242 common.php:8242
+msgid "%d size compressed"
+msgid_plural "%d sizes compressed"
+msgstr[0] "%d サイズ圧縮しました"
+
+#: trunk/common.php:8213 trunk/common.php:9568 common.php:8213 common.php:9568
+msgid "Savings"
+msgstr "削減結果"
+
+#: trunk/common.php:8213 common.php:8213
+msgid "Image Size"
+msgstr "画像サイズ"
+
+#: trunk/bulk.php:999 bulk.php:999
+msgid "List of attachment IDs not found."
+msgstr "添付ファイルIDのリストが見つかりません。"
+
+#: trunk/bulk.php:176 trunk/bulk.php:691 bulk.php:176 bulk.php:691
+msgid "Received an invalid response from your website, please check for errors in the Developer Tools console of your browser."
+msgstr "web サイトから不正なレスポンスを受信しました。ブラウザーのデベロッパーツールのコンソール画面を見てエラーを確認して見てください。"
+
+#: trunk/bulk.php:375 bulk.php:375
+msgid "Scan for unoptimized images"
+msgstr "最適化されていない画像をスキャンする"
+
+#. translators: %s: number of images
+#: trunk/bulk.php:360 trunk/bulk.php:1483 bulk.php:360 bulk.php:1483
+msgid "Stage 1, %s items left to scan."
+msgstr "ステージ1: 残り%s件スキャンする項目があります。"
+
+#: trunk/bulk.php:247 trunk/classes/class-ewwwio-cli.php:95
+#: trunk/classes/class-ewwwio-cli.php:155 bulk.php:247
+#: classes/class-ewwwio-cli.php:95 classes/class-ewwwio-cli.php:155
+msgid "The active theme, BuddyPress, WP Symposium, and folders that you have configured will also be scanned for unoptimized images."
+msgstr "有効なテーマ、BuddyPress、WP Symposium、および設定したフォルダーも、最適化されていない画像がスキャンされます。"
+
+#. translators: %d: number of images
+#: trunk/classes/class-ewwwio-cli.php:154 classes/class-ewwwio-cli.php:154
+msgid "%1$d images in the Media Library have been selected."
+msgstr "メディアライブラリ内の%1$d 個の画像が選択されました。"
+
+#: trunk/bulk.php:285 bulk.php:285
+msgid "Last Batch Optimized"
+msgstr "最後のバッチ最適化"
+
+#. translators: %d: number of images
+#: trunk/classes/class-ewww-nextcellent.php:425
+#: trunk/classes/class-ewwwio-cli.php:110
+#: trunk/classes/class-ewwwio-cli.php:120
+#: trunk/classes/class-ewwwio-cli.php:163
+#: trunk/classes/class-ewwwio-cli.php:189
+#: classes/class-ewww-nextcellent.php:425 classes/class-ewwwio-cli.php:110
+#: classes/class-ewwwio-cli.php:120 classes/class-ewwwio-cli.php:163
+#: classes/class-ewwwio-cli.php:189
+msgid "There is %d image ready to optimize."
+msgid_plural "There are %d images ready to optimize."
+msgstr[0] "%d 個の画像の最適化の準備が完了しました。"
+
+#: trunk/bulk.php:1495 trunk/aux-optimize.php:789 trunk/aux-optimize.php:843
+#: bulk.php:1495 aux-optimize.php:789 aux-optimize.php:843
+msgid "Stage 2, please wait."
+msgstr "ステージ2: 少々お待ち下さい。"
+
+#: trunk/common.php:3777 common.php:3777
+msgid "Could not validate API key, please copy and paste your key to ensure it is correct."
+msgstr "API キーを検証できませんでした。キーをコピーして貼り付けて、正しいことを確認してください。"
+
+#: trunk/common.php:3771 common.php:3771
+msgid "Successfully validated API key, happy optimizing!"
+msgstr "API キーの検証に成功しました。"
+
+#: trunk/common.php:3015 common.php:3015
+msgid "Could not save the JPG quality, please enter an integer between 1 and 100."
+msgstr "JPG の画質を保存できませんでした。1から100までの整数を入力してください。"
+
+#: trunk/common.php:2987 common.php:2987
+msgid "Could not save the JPG background color, please enter a six-character, hexadecimal value."
+msgstr "JPG の背景色を保存できませんでした。6文字の16進数の値を入力してください。"
+
+#. translators: %s: A url or domain name
+#: trunk/common.php:2952 common.php:2952
+msgid "Could not save WebP URL: %s."
+msgstr "WebP URL: %s. を保存できませんでした。"
+
+#. translators: %s: A file system path
+#: trunk/common.php:2880 common.php:2880
+msgid "Could not save Folder to Optimize: %s. Please ensure that it is a valid location on the server."
+msgstr "最適化するフォルダ %s. を保存できませんでした。 それがサーバー上の有効な場所であることを確認してください。"
+
+#: unique.php:1790 trunk/unique.php:1790
+msgid "Unknown file type"
+msgstr "不明なファイルタイプ"
+
+#: trunk/bulk.php:687 bulk.php:687
+msgid "Scan did not complete, will try again"
+msgstr "スキャンが完了していません、再試行します"
+
+#. translators: 1: Size of savings in bytes, kb, mb 2: Percentage savings
+#: trunk/common.php:5035 common.php:5035
+msgid "Reduced by %1$s (%2$s)"
+msgstr " %1$s (%2$s )  を減少"
+
+#: trunk/common.php:1905 common.php:1905
+msgid "Reset Counters"
+msgstr "カウンターのリセット"
+
+#: unique.php:561 trunk/unique.php:561
+msgid "EWWW Image Optimizer requires exec() to perform local compression. Your system administrator has disabled the exec() function, ask them to enable it."
+msgstr "EWWW Image Optimizer では、ローカル圧縮を実行するために exec() が必要です。 システム管理者が exec() 関数を無効にしていますので、有効化するよう依頼してください。"
+
+#: trunk/common.php:10092 common.php:10092
+msgid "WebP URLs"
+msgstr "WebP のURL"
+
+#: trunk/common.php:10117 common.php:10117
+msgid "WebP images will be generated and saved for all JPG/PNG images regardless of their size. The JS WebP Rewriting will not check if a file exists, only that the domain matches the home url, or one of the provided WebP URLs."
+msgstr "WebP 画像は、サイズに関係なくすべての JPG/PNG 画像に対して生成および保存されます。JS WebP Rewriting は、ファイルが存在するかどうかをチェックせず、ドメインがホーム URL または提供された WebP URL のいずれかと一致することのみを確認します。"
+
+#: trunk/common.php:10113 common.php:10113
+msgid "Force WebP"
+msgstr "強制 WebP"
+
+#: trunk/bulk.php:178 trunk/bulk.php:699
+#: trunk/classes/class-ewww-nextgen.php:365
+#: trunk/classes/class-ewww-nextcellent.php:744
+#: trunk/classes/class-ewww-flag.php:682 trunk/common.php:2652 bulk.php:178
+#: bulk.php:699 classes/class-ewww-nextgen.php:365
+#: classes/class-ewww-nextcellent.php:744 classes/class-ewww-flag.php:682
+#: common.php:2652
+msgid "Restoring"
+msgstr "復元中"
+
+#: trunk/common.php:9654 common.php:9654
+msgid "This will remove ALL metadata: EXIF, comments, color profiles, and anything else that is not pixel data."
+msgstr "EXIF やコメント、カラープロファイルなどピクセルデータでないものすべてのメタデータを削除します。"
+
+#: trunk/common.php:2610 common.php:2610
+msgid "No images found"
+msgstr "画像が見つかりません"
+
+#: trunk/common.php:2574 common.php:2574
+msgid "No galleries found"
+msgstr "ギャラリーが見つかりません"
+
+#: trunk/common.php:10792 common.php:10792
+msgid "Clear all queues"
+msgstr "すべてのキューをクリアする"
+
+#: trunk/common.php:10782 common.php:10782
+msgid "Clear this queue"
+msgstr "このキューをクリアする"
+
+#: trunk/common.php:10760 common.php:10760
+msgid "Nothing to see here, go upload some images!"
+msgstr "ここに見えるものはありません、いくつかの画像をアップロードしてください！"
+
+#: trunk/common.php:10741 common.php:10741
+msgid "Image Queue Debugging"
+msgstr "イメージキューのデバッグ"
+
+#: trunk/common.php:9816 common.php:9816
+msgid "All resizes generated from a single upload are optimized in parallel for faster optimization. If this is causing performance issues, disable parallel optimization to reduce the load on your server."
+msgstr "単一のアップロードから生成されたすべてのリサイズは、最適化を迅速に行うために並列に最適化されています。 これがパフォーマンス上の問題を引き起こしている場合は、並列最適化を無効にしてサーバーの負荷を軽減してください。"
+
+#: trunk/common.php:9816 common.php:9816
+msgid "Parallel Optimization"
+msgstr "並列最適化"
+
+#: trunk/classes/class-ewww-nextcellent.php:368
+#: trunk/classes/class-ewww-flag.php:791 trunk/common.php:7913
+#: trunk/common.php:7974 classes/class-ewww-nextcellent.php:368
+#: classes/class-ewww-flag.php:791 common.php:7913 common.php:7974
+msgid "In Progress"
+msgstr "進行中"
+
+#. translators: %d: number of minutes
+#: trunk/classes/class-ewwwio-background-process.php:424
+#: classes/class-ewwwio-background-process.php:424
+msgid "Every %d Minutes"
+msgstr "毎 %d 分"
+
+#: trunk/common.php:9943 common.php:9943
+msgid "Allow resizing of existing Media Library images."
+msgstr "既存のメディアライブラリの画像のサイズ変更を許可します。"
+
+#: unique.php:2504 trunk/unique.php:2504
+msgid "GIF optimization is disabled"
+msgstr "GIF 最適化が無効になっています"
+
+#: unique.php:2214 trunk/unique.php:2214
+msgid "PNG optimization is disabled"
+msgstr "PNG 最適化が無効になっています"
+
+#: unique.php:1936 trunk/unique.php:1936
+msgid "JPG optimization is disabled"
+msgstr "JPG 最適化が無効になっています"
+
+#: trunk/common.php:10692 common.php:10692
+msgid "Cannot display trace"
+msgstr "トレースを表示できません"
+
+#: trunk/common.php:9939 common.php:9939
+msgid "Resize Existing Images"
+msgstr "既存の画像をリサイズ"
+
+#: trunk/common.php:9945 common.php:9945
+msgid "Resize Other Images"
+msgstr "他の画像をリサイズ"
+
+#: trunk/common.php:9932 common.php:9932
+msgid "Max Height"
+msgstr "最大高さ"
+
+#: trunk/common.php:9929 common.php:9929
+msgid "Max Width"
+msgstr "幅の上限"
+
+#: trunk/common.php:9689 common.php:9689
+msgid "PDF Optimization Level"
+msgstr "PDF 最適化レベル"
+
+#: trunk/common.php:9683 common.php:9683
+msgid "GIF Optimization Level"
+msgstr "GIF 最適化レベル"
+
+#: trunk/common.php:9671 common.php:9671
+msgid "PNG Optimization Level"
+msgstr "PNG 最適化レベル"
+
+#: trunk/common.php:10957 common.php:10957
+msgid "Maximum Lossy Compression"
+msgstr "最大非可逆圧縮"
+
+#: trunk/common.php:10955 common.php:10955
+msgid "Lossy Compression"
+msgstr "非可逆圧縮"
+
+#: trunk/common.php:10956 common.php:10956
+msgid "Maximum Lossless Compression"
+msgstr "最大ロスレス圧縮"
+
+#: trunk/common.php:10954 common.php:10954
+msgid "Lossless Compression"
+msgstr "ロスレス圧縮"
+
+#: trunk/common.php:9662 trunk/common.php:9673 trunk/common.php:9685
+#: trunk/common.php:9691 common.php:9662 common.php:9673 common.php:9685
+#: common.php:9691
+msgid "No Compression"
+msgstr "無圧縮"
+
+#: trunk/common.php:9660 common.php:9660
+msgid "JPG Optimization Level"
+msgstr "JPG 最適化レベル"
+
+#: trunk/classes/class-ewww-nextgen.php:830
+#: trunk/classes/class-ewww-nextcellent.php:600
+#: trunk/classes/class-ewww-flag.php:515 classes/class-ewww-nextgen.php:830
+#: classes/class-ewww-nextcellent.php:600 classes/class-ewww-flag.php:515
+msgid "Error retrieving list of images"
+msgstr "画像のリストを取得中にエラーが発生しました"
+
+#: trunk/common.php:10680 common.php:10680
+msgid "PHP trace"
+msgstr "PHP トレース"
+
+#: trunk/common.php:10679 common.php:10679
+msgid "Last attempted"
+msgstr "最終試行"
+
+#: trunk/common.php:10678 common.php:10678
+msgid "Number of attempted optimizations"
+msgstr "試行された最適化の回数"
+
+#: trunk/common.php:10677 common.php:10677
+msgid "File path"
+msgstr "ファイルパス"
+
+#: trunk/bulk.php:1798 trunk/bulk.php:1800 bulk.php:1798 bulk.php:1800
+msgid "Could not find image"
+msgstr "画像が見つかりませんでした"
+
+#: trunk/common.php:10665 common.php:10665
+msgid "Dynamic Image Debugging"
+msgstr "動的なイメージのデバッグ"
+
+#: trunk/bulk.php:295 trunk/classes/class-ewww-nextgen.php:651
+#: trunk/classes/class-ewww-nextcellent.php:450
+#: trunk/classes/class-ewww-flag.php:142 bulk.php:295
+#: classes/class-ewww-nextgen.php:651 classes/class-ewww-nextcellent.php:450
+#: classes/class-ewww-flag.php:142
+msgid "Optimization Log"
+msgstr "最適化ログ"
+
+#: trunk/bulk.php:696 trunk/classes/class-ewww-nextgen.php:641
+#: trunk/classes/class-ewww-nextcellent.php:440
+#: trunk/classes/class-ewww-flag.php:132 bulk.php:696
+#: classes/class-ewww-nextgen.php:641 classes/class-ewww-nextcellent.php:440
+#: classes/class-ewww-flag.php:132
+msgid "Last Image Optimized"
+msgstr "前回の画像最適化"
+
+#: trunk/bulk.php:205 trunk/bulk.php:1517
+#: trunk/classes/class-ewww-nextgen.php:615
+#: trunk/classes/class-ewww-nextcellent.php:415
+#: trunk/classes/class-ewww-flag.php:106 bulk.php:205 bulk.php:1517
+#: classes/class-ewww-nextgen.php:615 classes/class-ewww-nextcellent.php:415
+#: classes/class-ewww-flag.php:106
+msgid "Image credits available:"
+msgstr "利用可能な画像クレジット:"
+
+#: unique.php:1282 unique.php:1309 unique.php:1336 unique.php:1363
+#: unique.php:1390 unique.php:1436 trunk/unique.php:1282 trunk/unique.php:1309
+#: trunk/unique.php:1336 trunk/unique.php:1363 trunk/unique.php:1390
+#: trunk/unique.php:1436
+msgid "unknown"
+msgstr "不明"
+
+#: trunk/common.php:7995 common.php:7995
+msgid "Run WebP upgrade"
+msgstr "WebP アップグレードの実行"
+
+#: trunk/common.php:9220 common.php:9220
+msgid "S3 Image Optimizer"
+msgstr "S3 Image Optimizer"
+
+#. translators: used for Bulk Optimize progress bar, like so: Optimized 32/346
+#: trunk/bulk.php:695 trunk/bulk.php:1873 trunk/bulk.php:1876
+#: trunk/classes/class-ewww-nextgen.php:807
+#: trunk/classes/class-ewww-nextcellent.php:576
+#: trunk/classes/class-ewww-flag.php:293 trunk/common.php:5155 bulk.php:695
+#: bulk.php:1873 bulk.php:1876 classes/class-ewww-nextgen.php:807
+#: classes/class-ewww-nextcellent.php:576 classes/class-ewww-flag.php:293
+#: common.php:5155
+msgid "Optimized"
+msgstr "最適化済み"
+
+#. Author URI of the plugin
+msgid "https://ewww.io/"
+msgstr "https://ewww.io/"
+
+#. Description of the plugin
+msgid "Reduce file sizes for images within WordPress including NextGEN Gallery and GRAND FlAGallery. Uses jpegtran, optipng/pngout, and gifsicle."
+msgstr "NextGEN Gallery や GRAND Flagallery を含む WordPress 内の画像のファイルサイズを縮小します。 jpegtran, optipng  / pngout, および gifsicle を使用しています。"
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/ewww-image-optimizer/"
+msgstr "https://ja.wordpress.org/plugins/ewww-image-optimizer/"
+
+#. Plugin Name of the plugin
+msgid "EWWW Image Optimizer"
+msgstr "EWWW Image Optimizer"
+
+#: trunk/classes/class-ewww-nextcellent.php:490
+#: classes/class-ewww-nextcellent.php:490
+msgid "Galleries"
+msgstr "ギャラリー"
+
+#: trunk/mwebp.php:236 mwebp.php:236
+msgid "Skipped:"
+msgstr "Skipped:"
+
+#. translators: %d: number of images
+#: trunk/mwebp.php:147 mwebp.php:147
+msgid "%d Webp images left to rename."
+msgstr "%d 個のWebpイメージの名前を変更しました。"
+
+#: trunk/mwebp.php:122 mwebp.php:122
+msgid "Scanning"
+msgstr "スキャン中"
+
+#: trunk/mwebp.php:22 mwebp.php:22
+msgid "Start Migration"
+msgstr "移行を開始"
+
+#: trunk/mwebp.php:21 mwebp.php:21
+msgid "The migration is split into two parts. First, the plugin needs to scan all folders for webp images. Once it has obtained the list of images to rename, it will proceed with the renaming"
+msgstr "移行は2つのパートに分かれます。 まず、プラグインはすべてのフォルダでWeb画像をスキャンする必要があります。そして名前を変更する画像のリストを取得すると、名前の変更を続行します。"
+
+#. Translators: %s: The compression results/savings
+#. translators: %s: compression results
+#: trunk/classes/class-ewww-nextgen.php:924
+#: trunk/classes/class-ewww-nextcellent.php:681
+#: trunk/classes/class-ewwwio-cli.php:387
+#: trunk/classes/class-ewwwio-cli.php:471 classes/class-ewww-nextgen.php:924
+#: classes/class-ewww-nextcellent.php:681 classes/class-ewwwio-cli.php:387
+#: classes/class-ewwwio-cli.php:471
+msgid "Thumbnail - %s"
+msgstr "サムネイル - %s"
+
+#. Translators: %s: The compression results/savings
+#. translators: %s: compression results
+#: trunk/classes/class-ewww-nextgen.php:920
+#: trunk/classes/class-ewww-nextcellent.php:678
+#: trunk/classes/class-ewwwio-cli.php:383
+#: trunk/classes/class-ewwwio-cli.php:464 classes/class-ewww-nextgen.php:920
+#: classes/class-ewww-nextcellent.php:678 classes/class-ewwwio-cli.php:383
+#: classes/class-ewwwio-cli.php:464
+msgid "Full size - %s"
+msgstr "最大サイズ - %s"
+
+#: trunk/classes/class-ewwwio-cli.php:221 classes/class-ewwwio-cli.php:221
+msgid "Please specify a valid library option, see \"wp-cli help ewwwio optimize\" for more information."
+msgstr "有効なライブラリオプションを指定してください。詳しくは、「wp-cli help ewwwio optimize 」を参照してください。"
+
+#: trunk/classes/class-ewwwio-cli.php:219 classes/class-ewwwio-cli.php:219
+msgid "Bulk status has been reset, the next bulk operation will start from the beginning."
+msgstr "一括処理がリセットされました、次の一括操作が最初から開始されます。"
+
+#: trunk/classes/class-ewwwio-cli.php:210 classes/class-ewwwio-cli.php:210
+msgid "Grand Flagallery not installed."
+msgstr "Grand Flagallery がインストールされていません。"
+
+#: trunk/classes/class-ewwwio-cli.php:194 classes/class-ewwwio-cli.php:194
+msgid "NextGEN/Nextcellent not installed."
+msgstr "NextGEN / Nextcellent がインストールされていません。"
+
+#: trunk/classes/class-ewwwio-cli.php:88 trunk/classes/class-ewwwio-cli.php:149
+#: trunk/classes/class-ewwwio-cli.php:174
+#: trunk/classes/class-ewwwio-cli.php:200 classes/class-ewwwio-cli.php:88
+#: classes/class-ewwwio-cli.php:149 classes/class-ewwwio-cli.php:174
+#: classes/class-ewwwio-cli.php:200
+msgid "Bulk status has been reset, starting from the beginning."
+msgstr "一括処理は先頭から、リセットされました。"
+
+#. translators: 1: type of images, like media, or nextgen 2: number of seconds
+#: trunk/classes/class-ewwwio-cli.php:74 classes/class-ewwwio-cli.php:74
+msgctxt "string will be something like \"media\" or \"nextgen\""
+msgid "Optimizing %1$s with a %2$d second pause between images."
+msgstr "各画像間 %2$d 秒の一時停止で %1$s を最適化します。"
+
+#: trunk/classes/class-ewwwio-cli.php:70 classes/class-ewwwio-cli.php:70
+msgid "Forcing re-optimization of previously processed images."
+msgstr "強制的に再最適化を行う。"
+
+#: trunk/classes/class-ewww-nextgen.php:967
+#: trunk/classes/class-ewww-nextcellent.php:719
+#: trunk/classes/class-ewwwio-cli.php:238
+#: trunk/classes/class-ewwwio-cli.php:312
+#: trunk/classes/class-ewwwio-cli.php:411
+#: trunk/classes/class-ewwwio-cli.php:488 trunk/classes/class-ewww-flag.php:656
+#: classes/class-ewww-nextgen.php:967 classes/class-ewww-nextcellent.php:719
+#: classes/class-ewwwio-cli.php:238 classes/class-ewwwio-cli.php:312
+#: classes/class-ewwwio-cli.php:411 classes/class-ewwwio-cli.php:488
+#: classes/class-ewww-flag.php:656
+msgid "Finished Optimization!"
+msgstr "最適化を完了しました !"
+
+#. translators: %s: compression results
+#. Translators: %s: The compression results/savings
+#: trunk/classes/class-ewwwio-cli.php:293 trunk/classes/class-ewww-flag.php:616
+#: classes/class-ewwwio-cli.php:293 classes/class-ewww-flag.php:616
+msgid "Thumbnail – %s"
+msgstr "サムネイル - %s"
+
+#. translators: %s: compression results
+#. Translators: %s: The compression results/savings
+#: trunk/classes/class-ewwwio-cli.php:287 trunk/classes/class-ewww-flag.php:607
+#: classes/class-ewwwio-cli.php:287 classes/class-ewww-flag.php:607
+msgid "Optimized size – %s"
+msgstr "最適化されたサイズ – %s"
+
+#. translators: 1-4: number(s) of images
+#. translators: 1-4: number of images
+#: trunk/classes/class-ewww-nextgen.php:626
+#: trunk/classes/class-ewwwio-cli.php:106
+#: trunk/classes/class-ewwwio-cli.php:116
+#: trunk/classes/class-ewwwio-cli.php:182
+#: trunk/classes/class-ewwwio-cli.php:206 trunk/classes/class-ewww-flag.php:117
+#: classes/class-ewww-nextgen.php:626 classes/class-ewwwio-cli.php:106
+#: classes/class-ewwwio-cli.php:116 classes/class-ewwwio-cli.php:182
+#: classes/class-ewwwio-cli.php:206 classes/class-ewww-flag.php:117
+msgid "%1$d images have been selected (%2$d unoptimized), with %3$d resizes (%4$d unoptimized)."
+msgstr "%1$d枚の画像が選択され (%2$d枚は最適化されていません) 、 %3$d枚はリサイズです (%4$dは最適化されていません) 。"
+
+#: unique.php:2810 unique.php:2850 trunk/unique.php:2810 trunk/unique.php:2850
+msgid "extraction of files failed"
+msgstr "ファイルの抽出に失敗しました"
+
+#: unique.php:2805 unique.php:2845 trunk/unique.php:2805 trunk/unique.php:2845
+msgid "could not set permissions"
+msgstr "アクセス権を設定できませんでした"
+
+#: unique.php:2800 unique.php:2840 unique.php:2863 trunk/unique.php:2800
+#: trunk/unique.php:2840 trunk/unique.php:2863
+msgid "could not move pngout"
+msgstr "pngout を移動できませんでした"
+
+#: unique.php:2744 trunk/unique.php:2744
+#: trunk/classes/class-ewwwio-install-cloud.php:76
+#: classes/class-ewwwio-install-cloud.php:76
+msgid "You do not have permission to install image optimizer utilities."
+msgstr "あなたは image optimizer ユーティリティをインストールする権限がありません。"
+
+#. translators: %s: Image filename
+#: unique.php:1767 trunk/unique.php:1767
+msgid "%s is not writable"
+msgstr "%s を見つけることができませんでした"
+
+#. translators: %s: Image filename
+#: unique.php:1761 trunk/unique.php:1761
+msgid "Could not find %s"
+msgstr "%s を見つけることができませんでした"
+
+#: unique.php:1748 unique.php:1836 unique.php:1841 trunk/unique.php:1748
+#: trunk/unique.php:1836 trunk/unique.php:1841
+msgid "Optimization skipped"
+msgstr "最適化をスキップしました"
+
+#. translators: 1-6: jpegtran, optipng, pngout, pngquant, gifsicle, and cwebp
+#. (links) 7: Settings Page (link) 8: Installation Instructions (link)
+#: unique.php:695 trunk/unique.php:695
+msgid "EWWW Image Optimizer uses %1$s, %2$s, %3$s, %4$s, %5$s, and %6$s. You are missing: %7$s. Please install via the %8$s or the %9$s."
+msgstr "EWWW Image Optimizer は %1$s, %2$s, %3$s, %4$s, %5$s, and %6$s を使用します。 %7$s がありません。  %8$s と %9$s をインストールしてください。"
+
+#: unique.php:703 trunk/unique.php:703
+msgid "Settings Page"
+msgstr "設定ページ"
+
+#. translators: %s: Folder location where executables should be installed
+#: unique.php:322 unique.php:343 trunk/unique.php:322 trunk/unique.php:343
+msgid "EWWW Image Optimizer could not install tools in %s"
+msgstr "EWWW Image Optimizerは %s のツールをインストールできませんでした。"
+
+#: unique.php:304 trunk/unique.php:304
+msgid "Please adjust permissions or create the folder"
+msgstr "パーミッションを調整するかフォルダーを作成してください。"
+
+#: unique.php:304 trunk/unique.php:304
+msgid "EWWW Image Optimizer could not create the tool folder"
+msgstr "EWWW Image Optimizer はツールフォルダーを作成できませんでした。"
+
+#: trunk/ewww-image-optimizer.php:159 ewww-image-optimizer.php:159
+msgid "The regular version of the EWWW Image Optimizer plugin is not permitted on WP Engine sites. However, the cloud version has been approved by WP Engine. Please deactivate EWWW Image Optimizer and install EWWW Image Optimizer Cloud to optimize your images."
+msgstr "通常の EWWW Image Optimizer は WP Engine 上のサイトでは使用できませんが、クラウドバージョンは WP Engine によって承認済みです。画像を最適化するためには EWWW Image Optimizer を無効にし、EWWW Image Optimizer Cloud をインストールしてください。"
+
+#: trunk/aux-optimize.php:32 trunk/classes/class-ewww-nextgen.php:683
+#: trunk/common.php:10259 aux-optimize.php:32
+#: classes/class-ewww-nextgen.php:683 common.php:10259
+msgid "Debugging Information"
+msgstr "デバッグ情報"
+
+#: trunk/bulk.php:2038 bulk.php:2038
+msgid "Write a Review"
+msgstr "レビューを書く"
+
+#: trunk/common.php:10226 common.php:10226
+msgid "Insert Rewrite Rules"
+msgstr "リライトルールを挿入する"
+
+#: trunk/common.php:10225 common.php:10225
+msgid "The image to the right will display a WebP image with WEBP in white text, if your site is serving WebP images and your browser supports WebP."
+msgstr "あなたのサイトが WebP イメージを提供していて、ブラウザが WebP をサポートしている場合、右のイメージは WebP を白いテキストで表示します。"
+
+#: trunk/common.php:10204 common.php:10204
+msgid "Rules verified successfully"
+msgstr "ルールが正常に検証されました"
+
+#: trunk/common.php:10209 common.php:10209
+msgid "There are many ways to serve WebP images to visitors with supported browsers. You may choose any you wish, but it is recommended to serve them with an .htaccess file using mod_rewrite and mod_headers. The plugin can insert the rules for you if the file is writable, or you can edit .htaccess yourself."
+msgstr "サポートされているブラウザを使用している訪問者にWebP イメージを提供する方法はたくさんあります。 任意のものを選択できますが、mod_rewrite とmod_headers を使用して.htaccess ファイルでそれらを提供することをお勧めします。 ファイルが書き込み可能な場合、プラグインはあなたのためのルールを挿入するか、.htaccess を自分で編集することができます。"
+
+#: trunk/common.php:9636 trunk/common.php:10163 common.php:9636
+#: common.php:10163
+msgid "Save Changes"
+msgstr "変更を保存"
+
+#: trunk/common.php:10037 common.php:10037
+msgid "PNG is generally better than GIF, but animated images cannot be converted."
+msgstr "通常 PNG は GIF より良いですが、アニメーション画像を PNG に変換することができません。"
+
+#: trunk/common.php:10036 common.php:10036
+msgid "No warnings here, just do it."
+msgstr "警告はありません、実行してください。"
+
+#: trunk/common.php:9814 common.php:9814
+msgid "Valid values are 1-100."
+msgstr "有効な値は 1-100 です。"
+
+#: trunk/common.php:9814 common.php:9814
+msgid "JPG Quality Level:"
+msgstr "JPG 品質レベル:"
+
+#: trunk/common.php:10028 common.php:10028
+msgid "Background color is used only if the PNG has transparency. Leave this value blank to skip PNGs with transparency."
+msgstr "背景色は、PNG に透過性がある場合にのみ使用されます。 透過性のあるPNG をスキップするには、この値を空白のままにしておきます。"
+
+#: trunk/common.php:10027 common.php:10027
+msgid "HEX format (#123def)"
+msgstr "HEX 形式 (#123def)"
+
+#: trunk/common.php:10027 common.php:10027
+msgid "JPG Background Color:"
+msgstr "JPG 背景色:"
+
+#: trunk/common.php:10026 common.php:10026
+msgid "JPG is generally much better than PNG for photographic use because it compresses the image and discards data. PNGs with transparency are not converted by default."
+msgstr "JPG は画像を圧縮してデータを破棄するため、一般にPNG よりもはるかに優れています。 透過性を持つPNG はデフォルトでは変換されません。"
+
+#: trunk/common.php:10025 common.php:10025
+msgid "This is not a lossless conversion."
+msgstr "これはロスレス変換ではありません。"
+
+#: trunk/common.php:10016 common.php:10016
+msgid "PNG is generally much better than JPG for logos and other images with a limited range of colors. Checking this option will slow down JPG processing significantly, and you may want to enable it only temporarily."
+msgstr "PNG は一般的に、限定された色の範囲を持つロゴやその他の画像については JPG よりはるかに優れています。 このオプションをチェックすると、大幅に JPG 処理速度が遅くなり、あなたは一時的にしかそれを有効にすることができます。"
+
+#: trunk/common.php:10015 common.php:10015
+msgid "Removes metadata and increases cpu usage dramatically."
+msgstr "メタデータを削除し、劇的に CPU 使用を増やします。"
+
+#: trunk/common.php:10059 common.php:10059
+msgid "You can use the rewrite rules below to serve WebP images with Apache."
+msgstr "以下の書き換えルールを使用して、Apache で WebP 画像を提供することができます。"
+
+#: trunk/common.php:10058 common.php:10058
+msgid "Originals are never deleted, and WebP images should only be served to supported browsers."
+msgstr "オリジナルは削除されません、また WebP 画像はサポートブラウザのみ提供されるべきです。"
+
+#: trunk/common.php:10057 common.php:10057
+msgid "JPG to WebP conversion is lossy, but quality loss is minimal. PNG to WebP conversion is lossless."
+msgstr "JPG から WebP への変換は非可逆ですが、品質の損失は最小です。 PNG からWebP への変換はロスレスです。"
+
+#: trunk/common.php:10053 common.php:10053
+msgid "JPG/PNG to WebP"
+msgstr "JPG, PNG から WebP"
+
+#: trunk/common.php:10007 common.php:10007
+msgid "This will remove the original image from the server after a successful conversion."
+msgstr "変換が成功した後、サーバーから元の画像を削除します。"
+
+#: trunk/common.php:10003 common.php:10003
+msgid "Delete Originals"
+msgstr "オリジナルを削除"
+
+#: trunk/common.php:10001 common.php:10001
+msgid "Site or Network admins can use this to prevent other users from using the conversion links in the Media Library which bypass the settings below."
+msgstr "サイトまたはネットワークの管理者は、これを使用して、他のユーザーが以下の設定を迂回するメディアライブラリの変換リンクを使用できないようにすることができます。"
+
+#: trunk/common.php:9997 common.php:9997
+msgid "Hide Conversion Links"
+msgstr "コンバージョンリンクを非表示"
+
+#: trunk/common.php:9993 common.php:9993
+msgid "The plugin will attempt to update image locations for any posts that contain the images. You may still need to manually update locations/urls for converted images."
+msgstr "プラグインは、画像を含む投稿の画像の場所を更新しようとします。 変換した画像の場所やURL を手動で更新する必要があります。"
+
+#: trunk/common.php:9993 common.php:9993
+msgid "NOTE:"
+msgstr "注:"
+
+#: trunk/common.php:9992 common.php:9992
+msgid "Conversion is only available for images in the Media Library (except WebP). By default, all images have a link available in the Media Library for one-time conversion. Turning on individual conversion operations below will enable conversion filters any time an image is uploaded or modified."
+msgstr "変換は、メディアライブラリ内の画像 (WebP を除く) でのみ利用可能です。デフォルトでは、メディアライブラリ内のすべての画像にワンタイム変換のためのリンクが用意されています。 以下のそれぞれの変換操作をオンにすると、画像がアップロードまたは変更されるたびに変換フィルタが有効になります。"
+
+#: trunk/common.php:9959 common.php:9959
+msgid "Disable Creation"
+msgstr "作成を無効化"
+
+#: trunk/common.php:9959 common.php:9959
+msgid "Disable Optimization"
+msgstr "最適化を無効化"
+
+#: trunk/common.php:9954 common.php:9954
+msgid "WordPress, your theme, and other plugins generate various image sizes. You may disable optimization for certain sizes, or completely prevent those sizes from being created."
+msgstr "WordPress やテーマ、プラグインはさまざまなサイズの画像を生成します。 特定のサイズの最適化を無効にするか、サイズの作成を完全に止めることができます。"
+
+#: trunk/common.php:9952 trunk/common.php:9985 common.php:9952 common.php:9985
+msgid "Disable Resizes"
+msgstr "リサイズを無効化"
+
+#. translators: %s: the folder where WordPress is installed
+#: trunk/common.php:9895 common.php:9895
+msgid "One path per line, must be within %s. Use full paths, not relative paths."
+msgstr "1行に1つのパスが %s. 以内になければなりません。 相対パスではなく絶対パスを使用します。"
+
+#: trunk/common.php:9892 common.php:9892
+msgid "Folders to Optimize"
+msgstr "最適化するフォルダー"
+
+#: trunk/common.php:9868 common.php:9868
+msgid "This will enable scheduled optimization of unoptimized images for your theme, buddypress, and any additional folders you have configured below. Runs hourly: wp_cron only runs when your site is visited, so it may be even longer between optimizations."
+msgstr "これにより、あなたのテーマ、BuddyPress 、および以下で設定した追加のフォルダーに対して、最適化されていない画像のスケジュール最適化が可能になります。 時間ごとに実行: wp_cron はサイト訪問時にのみ実行されるため、最適化の間にさらに時間がかかることがあります。"
+
+#: trunk/common.php:9864 common.php:9864
+msgid "Scheduled Optimization"
+msgstr "予約済みの最適化"
+
+#: trunk/common.php:9711 common.php:9711
+msgid "When enabled, uploads to the Media Library will be transferred to Cloudinary after optimization. Cloudinary generates resizes, so only the full-size image is uploaded."
+msgstr "有効にすると、メディアライブラリへのアップロードは最適化後に Cloudinary に転送されます。 Cloudny はサイズ変更を生成するので、フルサイズの画像のみがアップロードされます。"
+
+#: trunk/common.php:9708 common.php:9708
+msgid "Automatic Cloudinary Upload"
+msgstr "自動 Cloudinary アップロード"
+
+#: trunk/common.php:10014 trunk/common.php:10024 common.php:10014
+#: common.php:10024
+msgid "WARNING:"
+msgstr "警告:"
+
+#: trunk/common.php:9653 common.php:9653
+msgid "Remove Metadata"
+msgstr "メタデータを削除"
+
+#: trunk/common.php:10139 common.php:10139
+msgid "Use this to provide information for support purposes, or if you feel comfortable digging around in the code to fix a problem you are experiencing."
+msgstr "サポート目的のために情報を提供する場合や、発生している問題を解決するためにコードを掘り下げるのが快適である場合は、これを使用してください。"
+
+#: trunk/common.php:10135 common.php:10135
+msgid "Debugging"
+msgstr "デバッグ"
+
+#: trunk/common.php:9651 common.php:9651
+msgid "API Key will be validated when you save your settings."
+msgstr "設定を保存すると API キーが認証されます。"
+
+#: trunk/common.php:9651 common.php:9651
+msgid "Purchase an API key."
+msgstr "API キーを購入してください。"
+
+#: trunk/common.php:9487 common.php:9487
+msgid "Enabled"
+msgstr "有効"
+
+#: unique.php:688 trunk/unique.php:688 trunk/common.php:9408 common.php:9408
+msgid "manually"
+msgstr "手動"
+
+#: unique.php:687 trunk/unique.php:687 trunk/common.php:9408 common.php:9408
+msgid "automatically"
+msgstr "自動的に"
+
+#: trunk/common.php:9269 trunk/common.php:9320 common.php:9269 common.php:9320
+msgid "Not Verified"
+msgstr "未検証"
+
+#: trunk/common.php:9265 common.php:9265
+msgid "Verified,"
+msgstr "検証済み、"
+
+#: trunk/common.php:9250 common.php:9250
+msgid "Cloud optimization API Key"
+msgstr "Cloud optimization の API キー"
+
+#: trunk/bulk.php:282 trunk/bulk.php:292
+#: trunk/classes/class-ewww-nextgen.php:638
+#: trunk/classes/class-ewww-nextgen.php:648
+#: trunk/classes/class-ewww-nextcellent.php:437
+#: trunk/classes/class-ewww-nextcellent.php:447
+#: trunk/classes/class-ewww-flag.php:129 trunk/classes/class-ewww-flag.php:139
+#: bulk.php:282 bulk.php:292 classes/class-ewww-nextgen.php:638
+#: classes/class-ewww-nextgen.php:648 classes/class-ewww-nextcellent.php:437
+#: classes/class-ewww-nextcellent.php:447 classes/class-ewww-flag.php:129
+#: classes/class-ewww-flag.php:139
+msgid "Click to toggle"
+msgstr "クリックで切り替え"
+
+#. translators: %s: Bulk Optimize (link)
+#: trunk/common.php:9224 common.php:9224
+msgid "New images uploaded to the Media Library will be optimized automatically. If you have existing images you would like to optimize, you can use the %s tool."
+msgstr "メディアライブラリにアップロードされた新しい画像は自動的に最適化されます。 最適化したい画像がある場合は、 %s ツールを使用できます。"
+
+#: trunk/common.php:9216 common.php:9216
+msgid "Media Library"
+msgstr "メディアライブラリー"
+
+#: trunk/common.php:10125 common.php:10125
+msgid "Plugin Support"
+msgstr "プラグインサポート"
+
+#. translators: s: Installation Instructions (link)
+#. translators: %s: Installation Instructions
+#: unique.php:325 unique.php:345 unique.php:704 trunk/unique.php:325
+#: trunk/unique.php:345 trunk/unique.php:704
+msgid "Installation Instructions"
+msgstr "インストール手順"
+
+#. translators: 1: An error message 2: The folder where pngout should be
+#. installed
+#: trunk/common.php:1684 common.php:1684
+msgid "Pngout was not installed: %1$s. Make sure this folder is writable: %2$s"
+msgstr "Pngout はインストールされませんでした (%1$s) 。このフォルダへの書き込みが可能かどうか、確認してください: %2$s"
+
+#: trunk/common.php:8885 common.php:8885
+msgid "Insertion failed"
+msgstr "挿入失敗"
+
+#: trunk/common.php:8883 common.php:8883
+msgid "Insertion successful"
+msgstr "挿入成功"
+
+#: trunk/aux-optimize.php:193 trunk/aux-optimize.php:246
+#: trunk/classes/class-ewww-nextgen.php:562
+#: trunk/classes/class-ewww-nextcellent.php:363
+#: trunk/classes/class-ewww-flag.php:786 trunk/common.php:7945
+#: trunk/common.php:8031 trunk/common.php:8037 aux-optimize.php:193
+#: aux-optimize.php:246 classes/class-ewww-nextgen.php:562
+#: classes/class-ewww-nextcellent.php:363 classes/class-ewww-flag.php:786
+#: common.php:7945 common.php:8031 common.php:8037
+msgid "Restore original"
+msgstr "オリジナル復元"
+
+#: trunk/classes/class-ewww-nextgen.php:555
+#: trunk/classes/class-ewww-nextcellent.php:356
+#: trunk/classes/class-ewww-flag.php:779 trunk/common.php:7936
+#: trunk/common.php:8013 classes/class-ewww-nextgen.php:555
+#: classes/class-ewww-nextcellent.php:356 classes/class-ewww-flag.php:779
+#: common.php:7936 common.php:8013
+msgid "Re-optimize"
+msgstr "再最適化"
+
+#: trunk/classes/class-ewww-nextgen.php:570
+#: trunk/classes/class-ewww-nextcellent.php:376
+#: trunk/classes/class-ewww-flag.php:799 trunk/common.php:7963
+#: trunk/common.php:8074 classes/class-ewww-nextgen.php:570
+#: classes/class-ewww-nextcellent.php:376 classes/class-ewww-flag.php:799
+#: common.php:7963 common.php:8074
+msgid "Optimize now!"
+msgstr "今すぐ最適化！"
+
+#: unique.php:1795 unique.php:2625 trunk/unique.php:1795 trunk/unique.php:2625
+#: trunk/classes/class-ewww-nextgen.php:473
+#: trunk/classes/class-ewww-nextcellent.php:328
+#: trunk/classes/class-ewww-flag.php:761 trunk/common.php:7891
+#: classes/class-ewww-nextgen.php:473 classes/class-ewww-nextcellent.php:328
+#: classes/class-ewww-flag.php:761 common.php:7891
+msgid "Unsupported file type"
+msgstr "サポートされていないファイルタイプ"
+
+#: trunk/common.php:7875 common.php:7875
+msgid "PNG is generally better than GIF, but does not support animation. Animated images will not be converted."
+msgstr "一般にPNG はGIF よりも優れていますが、アニメーションはサポートしていません。 アニメーション画像は変換されません。"
+
+#: trunk/common.php:7874 common.php:7874
+msgid "GIF to PNG"
+msgstr "GIF を PNG"
+
+#: trunk/common.php:7862 common.php:7862
+msgid "WARNING: This is not a lossless conversion and requires GD or ImageMagick. JPG is much better than PNG for photographic use because it compresses the image and discards data. Transparent images will only be converted if a background color has been set."
+msgstr "警告：これは可逆変換ではなく、GD またはImageMagick が必要です。 JPG は画像を圧縮してデータを破棄するため、写真用のPNG よりもはるかに優れています。 透明な画像は、背景色が設定されている場合にのみ変換されます。"
+
+#: trunk/common.php:7861 common.php:7861
+msgid "PNG to JPG"
+msgstr "PNG を JPG"
+
+#: trunk/common.php:7849 common.php:7849
+msgid "WARNING: Removes metadata. Requires GD or ImageMagick. PNG is generally much better than JPG for logos and other images with a limited range of colors."
+msgstr "警告: メタデータを削除します。GD または ImageMagick が必要です。PNG は一般的に、限定された色の範囲を持つロゴやその他の画像については JPG よりはるかに優れています。"
+
+#: trunk/common.php:7848 common.php:7848
+msgid "JPG to PNG"
+msgstr "JPG を PNG"
+
+#. translators: %s: name of a tool like jpegtran
+#: unique.php:1585 unique.php:1940 unique.php:2218 unique.php:2222
+#: unique.php:2508 trunk/unique.php:1585 trunk/unique.php:1940
+#: trunk/unique.php:2218 trunk/unique.php:2222 trunk/unique.php:2508
+#: trunk/classes/class-ewww-nextgen.php:455
+#: trunk/classes/class-ewww-nextgen.php:462
+#: trunk/classes/class-ewww-nextgen.php:469
+#: trunk/classes/class-ewww-nextcellent.php:310
+#: trunk/classes/class-ewww-nextcellent.php:317
+#: trunk/classes/class-ewww-nextcellent.php:324
+#: trunk/classes/class-ewww-flag.php:745 trunk/classes/class-ewww-flag.php:751
+#: trunk/classes/class-ewww-flag.php:757 trunk/common.php:7838
+#: trunk/common.php:7857 trunk/common.php:7870
+#: classes/class-ewww-nextgen.php:455 classes/class-ewww-nextgen.php:462
+#: classes/class-ewww-nextgen.php:469 classes/class-ewww-nextcellent.php:310
+#: classes/class-ewww-nextcellent.php:317
+#: classes/class-ewww-nextcellent.php:324 classes/class-ewww-flag.php:745
+#: classes/class-ewww-flag.php:751 classes/class-ewww-flag.php:757
+#: common.php:7838 common.php:7857 common.php:7870
+msgid "%s is missing"
+msgstr "%s がありません。"
+
+#: trunk/common.php:7804 common.php:7804
+msgid "Could not retrieve file path."
+msgstr "ファイルパスを取得できませんでした。"
+
+#: trunk/aux-optimize.php:161 trunk/common.php:7785 aux-optimize.php:161
+#: common.php:7785
+msgid "Amazon S3 image"
+msgstr "Amazon S3 画像"
+
+#: trunk/common.php:7777 common.php:7777
+msgid "Azure Storage image"
+msgstr "Azure ストレージ画像"
+
+#: trunk/common.php:7769 common.php:7769
+msgid "Cloudinary image"
+msgstr "Cloudinary 画像"
+
+#. translators: 1: Number of image credits used 2: Number of image credits
+#. available 3: days until subscription renewal
+#: trunk/common.php:4030 common.php:4030
+msgid "used %1$d of %2$d, usage will reset in %3$d day."
+msgid_plural "used %1$d of %2$d, usage will reset in %3$d days."
+msgstr[0] "%2$d の %1$d を使用した場合、 %3$d 日後に使用率がリセットされます。"
+
+#. translators: 1: Number of image credits for the compression API
+#: trunk/common.php:4011 trunk/common.php:4020 common.php:4011 common.php:4020
+msgid "%1$d image credit remaining."
+msgid_plural "%1$d image credits remaining."
+msgstr[0] "%1$d画像クレジットが残っています。"
+
+#: trunk/bulk.php:177 trunk/bulk.php:698 trunk/classes/class-ewww-image.php:926
+#: bulk.php:177 bulk.php:698 classes/class-ewww-image.php:926
+msgid "Original Restored"
+msgstr "オリジナルの復元"
+
+#: trunk/classes/class-ewww-nextgen.php:263
+#: trunk/classes/class-ewww-nextgen.php:266
+#: trunk/classes/class-ewww-nextgen.php:316
+#: trunk/classes/class-ewww-nextgen.php:319
+#: trunk/classes/class-ewww-nextcellent.php:165
+#: trunk/classes/class-ewww-nextcellent.php:168
+#: trunk/classes/class-ewww-nextcellent.php:208
+#: trunk/classes/class-ewww-nextcellent.php:211
+#: trunk/classes/class-ewww-flag.php:404 trunk/classes/class-ewww-flag.php:407
+#: trunk/classes/class-ewww-flag.php:473 trunk/classes/class-ewww-flag.php:476
+#: trunk/common.php:3195 trunk/common.php:3198
+#: classes/class-ewww-nextgen.php:263 classes/class-ewww-nextgen.php:266
+#: classes/class-ewww-nextgen.php:316 classes/class-ewww-nextgen.php:319
+#: classes/class-ewww-nextcellent.php:165
+#: classes/class-ewww-nextcellent.php:168
+#: classes/class-ewww-nextcellent.php:208
+#: classes/class-ewww-nextcellent.php:211 classes/class-ewww-flag.php:404
+#: classes/class-ewww-flag.php:407 classes/class-ewww-flag.php:473
+#: classes/class-ewww-flag.php:476 common.php:3195 common.php:3198
+msgid "No attachment ID was provided."
+msgstr "添付ファイル ID は提供されませんでした。"
+
+#: trunk/classes/class-ewww-nextgen.php:255
+#: trunk/classes/class-ewww-nextgen.php:258
+#: trunk/classes/class-ewww-nextgen.php:308
+#: trunk/classes/class-ewww-nextgen.php:311
+#: trunk/classes/class-ewww-nextcellent.php:157
+#: trunk/classes/class-ewww-nextcellent.php:160
+#: trunk/classes/class-ewww-nextcellent.php:200
+#: trunk/classes/class-ewww-nextcellent.php:203
+#: trunk/classes/class-ewww-flag.php:396 trunk/classes/class-ewww-flag.php:399
+#: trunk/classes/class-ewww-flag.php:465 trunk/classes/class-ewww-flag.php:468
+#: trunk/common.php:3186 trunk/common.php:3189 trunk/common.php:3351
+#: classes/class-ewww-nextgen.php:255 classes/class-ewww-nextgen.php:258
+#: classes/class-ewww-nextgen.php:308 classes/class-ewww-nextgen.php:311
+#: classes/class-ewww-nextcellent.php:157
+#: classes/class-ewww-nextcellent.php:160
+#: classes/class-ewww-nextcellent.php:200
+#: classes/class-ewww-nextcellent.php:203 classes/class-ewww-flag.php:396
+#: classes/class-ewww-flag.php:399 classes/class-ewww-flag.php:465
+#: classes/class-ewww-flag.php:468 common.php:3186 common.php:3189
+#: common.php:3351
+msgid "You do not have permission to optimize images."
+msgstr "画像を最適化する権限がありません。"
+
+#: trunk/common.php:2674 trunk/common.php:2676 common.php:2674 common.php:2676
+msgid "Settings"
+msgstr "設定"
+
+#: trunk/common.php:2581 common.php:2581
+msgid "Gallery"
+msgstr "ギャラリー"
+
+#: trunk/common.php:2581 common.php:2581
+msgid "Title"
+msgstr "タイトル"
+
+#: trunk/common.php:2570 trunk/common.php:2580 common.php:2570 common.php:2580
+msgid "Optimize Gallery"
+msgstr "ギャラリー最適化"
+
+#: trunk/common.php:2563 common.php:2563
+msgid "Images"
+msgstr "画像"
+
+#: trunk/common.php:2563 common.php:2563
+msgid "Gallery Name"
+msgstr "ギャラリー名"
+
+#: trunk/common.php:2563 common.php:2563
+msgid "Gallery ID"
+msgstr "ギャラリー ID"
+
+#: trunk/common.php:2562 common.php:2562
+msgid "optimize all galleries"
+msgstr "すべてのギャラリーを最適化"
+
+#: trunk/common.php:2562 common.php:2562
+msgid "Choose a gallery or"
+msgstr "ギャラリーを選ぶか"
+
+#: trunk/common.php:2557 common.php:2557
+msgid "Image Store Optimization"
+msgstr "画像保存の最適化"
+
+#: trunk/common.php:2496 common.php:2496
+msgid "Optimize"
+msgstr "最適化"
+
+#: trunk/common.php:2496 common.php:2496
+msgid "Image Store Optimize"
+msgstr "画像保存の最適化"
+
+#: trunk/mwebp.php:19 trunk/common.php:2460 mwebp.php:19 common.php:2460
+msgid "Migrate WebP Images"
+msgstr "WebP イメージへ移行"
+
+#: trunk/common.php:1737 common.php:1737
+msgid "Settings saved"
+msgstr "設定を保存"
+
+#. translators: %s: compression results
+#. Translators: %s: The compression results/savings
+#: trunk/classes/class-ewwwio-cli.php:281 trunk/classes/class-ewww-flag.php:599
+#: classes/class-ewwwio-cli.php:281 classes/class-ewww-flag.php:599
+msgid "Full size – %s"
+msgstr "最大サイズ - %s"
+
+#: trunk/classes/class-ewww-nextgen.php:910
+#: trunk/classes/class-ewww-nextcellent.php:675
+#: trunk/classes/class-ewwwio-cli.php:279
+#: trunk/classes/class-ewwwio-cli.php:375
+#: trunk/classes/class-ewwwio-cli.php:462 trunk/classes/class-ewww-flag.php:597
+#: classes/class-ewww-nextgen.php:910 classes/class-ewww-nextcellent.php:675
+#: classes/class-ewwwio-cli.php:279 classes/class-ewwwio-cli.php:375
+#: classes/class-ewwwio-cli.php:462 classes/class-ewww-flag.php:597
+msgid "Optimized image:"
+msgstr "最適化された画像:"
+
+#: trunk/bulk.php:175 trunk/bulk.php:693
+#: trunk/classes/class-ewww-nextgen.php:806
+#: trunk/classes/class-ewww-nextcellent.php:575
+#: trunk/classes/class-ewww-flag.php:292 bulk.php:175 bulk.php:693
+#: classes/class-ewww-nextgen.php:806 classes/class-ewww-nextcellent.php:575
+#: classes/class-ewww-flag.php:292
+msgid "Could not remove image from table."
+msgstr "テーブルから削除することができません。"
+
+#: trunk/classes/class-ewww-nextgen.php:805
+#: trunk/classes/class-ewww-nextcellent.php:574
+#: trunk/classes/class-ewww-flag.php:291 classes/class-ewww-nextgen.php:805
+#: classes/class-ewww-nextcellent.php:574 classes/class-ewww-flag.php:291
+msgid "Temporary failure, seconds left to retry:"
+msgstr "一時的な障害、再試行までの秒数： "
+
+#: trunk/bulk.php:689 trunk/classes/class-ewww-nextgen.php:804
+#: trunk/classes/class-ewww-nextcellent.php:573
+#: trunk/classes/class-ewww-flag.php:290 bulk.php:689
+#: classes/class-ewww-nextgen.php:804 classes/class-ewww-nextcellent.php:573
+#: classes/class-ewww-flag.php:290
+msgid "Operation Interrupted"
+msgstr "操作は中断された"
+
+#: trunk/bulk.php:688 trunk/classes/class-ewww-nextgen.php:803
+#: trunk/classes/class-ewww-nextcellent.php:572
+#: trunk/classes/class-ewww-flag.php:289 bulk.php:688
+#: classes/class-ewww-nextgen.php:803 classes/class-ewww-nextcellent.php:572
+#: classes/class-ewww-flag.php:289
+msgid "Optimization stopped, reload page to resume."
+msgstr "最適化を停止し、ページを再ロードして再開"
+
+#: trunk/bulk.php:1827 trunk/classes/class-ewww-nextgen.php:905
+#: trunk/classes/class-ewww-nextcellent.php:669
+#: trunk/classes/class-ewww-flag.php:592 trunk/common.php:4556
+#: trunk/common.php:5145 trunk/common.php:5149 bulk.php:1827
+#: classes/class-ewww-nextgen.php:905 classes/class-ewww-nextcellent.php:669
+#: classes/class-ewww-flag.php:592 common.php:4556 common.php:5145
+#: common.php:5149
+msgid "License Exceeded"
+msgstr "ライセンス超過"
+
+#: trunk/classes/class-ewww-nextgen.php:802
+#: trunk/classes/class-ewww-nextcellent.php:571
+#: trunk/classes/class-ewww-flag.php:288 classes/class-ewww-nextgen.php:802
+#: classes/class-ewww-nextcellent.php:571 classes/class-ewww-flag.php:288
+msgid "Operation timed out, you may need to increase the max_execution_time for PHP"
+msgstr "操作がタイムアウトした場合、PHP の max_execution_time を増やす必要があります"
+
+#. translators: %d: number of images
+#: trunk/bulk.php:685 bulk.php:685
+msgid "%d images"
+msgstr "%d 個の画像"
+
+#: trunk/classes/class-ewww-nextgen.php:663
+#: trunk/classes/class-ewww-nextcellent.php:457
+#: trunk/classes/class-ewww-flag.php:154 classes/class-ewww-nextgen.php:663
+#: classes/class-ewww-nextcellent.php:457 classes/class-ewww-flag.php:154
+msgid "Previously optimized images will be skipped by default."
+msgstr "これまでに最適化された画像は、デフォルトではスキップされます。"
+
+#: trunk/bulk.php:225 trunk/classes/class-ewww-nextgen.php:606
+#: trunk/classes/class-ewww-nextcellent.php:406
+#: trunk/classes/class-ewwwio-cli.php:265
+#: trunk/classes/class-ewwwio-cli.php:357 trunk/classes/class-ewww-flag.php:98
+#: bulk.php:225 classes/class-ewww-nextgen.php:606
+#: classes/class-ewww-nextcellent.php:406 classes/class-ewwwio-cli.php:265
+#: classes/class-ewwwio-cli.php:357 classes/class-ewww-flag.php:98
+msgid "You do not appear to have uploaded any images yet."
+msgstr "まだ画像をアップロードしていないようです。"
+
+#: trunk/classes/class-ewww-nextgen.php:658
+#: trunk/classes/class-ewww-flag.php:149 classes/class-ewww-nextgen.php:658
+#: classes/class-ewww-flag.php:149
+msgid "Choose how long to pause between images (in seconds, 0 = disabled)"
+msgstr "画像間で一時停止する時間を選択 (秒単位、0 = 無効)"
+
+#: trunk/bulk.php:301 trunk/classes/class-ewww-nextgen.php:657
+#: trunk/classes/class-ewww-flag.php:148 bulk.php:301
+#: classes/class-ewww-nextgen.php:657 classes/class-ewww-flag.php:148
+msgid "Force re-optimize"
+msgstr "再最適化を強制"
+
+#: trunk/bulk.php:276 trunk/classes/class-ewww-nextgen.php:632
+#: trunk/classes/class-ewww-nextcellent.php:431
+#: trunk/classes/class-ewww-flag.php:123 bulk.php:276
+#: classes/class-ewww-nextgen.php:632 classes/class-ewww-nextcellent.php:431
+#: classes/class-ewww-flag.php:123
+msgid "Stop Optimizing"
+msgstr "最適化を中断"
+
+#: trunk/bulk.php:270 bulk.php:270
+msgid "Importing"
+msgstr "インポート"
+
+#: trunk/classes/class-ewww-nextcellent.php:422
+#: classes/class-ewww-nextcellent.php:422
+msgid "Resume previous bulk operation"
+msgstr "前回の一括処理を再開"
+
+#: trunk/bulk.php:213 trunk/bulk.php:216
+#: trunk/classes/class-ewww-nextgen.php:620
+#: trunk/classes/class-ewww-nextcellent.php:420
+#: trunk/classes/class-ewww-flag.php:111 bulk.php:213 bulk.php:216
+#: classes/class-ewww-nextgen.php:620 classes/class-ewww-nextcellent.php:420
+#: classes/class-ewww-flag.php:111
+msgid "Start optimizing"
+msgstr "最適化を開始"
+
+#: trunk/bulk.php:197 trunk/classes/class-ewww-nextgen.php:59
+#: trunk/classes/class-ewww-nextgen.php:611
+#: trunk/classes/class-ewww-nextgen.php:981
+#: trunk/classes/class-ewww-nextcellent.php:50
+#: trunk/classes/class-ewww-nextcellent.php:411
+#: trunk/classes/class-ewww-flag.php:59 trunk/classes/class-ewww-flag.php:66
+#: trunk/classes/class-ewww-flag.php:73 trunk/classes/class-ewww-flag.php:102
+#: trunk/common.php:2459 trunk/common.php:8522 trunk/common.php:9216
+#: trunk/common.php:9218 bulk.php:197 classes/class-ewww-nextgen.php:59
+#: classes/class-ewww-nextgen.php:611 classes/class-ewww-nextgen.php:981
+#: classes/class-ewww-nextcellent.php:50 classes/class-ewww-nextcellent.php:411
+#: classes/class-ewww-flag.php:59 classes/class-ewww-flag.php:66
+#: classes/class-ewww-flag.php:73 classes/class-ewww-flag.php:102
+#: common.php:2459 common.php:8522 common.php:9216 common.php:9218
+msgid "Bulk Optimize"
+msgstr "一括最適化"
+
+#: trunk/bulk.php:179 trunk/bulk.php:2036 trunk/aux-optimize.php:1217
+#: trunk/mwebp.php:240 bulk.php:179 bulk.php:2036 aux-optimize.php:1217
+#: mwebp.php:240
+msgid "Finished"
+msgstr "完了"
+
+#: trunk/bulk.php:1547 trunk/bulk.php:1549 trunk/bulk.php:1963
+#: trunk/bulk.php:1965 trunk/classes/class-ewww-nextgen.php:364
+#: trunk/classes/class-ewww-nextgen.php:838
+#: trunk/classes/class-ewww-nextgen.php:840
+#: trunk/classes/class-ewww-nextgen.php:943
+#: trunk/classes/class-ewww-nextgen.php:945
+#: trunk/classes/class-ewww-nextcellent.php:609
+#: trunk/classes/class-ewww-nextcellent.php:611
+#: trunk/classes/class-ewww-nextcellent.php:694
+#: trunk/classes/class-ewww-nextcellent.php:696
+#: trunk/classes/class-ewww-nextcellent.php:743
+#: trunk/classes/class-ewww-flag.php:524 trunk/classes/class-ewww-flag.php:526
+#: trunk/classes/class-ewww-flag.php:630 trunk/classes/class-ewww-flag.php:632
+#: trunk/classes/class-ewww-flag.php:681 trunk/common.php:2651
+#: trunk/common.php:5175 bulk.php:1547 bulk.php:1549 bulk.php:1963
+#: bulk.php:1965 classes/class-ewww-nextgen.php:364
+#: classes/class-ewww-nextgen.php:838 classes/class-ewww-nextgen.php:840
+#: classes/class-ewww-nextgen.php:943 classes/class-ewww-nextgen.php:945
+#: classes/class-ewww-nextcellent.php:609
+#: classes/class-ewww-nextcellent.php:611
+#: classes/class-ewww-nextcellent.php:694
+#: classes/class-ewww-nextcellent.php:696
+#: classes/class-ewww-nextcellent.php:743 classes/class-ewww-flag.php:524
+#: classes/class-ewww-flag.php:526 classes/class-ewww-flag.php:630
+#: classes/class-ewww-flag.php:632 classes/class-ewww-flag.php:681
+#: common.php:2651 common.php:5175
+msgid "Optimizing"
+msgstr "最適化"
+
+#: unique.php:531 trunk/unique.php:531 trunk/bulk.php:890
+#: trunk/aux-optimize.php:1210 trunk/classes/class-ewww-nextgen.php:272
+#: trunk/classes/class-ewww-nextgen.php:275
+#: trunk/classes/class-ewww-nextgen.php:325
+#: trunk/classes/class-ewww-nextgen.php:328
+#: trunk/classes/class-ewww-nextgen.php:819
+#: trunk/classes/class-ewww-nextcellent.php:174
+#: trunk/classes/class-ewww-nextcellent.php:177
+#: trunk/classes/class-ewww-nextcellent.php:217
+#: trunk/classes/class-ewww-nextcellent.php:220
+#: trunk/classes/class-ewww-nextcellent.php:588
+#: trunk/classes/class-ewww-flag.php:412 trunk/classes/class-ewww-flag.php:415
+#: trunk/classes/class-ewww-flag.php:482 trunk/classes/class-ewww-flag.php:485
+#: trunk/classes/class-ewww-flag.php:504 trunk/mwebp.php:112
+#: trunk/common.php:684 trunk/common.php:3205 trunk/common.php:3208
+#: trunk/common.php:3222 trunk/common.php:3225 trunk/common.php:8464
+#: trunk/common.php:8478 trunk/common.php:8492 trunk/common.php:8507
+#: trunk/common.php:8875 trunk/common.php:8878 trunk/common.php:8899
+#: trunk/common.php:8902 trunk/common.php:10396 trunk/common.php:10580
+#: trunk/common.php:10597 bulk.php:890 aux-optimize.php:1210
+#: classes/class-ewww-nextgen.php:272 classes/class-ewww-nextgen.php:275
+#: classes/class-ewww-nextgen.php:325 classes/class-ewww-nextgen.php:328
+#: classes/class-ewww-nextgen.php:819 classes/class-ewww-nextcellent.php:174
+#: classes/class-ewww-nextcellent.php:177
+#: classes/class-ewww-nextcellent.php:217
+#: classes/class-ewww-nextcellent.php:220
+#: classes/class-ewww-nextcellent.php:588 classes/class-ewww-flag.php:412
+#: classes/class-ewww-flag.php:415 classes/class-ewww-flag.php:482
+#: classes/class-ewww-flag.php:485 classes/class-ewww-flag.php:504
+#: mwebp.php:112 common.php:684 common.php:3205 common.php:3208 common.php:3222
+#: common.php:3225 common.php:8464 common.php:8478 common.php:8492
+#: common.php:8507 common.php:8875 common.php:8878 common.php:8899
+#: common.php:8902 common.php:10396 common.php:10580 common.php:10597
+msgid "Access denied."
+msgstr "接続が拒否されました。"
+
+#. translators: %s: human-readable filesize
+#. translators: %s: size of the image
+#: trunk/aux-optimize.php:165 trunk/aux-optimize.php:203
+#: trunk/aux-optimize.php:256 trunk/common.php:8060 aux-optimize.php:165
+#: aux-optimize.php:203 aux-optimize.php:256 common.php:8060
+msgid "Image Size: %s"
+msgstr "画像サイズ: %s"
+
+#: trunk/aux-optimize.php:128 trunk/classes/class-ewww-nextgen.php:378
+#: trunk/classes/class-ewww-nextgen.php:404
+#: trunk/classes/class-ewww-nextgen.php:407
+#: trunk/classes/class-ewww-nextcellent.php:273
+#: trunk/classes/class-ewww-flag.php:694 trunk/common.php:2563
+#: trunk/common.php:2581 trunk/common.php:7726 aux-optimize.php:128
+#: classes/class-ewww-nextgen.php:378 classes/class-ewww-nextgen.php:404
+#: classes/class-ewww-nextgen.php:407 classes/class-ewww-nextcellent.php:273
+#: classes/class-ewww-flag.php:694 common.php:2563 common.php:2581
+#: common.php:7726
+msgid "Image Optimizer"
+msgstr "画像最適化"
+
+#: trunk/aux-optimize.php:126 aux-optimize.php:126
+msgid "Image Type"
+msgstr "画像タイプ"
+
+#: trunk/aux-optimize.php:125 aux-optimize.php:125
+msgid "Filename"
+msgstr "ファイル名"
+
+#: unique.php:2632 trunk/unique.php:2632
+#: trunk/classes/class-ewww-nextgen.php:287 trunk/common.php:3238
+#: trunk/common.php:3241 trunk/common.php:4863
+#: classes/class-ewww-nextgen.php:287 common.php:3238 common.php:3241
+#: common.php:4863
+msgid "License exceeded"
+msgstr "ライセンス超過"
+
+#: trunk/classes/class-ewww-image.php:868 trunk/common.php:5025
+#: classes/class-ewww-image.php:868 common.php:5025
+msgid "No savings"
+msgstr "節約なし"
+
+#: trunk/common.php:4862 trunk/common.php:4924 common.php:4862 common.php:4924
+msgid "Previously Optimized"
+msgstr "既に最適化済み"
+
+#: trunk/bulk.php:896 trunk/bulk.php:1513 trunk/bulk.php:1532
+#: trunk/bulk.php:1736 trunk/bulk.php:1996 trunk/bulk.php:2024
+#: trunk/aux-optimize.php:82 trunk/aux-optimize.php:307
+#: trunk/aux-optimize.php:335 trunk/aux-optimize.php:360
+#: trunk/aux-optimize.php:406 trunk/classes/class-ewww-nextgen.php:879
+#: trunk/classes/class-ewww-nextgen.php:961
+#: trunk/classes/class-ewww-nextgen.php:1011
+#: trunk/classes/class-ewww-nextcellent.php:647
+#: trunk/classes/class-ewww-nextcellent.php:712
+#: trunk/classes/class-ewww-flag.php:563 trunk/classes/class-ewww-flag.php:649
+#: trunk/mwebp.php:133 trunk/mwebp.php:228 trunk/common.php:3361
+#: trunk/common.php:5092 bulk.php:896 bulk.php:1513 bulk.php:1532 bulk.php:1736
+#: bulk.php:1996 bulk.php:2024 aux-optimize.php:82 aux-optimize.php:307
+#: aux-optimize.php:335 aux-optimize.php:360 aux-optimize.php:406
+#: classes/class-ewww-nextgen.php:879 classes/class-ewww-nextgen.php:961
+#: classes/class-ewww-nextgen.php:1011 classes/class-ewww-nextcellent.php:647
+#: classes/class-ewww-nextcellent.php:712 classes/class-ewww-flag.php:563
+#: classes/class-ewww-flag.php:649 mwebp.php:133 mwebp.php:228 common.php:3361
+#: common.php:5092
+msgid "Access token has expired, please reload the page."
+msgstr "アクセストークンの期限切れになりました、ページをリロードしてください。"
+
+#: trunk/bulk.php:45 bulk.php:45
+msgid "Show Optimized Images"
+msgstr "最適化画像を表示"
+
+#. translators: %s: number of images
+#: trunk/bulk.php:43 bulk.php:43
+msgid "The plugin keeps track of already optimized images to prevent re-optimization. There are %s images that have been optimized so far."
+msgstr "プラグインは、再最適化を防ぐために、最適化済みの画像を追跡します。これまでに最適化された画像が%s個あります。"
+
+#: trunk/classes/class-ewww-nextgen.php:675
+#: trunk/classes/class-ewww-nextcellent.php:470
+#: trunk/classes/class-ewww-flag.php:166 classes/class-ewww-nextgen.php:675
+#: classes/class-ewww-nextcellent.php:470 classes/class-ewww-flag.php:166
+msgid "Reset Status"
+msgstr "ステータスをリセット"
+
+#: trunk/classes/class-ewww-nextgen.php:671
+#: trunk/classes/class-ewww-nextcellent.php:466
+#: trunk/classes/class-ewww-flag.php:162 classes/class-ewww-nextgen.php:671
+#: classes/class-ewww-nextcellent.php:466 classes/class-ewww-flag.php:162
+msgid "If you would like to start over again, press the Reset Status button to reset the bulk operation status."
+msgstr "もう一度やり直したい場合は、Reset Status ボタンを押して、一括操作の状態をリセットします。"
+
+#: trunk/classes/class-ewwwio-cli.php:96 trunk/classes/class-ewwwio-cli.php:156
+#: classes/class-ewwwio-cli.php:96 classes/class-ewwwio-cli.php:156
+msgid "Scanning, this could take a while"
+msgstr "スキャンには時間がかかることがあります"
+
+#: trunk/bulk.php:372 bulk.php:372
+msgid "There are no images to optimize."
+msgstr "最適化するための画像がありません。"
+
+#: trunk/bulk.php:219 trunk/classes/class-ewww-nextgen.php:622
+#: trunk/classes/class-ewww-flag.php:113 bulk.php:219
+#: classes/class-ewww-nextgen.php:622 classes/class-ewww-flag.php:113
+msgid "Resume previous optimization"
+msgstr "前回の最適化を再開"

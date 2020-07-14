@@ -1,0 +1,326 @@
+# Translation of Themes - Twenty Sixteen in Armenian
+# This file is distributed under the same license as the Themes - Twenty Sixteen package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2015-11-21 06:24:12+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: hy_AM\n"
+"Project-Id-Version: Themes - Twenty Sixteen\n"
+
+#. Theme Name of the theme
+msgid "Twenty Sixteen"
+msgstr "Երկու հազար տասնվեց"
+
+#. Description of the theme
+msgid "Twenty Sixteen is a modernized take on an ever-popular WordPress layout — the horizontal masthead with an optional right sidebar that works perfectly for blogs and websites. It has custom color options with beautiful default color schemes, a harmonious fluid grid using a mobile-first approach, and impeccable polish in every detail. Twenty Sixteen will make your WordPress look beautiful everywhere."
+msgstr "Երկու հազար տասնվեց տեսաձևը հանդիսանում է WordPress-ի ամենահայտնի դասավորության ժամանակակից մշակումը։ Հորիզոնական էջագլուխը և կամայական աջ կողագոտին, որոնք կատարելապես են ծառայում և բլոգերի, և կայքերի համար։ Այն ունի փոփոխական գույնային ընտրանքներ և գեղեցիկ լռակյաց գունավոր ուրվագծեր, ներդաշնակ ճկուն ցանցավորում՝ բջջային մատչման համար, և կատարյալ փայլ՝ յուրաքանչյուր մանրուքում։ Երկու հազար տասնվեցը կապահովի ձեր WordPress-ի գեղեցիկ տեսքը ամենուր։"
+
+#. translators: %s: Post title.
+#: template-parts/content.php:29 inc/template-tags.php:195
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Շարունակել կարդալ <span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#. translators: %s: Post title.
+#: image.php:88 template-parts/content-page.php:39
+#: template-parts/content.php:53 template-parts/content-search.php:28
+#: template-parts/content-search.php:43 template-parts/content-single.php:47
+msgid "Edit<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Խմբագրել <span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#: inc/customizer.php:345
+msgid "Red"
+msgstr "Կարմիր"
+
+#. translators: %s: Post title.
+#: comments.php:31
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Մեկ կարծիք &laquo;%s&raquo;-ի վերաբերյալ"
+
+#: searchform.php:16
+msgctxt "submit button"
+msgid "Search"
+msgstr "Որոնել"
+
+#: searchform.php:14
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Որոնում …"
+
+#: searchform.php:13
+msgctxt "label"
+msgid "Search for:"
+msgstr "Որոնել՝"
+
+#: footer.php:30
+msgid "Footer Social Links Menu"
+msgstr "Էջատակի սոցիալական հղումների ընտրացանկ"
+
+#: footer.php:17
+msgid "Footer Primary Menu"
+msgstr "Էջատակի առաջնային ընտրացանկը"
+
+#: functions.php:269
+msgid "Add widgets here to appear in your sidebar."
+msgstr "Ավելացրեք այստեղ ցուցանակներ՝ կողագուտում ցուցադրելու համար։"
+
+#: template-parts/content.php:14
+msgid "Featured"
+msgstr "Առաջատար"
+
+#: template-parts/content-none.php:33
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Կարծես թե մենք չենք գտնում ձեր փնտրածը։ Միգուցե փորձեք ա՞յլ բան որոնել։"
+
+#: template-parts/content-none.php:28
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Ցավոք, ձեր որոնման հարցումով ոչինչ չի գտնվել։ Փորձեք որոնել այլ հիմնաբառերով։"
+
+#. translators: %s: Post editor URL.
+#: template-parts/content-none.php:22
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Պատրա՞ստ եք հրատարակել առաջին գրառումը։ <a href=\"%1$s\">Գնացի՛նք</a>։"
+
+#: template-parts/content-none.php:13
+msgid "Nothing Found"
+msgstr "Ոչինչ չի գտնվել"
+
+#. translators: %s: The post author display name.
+#: template-parts/biography.php:35
+msgid "View all posts by %s"
+msgstr "Դիտել %s-ի բոլոր գրառումները"
+
+#: template-parts/biography.php:28
+msgid "Author:"
+msgstr "Հեղինակ՝"
+
+#: single.php:42
+msgid "Previous post:"
+msgstr "Նախորդ գրառում՝"
+
+#: single.php:41
+msgid "Previous"
+msgstr "Նախորդ"
+
+#: single.php:39
+msgid "Next post:"
+msgstr "Հաջորդ գրառում՝"
+
+#: single.php:38
+msgid "Next"
+msgstr "Հաջորդ"
+
+#. translators: %s: The search query.
+#: search.php:21
+msgid "Search Results for: %s"
+msgstr "%s որոնման արդյունքները"
+
+#: inc/template-tags.php:113
+msgctxt "Used before tag names."
+msgid "Tags"
+msgstr "Պիտակներ"
+
+#: inc/template-tags.php:104
+msgctxt "Used before category names."
+msgid "Categories"
+msgstr "Կարգեր"
+
+#: inc/template-tags.php:100 inc/template-tags.php:109
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:84
+msgctxt "Used before publish date."
+msgid "Posted on"
+msgstr "Հրատարակված՝"
+
+#: inc/template-tags.php:40
+msgctxt "Used before post format."
+msgid "Format"
+msgstr "Ձևաչափ"
+
+#. translators: %s: Post title.
+#: inc/template-tags.php:53
+msgid "Leave a comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Թողնել մեկնաբանություն<span class=\"screen-reader-text\"> %s-ի համար</span>"
+
+#: inc/template-tags.php:26
+msgctxt "Used before post author name."
+msgid "Author"
+msgstr "Հեղինակ"
+
+#: functions.php:209 inc/customizer.php:355
+msgid "Yellow"
+msgstr "Դեղին"
+
+#: inc/customizer.php:335
+msgid "Gray"
+msgstr "Մոխրագույն"
+
+#: inc/customizer.php:325
+msgid "Dark"
+msgstr "Մուգ"
+
+#: inc/customizer.php:221
+msgid "Main Text Color"
+msgstr "Հիմնական գրվածքի գույնը"
+
+#: inc/customizer.php:315
+msgid "Default"
+msgstr "Լռելիությամբ"
+
+#: inc/customizer.php:242
+msgid "Secondary Text Color"
+msgstr "Գրվածքի երկրորդային գույնը"
+
+#: inc/customizer.php:200
+msgid "Link Color"
+msgstr "Հղման գույն"
+
+#: inc/customizer.php:176
+msgid "Page Background Color"
+msgstr "Էջի խորքի գույնը"
+
+#: single.php:31 image.php:107
+msgctxt "Parent post link"
+msgid "<span class=\"meta-nav\">Published in</span><span class=\"post-title\">%title</span>"
+msgstr "<span class=\"meta-nav\">Հրատարակված</span><span class=\"post-title\">%title</span>"
+
+#. translators: %s: The current WordPress version.
+#: inc/back-compat.php:42 inc/back-compat.php:56 inc/back-compat.php:75
+msgid "Twenty Sixteen requires at least WordPress version 4.4. You are running version %s. Please upgrade and try again."
+msgstr "Երկու հազար տասնվեց տեսաձևը պահանջում է WordPress-ի առնվազն 4.4 տարբերակը։ Ձեր ընթացիկ տարբերակն է՝ %s։ Խնդրում ենք արդիացնել և կրկին փորձել։"
+
+#: inc/customizer.php:153
+msgid "Base Color Scheme"
+msgstr "Հիմնական գունային գամմա"
+
+#: image.php:77
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr "Ամբողջ չափով"
+
+#: image.php:58 template-parts/content-page.php:24
+#: template-parts/content.php:36 template-parts/content-single.php:26
+msgid "Pages:"
+msgstr "Էջեր՝"
+
+#: image.php:26
+msgid "Next Image"
+msgstr "Հաջորդ պատկեր"
+
+#: image.php:25
+msgid "Previous Image"
+msgstr "Նախորդ պատկեր"
+
+#: header.php:50
+msgid "Menu"
+msgstr "Ընտրացանկ"
+
+#: header.php:28
+msgid "Skip to content"
+msgstr "Անցնել բովանդակությանը"
+
+#: functions.php:419
+msgid "expand child menu"
+msgstr "ընդարձակել ենթացանկը"
+
+#: functions.php:420
+msgid "collapse child menu"
+msgstr "կոծկել ենթացանկը"
+
+#: functions.php:338
+msgctxt "Inconsolata font: on or off"
+msgid "on"
+msgstr "off"
+
+#: functions.php:279
+msgid "Content Bottom 1"
+msgstr "Բովանդակության էջատակ 1"
+
+#: functions.php:281 functions.php:293
+msgid "Appears at the bottom of the content on posts and pages."
+msgstr "Հայտնվում է գրառումների և էջերի բովանդակության տակ։"
+
+#: functions.php:291
+msgid "Content Bottom 2"
+msgstr "Բովանդակության էջատակ 2"
+
+#: functions.php:322
+msgctxt "Merriweather font: on or off"
+msgid "on"
+msgstr "off"
+
+#: functions.php:330
+msgctxt "Montserrat font: on or off"
+msgid "on"
+msgstr "off"
+
+#: functions.php:267
+msgid "Sidebar"
+msgstr "Կողագոտի"
+
+#: functions.php:93 header.php:67
+msgid "Social Links Menu"
+msgstr "Սոցիալական հղումների ընտրացանկը"
+
+#: functions.php:92 header.php:54
+msgid "Primary Menu"
+msgstr "Հիմնական ընտրացանկ"
+
+#. translators: %s: WordPress
+#: footer.php:63
+msgid "Proudly powered by %s"
+msgstr "Հպարտությամբ օժանդակվում է %s -ով"
+
+#: comments.php:71
+msgid "Comments are closed."
+msgstr "Մեկնաբանությունները փակված են:"
+
+#. translators: 1: Number of comments, 2: Post title.
+#: comments.php:35
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s կարծիք &laquo;%2$s&raquo;-ի վերաբերյալ"
+msgstr[1] "%1$s կարծիք &laquo;%2$s&raquo;-ի վերաբերյալ"
+
+#: image.php:62 template-parts/content-page.php:28
+#: template-parts/content.php:40 template-parts/content-single.php:30
+#: search.php:46 archive.php:54 index.php:51
+msgid "Page"
+msgstr "Էջ"
+
+#: search.php:45 archive.php:53 index.php:50
+msgid "Next page"
+msgstr "Հաջորդ էջ"
+
+#: search.php:44 archive.php:52 index.php:49
+msgid "Previous page"
+msgstr "Նախորդ էջ"
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Այս հասցեով ոչինչ չի գտնվել։ Փորձեք օգտվել որոնման համակարգից։"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ապսո՜ս, էջը չի գտնվել։"
+
+#. Theme URI of the theme
+msgid "https://wordpress.org/themes/twentysixteen/"
+msgstr "https://wordpress.org/themes/twentysixteen/"
+
+#. Author of the theme
+msgid "the WordPress team"
+msgstr "WordPress-ի թիմը"
+
+#. Author URI of the theme
+#: footer.php:60
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"

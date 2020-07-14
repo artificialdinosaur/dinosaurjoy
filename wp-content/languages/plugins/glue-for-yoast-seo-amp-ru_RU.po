@@ -1,0 +1,195 @@
+# Translation of Plugins - Glue for Yoast SEO &amp; AMP - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - Glue for Yoast SEO &amp; AMP - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-06-25 07:48:22+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/3.0.0-alpha\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - Glue for Yoast SEO &amp; AMP - Stable (latest release)\n"
+
+#: classes/backend.php:65 classes/backend.php:66
+msgid "AMP"
+msgstr "AMP"
+
+#. Author URI of the plugin
+msgid "https://yoast.com"
+msgstr "https://yoast.com"
+
+#. Author of the plugin
+msgid "Joost de Valk"
+msgstr "Joost de Valk"
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/glue-for-yoast-seo-amp/"
+msgstr "https://wordpress.org/plugins/glue-for-yoast-seo-amp/"
+
+#. Plugin Name of the plugin
+msgid "Glue for Yoast SEO & AMP"
+msgstr "Glue for Yoast SEO & AMP"
+
+#: classes/backend.php:122
+msgid "Use Logo"
+msgstr "Использовать логотип"
+
+#: classes/views/admin-page.php:20
+msgid "Post types"
+msgstr "Типы записей"
+
+#: classes/views/admin-page.php:21
+msgid "Design"
+msgstr "Дизайн"
+
+#: classes/views/admin-page.php:22
+msgid "Analytics"
+msgstr "Аналитика"
+
+#: classes/form.php:169 classes/views/admin-page.php:64
+msgid "Enabled"
+msgstr "Включено"
+
+#: classes/form.php:169 classes/views/admin-page.php:65
+msgid "Disabled"
+msgstr "Отключено"
+
+#: classes/views/admin-page.php:75
+msgid "Please note:"
+msgstr "Пожалуйста, обратите внимание:"
+
+#: classes/views/admin-page.php:84
+msgid "Images"
+msgstr "Изображения"
+
+#: classes/views/admin-page.php:87
+msgid "AMP icon"
+msgstr "Иконка AMP"
+
+#: classes/views/admin-page.php:93
+msgid "Default image"
+msgstr "Изображение по умолчанию"
+
+#: classes/views/admin-page.php:96
+msgid "The image must be at least 696px wide."
+msgstr "Изображение должно быть не менее 696 пикселей."
+
+#: classes/views/admin-page.php:99
+msgid "Content colors"
+msgstr "Цвета содержимого"
+
+#: classes/views/admin-page.php:102
+msgid "AMP Header color"
+msgstr "Цвет заголовка AMP"
+
+#: classes/views/admin-page.php:103
+msgid "Title color"
+msgstr "Цвет заголовка"
+
+#: classes/views/admin-page.php:104 classes/views/admin-page.php:111
+#: classes/views/admin-page.php:130
+msgid "Text color"
+msgstr "Цвет текста"
+
+#: classes/views/admin-page.php:109
+msgid "Links"
+msgstr "Ссылки"
+
+#: classes/views/admin-page.php:118 classes/views/admin-page.php:120
+msgid "Underline"
+msgstr "Подчёркнутый"
+
+#: classes/views/admin-page.php:121
+msgid "No underline"
+msgstr "Нет подчеркивания"
+
+#: classes/views/admin-page.php:128
+msgid "Blockquotes"
+msgstr "Цитаты"
+
+#: classes/views/admin-page.php:131
+msgid "Background color"
+msgstr "Цвет фона"
+
+#: classes/views/admin-page.php:132
+msgid "Border color"
+msgstr "Цвет границы"
+
+#: classes/views/admin-page.php:136 classes/views/admin-page.php:140
+msgid "Extra CSS"
+msgstr "Дополнительный CSS"
+
+#. translators: %s: 'head' - as in HTML head - wrapped in <code> tags.
+#: classes/views/admin-page.php:153
+msgid "Extra code in %s"
+msgstr "Дополнительный код в %s"
+
+#: classes/views/admin-page.php:169
+msgid "Extra code"
+msgstr "Дополнительный код"
+
+#: classes/views/admin-page.php:180
+msgid "AMP Analytics"
+msgstr "Аналитика AMP"
+
+#: classes/views/admin-page.php:202 classes/views/admin-page.php:213
+msgid "Analytics code"
+msgstr "Код "
+
+#: classes/views/admin-page.php:210
+msgid "Optionally add a valid google analytics tracking code."
+msgstr "При необходимости добавьте действующий код отслеживания Google Analytics."
+
+#: classes/views/admin-page.php:28
+msgid "Post types that have AMP support"
+msgstr "Типы записей, поддерживающие AMP"
+
+#. Description of the plugin
+msgid "Makes sure the default WordPress AMP plugin uses the proper Yoast SEO metadata"
+msgstr "Убедитесь, что плагин WordPress AMP по умолчанию использует правильные метаданные Yoast SEO"
+
+#: classes/views/admin-page.php:199
+msgid "Optionally you can override the default AMP tracking code with your own by putting it below:"
+msgstr "При желании вы можете переопределить код отслеживания AMP по умолчанию, указав его ниже:"
+
+#. translators: %s: google analytics tracking code.
+#: classes/views/admin-page.php:192
+msgid "Pageviews will be tracked using the following account: %s."
+msgstr "Просмотры страниц будут отслеживаться с использованием следующей учетной записи: %s."
+
+#: classes/views/admin-page.php:187
+msgid "Make sure to connect your Google Analytics plugin properly."
+msgstr "Обязательно подключите плагин Google Analytics."
+
+#: classes/views/admin-page.php:184
+msgid "Because your Google Analytics plugin by Yoast is active, your AMP pages will also be tracked."
+msgstr "Поскольку ваш плагин Google Analytics от Yoast активен, ваши страницы AMP также будут отслеживаться."
+
+#: classes/views/admin-page.php:95
+msgid "Used when a post doesn't have an image associated with it."
+msgstr "Используется, когда запись не имеет связанного с ней изображения."
+
+#: classes/views/admin-page.php:76
+msgid "Currently pages are not supported by the AMP plugin."
+msgstr "В настоящее время страницы не поддерживаются плагином AMP."
+
+#: classes/views/admin-page.php:30
+msgid "Post is enabled by default, feel free to enable any of them."
+msgstr "Записи включены по умолчанию, не стесняйтесь включить любой из них."
+
+#: classes/views/admin-page.php:105
+msgid "Post meta info color"
+msgstr "Цвет мета-информации записи"
+
+#: classes/views/admin-page.php:89
+msgid "Must be at least 32px &times; 32px"
+msgstr "Должно быть не менее 32px &times; 32px"
+
+#: classes/views/admin-page.php:29
+msgid "Generally you'd want this to be your news post types."
+msgstr "Как правило, вы хотите, чтобы это были ваши новостные записи."
+
+#: classes/views/admin-page.php:112
+msgid "Hover color"
+msgstr "Цвет ссылки при наведении"

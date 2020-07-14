@@ -1,0 +1,484 @@
+# Translation of Plugins - XML Sitemap &amp; Google News - Stable (latest release) in Japanese
+# This file is distributed under the same license as the Plugins - XML Sitemap &amp; Google News - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-10-16 07:16:42+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Plugins - XML Sitemap &amp; Google News - Stable (latest release)\n"
+
+#. Description of the plugin/theme
+msgid "Feed the  hungry spiders in compliance with the XML Sitemap and Google News protocols. Happy with the results? Please leave me a <strong><a href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=ravanhagen%40gmail%2ecom&item_name=XML%20Sitemap%20Feed\">tip</a></strong> for continued development and support. Thanks :)"
+msgstr "XML Sitemap and Google News プロトコルに準拠している腹ぺこの蜘蛛に食事を。結果にご満足いただけたなら、開発とサポートを続けるためにぜひ<strong><a href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=ravanhagen%40gmail%2ecom&item_name=XML%20Sitemap%20Feed\">ご寄付を</a></strong>お願いします。ありがとう :)"
+
+#: includes/class-xmlsitemapfeed-admin.php:645
+msgid "The FactCheck label may be applied if you publish stories with fact-checking content that's indicated by schema.org ClaimReview markup."
+msgstr "ファクト チェック ラベルは、scheme.org の ClaimView マークアップで示されるファクト チェック コンテンツを含む記事を公開するときに付けることができます。"
+
+#: includes/class-xmlsitemapfeed-admin.php:645
+msgid "Use Ctrl plus click to select more than one or to deselect."
+msgstr "複数選択または選択解除するには Ctrl/Cmd キーを押しながらクリックしてください。"
+
+#: includes/class-xmlsitemapfeed-admin.php:635
+msgid "FactCheck"
+msgstr "ファクト チェック"
+
+#: includes/class-xmlsitemapfeed-admin.php:634
+msgid "UserGenerated"
+msgstr "ユーザー作成コンテンツ"
+
+#: includes/class-xmlsitemapfeed-admin.php:633
+msgid "Opinion"
+msgstr "意見コンテンツ"
+
+#: includes/class-xmlsitemapfeed-admin.php:632
+msgid "OpEd"
+msgstr "論説"
+
+#: includes/class-xmlsitemapfeed-admin.php:631
+msgid "Blog"
+msgstr "ブログ"
+
+#: includes/class-xmlsitemapfeed-admin.php:630
+msgid "Satire"
+msgstr "風刺"
+
+#: includes/class-xmlsitemapfeed-admin.php:629
+msgid "PressRelease"
+msgstr "プレスリリース"
+
+#: includes/class-xmlsitemapfeed-admin.php:598
+msgid "Source labels provide more information about the content of your articles."
+msgstr "ニュース提供元ラベルは記事の内容についてもっと情報を提供します。"
+
+#: includes/class-xmlsitemapfeed-admin.php:310
+msgid "Update Lastmod on comments."
+msgstr "コメント時に Lastmod を更新。"
+
+#: includes/functions.php:18 includes/functions.php:37
+msgid "Conditional sitemap tags do not work before the sitemap request filter is run. Before then, they always return false."
+msgstr "サイトマップの条件分岐タグはサイトマップ要求フィルターの実行前には動作しません。その場合 false を返します。"
+
+#: includes/class-xmlsitemapfeed-admin.php:215
+msgid "Check this option and Save Changes to start fresh with the default settings."
+msgstr "チェックを入れて変更を保存するとデフォルトの設定で新しく始められます。"
+
+#: includes/class-xmlsitemapfeed-admin.php:305
+msgid "Automatic Priority calculation."
+msgstr "優先度を自動計算する。"
+
+#: includes/class-xmlsitemapfeed-admin.php:305
+msgid "Adjusts the Priority based on factors like age, comments, sticky post or blog page. Individual posts with fixed Priority will always keep that value."
+msgstr "経過期間、コメント数、先頭固定表示などを材料として優先度を調整します。優先度を指定した個別投稿はその値を保持します。"
+
+#: includes/class-xmlsitemapfeed-admin.php:212
+msgid "Clear all XML Sitemap & Google News Sitemap settings."
+msgstr "XML Sitemap & Google News Sitemap の設定をすべて消去します。"
+
+#: includes/class-xmlsitemapfeed-admin.php:211
+msgid "Selecting this will clear all XML Sitemap & Google News Sitemap settings after Save Changes. Are you sure?"
+msgstr "これを選ぶと、変更を保存した後に XML Sitemap & Google News Sitemap の設定がすべて消去されます。よろしいですか?"
+
+#: includes/class-xmlsitemapfeed-admin.php:922
+msgid "Google News"
+msgstr "Google ニュース"
+
+#: includes/class-xmlsitemapfeed-admin.php:609
+msgid "You can assign a different access level when writing a post."
+msgstr "投稿を書くときに違うアクセスレベルを割り当てることができます。"
+
+#: includes/class-xmlsitemapfeed-admin.php:615
+#: includes/class-xmlsitemapfeed-admin.php:620
+msgid "Free registration"
+msgstr "無料 (登録)"
+
+#: includes/class-xmlsitemapfeed-admin.php:616
+#: includes/class-xmlsitemapfeed-admin.php:621
+msgid "Paid subscription"
+msgstr "有料 (購読)"
+
+#: includes/class-xmlsitemapfeed-admin.php:946
+msgid "Access"
+msgstr "アクセス"
+
+#: includes/class-xmlsitemapfeed-admin.php:955
+msgid "Exclude from Google News Sitemap."
+msgstr "Google ニュースサイトマップに含めない。"
+
+#: includes/class-xmlsitemapfeed-admin.php:72
+msgid "Google"
+msgstr "Google"
+
+#: includes/class-xmlsitemapfeed-admin.php:279
+msgid "Month"
+msgstr "月"
+
+#: includes/class-xmlsitemapfeed-admin.php:870
+#: includes/class-xmlsitemapfeed-admin.php:1085
+msgid "XML Sitemap"
+msgstr "XML サイトマップ"
+
+#: includes/class-xmlsitemapfeed-admin.php:22
+msgid "XML Sitemaps"
+msgstr "XML サイトマップ"
+
+#: includes/class-xmlsitemapfeed-admin.php:278
+msgid "Year"
+msgstr "年"
+
+#: includes/class-xmlsitemapfeed-admin.php:78
+msgid "Yandex"
+msgstr "Yandex"
+
+#: includes/class-xmlsitemapfeed-admin.php:84
+msgid "Ping-O-Matic"
+msgstr "Ping-O-Matic"
+
+#: includes/class-xmlsitemapfeed-admin.php:81
+msgid "Baidu"
+msgstr "Baidu"
+
+#: includes/class-xmlsitemapfeed-admin.php:201
+#: includes/class-xmlsitemapfeed-admin.php:392
+#: includes/class-xmlsitemapfeed-admin.php:1059
+msgid "Additional robots.txt rules"
+msgstr "robots.txt の追加ルール"
+
+#: includes/class-xmlsitemapfeed-admin.php:203
+msgid "These rules will not have effect when you are using a static robots.txt file."
+msgstr "静的な robots.txt ファイルを使っている場合、このルールは効果がありません。"
+
+#: includes/class-xmlsitemapfeed-admin.php:203
+msgid "Only add rules here when you know what you are doing, otherwise you might break search engine access to your site."
+msgstr "内容を理解しないでルールを追加すると、検索エンジンがサイトをアクセスする妨げとなる場合があります。"
+
+#: includes/class-xmlsitemapfeed-admin.php:209
+#: includes/class-xmlsitemapfeed-admin.php:1066
+msgid "Reset XML sitemaps"
+msgstr "XML サイトマップをリセット"
+
+#: includes/class-xmlsitemapfeed-admin.php:226
+msgid "These settings control the XML Sitemaps generated by the %s plugin."
+msgstr "以下の設定は %s プラグインが生成する XML サイトマップを制御します。"
+
+#: includes/class-xmlsitemapfeed-admin.php:227
+#: includes/class-xmlsitemapfeed-admin.php:467
+msgid "For ping options, go to %s."
+msgstr "ping オプションは %s で設定してください。"
+
+#: includes/class-xmlsitemapfeed-admin.php:300
+msgid "Priority can be overridden on individual posts."
+msgstr "投稿ごとに優先度を変更できます。"
+
+#: includes/class-xmlsitemapfeed-admin.php:310
+msgid "Set this if discussion on your site warrants reindexation upon each new comment."
+msgstr "新しくコメントがついたときに再インデックスを行わせたければセットしてください。"
+
+#: includes/class-xmlsitemapfeed-admin.php:334
+msgid "Priority values are taken as relative values. Setting all to the same (high) value is pointless."
+msgstr "優先度は相対的な値です。ぜんぶ同じ (高い) 値にするのは無意味です。"
+
+#: includes/class-xmlsitemapfeed-admin.php:390
+msgid "It is generally not recommended to include taxonomy pages, unless their content brings added value."
+msgstr "何か価値のある内容でなければ、タクソノミーのページを含めることはふつう推奨されません。"
+
+#: includes/class-xmlsitemapfeed-admin.php:392
+msgid "You can do this by adding specific robots.txt rules in the %s field above."
+msgstr "そうするには特定の robots.txt ルールを上にある %s フィールドへ追加します。"
+
+#: includes/class-xmlsitemapfeed-admin.php:464
+msgid "These settings control the Google News Sitemap generated by the %s plugin."
+msgstr "以下の設定は %s プラグインが生成する Google ニュース サイトマップを制御します。"
+
+#: includes/class-xmlsitemapfeed-admin.php:75
+msgid "Bing & Yahoo"
+msgstr "Bing & Yahoo"
+
+#: includes/class-xmlsitemapfeed-admin.php:478
+msgid "By default, the general %s setting will be used."
+msgstr "デフォルトでは一般設定の %s が使われます。"
+
+#: includes/class-xmlsitemapfeed-admin.php:415
+#: includes/class-xmlsitemapfeed-admin.php:1100
+msgid "Include custom XML Sitemaps"
+msgstr "カスタム XML サイトマップを含める"
+
+#: includes/class-xmlsitemapfeed-admin.php:384
+msgid "XML Sitemaps for taxonomies"
+msgstr "タクソノミーの XML サイトマップ"
+
+#: includes/class-xmlsitemapfeed-admin.php:450
+msgid "By default, only the domain %s as used in your WordPress site address is allowed. This means that all URLs that use another domain (custom URLs or using a plugin like Page Links To) are filtered from the XML Sitemap. However, if you are the verified owner of other domains in your Google/Bing Webmaster Tools account, you can include these in the same sitemap. Add these domains, without protocol (http/https) each on a new line. Note that if you enter a domain with www, all URLs without it or with other subdomains will be filtered."
+msgstr "デフォルトでは、WordPress のサイトアドレスであるドメイン %s だけが許可されます。つまり他のドメイン (カスタム URL や Page Links To プラグインによるものなど) は XML サイトマップから除外されます。しかし、Google/Bing ウェブマスターツールのアカウントで認証済みの他のサイトの所有者なら、同じサイトマップへそのサイトを含めることができます。プロトコル (http/https) を含めずにドメインを一行にひとつ指定してください。注意: もし www をつけてドメインを指定すると、www なしの URL や他のサブドメインはすべて除外されます。"
+
+#: includes/class-xmlsitemapfeed-admin.php:391
+msgid "For example, when you use category descriptions with information that is not present elsewhere on your site or if taxonomy pages list posts with an excerpt that is different from, but complementary to the post content. In these cases you might consider including certain taxonomies. Otherwise, if you fear <a href=\"http://moz.com/learn/seo/duplicate-content\">negative affects of duplicate content</a> or PageRank spread, you might even consider disallowing indexation of taxonomies."
+msgstr "例えば、サイトのどこにも出てこない情報をカテゴリーの説明に使ったり、投稿内容とは違うけれど補足となる抜粋を持つ投稿をタクソノミーのページで一覧表示したりする場合です。このような場合はタクソノミーを含めてもよいでしょう。しかし<a href=\"http://moz.com/learn/seo/duplicate-content\">内容重複による悪影響</a>や PageRank spread が心配なら、タクソノミーのインデックス化を許さないのがよいでしょう。"
+
+#: includes/class-xmlsitemapfeed-admin.php:239
+msgid "XML Sitemaps for post types"
+msgstr "投稿タイプの XML サイトマップ"
+
+#: includes/class-xmlsitemapfeed-admin.php:435
+#: includes/class-xmlsitemapfeed-admin.php:1097
+msgid "Include custom URLs"
+msgstr "カスタム URL を含める"
+
+#: includes/class-xmlsitemapfeed-admin.php:448
+#: includes/class-xmlsitemapfeed-admin.php:1094
+msgid "Allowed domains"
+msgstr "許可するドメイン"
+
+#: includes/class-xmlsitemapfeed-admin.php:477
+#: includes/class-xmlsitemapfeed-admin.php:1074
+msgid "Publication name"
+msgstr "パブリケーション名"
+
+#: includes/class-xmlsitemapfeed-admin.php:498
+#: includes/class-xmlsitemapfeed-admin.php:1075
+#: includes/class-xmlsitemapfeed-admin.php:1088
+msgid "Include post types"
+msgstr "投稿タイプを含める"
+
+#: includes/class-xmlsitemapfeed-admin.php:524
+msgid "At least one post type must be selected. By default, the post type %s will be used."
+msgstr "投稿タイプをひとつ以上選んでください。デフォルトでは投稿タイプ %s が使われます。"
+
+#: includes/class-xmlsitemapfeed-admin.php:535
+msgid "Selection based on categories will be available when <strong>only</strong> the post type %s is included above."
+msgstr "カテゴリーによる選択は、上の設定に投稿タイプ %s が含まれているとき<strong>だけ</strong>使えます。"
+
+#: includes/class-xmlsitemapfeed-admin.php:569
+msgid "Use the Ctrl/Cmd key plus click to select more than one or to deselect."
+msgstr "複数選択または選択解除するには Ctrl/Cmd キーを押しながらクリックしてください。"
+
+#: includes/class-xmlsitemapfeed-admin.php:597
+#: includes/class-xmlsitemapfeed-admin.php:1078
+msgid "Source labels"
+msgstr "ニュース提供元ラベル"
+
+#: includes/class-xmlsitemapfeed-admin.php:608
+#: includes/class-xmlsitemapfeed-admin.php:950
+msgid "Registration"
+msgstr "登録"
+
+#: includes/class-xmlsitemapfeed-admin.php:608
+#: includes/class-xmlsitemapfeed-admin.php:951
+msgid "Subscription"
+msgstr "購読"
+
+#: includes/class-xmlsitemapfeed-admin.php:608
+msgid "The %4$s tag specifies whether an article is available to all readers (%1$s), or only to those with a free (%2$s) or paid membership (%3$s) to your site."
+msgstr "%4$s タグは、すべての読者が表示できる記事 (%1$s) か、サイトの無料 (%2$s) または有料 (%3$s) 会員のみが表示できる記事かを指定します。"
+
+#: includes/class-xmlsitemapfeed-admin.php:642
+msgid "You can assign different genres when writing a post."
+msgstr "投稿を書くときに種類を指定できます。"
+
+#: includes/class-xmlsitemapfeed-admin.php:647
+msgid "Default genre:"
+msgstr "デフォルトの種類:"
+
+#: includes/class-xmlsitemapfeed-admin.php:645
+msgid "Read more about source labels on %s"
+msgstr "ニュース提供元ラベルについて詳しくは %s を読んでください。"
+
+#: includes/class-xmlsitemapfeed-admin.php:645
+msgid "What does each source label mean?"
+msgstr "各ニュース提供元ラベルについて"
+
+#: includes/class-xmlsitemapfeed-admin.php:661
+msgid "The %s tag is used to help classify the articles you submit to Google News by <strong>topic</strong>."
+msgstr "%s タグは Google ニュースへ送信する記事を<strong>トピック</strong>で分類するために使用します。"
+
+#: includes/class-xmlsitemapfeed-admin.php:663
+msgid "Use %s for topics."
+msgstr "トピックに %s を使う。"
+
+#: includes/class-xmlsitemapfeed-admin.php:672
+msgid "Separate with a comma."
+msgstr "コンマで区切ってください。"
+
+#: includes/class-xmlsitemapfeed-admin.php:908
+msgid "Exclude from XML Sitemap"
+msgstr "XML サイトマップに含めない"
+
+#: includes/class-xmlsitemapfeed-admin.php:904
+msgid "Leave empty for automatic Priority as configured on %1$s > %2$s."
+msgstr "空にすると %1$s > %2$s で指定した優先度が自動的に使われます。"
+
+#: includes/class-xmlsitemapfeed-admin.php:1091
+msgid "Include taxonomies"
+msgstr "タクソノミーを含める"
+
+#: includes/class-xmlsitemapfeed.php:1830
+msgid "Google News Genres"
+msgstr "Google ニュースの種類"
+
+#: includes/class-xmlsitemapfeed.php:1831
+msgid "Google News Genre"
+msgstr "Google ニュースの種類"
+
+#. Plugin URI of the plugin/theme
+msgid "http://status301.net/wordpress-plugins/xml-sitemap-feed/"
+msgstr "http://status301.net/wordpress-plugins/xml-sitemap-feed/"
+
+#. Plugin Name of the plugin/theme
+msgid "XML Sitemap & Google News feeds"
+msgstr "XML Sitemap & Google News feeds"
+
+#. Author URI of the plugin/theme
+msgid "http://status301.net/"
+msgstr "http://status301.net/"
+
+#. Author of the plugin/theme
+msgid "RavanH"
+msgstr "RavanH"
+
+#: includes/class-xmlsitemapfeed-admin.php:642
+msgid "The %s tag specifies one or more properties for an article, namely, whether it is a press release, a blog post, an opinion, an op-ed piece, user-generated content, or satire."
+msgstr "%s タグは記事の種類をプレスリリース (PressRelease)、ブログ投稿 (Blog)、意見 (Opinion)、論説 (OpEd)、ユーザー作成コンテンツ (UserGenerated)、風刺 (Satire) からひとつ以上指定します。"
+
+#: includes/class-xmlsitemapfeed-admin.php:23
+msgid "XML Sitemap Index"
+msgstr "XML サイトマップインデックス"
+
+#: includes/class-xmlsitemapfeed-admin.php:28
+#: includes/class-xmlsitemapfeed-admin.php:1071
+msgid "Google News Sitemap"
+msgstr "Google ニュースサイトマップ"
+
+#: includes/class-xmlsitemapfeed-admin.php:323
+#: includes/class-xmlsitemapfeed-admin.php:588
+msgid "Attached images"
+msgstr "添付画像"
+
+#: includes/class-xmlsitemapfeed-admin.php:1053
+msgid "Enable XML sitemaps"
+msgstr "XML サイトマップを有効化"
+
+#: includes/class-xmlsitemapfeed-admin.php:224
+#: includes/class-xmlsitemapfeed-admin.php:225
+#: includes/class-xmlsitemapfeed-admin.php:226
+#: includes/class-xmlsitemapfeed-admin.php:462
+#: includes/class-xmlsitemapfeed-admin.php:463
+#: includes/class-xmlsitemapfeed-admin.php:464
+msgid "XML Sitemap & Google News Feeds"
+msgstr "XML サイトマップ & Google ニュースフィード"
+
+#: includes/class-xmlsitemapfeed-admin.php:293
+msgid "Split by year if you experience errors or slow sitemaps. In very rare cases, split by month is needed."
+msgstr "サイトマップ生成が失敗したり遅かったりしたら年で分けてください。ごくまれに月で分ける必要があるかもしれません。"
+
+#: includes/class-xmlsitemapfeed-admin.php:333
+msgid "Priority settings do not affect ranking in search results in any way. They are only meant to suggest search engines which URLs to index first. Once a URL has been indexed, its Priority becomes meaningless until its Lastmod is updated."
+msgstr "優先度の設定は検索結果におけるランキングへまったく影響しません。検索エンジンにどの URL を最初にインデックスして欲しいかを伝えるだけです。いったん URL がインデックスされると、優先度は Lastmod が更新されるまでは無視されます。"
+
+#: includes/class-xmlsitemapfeed-admin.php:334
+msgid "Maximum Priority (1.0) is reserved for the front page, individual posts and, when allowed, posts with high comment count."
+msgstr "最大の優先度 (1.0) は、フロントページ、個別投稿、コメント (許可されている場合) の多い投稿に予約されています。"
+
+#: includes/class-xmlsitemapfeed-admin.php:407
+msgid "No taxonomies available for the currently included post types."
+msgstr "いま含めてある投稿タイプにはタクソノミーがありません。"
+
+#: includes/class-xmlsitemapfeed-admin.php:418
+msgid "Add the full URL, including protocol (http/https) and domain, of any XML Sitemap that you want to append to the Sitemap Index. Start each URL on a new line."
+msgstr "サイトマップインデックスへ追加したい XML サイトマップの、プロトコル (http/https) とドメインを含む完全な URL を指定してください。"
+
+#: includes/class-xmlsitemapfeed-admin.php:438
+msgid "Add the full URL, including protocol (http/https) and domain, of any (static) page that you want to append to the ones already included by WordPress. Optionally add a priority value between 0 and 1, separated with a space after the URL. Start each URL on a new line."
+msgstr "WordPress が含めたページへさらに追加したい任意の (固定) ページの、プロトコル (http/https) とドメインを含む完全な URL を指定してください。0から1の優先度を URL の後ろへ空白で区切って指定することもできます。URL は一行にひとつにしてください。"
+
+#: includes/class-xmlsitemapfeed-admin.php:466
+msgid "It is strongly recommended to submit your news sitemap to your Google Webmasters Tools account to monitor for warnings or errors. Read more on how to <a href=\"https://support.google.com/webmasters/answer/183669\" target=\"_blank\">Manage sitemaps with the Sitemaps page</a>."
+msgstr "警告やエラーを監視するためにニュースサイトマップを Google ウェブマスターツールのアカウントへ送信することを強く推奨します。詳しくは<a href=\"https://support.google.com/webmasters/answer/183669\" target=\"_blank\">サイトマップレポートでサイトマップを管理する</a>方法を読んでください。"
+
+#: includes/class-xmlsitemapfeed-admin.php:479
+msgid "The publication name should match the name submitted on the Google News Publisher Center. If you wish to change it, please read <a href=\"https://support.google.com/news/publisher/answer/40402\" target=\"_blank\">Updated publication name</a>."
+msgstr "パブリケーション名は Google ニュースパブリッシャーセンターへ送信する名前と一致しなければなりません。変更したければ <a href=\"https://support.google.com/news/publisher/answer/40402\" target=\"_blank\">パブリケーション名の更新</a> をお読みください。"
+
+#: includes/class-xmlsitemapfeed-admin.php:495
+msgid "Error: There where no valid post types found. Without at least one public post type, a Google News Sitemap cannot be created by this plugin. Please deselect the option Google News Sitemap at <a href=\"#xmlsf_sitemaps\">Enable XML sitemaps</a> and choose another method."
+msgstr "エラー: 有効な投稿タイプがありません。公開された投稿タイプがなければ、このプラグインは Google ニュースサイトマップを生成できません。<a href=\"#xmlsf_sitemaps\">有効にするサイトマップ</a>の Google ニュースサイトマップのチェックを外し、 他の方法を選んでください。"
+
+#: includes/class-xmlsitemapfeed-admin.php:569
+msgid "If you wish to limit posts that will feature in your News Sitemap to certain categories, select them here. If no categories are selected, posts of all categories will be included in your News Sitemap."
+msgstr "ニュースサイトマップに入れる投稿を特定のカテゴリーに限るには、ここで選んでください。どのカテゴリーも選ばなければ、すべてのカテゴリーの投稿がニュースサイトマップへ含まれます。"
+
+#: includes/class-xmlsitemapfeed-admin.php:676
+msgid "Keywords may be drawn from, but are not limited to, the list of <a href=\"https://support.google.com/news/publisher/answer/116037\" target=\"_blank\">existing Google News keywords</a>."
+msgstr "キーワードは<a href=\"https://support.google.com/news/publisher/answer/116037\" target=\"_blank\">既存の Google ニュースキーワード</a>のリストから選べますが、それに限定されてはいません。"
+
+#: includes/class-xmlsitemapfeed-admin.php:591
+msgid "Note: Google News prefers at most one image per article in the News Sitemap. If multiple valid images are specified, the crawler will have to pick one arbitrarily. Images in News Sitemaps should be in jpeg or png format."
+msgstr "参考: Google ニュースはニュースサイトマップ内の記事ごとに画像を最大ひとつとします。複数の有効な画像が指定されている場合、クローラーはひとつを任意で選びます。ニュースサイトマップ内の画像は jpeg または png 形式でなければなりません。"
+
+#: includes/class-xmlsitemapfeed-admin.php:224
+#: includes/class-xmlsitemapfeed-admin.php:225
+#: includes/class-xmlsitemapfeed-admin.php:462
+#: includes/class-xmlsitemapfeed-admin.php:463
+msgid "Donate to keep the free %s plugin development & support going!"
+msgstr "無料 %s プラグインの開発とサポートを続けられるように寄付をお願いします !"
+
+#: includes/class-xmlsitemapfeed-admin.php:140
+msgid "Successfully sent %1$s on %2$s."
+msgstr "&ndash; %2$s に %1$s の送信成功。"
+
+#: includes/class-xmlsitemapfeed-admin.php:202
+msgid "Rules that will be appended to the %s generated by WordPress:"
+msgstr "WordPress が生成する %s へ追加するルール:"
+
+#: includes/class-xmlsitemapfeed-admin.php:283
+msgid "Split by"
+msgstr "分割:"
+
+#: includes/class-xmlsitemapfeed-admin.php:298
+#: includes/class-xmlsitemapfeed-admin.php:902
+msgid "Priority"
+msgstr "優先度:"
+
+#: includes/class-xmlsitemapfeed-admin.php:315
+#: includes/class-xmlsitemapfeed-admin.php:581
+msgid "Add image tags for"
+msgstr "image タグを付加:"
+
+#: includes/class-xmlsitemapfeed-admin.php:416
+msgid "Additional XML Sitemaps to append to the main XML Sitemap Index:"
+msgstr "メインの XML サイトマップインデックスへ追加する XML サイトマップ:"
+
+#: includes/class-xmlsitemapfeed-admin.php:418
+msgid "Only valid sitemaps are allowed in the Sitemap Index. Use your Google/Bing Webmaster Tools to verify!"
+msgstr "適正なサイトマップだけがサイトマップインデックスとして認められます。Google/Bing ウェブマスターツールを使って検証しましょう !"
+
+#: includes/class-xmlsitemapfeed-admin.php:465
+msgid "When you are done configuring and preparing your news content and you are convinced your site adheres to the <a href=\"https://support.google.com/news/publisher/answer/40787\" target=\"_blank\">Google News guidelines</a>, go ahead and <a href=\"https://partnerdash.google.com/partnerdash/d/news\" target=\"_blank\">submit your site for inclusion</a>!"
+msgstr "設定とニュース内容の準備が済み、サイトが<a href=\"https://support.google.com/news/publisher/answer/40787\" target=\"_blank\">Google ニュースガイドライン</a>に合うと確信できたら、<a href=\"https://partnerdash.google.com/partnerdash/d/news\" target=\"_blank\">サイトを送信しましょう</a> !"
+
+#: includes/class-xmlsitemapfeed-admin.php:449
+msgid "Additional domains to allow in the XML Sitemaps:"
+msgstr "XML サイトマップに許可する追加のドメイン:"
+
+#: includes/class-xmlsitemapfeed-admin.php:553
+msgid "Limit to posts in these post categories:"
+msgstr "以下のカテゴリーの投稿に限定:"
+
+#: includes/class-xmlsitemapfeed-admin.php:613
+msgid "Tag normal posts as"
+msgstr "ふつうの投稿につけるタグ:"
+
+#: includes/class-xmlsitemapfeed-admin.php:619
+msgid "Tag Password Protected posts as"
+msgstr "パスワード保護された投稿につけるタグ:"
+
+#: includes/class-xmlsitemapfeed-admin.php:670
+msgid "Default topic(s):"
+msgstr "デフォルトのトピック:"
+
+#: includes/class-xmlsitemapfeed-admin.php:436
+msgid "Additional URLs to append in an extra XML Sitemap:"
+msgstr "拡張 XML サイトマップへ追加する外部の URL:"

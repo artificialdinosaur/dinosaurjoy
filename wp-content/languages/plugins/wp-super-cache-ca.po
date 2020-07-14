@@ -1,0 +1,1952 @@
+# Translation of Plugins - WP Super Cache - Stable (latest release) in Catalan
+# This file is distributed under the same license as the Plugins - WP Super Cache - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-06-04 15:30:51+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha\n"
+"Language: ca\n"
+"Project-Id-Version: Plugins - WP Super Cache - Stable (latest release)\n"
+
+#: wp-cache.php:2881
+msgid "WP-Cached"
+msgstr "WP-Cached"
+
+#: wp-cache.php:2881
+msgid "WP-Super-Cached"
+msgstr "WP-Super-Cached"
+
+#: wp-cache.php:1348
+msgid "Add Surveys and Polls to your site"
+msgstr "Afegiu enquestes al vostre lloc"
+
+#: wp-cache.php:1344
+msgid "Other Site Tools"
+msgstr "Altres eines del lloc"
+
+#: wp-cache.php:1225
+msgid "These settings can be modified on the Advanced Settings page."
+msgstr "Aquests paràmetres es poden modificar a la pàgina de configuració avançada."
+
+#: wp-cache.php:1223
+msgid "Interval garbage collection every 10 minutes with a cache lifetime of 30 minutes (if not configured already)."
+msgstr "L'interval de recollida de dades inservibles cada 10 minuts, amb una vida útil de la memòria cau de 30 minuts (si encara no s'ha configurat)."
+
+#: wp-cache.php:1222
+msgid "Cache Rebuild."
+msgstr "Reconstrucció de memòria cau."
+
+#: wp-cache.php:1221
+msgid "Simple caching."
+msgstr "Emmagatzematge en memòria cau simple."
+
+#: wp-cache.php:1220
+msgid "Caching disabled for logged in visitors."
+msgstr "Memòria cau s'ha desactivat per als visitants connectats."
+
+#: wp-cache.php:1218
+msgid "The following recommended settings will be enabled:"
+msgstr "S’habilitaran els següents paràmetres recomanats:"
+
+#: wp-cache.php:1107
+msgid "304 Browser caching. Improves site performance by checking if the page has changed since the browser last requested it."
+msgstr "Emmagatzematge de memòria cau en navegador de 304. Millora el rendiment del lloc comprovant si la pàgina ha canviat des que el navegador la va sol·licitar per última vegada."
+
+#: wp-cache.php:1103
+msgid "Warning! The following settings are disabled because Expert caching is enabled."
+msgstr "Avís! La configuració següent està desactivada perquè la memòria cau experta està habilitada."
+
+#: wp-cache.php:2610
+msgid "The file %s already exists. Please manually delete it before using this plugin. If you continue to see this message after deleting it please contact your hosting support."
+msgstr "El fitxer %s ja existeix. Elimineu-lo manualment abans d’utilitzar aquesta extensió. Si continueu veient aquest missatge després de suprimir-lo, poseu-vos en contacte amb el servei de suport de l'allotjament."
+
+#: wp-cache-phase2.php:1294
+msgid "Caching disabled. Page not cached."
+msgstr "S'ha desactivat la memòria cau. La pàgina no està emmagatzemada en memòria cau."
+
+#: wp-cache.php:1090
+msgid "Disable caching for logged in visitors."
+msgstr "Desactiva la memòria cau dels visitants connectats."
+
+#: wp-cache.php:1089
+msgid "Disable caching for visitors who have a cookie set in their browser."
+msgstr "Desactiva la memòria cau dels visitants que tenen galetes configurades al navegador."
+
+#: wp-cache.php:1088
+msgid "Enable caching for all visitors."
+msgstr "Habilita la memòria cau de tots els visitants."
+
+#: wp-cache.php:1087
+msgid "Cache Restrictions"
+msgstr "Restriccions de memòria cau"
+
+#: ossdl-cdn.php:316
+msgid "Simple CDN"
+msgstr "CDN Simple"
+
+#: ossdl-cdn.php:306
+msgid "%1$sJetpack%2$s was not found on your site but %3$syou can install it%2$s. The Site Accelerator feature is free to use on any WordPress site and offers the same benefit as other CDN services. You should give it a try!"
+msgstr "El %1$sJetpack%2$s no s'ha trobat al lloc, però %3$sel podeu instal·lar%2$s. La funció Accelerator és gratuïta per utilitzar en qualsevol lloc del WordPress i ofereix el mateix avantatge que altres serveis CDN. Hauríeu de provar-ho!"
+
+#: ossdl-cdn.php:298
+msgid "You already have Jetpack installed but %1$sSite Accelerator%2$s is disabled on this blog. Enable it on the %3$sJetpack settings page%2$s."
+msgstr "Ja teniu el Jetpack instal·lat, però %1$sSite Accelerator%2$s està desactivat en aquest blog. Habiliteu-lo a la %3$spàgina de configuració del Jetpack%2$s."
+
+#: ossdl-cdn.php:292
+msgid "You already have Jetpack installed and %1$sSite Accelerator%2$s enabled on this blog. The CDN here is disabled to avoid conflicts with Jetpack."
+msgstr "Ja teniu el Jetpack instal·lat i el %1$sSite Accelerator%2$s activat en aquest bloc. El CDN està desactivat per evitar conflictes amb el Jetpack."
+
+#: ossdl-cdn.php:283
+msgid "The free %1$sJetpack plugin%2$s has a %3$sSite Accelerator%2$s feature that is easier to use than the CDN functionality in this plugin. However files will be cached \"forever\" and will not update if you update the local file. Files will need to be renamed to refresh them. The %3$sJetpack documentation%2$s explains more about this."
+msgstr "L'%1$sextensió Jetpack%2$s gratuïta té una funcionalitat d'%3$saccelerador del lloc%2$s que és més fàcil d'utilitzar que la funcionalitat de CDN d'aquesta extensió. No obstant, els fitxers s'emmagatzemaran «per sempre» i no s'actualitzaran si actualitzeu el fitxer local. Haureu de canviar el nom dels fitxers per recarregar-los. La %3$sdocumentació del Jetpack%2$s explica més sobre aquesta característica."
+
+#: ossdl-cdn.php:281
+msgid "Jetpack CDN"
+msgstr "CDN del Jetpack"
+
+#: wp-cache.php:3861
+msgid "Delete Super Cache cached files"
+msgstr "Suprimeix els fitxers en memòria cau de Super Cache"
+
+#: wp-cache.php:278
+msgid "The WordPress CRON jobs system is disabled. This means the garbage collection system will not work unless you run the CRON system manually."
+msgstr "El sistema CRON de WordPress està deshabilitat. Això significa que el sistema de recol·lecció d'escombraries no funcionarà tret que executeu el sistema CRON manualment."
+
+#: wp-cache.php:277
+msgid "CRON System Disabled"
+msgstr "Sistema CRON deshabilitat"
+
+#: wp-cache.php:3791
+msgid "WP Super Cache: could not delete files"
+msgstr "WP Super Cache: no s'ha pogut esborrar els arxius"
+
+#: wp-cache.php:3788
+msgid ""
+"You should delete these files manually.\n"
+"You may need to change the permissions of the files or parent directory.\n"
+"You can read more about this in the Codex at\n"
+"%s\n"
+"\n"
+"Thank you."
+msgstr ""
+"Heu d'eliminar aquests fitxers manualment. \n"
+" És possible que hàgiu de canviar els permisos dels fitxers  o del directori principal. \n"
+"Podeu llegir més sobre això en el Codex a \n"
+"%s\n"
+" \n"
+"Gràcies."
+
+#: wp-cache.php:3783
+msgid ""
+"Dear User,\n"
+"\n"
+"WP Super Cache was removed from your blog or deactivated but some files could\n"
+"not be deleted.\n"
+"\n"
+msgstr ""
+"Estimat usuari,\n"
+"\n"
+"Super GT cache s'ha eliminat o deshabilitat del blog, però alguns fitxers no s'han pogut elminar.\n"
+
+#: wp-cache.php:2399
+msgid "Error: Configuration file %s is missing. Please reload the page."
+msgstr "Error: Falta el fitxer de configuració %s. Actualitzeu la pàgina."
+
+#: wp-cache.php:2396
+msgid "Error: Configuration file %s could not be loaded. Please reload the page."
+msgstr "Error: No es pot carregar el fitxer de configuració %s. Actualitzeu la pàgina."
+
+#: wp-cache.php:2393
+msgid "Error: The directory containing the configuration file %s is read only. Please make sure it is writeable by the webserver."
+msgstr "Error: El directori que conté el fitxer de configuració %s només té permisos de lectura. Permeteu permisos d'escriptura al servidor web."
+
+#: wp-cache.php:2390
+msgid "Error: Configuration file is read only. Please make sure %s is writeable by the webserver."
+msgstr "Error: El fitxer de configuració és de només lectura. Assegureu-vos que el servidor web pot escriure al fitxer %s."
+
+#: wp-cache.php:2387
+msgid "Error: Could not rename temporary file to configuration file. Please make sure %s is writeable by the webserver."
+msgstr "Error: No es pot reanomenar el fitxer temporal al fitxer de configuració. Assegureu-vos que %s es pot escriure pel servidor web."
+
+#: wp-cache.php:1330
+msgid "<a href=\"%s\">Yahoo! Yslow</a> analyzes web pages and suggests ways to improve their performance based on a set of rules for high performance web pages. Also try the performance tools online at <a href=\"%s\">GTMetrix</a>."
+msgstr "<a href=\"%s\">Yahoo! Yslow</a> analitza pàgines web i suggereix maneres de millorar la seva actuació basada en un conjunt de regles per a millorar el rendiment de pàgines web. També podeu provar eines en línia semblants a <a href=\"%s\">GTMetrix</a>."
+
+#: wp-cache.php:1025 wp-cache.php:1970 wp-cache.php:2178
+msgid "Save Settings"
+msgstr "Desa els paràmetres"
+
+#: plugins/badbehaviour.php:77
+msgid "disable"
+msgstr "deshabilita"
+
+#: wp-cache.php:3736
+msgid "Warning! WP Super Cache preload was interrupted but has been restarted."
+msgstr "Avís! La precàrrega de WP Super Cache s'ha interromput, però s'ha reprès més tard."
+
+#: wp-cache.php:1077
+msgid "Nginx rules can be found <a href=\"%s\">here</a> but are not officially supported."
+msgstr "Podeu trobar les regles de Nginx <a href=\"%s\">aquí</a> però no té suport oficial."
+
+#: wp-cache.php:323
+msgid "Warning! You must set WP_CACHE and WPCACHEHOME in your wp-config.php for this plugin to work correctly:"
+msgstr "Avís! Heu de posar WP_CACHE i WPCACHEHOME al fitxer wp-config.php perquè l'extensió funcioni correctament:"
+
+#: wp-cache.php:2577
+msgid "Not allowed to edit %s per configuration."
+msgstr "No està permès editar %s a causa de la configuració."
+
+#: wp-cache.php:1394
+msgid "<strong>Warning</strong>! Due to the way WordPress upgrades plugins, the ones you upload to the WP Super Cache folder (wp-super-cache/plugins/) will be deleted when you upgrade WP Super Cache. To avoid this loss, load your cache plugins from a different location. When you set <strong>$wp_cache_plugins_dir</strong> to the new location in wp-config.php, WP Super Cache will look there instead. <br />You can find additional details in the <a href=\"%s\">developer documentation</a>."
+msgstr "<strong>Atenció!</strong> A causa de la manera en què WordPress actualitza les extensions, se suprimiran les que pengeu a la carpeta WP Super Cache (wp-super-cache/plugins/) quan actualitzeu WP Super Cache. Per evitar aquesta pèrdua, carregueu les seues extensions de memòria cau des d’una altra ubicació. Quan establiu <strong>$wp_cache_plugins_dir</strong> a la nova ubicació a wp-config.php, WP Super Cache anirà cap allà a cercar-los. <br />Podeu trobar més detalls a la <a href=\"%s\">documentació del desenvolupador</a>."
+
+#: wp-cache.php:1393
+msgid "Keep in mind that cache plugins are for advanced users only. To create and manage them, you'll need extensive knowledge of both PHP and WordPress actions."
+msgstr "Tingueu en compte que les extensions de memòria cau són només per a usuaris avançats. Per a crear-los i administrar-los, necessitareu un ampli coneixement tant de PHP com de les accions de WordPress."
+
+#: wp-cache.php:1392
+msgid "Cache plugins are PHP scripts you'll find in a dedicated folder inside the WP Super Cache folder (wp-super-cache/plugins/). They load at the same time as WP Super Cache, and before regular WordPress plugins."
+msgstr "Les extensions de memòria cau són petits programes PHP que trobareu en una carpeta dedicada dins de la carpeta WP Super Cache (wp-super-cache/plugins/). Es carreguen al mateix temps que WP Super Cache, i abans de les extensions regulars de WordPress."
+
+#: plugins/wptouch.php:139
+msgid "Provides support for WPTouch mobile theme and plugin."
+msgstr "Proporciona suport per al tema mòbil i extensió WPTouch."
+
+#: plugins/jetpack.php:95
+msgid "Provides support for the Jetpack mobile theme and plugin. PHP caching mode and mobile support will be enabled too."
+msgstr "Proporciona suport per al tema mòbil i l'extensió del Jetpack. També s'habilitaran la memòria cau en PHP i el suport mòbil."
+
+#: plugins/domain-mapping.php:133
+msgid "Provides support for Domain Mapping plugin to map multiple domains to a blog."
+msgstr "Proporciona suport per l'extensió de mapatge de dominis per mapar diversos dominis en un bloc."
+
+#: plugins/badbehaviour.php:99
+msgid "Support for Bad Behavior. (Only WPCache caching supported, disabled compression and requires Bad Behavior in \"%s/plugins/bad-behavior/\") "
+msgstr "Suport per mal comportament. (Només el suport a la memòria cau de WPCache és compatible, s'ha desactivat la compressió i es requereix mal comportament a \"%s/ plugins/bad-behavior/\")"
+
+#: wp-cache.php:903
+msgid "Preload Active"
+msgstr "Precàrrega activada"
+
+#: ossdl-cdn.php:337
+msgid "The URL of your site. No trailing <code>/</code> please."
+msgstr "L'URL del lloc web. Sense <code>/</code>."
+
+#: ossdl-cdn.php:334
+msgid "Site URL"
+msgstr "URL del lloc"
+
+#: wp-cache.php:1237
+msgid "Note: if you use Cloudflare or other transparent front-end proxy service this test may fail.<ol><li> If you have Cloudflare minification enabled this plugin may detect differences in the pages and report an error.</li><li> Try using the development mode of Cloudflare to perform the test. You can disable development mode afterwards if the test succeeds.</li></ol>"
+msgstr "Nota: si feu servir Cloudflare o un altre servei de servidor intermediari transparent de front, aquesta prova pot fallar.<ol><li> Si teniu la minificació de Cloudflare habilitada, aquest connector pot detectar diferències a les pàgines i informar d'un error.</li><li> Proveu d’utilitzar el mode de desenvolupament de Cloudflare per realitzar la prova. Podeu desactivar el mode de desenvolupament després si la prova té èxit.</li></ol>"
+
+#: ossdl-cdn.php:321
+msgid "<strong style=\"color: red\">WARNING:</strong> Your siteurl and homeurl are different. The plugin is using %s as the homepage URL of your site but if that is wrong please use the filter \"ossdl_off_blog_url\" to fix it."
+msgstr "<strong style=\"color: red\">Avís:</strong> L'URL del lloc i de la pàgina d'inici són diferents. L'extensió utilitza %s com a URL de la pàgina d'inici del lloc, però si no és correcte podeu utilitzar el filtre \"ossdl_off_blog_url\" per corregir-ho."
+
+#: wp-cache.php:2918
+msgid "Preload mode is enabled. Supercache files will never be expired."
+msgstr "El mode de precàrrega està habilitat. Els fitxers de Supercache no caducaran mai."
+
+#: wp-cache.php:2888
+msgid "Files"
+msgstr "Fitxers"
+
+#: wp-cache.php:2887
+msgid "%s %s Files"
+msgstr "Fitxers %s %s"
+
+#: wp-cache.php:2797
+msgid "Warning! You are not allowed to delete that file"
+msgstr "Avís! No teniu permès esborrar aquest fitxer"
+
+#: wp-cache.php:2149
+msgid "Disable Logging"
+msgstr "Deshabilita el registre"
+
+#: wp-cache.php:2146
+msgid "Enable Logging"
+msgstr "Habilita el registre"
+
+#: wp-cache.php:2136
+msgid "Username/Password: %s"
+msgstr "Nom d'usuari/contrasenya: %s"
+
+#: wp-cache.php:2134
+msgid "Last Logged to: %s"
+msgstr "Últim registre a: %s"
+
+#: wp-cache.php:1876
+msgid "Checking for and deleting expired files is expensive, but it&#8217;s expensive leaving them there too. On a very busy site, you should set the expiry time to <em>600 seconds</em>. Experiment with different values and visit this page to see how many expired files remain at different times during the day."
+msgstr "Comprovar i esborrar els fitxers caducats és car, però també és car deixar-los allà. En un lloc molt utilitzat, haureu de fixar el temps de caducitat a <em>600 segons</em>. Experimenteu amb diferents valors i visiteu aquesta pàgina per veure quants fitxers caducats romanen en moments diferents durant el dia."
+
+#: wp-cache.php:1499
+msgid "New Rules"
+msgstr "Regles noves"
+
+#: wp-cache.php:1499
+msgid "Current Rules"
+msgstr "Regles actuals"
+
+#: wp-cache.php:1499
+msgid "Rewrite Rules"
+msgstr "Regles de reescriptura"
+
+#: wp-cache.php:1484
+msgid "The plugin could not update %1$s.htaccess file: %2$s.<br /> The new rules go above the regular WordPress rules as shown in the code below:"
+msgstr "L'extensió no ha pogut actualitzar el fitxer %1$s.htaccess: %2$s.<br /> Les noves regles superen les regles normals de WordPress, tal com es mostra al codi següent:"
+
+#: wp-cache.php:1461
+msgid "When Expert cache delivery is enabled a file called <em>.htaccess</em> is modified. It should probably be in the same directory as your wp-config.php. This file has special rules that serve the cached files very quickly to visitors without ever executing PHP. The .htaccess file can be updated automatically, but if that fails, the rules will be displayed here and it can be edited by you. You will not need to update the rules unless a warning shows here."
+msgstr "Quan s’ha habilitat l’entrega de memòria cau experta, es modifica el fitxer <em>.htaccess</em>. Probablement hauria d’estar en el mateix directori que el vostre wp-config.php. Aquest fitxer té regles especials que serveixen els fitxers a la memòria cau molt ràpidament als visitants sense executar mai PHP. El fitxer .htaccess es pot actualitzar automàticament, però si no funciona, aquí es mostraran les regles i podreu editar-les. No necessitareu actualitzar les regles, tret que es mostri un avís aquí."
+
+#: wp-cache.php:1358
+msgid "Please <a href=\"%s\">rate us</a> and give feedback."
+msgstr "<a href=\"%s\">Puntueu-nos</a> i doneu-nos feedback."
+
+#: wp-cache.php:1355
+msgid "Try out the <a href=\"%1$s\">development version</a> for the latest fixes (<a href=\"%2$s\">changelog</a>)."
+msgstr "Proveu la <a href=\"%1$s\">versió de desenvolupament</a> per aconseguir les darreres millores (<a href=\"%2$s\">registre de canvis</a>)."
+
+#: wp-cache.php:1354
+msgid "Visit the <a href=\"%1$s\">plugin homepage</a>."
+msgstr "Visiteu la <a href=\"%1$s\">pàgina de l'extensió</a>."
+
+#: wp-cache.php:1353
+msgid "Check out the <a href=\"%1$s\">support forum</a> and <a href=\"%2$s\">FAQ</a>."
+msgstr "Comproveu el <a href=\"%1$s\">fòrum de suport</a> i <a href=\"%2$s\">les PMF</a>."
+
+#: wp-cache.php:1352
+msgid "Use the <a href=\"%1$s\">Debug tab</a> for diagnostics."
+msgstr "Utilitzeu la <a href=\"%1$s\">pestanya de Deupració</a> per aconseguir diagnòstics."
+
+#: wp-cache.php:1347
+msgid "Fast video hosting (paid)"
+msgstr "Allotjament de vídeo ràpid (de pagament)"
+
+#: wp-cache.php:1346
+msgid "Speed up images and photos (free)"
+msgstr "Accelereu imatges i fotografies (gratuït)"
+
+#: wp-cache.php:1329
+msgid "<a href=\"%s\">Jetpack</a> provides everything you need to build a successful WordPress website including an image/photo CDN (free) and a video hosting service (paid)."
+msgstr "<a href=\"%s\">Jetpack</a> proporciona tot el que necessiteu per crear un lloc web amb èxit a WordPress, incloent un CDN per a imatges (gratuït) i un servei d'allotjament de vídeo (de pagament)."
+
+#: wp-cache.php:1301
+msgid "<strong>Warning!</strong> Cache comments are currently disabled. Please go to the Debug page and enable Cache Status Messages there. You should clear the cache before testing."
+msgstr "<strong>Alerta!</strong> Els comentaris de memòria cau estan actualment desactivats. Aneu a la pàgina de depuració i habiliteu els missatges d’estat de la memòria cau. Heu de netejar la memòria cau abans de provar-la."
+
+#: wp-cache.php:1268
+msgid "<strong>Errors:</strong> %s"
+msgstr "<strong>Errors:</strong> %s"
+
+#: wp-cache.php:1132
+msgid "Late init. Display cached files after WordPress has loaded."
+msgstr "Late init. Mostra els fitxers en memòria cau després de carregar el WordPress."
+
+#: wp-cache.php:1106
+msgid "Cache HTTP headers with page content."
+msgstr "Afegeix les capçaleres HTTP a la memòria cau junt amb el contingut."
+
+#: wp-cache.php:1075
+msgid "Expert caching requires changes to important server files and may require manual intervention if enabled."
+msgstr "L'emmagatzematge expert requereix canvis en fitxers importants del servidor i pot requerir una intervenció manual si està habilitat."
+
+#: wp-cache.php:1074
+msgid "<acronym title=\"Use mod_rewrite to serve cached files\">Expert</acronym>"
+msgstr "<acronym title=\"Utilitzeu mod_rewrite per servir fitxers a la memòria cau\">Expert</acronym>"
+
+#: wp-cache.php:1073
+msgid "<acronym title=\"Use PHP to serve cached files\">Simple</acronym>"
+msgstr "<acronym title=\"Utilitza PHP per servir fitxers en memòria cau\">Simple</acronym>"
+
+#: wp-cache.php:1070
+msgid "Cache Delivery Method"
+msgstr "Mecanisme de lliurament de la memòria cau"
+
+#: wp-cache.php:1065
+msgid "Enable Caching"
+msgstr "Habilita la memòria cau"
+
+#: wp-cache.php:1042
+msgid "Preloading of cache disabled. Please make sure simple or expert mode is enabled or talk to your host administrator."
+msgstr "Precàrrega de la memòria cau deshabilitada. Assegureu-vos que el mode expert o senzill estigui habilitat o parleu amb l’administrador amfitrió."
+
+#: wp-cache.php:1016
+msgid "No Emails"
+msgstr "Sense correus electrònics"
+
+#: wp-cache.php:1008
+msgid "Preload mode (garbage collection disabled. Recommended.)"
+msgstr "Mode de precàrrega (recol·lecció d'escombraries desactivades. Recomanat.)"
+
+#: wp-cache.php:971
+msgid "In &#8217;Preload Mode&#8217; regular garbage collection will be disabled so that old cache files are not deleted. This is a recommended setting when the cache is preloaded."
+msgstr "A &#8217;Mode precàrrega&#8217; s’inhabilitarà la recollida regular d’escombraries perquè els fitxers antics de memòria cau no s’eliminin. Aquesta és una configuració recomanada quan la memòria cau està precarregada."
+
+#: rest/class.wp-super-cache-rest-update-settings.php:313
+msgid "You attempted to enable compression but `zlib.output_compression` is enabled. See #21 in the Troubleshooting section of the readme file."
+msgstr "Heu intentat habilitar la compressió, però `zlib.output_compression` està habilitat. Vegeu el número 21 a la secció Resolució de problemes del fitxer readme."
+
+#: rest/class.wp-super-cache-rest-test-cache.php:66
+msgid "Timestamps do not match"
+msgstr "Les marques de temps no coincideixen"
+
+#: rest/class.wp-super-cache-rest-test-cache.php:46
+msgid "Timestamps not found"
+msgstr "No s'ha trobat cap marca horària"
+
+#: wp-cache.php:1130
+msgid "Coarse file locking. You do not need this as it will slow down your website."
+msgstr "Bloqueig de fitxers gruixut. No ho necessiteu, ja que reduirà la velocitat del vostre lloc web."
+
+#: wp-cache.php:2355
+msgid "Logout"
+msgstr "Tanca la sessió"
+
+#: wp-cache.php:2351
+msgid "The logout link will log out all WordPress users on this site except you. Your authentication cookie will be updated, but you will not be logged out."
+msgstr "L'enllaç de tancament de sessió tancarà la sessió de tots els usuaris de WordPress en aquest lloc, excepte vós. La vostra galeta d'autenticació s'actualitzarà, però no es desconnectarà."
+
+#: wp-cache.php:2349
+msgid "Your site is using a very old version of WordPress. When you update to the latest version everyone will be logged out and cookie information updated."
+msgstr "El vostre lloc utilitza una versió molt antiga de WordPress. Quan actualitzeu la versió més recent, tots els usuaris es tancaran la sessió i s'actualitzarà la informació de les galetes."
+
+#: wp-cache.php:2346
+msgid "If you just installed WP Super Cache for the first time, you can dismiss this message. Otherwise, you should probably refresh the login cookies of all logged in WordPress users here by clicking the logout link below."
+msgstr "Si acabeu d'instal·lar WP Super Cache per primera vegada, podeu descartar aquest missatge. En cas contrari, probablement haureu d'actualitzar les galetes d'inici de sessió de tots els usuaris de WordPress que han iniciat sessió fent clic en l'enllaç de tancament de sessió a continuació."
+
+#: wp-cache.php:2344
+msgid "Your server is configured to show files and directories, which may expose sensitive data such as login cookies to attackers in the cache directories. That has been fixed by adding a file named index.html to each directory. If you use simple caching, consider moving the location of the cache directory on the Advanced Settings page."
+msgstr "El vostre servidor està configurat per mostrar fitxers i directoris, que poden exposar dades confidencials com ara galetes d’inici de sessió als atacants als directoris de memòria cau. Això s'ha solucionat afegint un fitxer anomenat index.html a cada directori. Si utilitzeu la col·locació en memòria cau simple, considereu moure la ubicació del directori de memòria cau a la pàgina Configuració avançada."
+
+#: wp-cache.php:2338
+msgid "All users of this site have been logged out to refresh their login cookies."
+msgstr "Hem tancat la sessió a tots els usuaris d'aquest lloc per a actualitzar les seves galetes d'inici de sessió."
+
+#: wp-cache.php:2337 wp-cache.php:2343
+msgid "WP Super Cache Warning!"
+msgstr "Avís del WP Super Cache!"
+
+#: wp-cache.php:1607
+msgid "Cannot delete directory"
+msgstr "No es pot esborrar el directori"
+
+#: wp-cache.php:1160
+msgid "Since you are using mod_rewrite to serve cache files, you must choose a directory in your web root which is <q>%s</q> and update the mod_rewrite rules in the .htaccess file."
+msgstr "Com que esteu utilitzant mod_rewrite per servir fitxers de memòria cau, heu de triar un directori a la vostra arrel web que és <q>%s</q> i actualitzar les regles mod_rewrite al fitxer .htaccess."
+
+#: wp-cache.php:1153
+msgid "index.html files have been added in key directories, but unless directory indexes are disabled, it is probably better to store the cache files outside of the web root of %s"
+msgstr "s'han afegit fitxers index.html als directoris clau, però a menys que els índexs de directoris estiguin desactivats, probablement és millor emmagatzemar els fitxers de memòria cau fora de l’arrel web de %s"
+
+#: wp-cache.php:1151
+msgid "You are using expert mode to serve cache files so the plugin has added <q>Options -Indexes</q> to the .htaccess file in the cache directory to disable indexes. However, if that does not work, you should contact your system administrator or support and ask for them to be disabled, or use simple mode and move the cache outside of the web root."
+msgstr "Esteu utilitzant el mode expert per servir fitxers de memòria cau, de manera que el connector ha afegit <q>Options -Indexes</q> al fitxer .htaccess al directori de la memòria cau per desactivar els índexs. Tanmateix, si això no funciona, haureu de posar-vos en contacte amb l’administrador del sistema o donar-vos suport i demanar-los que s’inhabilitin, o utilitzeu el mode senzill i moure la memòria cau fora de l’arrel web."
+
+#: wp-cache.php:1149
+msgid "The plugin detected a bare directory index in your cache directory, which would let visitors see your cache files directly and might expose private posts."
+msgstr "L'extensió ha detectat un índex de directori nu al vostre directori de memòria cau, el que permetria als visitants veure els vostres fitxers de memòria cau directament i podrien exposar publicacions privades."
+
+#: wp-cache.php:1147
+msgid "Submit a blank entry to set it to the default directory, WP_CONTENT_DIR . /cache/."
+msgstr "Envieu una entrada en blanc per a establir-la en el directori predeterminat, WP_CONTENT_DIR . /cache/."
+
+#: wp-cache.php:1146
+msgid "If the new cache directory does not exist, it will be created and the contents of the old cache directory will be moved there. Otherwise, the old cache directory will be left where it is."
+msgstr "Si el nou directori de memòria cau no existeix, es crearà i el contingut del directori de memòria cau antic es traslladarà allà. En cas contrari, es deixarà el directori de la memòria cau antic on es trobi."
+
+#: wp-cache.php:1145
+msgid "If the directory does not exist, it will be created. Please make sure your web server user has write access to the parent directory. The parent directory must exist."
+msgstr "Si el directori no existeix, es crearà. Assegureu-vos que l’usuari del vostre servidor web tingui accés d’escriptura al directori principal. Cal que existeixi el directori pare."
+
+#: wp-cache.php:1144
+msgid "You must give the full path to the directory."
+msgstr "Heu de donar la ruta completa al directori."
+
+#: wp-cache.php:1143
+msgid "Change the location of your cache files. The default is WP_CONTENT_DIR . /cache/ which translates to %s."
+msgstr "Canvieu la ubicació dels vostres fitxers de memòria cau. El valor per defecte és WP_CONTENT_DIR . /cache/ que es tradueix a %s."
+
+#: wp-cache.php:1138
+msgid "Cache Location"
+msgstr "Ubicació de la memòria cau"
+
+#. Author URI of the plugin
+msgid "https://automattic.com/"
+msgstr "https://automattic.com/"
+
+#. Author of the plugin
+msgid "Automattic"
+msgstr "Automattic"
+
+#. Description of the plugin
+msgid "Very fast caching plugin for WordPress."
+msgstr "Extensió molt ràpida per a memòria cau del WordPress."
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/wp-super-cache/"
+msgstr "https://wordpress.org/plugins/wp-super-cache/"
+
+#. Plugin Name of the plugin
+msgid "WP Super Cache"
+msgstr "WP Super Cache"
+
+#: wp-cache.php:3851
+msgid "Delete cache of the current page"
+msgstr "Elimina la memòria cau de la pàgina actual"
+
+#: wp-cache.php:3798
+msgid ""
+"Dear User,\n"
+"\n"
+"WP Super Cache was removed from your blog but the mod_rewrite rules\n"
+"in your .htaccess were not.\n"
+"\n"
+"Please edit the following file and remove the code\n"
+"between 'BEGIN WPSuperCache' and 'END WPSuperCache'. Please backup the file first!\n"
+"\n"
+"%s\n"
+"\n"
+"Regards,\n"
+"WP Super Cache Plugin\n"
+"https://wordpress.org/plugins/wp-super-cache/"
+msgstr ""
+"Benvolgut usuari,\n"
+"\n"
+"WP Super Cache s’ha eliminat del vostre bloc, però les regles mod_rewrite\n"
+"en el vostre .htaccess no.\n"
+"\n"
+"Editeu el fitxer següent i elimineu el codi\n"
+"entre \"BEGIN WPSuperCache\" i \"END WPSuperCache\". Abans, però, feu una còpia de seguretat del fitxer!\n"
+"\n"
+"%s\n"
+"\n"
+"Salutacions,\n"
+"Connector WP Super Cache\n"
+"https://wordpress.org/plugins/wp-super-cache/"
+
+#: wp-cache.php:3798
+msgid "Supercache Uninstall Problems"
+msgstr "Problemes de desinstal·lació de Supercache"
+
+#: wp-cache.php:3720
+msgid ""
+"Preload has been restarted.\n"
+"%s"
+msgstr ""
+"La precàrrega s'ha reiniciat.\n"
+"%s"
+
+#: wp-cache.php:3720
+msgid "[%s] Preload may have stalled."
+msgstr "[%s] La precàrrega pot haver-se estancat."
+
+#: wp-cache.php:3675
+msgid "Cleaning up old supercache files."
+msgstr "S'estan netejant fitxers antics de supercache."
+
+#: wp-cache.php:3675
+msgid "[%s] Cache Preload Completed"
+msgstr "[%s] Precàrrega de memòria cau completada"
+
+#: wp-cache.php:3664
+msgid "Scheduling next preload refresh in %d minutes."
+msgstr "S'està programant la pròxima actualització de precàrrega en %d minuts."
+
+#: wp-cache.php:3653
+msgid "Refreshed the following posts:"
+msgstr "Actualitzades les entrades següents:"
+
+#: wp-cache.php:3653
+msgid "[%1$s] %2$d posts refreshed"
+msgstr "[%1$s] %2$d entrades actualitzades"
+
+#: wp-cache.php:3584 wp-cache.php:3643
+msgid "[%1$s] Cache Preload Stopped"
+msgstr "[%1$s] Precàrrega de la memòria cau aturada"
+
+#: wp-cache.php:3617
+msgid "[%1$s] Refreshing posts from %2$d to %3$d"
+msgstr "[%1$s] Actualitzant entrades des de %2$d a %3$d"
+
+#: wp-cache.php:3560
+msgid "[%1$s] Refreshing %2$s taxonomy from %3$d to %4$d"
+msgstr "[%1$s] Actualitzant %2$s taxonomies des de %3$d a %4$d"
+
+#: wp-cache.php:3530
+msgid "[%1$s] Cache Preload Started"
+msgstr "[%1$s] Precàrrega de la memòria cau iniciada"
+
+#: wp-cache.php:3318
+msgid "Update Mod_Rewrite Rules"
+msgstr "Actualitza les regles de Mod_Rewrite"
+
+#: wp-cache.php:3306
+msgid " Make sure they appear before any existing WordPress rules. "
+msgstr " Assegureu-vos que apareguin abans de les regles de WordPress existents. "
+
+#: wp-cache.php:3305
+msgid "You can edit the file yourself. Add the following rules."
+msgstr "Podeu editar el fitxer vosaltres mateixos. Afegiu les regles següents."
+
+#: wp-cache.php:3304
+msgid "To serve static html files your server must have the correct mod_rewrite rules added to a file called <code>%s.htaccess</code>"
+msgstr "Per a servir arxius html estàtics, el servidor ha de tenir les regles mod_rewrite correctament configurades al fitxer <code>%s.htaccess</code>"
+
+#: wp-cache.php:3300
+msgid "Alternatively, you can edit your <code>%s.htaccess</code> file manually and add the following code (before any WordPress rules):"
+msgstr "Alternativament, podeu editar manualment el fitxer <code>%s.htaccess</code> i afegir el codi següent (abans de qualsevol regla de WordPress):"
+
+#: wp-cache.php:3300
+msgid "Refresh this page when the file permissions have been modified."
+msgstr "Actualitzeu aquesta pàgina quan s'hagin modificat els permisos del fitxer."
+
+#: wp-cache.php:3300
+msgid "The file <code>%s.htaccess</code> cannot be modified by the web server. Please correct this using the chmod command or your ftp client."
+msgstr "El servidor web no pot modificar el fitxer <code>%s.htaccess</code>. Corregiu-ho mitjançant l’ordre chmod o el vostre client ftp."
+
+#: wp-cache.php:3300
+msgid "Cannot update .htaccess"
+msgstr "No es pot actualitzar .htaccess"
+
+#: wp-cache.php:3262
+msgid "WP Super Cache has checked the front page of your blog. Please visit %s if you would like to disable this."
+msgstr "WP Super Cache ha comprovat la primera pàgina del vostre bloc. Visiteu %s si voleu desactivar-ho."
+
+#: wp-cache.php:3262
+msgid "[%s] Front page check!"
+msgstr "[%s] Comprovació de la pàgina principal!"
+
+#: wp-cache.php:3257
+msgid "The cache on your blog has been cleared because the front page of your site is missing the text \"%2$s\". Please visit %1$s to verify the cache has been cleared."
+msgstr "La memòria cau del blog s'ha esborrat perquè a la pàgina principal del lloc web li falta el text \"%2$s\". Visiteu %1$s per a verificar que s'hagi esborrat la memòria cau."
+
+#: wp-cache.php:3257
+msgid "[%s] Front page is not correct! Cache Cleared!"
+msgstr "[%s] La pàgina principal no és correcta. S'ha buidat la memòria cau!"
+
+#: wp-cache.php:3254
+msgid "Please visit %1$s to clear the cache as the front page of your site is not correct and missing the text, \"%2$s\"!"
+msgstr "Visiteu %1$s per buidar la memòria cau ja que la pàgina inicial del lloc no és correcta i falta el text, \"%2$s\"!"
+
+#: wp-cache.php:3254
+msgid "[%s] Front page is not correct! Please clear cache!"
+msgstr "[%s] La pàgina inicial no és correcta! Buideu la memòria cau!"
+
+#: wp-cache.php:3247
+msgid "The cache on your blog has been cleared because the front page of your site is now downloading. Please visit %s to verify the cache has been cleared."
+msgstr "S'ha esborrat la memòria cau del vostre bloc perquè ara es descarrega la portada del vostre lloc. Visiteu %s per verificar que s’hagi esborrat la memòria cau."
+
+#: wp-cache.php:3247
+msgid "[%s] Front page is gzipped! Cache Cleared!"
+msgstr "[%s] La pàgina inicial està comprimida! S'ha buidat la memòria cau!"
+
+#: wp-cache.php:3244
+msgid "Please visit %s to clear the cache as the front page of your site is now downloading!"
+msgstr "Visiteu %s per esborrar la memòria cau, ja que ara es descarrega la primera pàgina del vostre lloc!"
+
+#: wp-cache.php:3244
+msgid "[%s] Front page is gzipped! Please clear cache!"
+msgstr "[%s] La pàgina inicial està comprimida! Buideu la memòria cau!"
+
+#: wp-cache.php:3223
+msgid "Warning! WP Super Cache caching <strong>was</strong> broken but has been <strong>fixed</strong>! The script advanced-cache.php could not load wp-cache-phase1.php.<br /><br />The file %1$s/advanced-cache.php has been recreated and WPCACHEHOME fixed in your wp-config.php. Reload to hide this message."
+msgstr "La memòria cau del WP Super Cache <strong>estava</strong> trencada però s'ha <strong>solucionat</strong>! El script advanced-cache.php no ha pogut carregar wp-cache-phase1.php.<br /><br />. El fitxer %1$s/advanced-cache.php s'ha recreat i WPCACHEHOME solucionat al fitxer wp-config.php. Torneu a carregar per a ocultar aquest missatge."
+
+#: wp-cache.php:3219
+msgid "WP Super Cache is disabled. Please go to the <a href=\"%s\">plugin admin page</a> to enable caching."
+msgstr "WP Super Cache està desactivat. Aneu a la <a href=\"%s\">pàgina d'administració del connector</a> per habilitar l'emmagatzematge a la memòria cau."
+
+#: wp-cache.php:3209
+msgid "Settings"
+msgstr "Configuració"
+
+#: wp-cache.php:3203
+msgid "WP Super Cache must be configured. Go to <a href=\"%s\">the admin page</a> to enable and configure the plugin."
+msgstr "Cal configurar WP Super Cache. Aneu a <a href=\"%s\">la pàgina d’administració </a> per habilitar i configurar el connector."
+
+#: wp-cache.php:2960
+msgid "Delete Super Cache cached files (opens in new window)"
+msgstr "Elimina els fitxers en memòria cau Super Cache (s'obre en una finestra nova)"
+
+#: wp-cache.php:2931
+msgid "Delete Expired"
+msgstr "Suprimeix les dades expirades"
+
+#: wp-cache.php:2916
+msgid "Expired files are files older than %s seconds. They are still used by the plugin and are deleted periodically."
+msgstr "Els fitxers caducats són fitxers de més de %s segons. Encara s’utilitzen pel connector i s’esborren periòdicament."
+
+#: wp-cache.php:2913
+msgid "List all cached files"
+msgstr "Llistar tots els fitxers en memòria cau"
+
+#: wp-cache.php:2911
+msgid "Too many cached files, no listing possible."
+msgstr "Hi ha massa fitxers en memòria cau, cap llista disponible."
+
+#: wp-cache.php:2909
+msgid "Hide file list"
+msgstr "Amaga la llista de fitxers"
+
+#: wp-cache.php:2141 wp-cache.php:2888
+msgid "Delete"
+msgstr "Esborra"
+
+#: wp-cache.php:2888
+msgid "Age"
+msgstr "Edat"
+
+#: wp-cache.php:2888
+msgid "URI"
+msgstr "Enllaç"
+
+#: wp-cache.php:2872
+msgid "WP-Super-Cache"
+msgstr "WP-Super-Cache"
+
+#: wp-cache.php:2866 wp-cache.php:2878
+msgid "%s Expired Pages"
+msgstr "%s pàgines caducades"
+
+#: wp-cache.php:2865 wp-cache.php:2873
+msgid "%s Cached Pages"
+msgstr "%s pàgines emmagatzemades"
+
+#: wp-cache.php:2864
+msgid "WP-Cache"
+msgstr "WP-Cache"
+
+#: wp-cache.php:2857
+msgid "Cache stats last generated: %s minutes ago."
+msgstr "Últimes estadístiques de memòria cau generades fa %s minuts."
+
+#: wp-cache.php:2855
+msgid "Regenerate cache stats"
+msgstr "Regenera les estadístiques de la memòria cau"
+
+#: wp-cache.php:2854
+msgid "Cache stats are not automatically generated. You must click the link below to regenerate the stats on this page."
+msgstr "Les estadístiques de la memòria cau no es generen automàticament. Heu de fer clic a l’enllaç següent per regenerar les estadístiques d’aquesta pàgina."
+
+#: wp-cache.php:2815
+msgid "Deleting wp-cache file: <strong>%s</strong><br />"
+msgstr "S'està esborrant el fitxer wp-cache: <strong>%s</strong><br />"
+
+#: wp-cache.php:2792
+msgid "Deleting supercache file: <strong>%s</strong><br />"
+msgstr "Eliminant el fitxer supercache: <strong>%s</strong><br />"
+
+#: wp-cache.php:2773
+msgid "Cache Contents"
+msgstr "Continguts de la memòria cau"
+
+#: wp-cache.php:2679
+msgid "<h4>WP_CACHE constant added to wp-config.php</h4><p>If you continue to see this warning message please see point 5 of the <a href=\"https://wordpress.org/plugins/wp-super-cache/faq/\">Troubleshooting Guide</a>. The WP_CACHE line must be moved up."
+msgstr "<h4>La constant de l'WP_CACHE s'ha afegit a wp-config.php</h4> <p>Si continueu veient aquest missatge d’avís, vegeu el punt 5 de la <a href=\"https://wordpress.org/plugins/wp-super-cache/faq/\">Guia de resolució de problemes</a>. La línia WP_CACHE s'ha de moure cap amunt."
+
+#: wp-cache.php:2675
+msgid "Edit <code>%s</code> and add the following line:<br /> <code>define('WP_CACHE', true);</code><br />Otherwise, <strong>WP-Cache will not be executed</strong> by WordPress core. "
+msgstr "Editeu <code>%s</code> i afegiu la línia següent:<br /> <code>define('WP_CACHE', true);</code><br />D'una altra manera, <strong>WP-Cache no serà executat</strong> per nucli de WordPress. "
+
+#: wp-cache.php:2674
+msgid "<strong>Error: WP_CACHE is not enabled</strong> in your <code>wp-config.php</code> file and I couldn&#8217;t modify it."
+msgstr "<strong>Error: WP_CACHE no està habilitat</strong> al fitxer <code>wp-config.php</code> i no s'ha pogut modificar."
+
+#: wp-cache.php:2672
+msgid "<h4>WP_CACHE constant set to false</h4><p>The WP_CACHE constant is used by WordPress to load the code that serves cached pages. Unfortunately, it is set to false. Please edit your wp-config.php and add or edit the following line above the final require_once command:<br /><br /><code>define('WP_CACHE', true);</code></p>"
+msgstr "<h4>La constant WP_CACHE establerta a fals</h4><p>El WordPress utilitza la constant WP_CACHE per a carregar el codi que serveix les pàgines en memòria cau. Desafortunadament, està establerta a fals. Editeu el fitxer wp-config.php i afegiu o editeu la següent línia a la part superior del darrer comandament require_once: :<br /><br /><code>define('WP_CACHE', true);</code></p>"
+
+#: wp-cache.php:2645
+msgid "If that doesn&#8217;t work, make sure the file <em>%s/advanced-cache.php</em> doesn&#8217;t exist:"
+msgstr "Si això no funciona, assegureu-vos que el fitxer <em>%s/advanced-cache.php</em> no existeix:"
+
+#: wp-cache.php:2644
+msgid "Refresh this page to update <em>%s/advanced-cache.php</em>"
+msgstr "Actualitzeu aquesta pàgina per actualitzar <em>%s/advanced-cache.php</em>"
+
+#: wp-cache.php:2643
+msgid "Make %1$s writable using the chmod command through your ftp or server software. (<em>chmod 777 %1$s</em>) and refresh this page. This is only a temporary measure and you&#8217;ll have to make it read only afterwards again. (Change 777 to 755 in the previous command)"
+msgstr "Feu que %1$s es pugui escriure utilitzant la comanda chmod a través del vostre programari de servidor o ftp. (<em>chmod 777 %1$s</em>) i actualitzeu aquesta pàgina. Aquesta és només una mesura temporal i haureu de tornar a posar el mode de només lectura (Canvieu 777 a 755 a la comanda anterior)."
+
+#: wp-cache.php:2642
+msgid "If it already exists, please delete the file first."
+msgstr "Si ja existeix, elimineu primer el fitxer."
+
+#: wp-cache.php:2641
+msgid "%s/advanced-cache.php</em> does not exist or cannot be updated."
+msgstr "%s/advanced-cache.php</em> no existeix o no es pot actualitzar."
+
+#: wp-cache.php:2598
+msgid "Could not update %s!</em> WPCACHEHOME must be set in config file."
+msgstr "No s'ha pogut actualitzar %s</em>. S'ha d'establir WPCACHEHOME al fitxer de configuració."
+
+#: wp-cache.php:2543
+msgid "Sample WP-Cache config file (<strong>%s</strong>) does not exist. Verify your installation."
+msgstr "El fitxer de configuració de mostra de l'WP-Cache (<strong>%s</strong>) no existeix. Verifiqueu la vostra instal·lació."
+
+#: wp-cache.php:2537
+msgid "Configuration file missing and %1$s  directory (<strong>%2$s</strong>) is not writable by the web server. Check its permissions."
+msgstr "Falta el fitxer de configuració i el directori %1$s (<strong>%2$s</strong>) no pot ser escrit pel servidor web. Comproveu els seus permisos."
+
+#: wp-cache.php:2532
+msgid "Your WP-Cache config file (<strong>%s</strong>) is out of date and not writable by the Web server. Please delete it and refresh this page."
+msgstr "El vostre fitxer de configuració de WP-Cache (<strong>%s</strong>) no està actualitzat i no es pot ser escrit pel servidor web. Elimineu-lo i actualitzeu aquesta pàgina."
+
+#: wp-cache.php:2498
+msgid "Your cache directory (<strong>%1$s</strong>) or <strong>%2$s</strong> need to be writable for this plugin to work. Double-check it."
+msgstr "El vostre directori de memòria cau (<strong>%1$s</strong>) o <strong>%2$s</strong> s’ha de poder escriure per treballar aquest connector. Comproveu-ho."
+
+#: wp-cache.php:2493
+msgid "Your cache directory (<strong>%1$s</strong>) did not exist and couldn&#8217;t be created by the web server. Check %1$s permissions."
+msgstr "El vostre directori de memòria cau (<strong>%1$s</strong>) no existeix i el servidor web no ha pogut crear-lo. Comproveu els permisos de %1$s."
+
+#: wp-cache.php:2493 wp-cache.php:2498 wp-cache.php:2532 wp-cache.php:2537
+#: wp-cache.php:2543
+msgid "Error"
+msgstr "Error"
+
+#: wp-cache.php:2277
+msgid "GZIP compression is enabled in WordPress, wp-cache will be bypassed until you disable gzip compression."
+msgstr "La compressió GZIP està habilitada a WordPress. La memòria cau de wp-cache s’eliminarà fins que inhabiliteu la compressió gzip."
+
+#: wp-cache.php:2277 wp-cache.php:2577 wp-cache.php:2598 wp-cache.php:2641
+msgid "Warning"
+msgstr "Avís"
+
+#: wp-cache.php:2174
+msgid "Email the blog admin when checks are made. (useful for testing)"
+msgstr "Envieu un correu electrònic a l'administrador del bloc quan es realitzen comprovacions. (útil per provar)"
+
+#: wp-cache.php:2173
+msgid "Clear cache on error."
+msgstr "Esborreu la memòria cau per error."
+
+#: wp-cache.php:2172
+msgid "Text to search for on your front page. If this text is missing, the cache will be cleared. Leave blank to disable."
+msgstr "Text per a buscar en la vostra portada. Si manca aquest text, la memòria cau s'esborrarà. Deixeu-ho en blanc per a deshabilitar."
+
+#: wp-cache.php:2172
+msgid "Front page text"
+msgstr "Text de portada"
+
+#: wp-cache.php:2171
+msgid "Check front page every 5 minutes."
+msgstr "Comprova la portada cada 5 minuts."
+
+#: wp-cache.php:2169
+msgid "I&#8217;m 99% certain that they aren&#8217;t bugs in WP Super Cache and they only happen in very rare cases but you can run a simple check once every 5 minutes to verify that your site is ok if you&#8217;re worried. You will be emailed if there is a problem."
+msgstr "Estic segur al 99% que no hi ha errors a WP Super Cache i que només succeeixen en casos molt rars, però podeu fer una comprovació senzilla cada 5 minuts per verificar que el vostre lloc està bé, si realment esteu preocupats. Se li enviarà un correu electrònic si hi ha un problema."
+
+#: wp-cache.php:2168
+msgid "In very rare cases two problems may arise on some blogs:<ol><li> The front page may start downloading as a zip file.</li><li> The wrong page is occasionally cached as the front page if your blog uses a static front page and the permalink structure is <em>/%category%/%postname%/</em>.</li></ol>"
+msgstr "En casos molt rars, poden sorgir dos problemes en alguns blocs:<ol><li>La portada pot començar a descarregar-se com a fitxer zip.</li><li>De vegades, la pàgina incorrecta es guarda a la memòria cau com a pàgina principal si el vostre bloc utilitza una portada estàtica i l’estructura del enllaç permanent: <em>/%category%/%postname%/</em>.</li></ol>"
+
+#: wp-cache.php:2162
+msgid "Display comments at the end of every page like this:"
+msgstr "Mostra comentaris al final de cada pàgina com aquesta:"
+
+#: wp-cache.php:2161
+msgid "Cache Status Messages"
+msgstr "Missatges d'estat de la memòria cau"
+
+#: wp-cache.php:2160
+msgid "(only log requests from this IP address. Your IP is %s)"
+msgstr "(només registrar les sol·licituds d'aquesta adreça IP. La vostra adreça IP és %s)"
+
+#: wp-cache.php:2160
+msgid "IP Address"
+msgstr "Adreça IP"
+
+#: wp-cache.php:2124
+msgid "Fix problems with the plugin by debugging it here. It will log to a file in your cache directory."
+msgstr "Arregleu els problemes amb el connector depurant-ho aquí. Es registrarà a un fitxer del vostre directori de memòria cau."
+
+#: wp-cache.php:2132
+msgid "Currently logging to: %s"
+msgstr "Actualment s'està registrant en: %s"
+
+#: wp-cache.php:2028
+msgid "Save Files"
+msgstr "Desa els fitxers"
+
+#: wp-cache.php:2022
+msgid "Add here those filenames that can be cached, even if they match one of the rejected substring specified above."
+msgstr "Afegiu aquí els noms de fitxer que es poden emmagatzemar a la memòria cau, fins i tot si coincideixen amb una de les subcadres rebutjades especificades anteriorment."
+
+#: wp-cache.php:2000
+msgid "Save Strings"
+msgstr "Desa les cadenes"
+
+#: wp-cache.php:1994
+msgid "Add here strings (not a filename) that forces a page not to be cached. For example, if your URLs include year and you dont want to cache last year posts, it&#8217;s enough to specify the year, i.e. &#8217;/2004/&#8217;. WP-Cache will search if that string is part of the URI and if so, it will not cache that page."
+msgstr "Afegiu aquí cadenes (no un nom de fitxer) que obligui a què una pàgina no s'emmagatzemi en memòria cau. Per exemple, si els URL inclouen l'any i no voleu emmagatzemar en memòria cau les entrades de l'any passat, és suficient especificar l'any, és a dir, &#8217;/2004/&#8217;. WP-Cache cercarà si aquesta cadena és part de l'URL i, en aquest cas, no emmagatzemarà en memòria cau aquesta pàgina."
+
+#: wp-cache.php:1968
+msgid "Author Pages"
+msgstr "Pàgines d'autor"
+
+#: wp-cache.php:1967
+msgid "Search Pages"
+msgstr "Pàgines de cerca"
+
+#: wp-cache.php:1966
+msgid "Feeds"
+msgstr "Canals de subscripció"
+
+#: wp-cache.php:1965
+msgid "Category"
+msgstr "Categoria"
+
+#: wp-cache.php:1964
+msgid "Tags"
+msgstr "Etiquetes"
+
+#: wp-cache.php:1963
+msgid "Archives"
+msgstr "Arxius"
+
+#: wp-cache.php:1962
+msgid "Home"
+msgstr "Inici"
+
+#: wp-cache.php:1961
+msgid "Front Page"
+msgstr "Portada"
+
+#: wp-cache.php:1960
+msgid "Pages"
+msgstr "Pàgines"
+
+#: wp-cache.php:1959
+msgid "Single Posts"
+msgstr "Entrades individuals"
+
+#: wp-cache.php:1956
+msgid "Do not cache the following page types. See the <a href=\"https://codex.wordpress.org/Conditional_Tags\">Conditional Tags</a> documentation for a complete discussion on each type."
+msgstr "No emmagatzemeu en memòria cau els següents tipus de pàgines. MIreu la documentació <a href=\"https://codex.wordpress.org/Conditional_Tags\">d'etiquetes condicionals</a> per a obtenir una discussió completa sobre cada tipus."
+
+#: wp-cache.php:1926
+msgid "Save UA Strings"
+msgstr "Desa les cadenes UA"
+
+#: wp-cache.php:1919
+msgid "Strings in the HTTP &#8217;User Agent&#8217; header that prevent WP-Cache from caching bot, spiders, and crawlers&#8217; requests. Note that super cached files are still sent to these agents if they already exists."
+msgstr "Cadenes a la capçalera HTTP &#8217;User Agent&#8217; que eviten que WP-Cache desi a la memòria cau les peticions de bots, aranyes i rastrejadors. Tingueu en compte que es continuaran enviant fitxers que estiguin a la memòria cau si aquests fitxers ja existien anteriorment."
+
+#: wp-cache.php:1918
+msgid "Rejected User Agents"
+msgstr "Agents d'usuari rebutjats"
+
+#: wp-cache.php:1878
+msgid "Change Expiration"
+msgstr "Canvia la caducitat"
+
+#: wp-cache.php:1877
+msgid "Set the expiry time to 0 seconds to disable garbage collection."
+msgstr "Establiu el temps de caducitat en 0 segons per a deshabilitar la recol·lecció de brossa."
+
+#: wp-cache.php:1874
+msgid "Sites where an external data source updates at a particular time every day should set the timeout to 86400 seconds and use the Clock scheduler set appropriately."
+msgstr "Als llocs en els quals una font de dades externa s'actualitza a una hora determinada, cada dia, s'han d'establir el temps d'espera en 86400 segons i utilitzar el programador del rellotge adequadament."
+
+#: wp-cache.php:1873
+msgid "Sites with lots of static content, no widgets or rss feeds in their sidebar can use a timeout of 86400 seconds or even more and set the timer to something equally long."
+msgstr "Els llocs web amb molt de contingut estàtic, sense ginys o canals de subscripció rss a la barra lateral, poden usar un temps d'espera de 86400 segons o fins i tot més i definir el temporitzador a algun valor igualment llarg."
+
+#: wp-cache.php:1872
+msgid "Sites with widgets and rss feeds in their sidebar should probably use a timeout of 3600 seconds and set the timer to 600 seconds. Stale files will be caught within 10 minutes of going stale."
+msgstr "Els llocs web amb ginys i canals de subscripció rss a la barra lateral probablement haurien d'utilitzar un temps d'espera de 3600 segons i definir el temporitzador a 600 segons. Els fitxers obsolets es capturaran dins dels 10 minuts posteriors a la finalització."
+
+#: wp-cache.php:1871
+msgid "Sites that want to serve lots of newly generated data should set the <em>Cache Timeout</em> to 60 and use the <em>Timer</em> scheduler set to 90 seconds."
+msgstr "Els llocs web que volen servir una gran quantitat de dades recentment generades han d'establir el <em>temps d'espera de memòria cau</em> en 60 i utilitzar la programació del <em>temporitzador</em> definit en 90 segons."
+
+#: wp-cache.php:1869
+msgid "There are no best garbage collection settings but here are a few scenarios. Garbage collection is separate to other actions that clear our cached files like leaving a comment or publishing a post."
+msgstr "No existeix la millor configuració de recol·lecció d'escombraries, però aquí teniu alguns escenaris. La recol·lecció d'escombraries està separada d'altres accions que esborren els fitxers en memòria cau, com deixar un comentari o publicar una entrada."
+
+#: wp-cache.php:1867
+msgid "Or, the <em>Clock</em> scheduler allows the garbage collection to run at specific times. If set to run hourly or twice daily, the garbage collector will be first scheduled for the time you enter here. It will then run again at the indicated interval. If set to run daily, it will run once a day at the time specified."
+msgstr "O el <em>Rellotge</em> per permetre que el recol·lector d'elements no utilitzats s'executi a hores concretes. Si voleu que s'executi cada hora o un parell de vegades al dia, la primera execució es durà a terme quan especifiqueu aquí. A partir d'aleshores, s'executarà seguint l'interval especificat. Si voleu que s'executi diàriament, ho farà a cada dia a l'hora que hàgiu especificat."
+
+#: wp-cache.php:1866
+msgid "The <em>Timer</em> scheduler tells the plugin to run the garbage collector at regular intervals. When one garbage collection is done, the next run is scheduled."
+msgstr "El <em>Temporitzador</em> li diu a l'extensió que ha d'executar el recol·lector d'elements no utilitzats a intervals regulars. Un cop s'ha completat la recol·lecció, se'n programa la propera execució."
+
+#: wp-cache.php:1865
+msgid "Use the <em>Timer</em> or <em>Clock</em> schedulers to define when the garbage collector should run."
+msgstr "Utilitza els planificadors del <em>Temporitzador</em> o del <em>Rellotge</em> per definir quan s'ha d'executar el recol·lector d'elements no utilitzats."
+
+#: wp-cache.php:1864
+msgid "Stale cached files are not removed as soon as they become stale. They have to be removed by the garbage collecter. That is why you have to tell the plugin when the garbage collector should run."
+msgstr "Els fitxers que hi ha a la memòria cau que han quedat obsolets no s'esborren tan bon punt esdevenen obsolets; els ha d'esborrar el recol·lector d'elements no utilitzats. És per això que heu d'indicar a l'extensió quan s'ha d'executar el recol·lector."
+
+#: wp-cache.php:1863
+msgid "Cached files are fresh for a limited length of time. You can set that time in the <em>Cache Timeout</em> text box on this page."
+msgstr "Els fitxers de la memòria cau són vàlids durant un període de temps limitat. Podeu canviar-ne el valor utilitzant el camp de text <em>Temps d'espera de la memòria cau</em> que trobareu en aquesta pàgina."
+
+#: wp-cache.php:1862
+msgid "<em>Garbage collection</em> is the simple act of throwing out your garbage. For this plugin that would be old or <em>stale</em> cached files that may be out of date. New cached files are described as <em>fresh</em>."
+msgstr "La <em>recol·lecció d'elements no utilitzats</em> és el simple acte de llençar les deixalles. En aquest context, es tracta de fitxers que són a la memòria cau i que potser han quedat <em>obsolets</em>. Els nous fitxers que s'hi afegeixen es consideren <em>vàlids</em>."
+
+#: wp-cache.php:1861
+msgid "Garbage Collection"
+msgstr "Recol·lecció de brossa"
+
+#: wp-cache.php:1859
+msgid "Email me when the garbage collection runs."
+msgstr "Envia'm un correu electrònic quan s’executi la recollida d’escombraries."
+
+#: wp-cache.php:1858
+msgid "Notification Emails"
+msgstr "Correus de notificació"
+
+#: wp-cache.php:1852
+msgid "Interval:"
+msgstr "Interval:"
+
+#: wp-cache.php:1850
+msgid "Check for stale cached files at this time <strong>(UTC)</strong> or starting at this time every <em>interval</em> below."
+msgstr "Comprova si hi ha fitxers amagats en memòria cau en aquest moment <strong> (UTC)</strong> o comença en aquest moment cada <em>interval</em> següent."
+
+#: wp-cache.php:1850
+msgid "HH:MM"
+msgstr "HH:MM"
+
+#: wp-cache.php:1849
+msgid "Clock:"
+msgstr "Rellotge:"
+
+#: wp-cache.php:1848
+msgid "Check for stale cached files every <em>interval</em> seconds."
+msgstr "Comprova si hi ha els fitxers emmagatzemats a la memòria cau cada<em>interval</em> segons."
+
+#: wp-cache.php:1847
+msgid "Timer:"
+msgstr "Temporitzador:"
+
+#: wp-cache.php:1847
+msgid "Scheduler"
+msgstr "Programador"
+
+#: wp-cache.php:1846
+msgid "How long should cached pages remain fresh? Set to 0 to disable garbage collection. A good starting point is 3600 seconds."
+msgstr "Quant de temps han de quedar vàlides les pàgines en memòria cau? Establiu a 0 per inhabilitar la recollida de deixalles. Un bon punt de partida és de 3600 segons."
+
+#: wp-cache.php:1845 wp-cache.php:1848
+msgid "seconds"
+msgstr "segons"
+
+#: wp-cache.php:1844
+msgid "Cache Timeout"
+msgstr "Temps d'espera de la memòria cau"
+
+#: wp-cache.php:1826
+msgid "Warning! <strong>PRELOAD MODE</strong> activated. Supercache files will not be deleted regardless of age."
+msgstr "Atenció! <strong>MODE PRECÀRREGA</strong> activat. Els fitxers de Supercache no s’esborren independentment de l’edat."
+
+#: wp-cache.php:1822
+msgid "Next scheduled garbage collection will be at <strong>%s UTC</strong>"
+msgstr "La següent recollida d'escombraries serà a les <strong>%s UTC</strong>"
+
+#: wp-cache.php:1818
+msgid "Local time is <code>%1$s</code>"
+msgstr "L'hora local és <code>%1$s</code>"
+
+#: wp-cache.php:1815
+msgid "<abbr title=\"Coordinated Universal Time\">UTC</abbr> time is <code>%s</code>"
+msgstr "L'hora <abbr title=\"Coordinated Universal Time\">UTC</abbr> és <code>%s</code>"
+
+#: wp-cache.php:1813
+msgid "Expiry Time &amp; Garbage Collection"
+msgstr "Temps d’expiració i recollida d’escombraries"
+
+#: wp-cache.php:1807
+msgctxt "timezone date format"
+msgid "Y-m-d G:i:s"
+msgstr "d-m-Y G:i:s"
+
+#: wp-cache.php:1699
+msgid "Update Direct Pages"
+msgstr "Actualitza les pàgines directes"
+
+#: wp-cache.php:1697
+msgid "Make the textbox blank to remove it from the list of direct pages and delete the cached file."
+msgstr "Feu que el quadre de text estigui en blanc per eliminar-lo de la llista de pàgines directes i suprimir el fitxer en memòria cau."
+
+#: wp-cache.php:1694
+msgid "For example: to cache <em>%1$sabout/</em>, you would enter %1$sabout/ or /about/. The cached file will be generated the next time an anonymous user visits that page."
+msgstr "Per exemple: per a desar a la memòria cau <em>%1$sabout/</em>, heu d'escriure %1$sabout/ o /about/. La propera vegada que un visitant anònim accedeixi a la pàgina en qüestió es generarà un fitxer a la memòria cau."
+
+#: wp-cache.php:1690
+msgid "Directly cached files are files created directly off %s where your blog lives. This feature is only useful if you are expecting a major Digg or Slashdot level of traffic to one post or page."
+msgstr "Els fitxers directes en memòria cau són fitxers creats directament fora de %s on és el blog. Aquesta característica només és útil si espereu un nivell de trànsit important de Digg o Slashdot a una entrada o pàgina."
+
+#: wp-cache.php:1687
+msgid "Add direct page:"
+msgstr "Afegeix una pàgina directa:"
+
+#: wp-cache.php:1681
+msgid "Delete cached file"
+msgstr "Suprimeix el fitxer en memòria cau"
+
+#: wp-cache.php:1681
+msgid "Existing direct page"
+msgstr "Pàgina directa existent"
+
+#: wp-cache.php:1666
+msgid "%s is writable. Please make it readonly after your page is generated as this is a security risk."
+msgstr "%s té permisos d'escriptura. Torneu a donar només permisos de lectura al fitxer després que es generi la pàgina, ja que és un risc per a la seguretat del lloc web."
+
+#: wp-cache.php:1661
+msgid "You must make %s writable to enable this feature. As this is a security risk, please make it read-only after your page is generated."
+msgstr "Heu de donar permisos d'escriptura al fitxer %s per a habilitar aquesta funció. Com es tracta d'un risc per a la seguretat, torneu a donar permisos de lectura al fitxer després de generar la pàgina."
+
+#: wp-cache.php:1654
+msgid "Directly Cached Files"
+msgstr "Arxius de memòria cau directament"
+
+#: wp-cache.php:1646
+msgid "Lock Down"
+msgstr "Bloqueja"
+
+#: wp-cache.php:1640
+msgid "WordPress is not locked down. New comments will refresh Super Cache static files as normal."
+msgstr "El WordPress no està bloquejat. Els comentaris nous actualitzaran els fitxers estàtics del Super Cache de manera normal."
+
+#: wp-cache.php:1638
+msgid "WordPress is locked down. Super Cache static files will not be deleted when new comments are made."
+msgstr "WordPress està bloquejat. Els fitxers estàtics de Super Cache no s'eliminaran quan es realitzin nous comentaris."
+
+#: wp-cache.php:1634
+msgid "Sorry. My blog is locked down. Updates will appear shortly"
+msgstr "Ho sento. El meu bloc està bloquejat. Les actualitzacions apareixeran aviat"
+
+#: wp-cache.php:1632
+msgid "Developers: Make your plugin lock down compatible by checking the \"WPLOCKDOWN\" constant. The following code will make sure your plugin respects the WPLOCKDOWN setting."
+msgstr "Desenvolupadors: activeu la constant «WPLOCKDOWN» per fer que l'extensió sigui compatible amb el confinament. El següent codi garanteix que l'extensió respecta el paràmetre WPLOCKDOWN."
+
+#: wp-cache.php:1631
+msgid "Prepare your server for an expected spike in traffic by enabling the lock down. When this is enabled, new comments on a post will not refresh the cached static files."
+msgstr "Prepareu el servidor per obtenir un augment esperat del trànsit habilitant el bloqueig. Quan estigui habilitat, els nous comentaris en una publicació no refrescaran els fitxers estàtics de la memòria cau."
+
+#: wp-cache.php:1630
+msgid "Lock Down:"
+msgstr "Bloqueja:"
+
+#: wp-cache.php:1522
+msgid "Comment moderation is enabled. Your comment may take some time to appear."
+msgstr "La moderació de comentaris està habilitada. El comentari pot trigar una mica a aparèixer."
+
+#: wp-cache.php:1514
+msgid "Restore Default Configuration"
+msgstr "Restaura la configuració predeterminada"
+
+#: wp-cache.php:1511
+msgid "Fix Configuration"
+msgstr "Corregeix la configuració"
+
+#: wp-cache.php:1501 wp-cache.php:3310
+msgid "Rules must be added to %s too:"
+msgstr "Les regles també han de ser agregades a %s:"
+
+#: wp-cache.php:1495
+msgid "View Mod_Rewrite Rules"
+msgstr "Mostra les regles Mod_Rewrite"
+
+#: wp-cache.php:1493
+msgid "A difference between the rules in your .htaccess file and the plugin rewrite rules has been found. This could be simple whitespace differences, but you should compare the rules in the file with those below as soon as possible. Click the &#8217;Update Mod_Rewrite Rules&#8217; button to update the rules."
+msgstr "S'ha trobat una diferència entre les regles del vostre fitxer .htaccess i les regles de reescriptura de l'extensió. Aquesta podria tractar-se de diferències simples d’espais en blanc, però haureu de comparar les regles del fitxer amb les següents tan aviat com sigui possible. Feu clic al botó &#8217;Actualitza les regles Mod_Rewrite&#8217; per actualitzar les regles."
+
+#: wp-cache.php:1490
+msgid "WP Super Cache mod rewrite rules were detected in your %s.htaccess file.<br /> Click the following link to see the lines added to that file. If you have upgraded the plugin, make sure these rules match."
+msgstr "S'han detectat regles mod rewrite del WP Super Cache al fitxer %s.htaccess.<br /> Feu clic al següent enllaç per veure quines línies cal afegir-hi. Si heu actualitzat l'extensió, assegureu-vos que les regles coincideixin."
+
+#: wp-cache.php:1483
+msgid "Mod Rewrite rules must be updated!"
+msgstr "Les regles de Mod Rewrite s'han d'actualitzar!"
+
+#: wp-cache.php:1480
+msgid "%s.htaccess has been updated with the necessary mod_rewrite rules. Please verify they are correct. They should look like this:"
+msgstr "El fitxer %s.htaccess s'ha actualitzat amb les regles mod_rewrite necessàries. Verifiqueu que són correctes. Haurien de quedar així:"
+
+#: wp-cache.php:1479
+msgid "Mod Rewrite rules updated!"
+msgstr "S'han actualitzat les regles de mod_rewrite!"
+
+#: wp-cache.php:1467
+msgid "The mod_rewrite rules changed since you last installed this plugin. Unfortunately, you must remove the old supercache rules before the new ones are updated. Refresh this page when you have edited your .htaccess file. If you wish to manually upgrade, change the following line: %1$s so it looks like this: %2$s The only changes are \"HTTP_COOKIE\" becomes \"HTTP:Cookie\" and \"wordpressuser\" becomes \"wordpress\". This is a WordPress 2.5 change but it&#8217;s backwards compatible with older versions if you&#8217;re brave enough to use them."
+msgstr "Les regles mod_rewrite han canviat des que heu instal·lat aquesta extensió. Malauradament, cal que esborreu les regles antigues de supercache per tal que es puguin actualitzar les noves. Refresqueu aquesta pàgina després d'haver editat el fitxer .htaccess. Si voleu fer l'actualització manualment, canvieu la sgüent línia: %1$s per tal que es vegi així: %2$s Els únics canvis són que «HTTP_COOKIE» esdevé «HTTP:Cookie» i «wordpressuser», «wordpress». Això és un canvi del WordPress 2.5 però és compatible amb versions anteriors si us atreviu a utilitzar-ho."
+
+#: wp-cache.php:1467
+msgid "Thank you for upgrading."
+msgstr "Gràcies per l'actualització."
+
+#: wp-cache.php:1460
+msgid "Mod Rewrite Rules"
+msgstr "Regles de reescriptura del mod"
+
+#: wp-cache.php:1427
+msgid "Debug"
+msgstr "Depuració"
+
+#: wp-cache.php:1426
+msgid "Plugins"
+msgstr "Extensions"
+
+#: wp-cache.php:1425
+msgid "Preload"
+msgstr "Precàrrega"
+
+#: wp-cache.php:1424
+msgid "Contents"
+msgstr "Contingut"
+
+#: wp-cache.php:1423
+msgid "CDN"
+msgstr "CDN"
+
+#: wp-cache.php:1421
+msgid "Easy"
+msgstr "Fàcil"
+
+#: wp-cache.php:1405
+msgid "Available Plugins"
+msgstr "Extensions disponibles"
+
+#: wp-cache.php:1376
+msgid "(may not always be accurate on busy sites)"
+msgstr "(és possible que no sempre sigui exacta en els llocs ocupats)"
+
+#: wp-cache.php:1372
+msgid "Cached %s seconds ago"
+msgstr "Emmagatzemat fa %s segons"
+
+#: wp-cache.php:1368
+msgid "Newest Cached Pages:"
+msgstr "Pàgines de la memòria cau més recents:"
+
+#: wp-cache.php:1367
+msgid "Cached pages since %1$s : <strong>%2$s</strong>"
+msgstr "Pàgines en memòria cau des de %1$s : <strong>%2$s</strong>"
+
+#: wp-cache.php:1357
+msgid "Rate This Plugin"
+msgstr "Qualifiqueu aquesta extensió"
+
+#: wp-cache.php:1350
+msgid "Need Help?"
+msgstr "Necessiteu ajuda?"
+
+#: wp-cache.php:1333
+msgid "<a href=\"%s\">WP Crontrol</a> is a useful plugin to use when trying to debug garbage collection and preload problems."
+msgstr "<a href=\"%s\">WP Crontrol</a> és una extensió útil si voleu intentar depurar problemes de recollida d'escombraries i precàrrega."
+
+#: wp-cache.php:1332
+msgid "<strong>Advanced users only:</strong> Install an object cache. Choose from <a href=\"%s\">Memcached</a>, <a href=\"%s\">XCache</a>, <a href=\"%s\">eAcccelerator</a> and others."
+msgstr "<strong>Només usuaris avançats:</strong> Instal·leu una memòria cau d'objectes. Trieu entre <a href=\"%s\">Memcached</a>, <a href=\"%s\">XCache</a>, <a href=\"%s\">eAcccelerator</a> i d'altres."
+
+#: wp-cache.php:1331
+msgid "<a href=\"%s\">Use Google Libraries</a> allows you to load some commonly used Javascript libraries from Google webservers. Ironically, it may reduce your Yslow score."
+msgstr "<a href=\"%s\">Utilitzeu Google Libraries</a>: Us permet carregar algunes biblioteques de Javascript que s’utilitzen habitualment des dels servidors web de Google. Irònicament, pot reduir la seva puntuació de Yslow."
+
+#: wp-cache.php:1327
+msgid "Caching is only one part of making a website faster. Here are some other plugins that will help:"
+msgstr "La memòria cau és només una part de fer que un lloc web sigui més ràpid. Aquí teniu algunes altres extensions que us ajudaran:"
+
+#: wp-cache.php:1326
+msgid "Recommended Links and Plugins"
+msgstr "Enllaços recomanats i extensions"
+
+#: wp-cache.php:1321 wp-cache.php:2943
+msgid "Delete Cache On All Blogs"
+msgstr "Esborra la memòria cau a tots els blocs"
+
+#: wp-cache.php:1314 wp-cache.php:2937 wp-cache.php:2960 wp-cache.php:3194
+#: wp-cache.php:3850 wp-cache.php:3860
+msgid "Delete Cache"
+msgstr "Esborra memòria cau"
+
+#: wp-cache.php:1311
+msgid "Cached pages are stored on your server as html and PHP files. If you need to delete them, use the button below."
+msgstr "Les pàgines en memòria cau s'emmagatzemen al servidor com a fitxers html i PHP. Si necessiteu suprimir-les, utilitzeu el botó de sota."
+
+#: wp-cache.php:1310
+msgid "Delete Cached Pages"
+msgstr "Esborrar les pàgines emmagatzemades"
+
+#: wp-cache.php:1302 wp-cache.php:1304
+msgid "Test Cache"
+msgstr "Provar la memòria cau"
+
+#: wp-cache.php:1297
+msgid "Send non-secure (non https) request for homepage"
+msgstr "Envia una sol·licitud de pàgina web no segura (no https)"
+
+#: wp-cache.php:1290
+msgid "You should check Page 1 and Page 2 above for errors. Your local server configuration may not allow your website to access itself."
+msgstr "Heu de comprovar si hi ha errors en la pàgina 1 i la pàgina 2. La configuració del servidor local no permet que el vostre lloc web accedeixi a si mateix."
+
+#: wp-cache.php:1289
+msgid "Enable logging on the Debug page here. That should help you track down the problem."
+msgstr "Habiliteu el registre a la pàgina de depuració aquí. Això us ajudarà a localitzar el problema."
+
+#: wp-cache.php:1288
+msgid "Load your homepage in a logged out browser, check the timestamp at the end of the html source. Load the page again and compare the timestamp. Caching is working if the timestamps match."
+msgstr "Carregueu la vostra pàgina d'inici en un navegador desconnectat, comproveu la marca de temps al final de la font html. Carregueu la pàgina de nou i compareu la marca de temps. La col·locació a la memòria cau funciona si la marca de temps coincideix."
+
+#: wp-cache.php:1287
+msgid "Things you can do:"
+msgstr "Coses que podeu fer:"
+
+#: wp-cache.php:1286
+msgid "The pages do not match! Timestamps differ or were not found!"
+msgstr "Les pàgines no coincideixen. Els rellotges horaris difereixen o no s’han trobat!"
+
+#: wp-cache.php:1284
+msgid "The timestamps on both pages match!"
+msgstr "Les marques de temps en totes dues pàgines coincideixen!"
+
+#: wp-cache.php:1283
+msgid "Page 2: %s"
+msgstr "Pàgina 2: %s"
+
+#: wp-cache.php:1282
+msgid "Page 1: %s"
+msgstr "Pàgina 1: %s"
+
+#: wp-cache.php:1275 wp-cache.php:1276
+msgid "Page %d: %d (%s)"
+msgstr "Pàgina %d: %d (%s)"
+
+#: wp-cache.php:1243
+msgid "Fetching second copy of %s: "
+msgstr "S'està obtenint la segona còpia de %s: "
+
+#: wp-cache.php:1258
+msgid "FAILED"
+msgstr "HA FALLAT"
+
+#: wp-cache.php:1243
+msgid "Fetching first copy of %s: "
+msgstr "S'està obtenint la primera còpia de %s: "
+
+#: wp-cache.php:1254
+msgid "OK"
+msgstr "D'acord"
+
+#: wp-cache.php:1243
+msgid "Fetching %s to prime cache: "
+msgstr "S'està obtenint %s a la memòria cau principal:"
+
+#: wp-cache.php:1236
+msgid "Test your cached website by clicking the test button below."
+msgstr "Proveu el vostre lloc web en memòria cau fent clic al botó de prova següent."
+
+#: wp-cache.php:1235
+msgid "Cache Tester"
+msgstr "Prova de l'emmagatzematge de la memòria cau"
+
+#: wp-cache.php:1230
+msgid "Notice: Simple caching enabled but Supercache mod_rewrite rules from expert mode detected. Cached files will be served using those rules. If your site is working ok, please ignore this message. Otherwise, you can edit the .htaccess file in the root of your install and remove the SuperCache rules."
+msgstr "Avís: l’emmagatzematge simple en la memòria cau s’ha habilitat, però s'han detectat les regles mod_rewrite de Supercache des del mode expert. Els fitxers emmagatzemats a la memòria cau es serviran utilitzant aquestes normes. Si el vostre lloc funciona correctament, ignoreu aquest missatge. En cas contrari, podeu editar el fitxer .htaccess a l’arrel de la vostra instal·lació i eliminar les regles de SuperCache."
+
+#: wp-cache.php:1213
+msgid "Caching Off"
+msgstr "Deshabilitat"
+
+#: wp-cache.php:1212
+msgid "Caching On"
+msgstr "Habilitat"
+
+#: wp-cache.php:1186
+msgid "Accepted Filenames &amp; Rejected URIs"
+msgstr "Noms de fitxer acceptats i enllaços rebutjats"
+
+#: wp-cache.php:1177 wp-cache.php:1233
+msgid "Update Status"
+msgstr "Actualitza l'estat"
+
+#: wp-cache.php:1173
+msgid "Need help? Check the <a href=\"%1$s\">Super Cache readme file</a>. It includes installation documentation, a FAQ and Troubleshooting tips. The <a href=\"%2$s\">support forum</a> is also available. Your question may already have been answered."
+msgstr "Necessiteu ajuda? Comproveu el <a href=\"%1$s\">fitxer readme de Super Cache</a>. Inclou documentació d’instal·lació, consells sobre solucions de problemes i preguntes freqüents. El <a href=\"%2$s\">fòrum de suport</a> també està disponible. Pot ser que la vostra pregunta ja s’hagi respost."
+
+#: wp-cache.php:1172
+msgid "Please see the <a href=\"%1$s/wp-super-cache/readme.txt\">readme.txt</a> for instructions on uninstalling this script. Look for the heading, \"How to uninstall WP Super Cache\"."
+msgstr "Consulteu el fitxer <a href=\"%1$s/wp-super-cache/readme.txt\">readme.txt</a> per obtenir instruccions sobre la desinstal·lació d’aquest script. Cerqueu l’encapçalament \"Com desinstal·lar WP Super Cache\"."
+
+#: wp-cache.php:1171
+msgid "If uninstalling this plugin, make sure the directory <em>%s</em> is writeable by the webserver so the files <em>advanced-cache.php</em> and <em>cache-config.php</em> can be deleted automatically. (Making sure those files are writeable is probably a good idea!)"
+msgstr "Si desinstal·leu aquesta extensió, assegureu-vos que el directori <em>%s</em> es pot ser escrit pel servidor web de manera que els fitxers <em>advanced-cache.php</em> i <em>cache-config.php</em> es puguin suprimir automàticament. (Assegurar-se que els fitxers es puguin escriure és probablement una bona idea!)"
+
+#: wp-cache.php:1170
+msgid "Uninstall this plugin on the plugins page. It will automatically clean up after itself. If manual intervention is required, then simple instructions are provided."
+msgstr "Desinstal·leu aquesta extensió a la pàgina de connectors. Es netejarà automàticament ell mateix. Si es requereix una intervenció manual, es proporcionaran instruccions senzilles."
+
+#: wp-cache.php:1168
+msgid "Note:"
+msgstr "Nota:"
+
+#: wp-cache.php:1133
+msgid "<strong>DO NOT CACHE PAGE</strong> secret key: <a href=\"%s\">%s</a>"
+msgstr "<strong>NO EMMAGATZEMEU</strong> la clau secreta de la pàgina: <a href=\"%s\">%s</a>"
+
+#: wp-cache.php:1128
+msgid "List the newest cached pages on this page."
+msgstr "Enumereu les pàgines de la memòria cau més recents d’aquesta pàgina."
+
+#: wp-cache.php:1127
+msgid "Only refresh current page when comments made."
+msgstr "Només actualitza la pàgina actual quan es facin comentaris."
+
+#: wp-cache.php:1126
+msgid "Extra homepage checks. (Very occasionally stops homepage caching)"
+msgstr "Revisions addicionals de la pàgina d'inici. (Molt ocasionalment deté l'emmagatzematge a la pàgina principal)"
+
+#: wp-cache.php:1125
+msgid "Clear all cache files when a post or page is published or updated."
+msgstr "Esborreu tots els fitxers de memòria cau quan es publiqui o actualitzi una publicació o pàgina."
+
+#: wp-cache.php:1124
+msgid "Remove UTF8/blog charset support from .htaccess file. Only necessary if you see odd characters or punctuation looks incorrect. Requires rewrite rules update."
+msgstr "Elimineu el suport de caràcters UTF8 /blog del fitxer .htaccess. És necessari activar-ho només si veieu caràcters estranys o signes de puntuació incorrectes. Requereix actualització de regles de reescriptura."
+
+#: wp-cache.php:1122
+msgid "Mobile Prefixes"
+msgstr "Prefixos de mòbils"
+
+#: wp-cache.php:1122
+msgid "Mobile Browsers"
+msgstr "Navegadors mòbils"
+
+#: wp-cache.php:1120
+msgid "Mobile device support. (External plugin or theme required. See the <a href=\"https://wordpress.org/plugins/wp-super-cache/faq/\">FAQ</a> for further details.)"
+msgstr "Suport per a dispositius mòbils. (Es requereix un connector extern o tema. Vegeu les <a href=\"https://wordpress.org/plugins/wp-super-cache/faq/\">PMF</a> per obtenir-ne més detalls.)"
+
+#: wp-cache.php:1119
+msgid "Enable dynamic caching. (See <a href=\"https://wordpress.org/plugins/wp-super-cache/faq/\">FAQ</a> or wp-super-cache/plugins/dynamic-cache-test.php for example code.)"
+msgstr "Activa la col·locació dinàmica de la memòria cau. (Vegeu les <a href=\"https://wordpress.org/plugins/wp-super-cache/faq/\">PMF</a> o wp-super-cache/plugins/dynamic-cache-test.php per veure el codi d'exemple.)"
+
+#: wp-cache.php:1115 wp-cache.php:1422 wp-cache.php:2168
+msgid "Advanced"
+msgstr "Avançat"
+
+#: wp-cache.php:1100
+msgid "Cache rebuild. Serve a supercache file to anonymous users while a new file is being generated."
+msgstr "Reconstrucció de memòria cau. Serveix un arxiu de supercaché a usuaris anònims mentre es genera un nou arxiu."
+
+#: wp-cache.php:1109
+msgid "Make known users anonymous so they&#8217;re served supercached static files."
+msgstr "Fes que els usuaris coneguts siguin anònims perquè serveixin fitxers estàtics superemmagatzemats."
+
+#: wp-cache.php:1091
+msgid "Don&#8217;t cache pages with GET parameters. (?x=y at the end of a url)"
+msgstr "No emmagatzemes pàgines amb paràmetres GET (?x=y al final de l'enllaç)"
+
+#: wp-cache.php:1108
+msgid "304 support is disabled by default because some hosts have had problems with the headers used in the past."
+msgstr "El suport 304 està desactivat per defecte perquè alguns hosts han tingut problemes amb els encapçalaments utilitzats en el passat."
+
+#: wp-cache.php:1097
+msgid "Compression is disabled by default because some hosts have problems with compressed files. Switching it on and off clears the cache."
+msgstr "La compressió està desactivada per defecte perquè alguns allotjaments tenen problemes amb els fitxers comprimits. Activar i desactivar-lo esborra la memòria cau."
+
+#: wp-cache.php:1096
+msgid "Compress pages so they&#8217;re served more quickly to visitors."
+msgstr "Comprimeix pàgines per tal que se serveixin més ràpidament als visitants."
+
+#: wp-cache.php:1094
+msgid "Warning! Compression is disabled as gzencode() function was not found."
+msgstr "Atenció! La compressió està desactivada, ja que no s’ha trobat la funció gzencode()."
+
+#: wp-cache.php:1083
+msgid "Miscellaneous"
+msgstr "Miscel·lània"
+
+#: wp-cache.php:1073 wp-cache.php:1090 wp-cache.php:1096 wp-cache.php:1100
+#: wp-cache.php:1107 wp-cache.php:1126 wp-cache.php:1212
+msgid "Recommended"
+msgstr "Recomanat"
+
+#: wp-cache.php:1061 wp-cache.php:1064 wp-cache.php:1209
+msgid "Caching"
+msgstr "Emmagatzematge en memòria cau"
+
+#: wp-cache.php:900
+msgid "<strong>Page last cached:</strong> %s"
+msgstr "<strong>Última pàgina emmagatzemada en memòria cau:</strong> %s"
+
+#: wp-cache.php:896
+msgid "Currently caching from post %d to %d."
+msgstr "S'està emmagatzemant a la memòria cau des de la publicació %d fins a %d."
+
+#: wp-cache.php:914
+msgid "Full refresh of cache in %d hours %d minutes and %d seconds."
+msgstr "Actualització completa de la memòria cau en %d hores, %d minuts i %d segons."
+
+#: wp-cache.php:913
+msgid "Refresh of cache in %d hours %d minutes and %d seconds."
+msgstr "Actualització de la memòria cau en %d hores, %d minuts i %d segons."
+
+#: wp-cache.php:1019
+msgid "Less emails, 1 at the start and 1 at the end of preloading all posts."
+msgstr "Menys correus electrònics, 1 al principi i 1 al final de la càrrega prèvia de totes les publicacions."
+
+#: wp-cache.php:1018
+msgid "Medium, 1 email per 100 posts."
+msgstr "Mitjà, 1 correu electrònic per cada 100 publicacions."
+
+#: wp-cache.php:1017
+msgid "Many emails, 2 emails per 100 posts."
+msgstr "Molts correus electrònics, 2 correus electrònics per cada 100 publicacions."
+
+#: wp-cache.php:1012
+msgid "Send me status emails when files are refreshed."
+msgstr "Envia'm correus electrònics d’estat quan els fitxers s’actualitzin."
+
+#: wp-cache.php:1011
+msgid "Preload tags, categories and other taxonomies."
+msgstr "Carregua etiquetes, categories i altres taxonomies."
+
+#: wp-cache.php:1001
+msgid "Preload %s posts."
+msgstr "Precarrega %s entrades."
+
+#: wp-cache.php:988
+msgid "all"
+msgstr "tots"
+
+#: wp-cache.php:975
+msgid "Refresh preloaded cache files every %s minutes. (0 to disable, minimum %d minutes.)"
+msgstr "Actualitza tots els fitxers de memòria cau precarregats cada %s minuts. (0 per desactivar-ho, mínim %d minuts.)"
+
+#: wp-cache.php:970
+msgid "Preloading creates lots of files however. Caching is done from the newest post to the oldest so please consider only caching the newest if you have lots (10,000+) of posts. This is especially important on shared hosting."
+msgstr "Tanmateix, la precàrrega crea molts fitxers. La col·locació a la memòria cau es realitza des del missatge més recent al més antic, per tant, només heu de tenir en compte la memòria cau el més nou si teniu molts (10.000 +) de publicacions. Això és especialment important en l’allotjament compartit."
+
+#: wp-cache.php:969
+msgid "This will cache every published post and page on your site. It will create supercache static files so unknown visitors (including bots) will hit a cached page. This will probably help your Google ranking as they are using speed as a metric when judging websites now."
+msgstr "Això emmagatzemarà a la memòria cau totes les publicacions i pàgines publicades al vostre lloc. Crearà fitxers estàtics de supercau, de manera que els visitants desconeguts (inclosos els bots) arribaran a la pàgina de la memòria cau. Això probablement ajudarà el rànquing de Google, ja que ara utilitzen la velocitat com a mètrica a l'hora de jutjar els llocs web."
+
+#: wp-cache.php:1034
+msgid "Preload Cache Now"
+msgstr "Precarrega la memòria cau ara"
+
+#: wp-cache.php:3954
+msgid "Scheduled preloading of cache cancelled."
+msgstr "S'ha cancel·lat el precarregament programat de la memòria cau."
+
+#: wp-cache.php:3929
+msgid "Scheduled preloading of cache almost cancelled. It may take up to a minute for it to cancel completely."
+msgstr "La precàrrega programada de la memòria cau gairebé s'ha cancel·lat. Pot trigar fins a un minut per tal de cancel·lar-se completament."
+
+#: wp-cache.php:907 wp-cache.php:1036
+msgid "Cancel Cache Preload"
+msgstr "Cancel·la la precàrrega de la memòria cau"
+
+#: wp-cache.php:965
+msgid "Caching must be enabled to use this feature"
+msgstr "Cal que estigui habilitada la memòria cau per utilitzar aquesta funció"
+
+#: wp-cache.php:928
+msgid "Configuration file changed, some values might be wrong. Load the page again from the \"Settings\" menu to reset them."
+msgstr "S'ha canviat el fitxer de configuració, alguns valors poden estar equivocats. Torneu a carregar la pàgina des del menú \"Configuració\" per restaurar-les."
+
+#: wp-cache.php:868
+msgid "Notice: <em>Expert mode caching enabled</em>. Showing Advanced Settings Page by default."
+msgstr "Avís: <em>Activada la memòria cau en mode expert</em>. Per defecte, es mostra la pàgina de configuració avançada."
+
+#: wp-cache.php:853
+msgid "WP Super Cache Settings"
+msgstr "Configuració del WP Super Cache"
+
+#: wp-cache.php:749
+msgid "<strong>Warning!</strong> You attempted to enable compression but <code>zlib.output_compression</code> is enabled. See #21 in the Troubleshooting section of the readme file."
+msgstr "<strong>Atenció!</strong> Heu intentat habilitar la compressió, però <code>zlib.output_compression</code> està habilitat. Vegeu el número 21 a la secció Resolució de problemes del fitxer readme."
+
+#: wp-cache.php:479
+msgid "It appears you have WordPress installed in a sub directory as described <a href=\"https://codex.wordpress.org/Giving_WordPress_Its_Own_Directory\">here</a>. Unfortunately, WordPress writes to the .htaccess in the install directory, not where your site is served from.<br />When you update the rewrite rules in this plugin you will have to copy the file to where your site is hosted. This will be fixed in the future."
+msgstr "Sembla que heu instal·lat WordPress en un subdirectori com es descriu <a href=\"https://codex.wordpress.org/Giving_WordPress_Its_Own_Directory\">aquí </a>. Malauradament, WordPress escriu al fitxer .htaccess al directori d’instal·lació i no d’on serveix el vostre lloc.<br /> Quan actualitzeu les regles de reescriptura d’aquesta extensió, haureu de copiar el fitxer on allotja el vostre lloc. Això se solucionarà en el futur."
+
+#: wp-cache.php:478
+msgid ".htaccess file may need to be moved"
+msgstr "El fitxer .htaccess necessita ser mogut"
+
+#: wp-cache.php:459
+msgid "The following Apache modules are missing. The plugin will work in simple mode without them but in expert mode, your visitors may see corrupted pages or out of date content however."
+msgstr "Falten els següents mòduls Apache. El connector funcionarà en mode senzill sense ells, però en mode expert, els vostres visitants poden veure pàgines danyades o no actualitzades."
+
+#: wp-cache.php:458
+msgid "Missing Apache Modules"
+msgstr "Falten mòduls d'Apache"
+
+#: wp-cache.php:451
+msgid "Set the expiry date on supercached pages. Visitors may not see new pages when they refresh or leave comments without this module."
+msgstr "Estableix la data de caducitat a les pàgines superemmagatzemades. És possible que els visitants no vegin pàgines noves quan actualitzin o deixin comentaris sense aquest mòdul."
+
+#: wp-cache.php:451
+msgid "Required to set caching information on supercache pages. IE7 users will see old pages without this module."
+msgstr "Obligatori per establir informació sobre la col·locació a la memòria cau a les pàgines de supercat. Els usuaris de IE7 veuran pàgines antigues sense aquest mòdul."
+
+#: wp-cache.php:451
+msgid "Required to serve compressed supercache files properly."
+msgstr "Necessari per servir correctament els fitxers de superemmagatzematge de compressió."
+
+#: wp-cache.php:438
+msgid "Add the rules yourself. Edit %s.htaccess and find the block of code enclosed by the lines <code># BEGIN WPSuperCache</code> and <code># END WPSuperCache</code>. There are two sections that look very similar. Just below the line <code>%%{HTTP:Cookie} !^.*(comment_author_|%s|wp-postpass_).*$</code> add these lines: (do it twice, once for each section)"
+msgstr "Afegiu les regles manualment. Editeu %s.htaccess i cerqueu el bloc de codi delimitat per<code># BEGIN WPSuperCache</code> i <code># END WPSuperCache</code>. Hi ha dues seccions que són molt similars. Després de <code>%%{HTTP:Cookie} !^.*(comment_author_|%s|wp-postpass_).*$</code> afegiu aquestes línies addicionals (feu-ho dues vegades, una per a cada secció):"
+
+#: wp-cache.php:437
+msgid "Delete the plugin mod_rewrite rules in %s.htaccess enclosed by <code># BEGIN WPSuperCache</code> and <code># END WPSuperCache</code> and let the plugin regenerate them by reloading this page."
+msgstr "Esborreu les regles mod_rewrite de l'extensió a %s.htaccess delimitades per<code># BEGIN WPSuperCache</code> i <code># END WPSuperCache</code> i refresqueu aquesta pàgina per tal que l'extensió les regeneri."
+
+#: wp-cache.php:436 wp-cache.php:445
+msgid "Scroll down the Advanced Settings page and click the <strong>Update Mod_Rewrite Rules</strong> button."
+msgstr "Desplaceu-vos cap avall per la pàgina de Configuració avançada i feu clic al botó <strong>Actualitza les regles de modificació</strong>."
+
+#: wp-cache.php:435
+msgid "Set the plugin to simple mode and enable mobile support."
+msgstr "Configureu l'extensió en mode senzill i habiliteu el suport per a mòbils."
+
+#: wp-cache.php:434
+msgid "Mobile support requires extra rules in your .htaccess file, or you can set the plugin to simple mode. Here are your options (in order of difficulty):"
+msgstr "El suport per a mòbils requereix normes addicionals al vostre fitxer .htaccess, o bé podeu configurar l'extensió en mode senzill. Aquí teniu les vostres opcions (per ordre de dificultat):"
+
+#: wp-cache.php:433 wp-cache.php:444
+msgid "The rewrite rules required by this plugin have changed or are missing. "
+msgstr "Les regles de reescriptura requerides per aquesta extensió han canviat o es troben a faltar."
+
+#: wp-cache.php:432 wp-cache.php:443
+msgid "Rewrite rules must be updated"
+msgstr "S'han d'actualitzar les regles de reescriptura"
+
+#: wp-cache.php:426
+msgid "This will have no affect on ordinary users but mobile users will see uncached pages."
+msgstr "Això no afectarà els usuaris normals, però els usuaris de dispositius mòbils veuran pàgines sense adjuntar."
+
+#: wp-cache.php:426
+msgid "For best performance you should enable \"Mobile device support\" or delete the mobile rewrite rules in your .htaccess. Look for the 2 lines with the text \"2.0\\ MMP|240x320\" and delete those."
+msgstr "Per obtenir el millor rendiment, heu d’habilitar \"Suport per a dispositius mòbils\" o suprimir les regles de reescriptura de mòbils del vostre .htaccess. Cerqueu les 2 línies amb el text \"2.0\\ MMP|240x320\" i suprimiu-les."
+
+#: wp-cache.php:425
+msgid "Mobile rewrite rules detected"
+msgstr "Regles de reescriptura mòbil detectades"
+
+#: wp-cache.php:403
+msgid "You should change the permissions on %s and make it more restrictive. Use your ftp client, or the following command to fix things:"
+msgstr "Heu de canviar els permisos a %s i fer-lo més restrictiu. Utilitzeu el vostre client ftp o l’ordre següent per solucionar les coses:"
+
+#: wp-cache.php:402
+msgid "Warning! %s is writeable!"
+msgstr "Atenció! %s es pot escriure!"
+
+#: wp-cache.php:381 wp-cache.php:409 wp-cache.php:484 wp-cache.php:2353
+msgid "Dismiss"
+msgstr "Descarta"
+
+#: wp-cache.php:376
+msgid "Garbage collection by this plugin clears out expired and old cached pages on a regular basis. Use <a href=\"#expirytime\">this form</a> to enable it."
+msgstr "La recollida d’escombraries d’aquest connector elimina les pàgines velles i amagades de la memòria cau de manera regular. Utilitzeu <a href=\"#expirytime\">aquest formulari</a> per habilitar-lo."
+
+#: wp-cache.php:375
+msgid "Warning! Garbage collection is not scheduled!"
+msgstr "Advertència! La recol·lecció de brossa no està programada!"
+
+#: wp-cache.php:357
+msgid "Read-only:"
+msgstr "Només lectura:"
+
+#: wp-cache.php:356
+msgid "Writeable:"
+msgstr "Escriptible:"
+
+#: wp-cache.php:355 wp-cache.php:404
+msgid "<a href=\"https://codex.wordpress.org/Changing_File_Permissions\">This page</a> explains how to change file permissions."
+msgstr "<a href=\"https://codex.wordpress.org/Changing_File_Permissions\">Aquesta pàgina</a> us explica com canviar els permisos dels fitxers."
+
+#: wp-cache.php:354
+msgid "A simple way of doing that is by changing the permissions temporarily using the CHMOD command or through your ftp client. Make sure it&#8217;s globally writeable and it should be fine."
+msgstr "Una manera senzilla de fer-ho és canviant els permisos temporalment mitjançant l’ordre CHMOD o mitjançant el vostre client ftp. Assegureu-vos que es pot escriure de forma global i hauria de ser bo."
+
+#: wp-cache.php:353
+msgid "The WP Super Cache configuration file is <code>%s/wp-cache-config.php</code> and cannot be modified. That file must be writeable by the web server to make any changes."
+msgstr "El fitxer de configuració de WP Super Cache és <code>%s/wp-cache-config.php</code> i no es pot modificar. Aquest fitxer ha de poder ser escrit pel servidor web per fer qualsevol canvi."
+
+#: wp-cache.php:352
+msgid "Read Only Mode. Configuration cannot be changed."
+msgstr "Mode de només lectura. La configuració no es pot canviar."
+
+#: wp-cache.php:346
+msgid "It appears that mod_rewrite is not installed. Sometimes this check isn&#8217;t 100% reliable, especially if you are not using Apache. Please verify that the mod_rewrite module is loaded. It is required for serving Super Cache static files in expert mode. You will still be able to simple mode."
+msgstr "Sembla que mod_rewrite no està instal·lat. De vegades, aquesta comprovació no és fiable al 100%, sobretot si no utilitzeu Apache. Comproveu que es carrega el mòdul mod_rewrite. És necessari per servir fitxers estàtics de Super Cache en mode expert. Encara podràs fer el mode senzill."
+
+#: wp-cache.php:345
+msgid "Mod rewrite may not be installed!"
+msgstr "Mod rewrite no pot ser instal·lat!"
+
+#: wp-cache.php:335
+msgid "PHP is compressing the data sent to the visitors of your site. Disabling this is recommended as the plugin caches the compressed output once instead of compressing the same page over and over again. Also see #21 in the Troubleshooting section. See <a href=\"http://php.net/manual/en/zlib.configuration.php\">this page</a> for instructions on modifying your php.ini."
+msgstr "PHP comprimeix les dades enviades als visitants del vostre lloc. Es recomana desactivar-lo, ja que el connector emmagatzema la sortida comprimida en comptes de comprimir la mateixa pàgina una vegada i una altra. Vegeu també el número 21 de la secció Resolució de problemes. Vegeu <a href=\"http://php.net/manual/en/zlib.configuration.php\">aquesta pàgina</a> per obtenir instruccions sobre com modificar el vostre php.ini."
+
+#: wp-cache.php:334
+msgid "Zlib Output Compression Enabled!"
+msgstr "Compressió de sortida Zlib habilitada!"
+
+#: wp-cache.php:318
+msgid "Cannot continue... fix previous problems and retry."
+msgstr "No es pot continuar... Solucioneu els problemes anteriors i torneu a intentar-ho."
+
+#: wp-cache.php:302
+msgid "Unfortunately, WordPress cannot find the file wp-cron.php. This script is required for the correct operation of garbage collection by this plugin, WordPress scheduled posts as well as other critical activities."
+msgstr "Malauradament, WordPress no pot trobar el fitxer wp-cron.php. Aquest script és necessari per al funcionament correcte de la recollida d’escombraries mitjançant aquesta extensió, publicacions programades per WordPress així com altres activitats crítiques."
+
+#: wp-cache.php:289 wp-cache.php:303
+msgid "Please see entry 16 in the <a href=\"%s\">Troubleshooting section</a> of the readme.txt"
+msgstr "Vegeu l'entrada 16 a la <a href=\"%s\">secció de solució de problemes</a> del fitxer readme.txt"
+
+#: wp-cache.php:288
+msgid "Your server thinks your hostname resolves to %s. Some services such as garbage collection by this plugin, and WordPress scheduled posts may not operate correctly."
+msgstr "El vostre servidor creu que el nom d'amfitrió es resol a %s. Alguns serveis com ara la recollida d’escombraries mitjançant aquest connector i les publicacions programades de WordPress poden no funcionar correctament."
+
+#: wp-cache.php:287
+msgid "Warning! Your hostname \"%s\" resolves to %s"
+msgstr "Atenció! El vostre nom de domini \"%s\" resol a %s"
+
+#: wp-cache.php:269
+msgid "A custom url or permalink structure is required for this plugin to work correctly. Please go to the <a href=\"options-permalink.php\">Permalinks Options Page</a> to configure your permalinks."
+msgstr "Es requereix un URL personalitzat o una estructura d'enllaços permanents perquè aquesta extensió funcioni correctament. Aneu a la pàgina d’opcions <a href=\"options-permalink.php\">Enllaços permanents</a> per configurar els vostres enllaços permanents."
+
+#: wp-cache.php:268
+msgid "Permlink Structure Error"
+msgstr "Error d'estructura d'enllaç permanent"
+
+#: wp-cache.php:262
+msgid "You or an administrator must disable this. See the <a href=\"http://php.net/features.safe-mode\">safe mode manual page</a> for further details. This cannot be disabled in a .htaccess file unfortunately. It must be done in the php.ini config file."
+msgstr "Vós o un administrador heu de desactivar-ho. Consulteu la <a href=\"http://php.net/features.safe-mode\">pàgina del manual del mode segur</a> per obtenir més informació. No es pot desactivar en un fitxer .htaccess; cal fer-ho al fitxer de configuració php.ini."
+
+#: wp-cache.php:260
+msgid "You or an administrator may be able to make it work by changing the group owner of the plugin scripts to match that of the web server user. The group owner of the %s/cache/ directory must also be changed. See the  <a href=\"http://php.net/features.safe-mode\">safe mode manual page</a> for further details."
+msgstr "Vós o un administrador podeu fer que funcioni canviant el propietari del grup de les seqüències d’ordres del connector per tal que coincideixi amb l’usuari del servidor web. El propietari del grup del directori %s/cache/ també s'ha de canviar. Vegeu el document <a href=\"http://php.net/features.safe-mode\">mode manual de pàgina de mode segur</a> per a més detalls."
+
+#: wp-cache.php:258
+msgid "Your server is set up to check the owner of PHP scripts before allowing them to read and write files."
+msgstr "El servidor està configurat per a verificar el propietari dels scripts PHP abans de permetre'ls llegir i escriure fitxers."
+
+#: wp-cache.php:255
+msgid "You may experience problems running this plugin because SAFE MODE is enabled."
+msgstr "Podeu experimentar problemes en executar aquesta extensió perquè el MODE SEGUR està habilitat."
+
+#: wp-cache.php:254
+msgid "Warning! PHP Safe Mode Enabled!"
+msgstr "Advertència! Mode segur de PHP habilitat!"
+
+#: wp-cache.php:131
+msgid "Please create %s /wp-cache-config.php from wp-super-cache/wp-cache-config-sample.php"
+msgstr "Si us plau creeu %s /wp-cache-config.php des de wp-super-cache/wp-cache-config-sample.php"
+
+#: wp-cache-phase2.php:3165
+msgid "[%1$s] WP Super Cache GC Report"
+msgstr "[%1$s] Informe de WP Super Cache GC"
+
+#: wp-cache-phase2.php:3156
+msgid "Cache expiry cron job took more than 30 seconds. You should probably run the garbage collector more often."
+msgstr "El treball de cron d’expiració de la memòria cau va durar més de 30 segons. Probablement haureu d’executar el recol·lector d’escombraries amb més freqüència."
+
+#: wp-cache-phase2.php:3152
+msgid "Cache expiry cron job failed. Job will run again in 10 seconds."
+msgstr "Ha fallat la tasca de cron de caducitat de la memòria cau. El treball es tornarà a executar en 10 segons."
+
+#: plugins/wptouch.php:46
+msgid "WPTouch plugin detected! Please go to the Supercache plugins page and enable the WPTouch helper plugin."
+msgstr "S'ha detectat l'extensió WPTouch! Aneu a la pàgina d'extensións de WP Super Cache i habiliteu l'extensió d’ajuda de WPTouch."
+
+#: plugins/wptouch.php:32
+msgid "WPTouch support is now %s"
+msgstr "El suport de WPTouch està %s"
+
+#: plugins/wptouch.php:25
+msgid "Provides support for <a href=\"https://wordpress.org/plugins/wptouch/\">WPTouch</a> mobile theme and plugin."
+msgstr "Proporciona suport per al tema i l'extensió per a mòbils de <a href=\"https://wordpress.org/plugins/wptouch/\">WPTouch</a>."
+
+#: plugins/wptouch.php:20 plugins/wptouch.php:138
+msgid "WPTouch"
+msgstr "WPTouch"
+
+#: plugins/multisite.php:45
+msgid "Caching has been disabled on this blog on the Network Admin Sites page."
+msgstr "La memòria cau s'ha desactivat en aquest bloc a la pàgina Llocs d’administració de la xarxa."
+
+#: plugins/multisite.php:39 wp-cache.php:1643
+msgid "Disable"
+msgstr "Deshabilita"
+
+#: plugins/multisite.php:37 wp-cache.php:1643
+msgid "Enable"
+msgstr "Habilita"
+
+#: plugins/multisite.php:14
+msgid "Cached"
+msgstr "Emmagatzemat"
+
+#: plugins/jetpack.php:42
+msgid "Jetpack Mobile Theme support is now %s"
+msgstr "El suport del tema de Jetpack Mobile està %s"
+
+#: plugins/jetpack.php:35
+msgid "Provides support for the <a href=\"https://wordpress.org/plugins/jetpack/\">Jetpack</a> mobile theme and plugin. PHP caching mode and mobile support will be enabled too."
+msgstr "Proporciona suport per al tema i l'extensió de <a href=\"https://wordpress.org/plugins/jetpack/\">Jetpack</a>. El mode de memòria cau de PHP i el suport per a mòbils també s’activaran."
+
+#: plugins/jetpack.php:28
+msgid "Jetpack not found in %s. Install it and enable the mobile theme and this helper plugin to cache visits by mobile visitors."
+msgstr "No s’ha trobat Jetpack a %s. Instal·leu-lo i habiliteu el tema del mòbil i aquesta extensió d’ajuda per a emmagatzemar a la memòria cau les visites dels visitants mòbils."
+
+#: plugins/jetpack.php:25 plugins/jetpack.php:94
+msgid "Jetpack Mobile Theme"
+msgstr "Tema mòbil de Jetpack"
+
+#: plugins/domain-mapping.php:108
+msgid "Domain Mapping plugin detected! Please go to the Supercache plugins page and enable the domain mapping helper plugin."
+msgstr "S'ha detectat el connector de mapatge de dominis! Aneu a la pàgina de connectors de Supercache i habiliteu el connector d’ajuda de mapatge de dominis."
+
+#: plugins/domain-mapping.php:89
+msgid "Domain Mapping support is now %s"
+msgstr "El suport per al mapatge de dominis està %s"
+
+#: plugins/domain-mapping.php:85
+msgid "Provides support for <a href=\"https://wordpress.org/plugins/wordpress-mu-domain-mapping/\">Domain Mapping</a> plugin to map multiple domains to a blog."
+msgstr "Proporciona suport per a <a href=\"https://wordpress.org/plugins/wordpress-mu-domain-mapping/\">l'extensió de mapatge de dominis</a> per mapar diversos dominis a un bloc."
+
+#: plugins/domain-mapping.php:79 plugins/domain-mapping.php:132
+msgid "Domain Mapping"
+msgstr "Mapatge de dominis"
+
+#: plugins/badbehaviour.php:88 wp-cache.php:1661 wp-cache.php:1666
+#: wp-cache.php:2610
+msgid "Warning!"
+msgstr "Avís!"
+
+#: plugins/badbehaviour.php:79
+msgid "Bad Behavior support is now %s"
+msgstr "Mal comportament està %s"
+
+#: plugins/badbehaviour.php:72
+msgid "(Only WPCache caching supported, disabled compression and requires <a href=\"http://www.bad-behavior.ioerror.us/\">Bad Behavior</a> in \"%s/plugins/bad-behavior/\") "
+msgstr "(Només la memòria cau de WPCache és compatible, la compressió deshabilitada i requereix <a href=\"http://www.bad-behavior.ioerror.us/\">Mal comportament</a> \"%s/plugins/bad-behavior/\") "
+
+#: plugins/badbehaviour.php:67 plugins/badbehaviour.php:98
+msgid "Bad Behavior"
+msgstr "Mal comportament"
+
+#: plugins/badbehaviour.php:51
+msgid "Bad Behaviour not found. Please check your install."
+msgstr "No s’ha trobat Mal comportament. Comproveu la vostra instal·lació."
+
+#: plugins/wptouch.php:34 plugins/domain-mapping.php:94
+#: plugins/awaitingmoderation.php:46 plugins/jetpack.php:44
+#: plugins/badbehaviour.php:81
+msgid "Update"
+msgstr "Actualitza"
+
+#: plugins/awaitingmoderation.php:44
+msgid "Awaiting Moderation is now %s"
+msgstr "En espera de moderació està %s"
+
+#: plugins/wptouch.php:30 plugins/domain-mapping.php:90
+#: plugins/awaitingmoderation.php:42 plugins/jetpack.php:40
+msgid "disabled"
+msgstr "deshabilitat"
+
+#: plugins/wptouch.php:28 plugins/domain-mapping.php:90
+#: plugins/awaitingmoderation.php:40 plugins/jetpack.php:38
+#: plugins/badbehaviour.php:75 wp-cache.php:2161
+msgid "enabled"
+msgstr "habilitat"
+
+#: plugins/awaitingmoderation.php:36 plugins/awaitingmoderation.php:61
+msgid "Enables or disables plugin to Remove the text \"Your comment is awaiting moderation.\" when someone leaves a moderated comment."
+msgstr "Habilita o desactiva el connector per eliminar el text \"El vostre comentari està pendent de moderació\" quan algú deixa un comentari moderat."
+
+#: plugins/wptouch.php:23 plugins/domain-mapping.php:83
+#: plugins/awaitingmoderation.php:35 plugins/jetpack.php:33
+#: plugins/badbehaviour.php:70 wp-cache.php:1630
+msgid "Disabled"
+msgstr "Deshabilitat"
+
+#: plugins/wptouch.php:22 plugins/domain-mapping.php:82
+#: plugins/awaitingmoderation.php:34 plugins/jetpack.php:32
+#: plugins/badbehaviour.php:69 wp-cache.php:1630
+msgid "Enabled"
+msgstr "Habilitat"
+
+#: plugins/awaitingmoderation.php:32 plugins/awaitingmoderation.php:60
+msgid "Awaiting Moderation"
+msgstr "En espera de moderació"
+
+#: plugins/awaitingmoderation.php:4
+msgid "Your comment is awaiting moderation."
+msgstr "El comentari està esperant ser moderat."
+
+#: ossdl-cdn.php:375
+msgid "CDN functionality provided by <a href=\"https://wordpress.org/plugins/ossdl-cdn-off-linker/\">OSSDL CDN Off Linker</a> by <a href=\"http://mark.ossdl.de/\">Mark Kubacki</a>"
+msgstr "Funcionalitat de CDN proporcionada per <a href=\"https://wordpress.org/plugins/ossdl-cdn-off-linker/\">OSSDL CDN Off Linker</a> per  <a href=\"http://mark.ossdl.de/\">Mark Kubacki</a>"
+
+#: ossdl-cdn.php:373
+msgid "Save Changes"
+msgstr "Desa els canvis"
+
+#: ossdl-cdn.php:369
+msgid "Skip https URLs to avoid \"mixed content\" errors"
+msgstr "Evita els URL https per evitar errors de \"contingut mixt\""
+
+#: ossdl-cdn.php:365
+msgid "These <a href=\"https://www.wikipedia.org/wiki/CNAME_record\">CNAMES</a> will be used in place of %1$s for rewriting (in addition to the off-site URL above). Use a comma as the delimiter. For pages with a large number of static files, this can improve browser performance. CNAMEs may also need to be configured on your CDN.<br />Example: %2$s"
+msgstr "Aquests <a href=\"https://www.wikipedia.org/wiki/CNAME_record\">CNAMES</a> s’utilitzaran en lloc de %1$s per a la reescriptura (a més de l’URL fora del lloc de dalt). Utilitzeu una coma com a delimitador. Per a pàgines amb un gran nombre de fitxers estàtics, això pot millorar el rendiment del navegador. Els CNAME també poden configurar-se al CDN.<br />Exemple: %2$s"
+
+#: ossdl-cdn.php:362
+msgid "Additional CNAMES"
+msgstr "CNAMES addicionals"
+
+#: ossdl-cdn.php:358
+msgid "Excludes something from being rewritten if one of the above strings is found in the URL. Use a comma as the delimiter like this, <code>.php, .flv, .do</code>, and always include <code>.php</code> (default)."
+msgstr "Exclou alguna cosa de ser reescrit si es troba una de les cadenes anteriors a la URL. Utilitzeu una coma com a delimitador d'aquesta manera: <code>.php, .flv, .do</code>, i sempre incloure <code>.php</code> (per defecte)."
+
+#: ossdl-cdn.php:355
+msgid "Exclude if substring"
+msgstr "Exclou si és subcadena"
+
+#: ossdl-cdn.php:351
+msgid "Directories to include in static file matching. Use a comma as the delimiter. Default is <code>wp-content, wp-includes</code>, which will be enforced if this field is left empty."
+msgstr "Directoris per incloure en la concordança de fitxers estàtics. Utilitzeu una coma com a delimitador. El valor per defecte és <code>wp-content, wp-includes</code>, que s’aplicarà si es deixa aquest camp buit."
+
+#: ossdl-cdn.php:348
+msgid "Include directories"
+msgstr "Inclou aquests directoris"
+
+#: ossdl-cdn.php:344
+msgid "The new URL to be used in place of %1$s for rewriting. No trailing <code>/</code> please.<br />Example: <code>%2$s</code>."
+msgstr "El nou URL que s’utilitzarà en lloc de %1$s per a la reescriptura. Sense barres <code>/</code>, si us plau.<br />Exemple: <code>%2$s</code>."
+
+#: ossdl-cdn.php:341
+msgid "Off-site URL"
+msgstr "URL fora del lloc"
+
+#: ossdl-cdn.php:331
+msgid "Enable CDN Support"
+msgstr "Habilita el suport CDN"
+
+#: ossdl-cdn.php:323
+msgid "You can define different CDN URLs for each site on a multsite network."
+msgstr "Podeu definir diferents enllaços de CDN per a cada lloc en una xarxa multisite."
+
+#: ossdl-cdn.php:318
+msgid "<strong style=\"color: red\">WARNING:</strong> Test some static urls e.g., %s  to ensure your CDN service is fully working before saving changes."
+msgstr "<strong style=\"color: red\">ATENCIÓ:</strong> Proveu alguns enllaços estàtics (per exemple: %s) per assegurar-vos que el vostre servei de CDN funciona completament abans de desar els canvis."
+
+#: ossdl-cdn.php:317
+msgid "Your website probably uses lots of static files. Image, Javascript and CSS files are usually static files that could just as easily be served from another site or CDN. Therefore, this plugin replaces any links in the <code>wp-content</code> and <code>wp-includes</code> directories (except for PHP files) on your site with the URL you provide below. That way you can either copy all the static content to a dedicated host or mirror the files to a CDN by <a href=\"https://www.google.com/search?q=cdn+origin+pull\" target=\"_blank\">origin pull</a>."
+msgstr "El vostre lloc web probablement utilitza un munt de fitxers estàtics. Les imatges i els fitxers JavaScript i CSS solen ser fitxers estàtics que es podrien servir fàcilment des d'un altre lloc o CDN. Aquesta extensió substitueix qualsevol enllaç als directoris <code>wp-content</code> i <code>wp-includes</code> (excepte els fitxers PHP) del vostre lloc amb l'URL que proporcioneu a continuació. D'aquesta manera podeu copiar tot el contingut estàtic a un amfitrió dedicat o replicar els fitxers a un CDN amb <a href=\"https://www.google.com/search?q=cdn+origin+pull\" target=\"_blank\">origin pull</a>."

@@ -1,0 +1,3204 @@
+# Translation of Plugins - Complianz | GDPR/CCPA Cookie Consent - Stable (latest release) in Catalan
+# This file is distributed under the same license as the Plugins - Complianz | GDPR/CCPA Cookie Consent - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-04-21 12:36:53+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha\n"
+"Language: ca\n"
+"Project-Id-Version: Plugins - Complianz | GDPR/CCPA Cookie Consent - Stable (latest release)\n"
+
+#: config/questions-wizard.php:107
+msgid "impressum"
+msgstr "Impressum"
+
+#: class-field.php:954
+msgid "Custom URL"
+msgstr "URL personalitzat"
+
+#: config/steps.php:32 cookiebanner/class-cookiebanner.php:1311
+msgid "Impressum"
+msgstr "Impressum"
+
+#: class-field.php:976
+msgid "None selected"
+msgstr "Cap seleccionat"
+
+#: class-document.php:1584
+msgid "Update pages"
+msgstr "Actualitza les pàgines"
+
+#: config/countries.php:331
+msgid "Swedish"
+msgstr "Suec"
+
+#: config/countries.php:330
+msgid "Norwegian"
+msgstr "Noruec"
+
+#: config/countries.php:329
+msgid "Dutch"
+msgstr "Neerlandès"
+
+#: config/countries.php:328
+msgid "Italian"
+msgstr "Italià"
+
+#: config/countries.php:327
+msgid "French"
+msgstr "Francès"
+
+#: config/countries.php:326
+msgid "Estonian"
+msgstr "Estonià"
+
+#: config/countries.php:325
+msgid "Spanish"
+msgstr "Espanyol"
+
+#: config/countries.php:324
+msgid "Greek"
+msgstr "Grec"
+
+#: config/countries.php:323
+msgid "German"
+msgstr "Alemany"
+
+#: config/countries.php:322
+msgid "Danish"
+msgstr "Danès"
+
+#: config/countries.php:321
+msgid "English"
+msgstr "Anglès"
+
+#. translators: 1: plugin name.
+#: integrations/TGM/class-tgm-plugin-activation.php:3602
+#: integrations/TGM/class-tgm-plugin-activation.php:3610
+msgid "Hide Details"
+msgstr "Amaga els detalls"
+
+#: config/cookie-settings.php:156 cookiebanner/settings.php:636
+msgid "Preferences"
+msgstr "Preferències"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: integrations/TGM/class-tgm-plugin-activation.php:3591
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "S'està actualitzant l'extensió %1$s (%2$d/%3$d)"
+
+#: integrations/TGM/class-tgm-plugin-activation.php:2819
+msgid "Activate"
+msgstr "Activa"
+
+#: integrations/TGM/class-tgm-plugin-activation.php:2816
+msgid "Update"
+msgstr "Actualitza"
+
+#: integrations/TGM/class-tgm-plugin-activation.php:2810
+msgid "Install"
+msgstr "Instal·la"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: integrations/TGM/class-tgm-plugin-activation.php:2707
+msgid "Activate %2$s"
+msgstr "Activa %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: integrations/TGM/class-tgm-plugin-activation.php:2701
+msgid "Update %2$s"
+msgstr "Actualitza %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: integrations/TGM/class-tgm-plugin-activation.php:2696
+msgid "Install %2$s"
+msgstr "Instal·la %2$s"
+
+#: integrations/TGM/class-tgm-plugin-activation.php:2647
+msgid "Status"
+msgstr "Estat"
+
+#: integrations/TGM/class-tgm-plugin-activation.php:2646
+msgid "Version"
+msgstr "Versió"
+
+#: integrations/TGM/class-tgm-plugin-activation.php:2642
+msgid "Type"
+msgstr "Tipus"
+
+#: integrations/TGM/class-tgm-plugin-activation.php:2641
+msgid "Source"
+msgstr "Origen"
+
+#: integrations/TGM/class-tgm-plugin-activation.php:2640
+msgid "Plugin"
+msgstr "Extensió"
+
+#: integrations/TGM/class-tgm-plugin-activation.php:2575
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "desconegut"
+
+#. translators: 1: number of plugins.
+#: integrations/TGM/class-tgm-plugin-activation.php:2481
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Tots <span class=\"count\">(%s)</span>"
+msgstr[1] "Tots <span class=\"count\">(%s)</span>"
+
+#. translators: 1: install status, 2: update status
+#: integrations/TGM/class-tgm-plugin-activation.php:2435
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: integrations/TGM/class-tgm-plugin-activation.php:2414
+msgid "Active"
+msgstr "Actives"
+
+#: integrations/TGM/class-tgm-plugin-activation.php:2369
+msgid "Recommended"
+msgstr "Recomanades"
+
+#: integrations/TGM/class-tgm-plugin-activation.php:2366
+msgid "Required"
+msgstr "Necessari"
+
+#. translators: %s: version number
+#: integrations/TGM/class-tgm-plugin-activation.php:2075
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: integrations/TGM/class-tgm-plugin-activation.php:1214
+#: integrations/TGM/class-tgm-plugin-activation.php:3041
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr " i"
+
+#: integrations/TGM/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr "Actualització necessària"
+
+#: integrations/TGM/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr "Descarta aquest avís"
+
+#: integrations/TGM/class-tgm-plugin-activation.php:393
+#: integrations/TGM/class-tgm-plugin-activation.php:920
+#: integrations/TGM/class-tgm-plugin-activation.php:2626
+#: integrations/TGM/class-tgm-plugin-activation.php:3673
+msgid "Return to the Dashboard"
+msgstr "Torna al panell d'administració"
+
+#. translators: %s: plugin name.
+#: integrations/TGM/class-tgm-plugin-activation.php:339
+msgid "Updating Plugin: %s"
+msgstr "S'està actualitzant l'extensió: %s"
+
+#. translators: %s: plugin name.
+#: integrations/TGM/class-tgm-plugin-activation.php:337
+msgid "Installing Plugin: %s"
+msgstr "S'està instal·lant l'extensió: %s"
+
+#: integrations/TGM/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr "Instal·la extensió"
+
+#: shepherd/tour.php:150
+msgid "Configure"
+msgstr "Configura"
+
+#: config/countries.php:46
+msgid "PIPEDA"
+msgstr "PIPEDA"
+
+#: config/countries.php:44
+msgid "CA"
+msgstr "CA"
+
+#: config/documents/documents.php:41
+msgid "Cookie policy (CA)"
+msgstr "Política de galetes (CA)"
+
+#: integrations/integrations-menu.php:204
+msgid "plugins"
+msgstr "Extensions"
+
+#: integrations/integrations-menu.php:108
+#: integrations/integrations-menu.php:217
+msgid "Connected"
+msgstr "Connectat"
+
+#: callback-notices.php:126 integrations/integrations-menu.php:96
+msgid "services"
+msgstr "Serveis"
+
+#: class-review.php:103
+msgid "Don't show again"
+msgstr "No mostres de nou"
+
+#: templates/cookie_settings.php:11
+msgid "Service"
+msgstr "Servei"
+
+#: functions.php:1561
+msgid "Miscellaneous"
+msgstr "Miscel·lània"
+
+#: class-field.php:1669 class-field.php:1759
+msgid "Settings saved"
+msgstr "S'ha desat la configuració"
+
+#: class-document.php:1213 dist/blocks.build.js:1 src/block/block.js:150
+msgid "Edit document and stop synchronization"
+msgstr "Editar document i aturar la sincronització"
+
+#: class-document.php:1209 dist/blocks.build.js:1 src/block/block.js:149
+msgid "Synchronize document with Complianz"
+msgstr "Sincronitzar document amb Complianz"
+
+#: class-document.php:1191
+msgid "Document status"
+msgstr "Estat del document"
+
+#: integrations/plugins/forminator.php:80
+#: integrations/plugins/happyforms.php:105
+msgid "Privacy"
+msgstr "Privadesa"
+
+#: dist/blocks.build.js:1 src/block/block.js:194 src/block/block.js:218
+msgid "Document sync status"
+msgstr "Estat del document"
+
+#: config/documents/documents.php:29
+msgid "Cookie policy (UK)"
+msgstr "Política de galetes (UK)"
+
+#: config/documents/documents.php:6
+msgid "Cookie policy (EU)"
+msgstr "Política de galetes (EU)"
+
+#: config/countries.php:58
+msgid "UK-GDPR"
+msgstr "UK-GDPR"
+
+#: config/countries.php:56
+msgid "UK"
+msgstr "UK"
+
+#: integrations/integrations-menu.php:33
+msgid "Services"
+msgstr "Serveis"
+
+#: class-cookiestatement-snapshot-table.php:182
+msgid "Created"
+msgstr "Creat"
+
+#: class-cookiestatement-snapshot-table.php:181
+msgid "File"
+msgstr "Fitxer"
+
+#: class-cookiestatement-snapshot-table.php:155
+msgid "File not found"
+msgstr "Arxiu no trobat"
+
+#: class-cookiestatement-snapshot-table.php:111
+msgid "Search"
+msgstr "Cerca"
+
+#: config/countries.php:197
+msgid "North Macedonia"
+msgstr "Macedònia del Nord"
+
+#: config/countries.php:40
+msgid "CCPA"
+msgstr "CCPA"
+
+#. Author of the plugin
+msgid "RogierLankhorst, Complianz"
+msgstr "RogierLankhorst, Complianz"
+
+#: cookie/class-cookie-admin.php:1569 cookiebanner/cookiebanner.php:222
+msgid "Filter"
+msgstr "Filtre"
+
+#: cookiebanner/class-cookiebanner-table.php:242
+msgid "conversion"
+msgstr "conversions"
+
+#: cookiebanner/class-cookiebanner-table.php:179
+#: templates/cookie_settings.php:91
+msgid "Restore"
+msgstr "Restaura"
+
+#: cookiebanner/class-cookiebanner-table.php:137
+#: class-cookiestatement-snapshot-table.php:129
+msgid "name"
+msgstr "nom"
+
+#: functions.php:1919
+msgid "Opt-out"
+msgstr "Desactiva-ho"
+
+#: integrations/plugins/wpforms.php:22
+msgid "(WP Forms)"
+msgstr "(WP Forms)"
+
+#: cron/cron.php:50
+msgid "Once every month"
+msgstr "Una vegada cada mes"
+
+#: complianz-gpdr.php:49
+msgid "Complianz GDPR cannot be activated. The plugin requires WordPress 4.6 or higher"
+msgstr "Complianz GDPR no es pot activar. L'extensió requereix WordPress 4.6 o superior"
+
+#: complianz-gpdr.php:42
+msgid "Complianz GDPR cannot be activated. The plugin requires PHP 5.6 or higher"
+msgstr "Complianz GDPR no es pot activar. L'extensió requereix PHP 5.6 o superior"
+
+#: config/general-settings.php:131
+msgid "The blocked content text appears when for example a Youtube video is embedded. Because Youtube places cookie which require consent, the video will be blocked initially, with an explanatory text."
+msgstr "El text del contingut bloquejat apareix quan, per exemple, s'inclou un vídeo de YouTube. Atès que YouTube posa galetes que requereixen el seu consentiment, el vídeo es bloquejarà inicialment, amb un text explicatiu."
+
+#: config/general-settings.php:128
+msgid "Blocked content text"
+msgstr "Text de contingut bloquejat"
+
+#: config/documents/cookie-policy-eu.php:60
+msgctxt "Legal document cookie policy"
+msgid "We ask your permission to place analytical cookies."
+msgstr "Demanem el vostre permís per col·locar galetes analítiques."
+
+#: config/documents/cookie-policy-eu.php:59
+#: config/documents/cookie-policy-ca.php:58
+msgctxt "Legal document cookie policy"
+msgid "We use analytical cookies to optimize the website experience for our users. With these analytical cookies we get insights in the usage of our website."
+msgstr "Utilitzem cookies analítiques per optimitzar l'experiència del lloc web per als nostres usuaris. Amb aquestes galetes analítiques obtenim informació sobre l'ús del nostre lloc web."
+
+#: config/documents/cookie-policy-eu.php:67
+msgctxt "Legal document cookie policy"
+msgid "Because statistics are being tracked anonymously, no permission is asked to place analytical cookies."
+msgstr "Com que les estadístiques s’està rastrejant de manera anònima, no s’ha sol·licitat cap permís per fer galetes analítiques."
+
+#: config/cookie-settings.php:320 cookiebanner/settings.php:764
+msgid "Timeout in seconds"
+msgstr "Temps d'espera en segons"
+
+#: config/cookie-settings.php:308 cookiebanner/settings.php:752
+msgid "When dismiss on time out is enabled, the cookie warning will be dismissed after 10 seconds, or the time you choose below."
+msgstr "Quan l'acomiadament en el temps d'espera està habilitat, l'advertència de la galeta serà rebutjada després de 10 segons, o el moment que trieu a continuació."
+
+#: config/cookie-settings.php:306 cookiebanner/settings.php:750
+msgid "Dismiss on timeout"
+msgstr "Es desactiva el temps d'espera"
+
+#: config/cookie-settings.php:294 cookiebanner/settings.php:738
+msgid "When dismiss on scroll is enabled, the cookie warning will be dismissed as soon as the user scrolls."
+msgstr "Quan es desactiva el desplaçament està activat, l'advertència de la galeta serà rebutjat tan bon punt l'usuari es desplaci."
+
+#: config/cookie-settings.php:293 cookiebanner/settings.php:737
+msgid "Dismiss on scroll"
+msgstr "Descarta-ho en desplaçar"
+
+#: config/general-settings.php:243
+msgid "Are you sure? This will remove all Complianz data."
+msgstr "Esteu segur? Això eliminarà totes les dades de Complianz."
+
+#: config/questions-wizard.php:392
+msgid "Do you want Complianz to configure your statistics?"
+msgstr "Voleu que Complianz configuri les vostres estadístiques?"
+
+#: config/questions-wizard.php:232
+msgid "Also consider future purposes. Regarding personalized products: these are products and/or services which are personalized based on visitor's behavior. E.g. advertisements based on pages visited."
+msgstr "Tingueu en compte també els propòsits futurs. Quant als productes personalitzats: es tracta de productes i / o serveis personalitzats segons el comportament dels visitants. Per exemple, anuncis basats en pàgines visitades."
+
+#. Plugin URI of the plugin
+msgid "https://www.wordpress.org/plugins/complianz-gdpr"
+msgstr "https://ca.wordpress.org/plugins/complianz-gdpr"
+
+#. Plugin Name of the plugin
+msgid "Complianz | GDPR/CCPA Cookie Consent"
+msgstr "Complianz | Consentiment de galetes de GDPR/CCPA"
+
+#: class-admin.php:1052
+msgid "Like Complianz | GDPR/CCPA Cookie Consent?"
+msgstr "Us agrada Complianz | consentiment de galetes GDPR/CCPA?"
+
+#: config/questions-wizard.php:122 dist/blocks.build.js:1
+#: src/block/block.js:258
+msgid "privacy statement"
+msgstr "declaració de privacitat"
+
+#: dist/blocks.build.js:1 src/block/block.js:163
+msgid "Select a document type from the dropdownlist"
+msgstr "Seleccioneu un tipus de document a la llista desplegable"
+
+#: dist/blocks.build.js:1 src/block/block.js:254
+msgid "Legal document - Complianz"
+msgstr "Document legal - Complianz"
+
+#: dist/blocks.build.js:1 src/block/block.js:259
+msgid "cookie statement"
+msgstr "declaració de galetes"
+
+#: dist/blocks.build.js:1 src/block/block.js:161
+msgid "Click this block to show the options"
+msgstr "Feu clic en aquest bloc per mostrar les opcions"
+
+#: dist/blocks.build.js:1 src/block/block.js:154
+msgid "No documents found. Please finish the Complianz Privacy Suite wizard to generate documents"
+msgstr "No s'ha trobat cap document. Finalitzeu l'assistent de la suite de privadesa de Complianz per generar documents"
+
+#: dist/blocks.build.js:1 src/block/block.js:145
+msgid "Loading..."
+msgstr "S'està carregant ..."
+
+#: dist/blocks.build.js:1 src/block/block.js:144 src/block/block.js:189
+#: src/block/block.js:212
+msgid "Select a document"
+msgstr "Seleccioneu un document"
+
+#: config/questions-wizard.php:395
+msgid "It's recommended to let Complianz handle the statistics script. This way, the plugin can detect if it needs to be hooked into the cookie consent code or not. But if you have set it up yourself and don't want to change this, you can choose to do so"
+msgstr "Es recomana deixar que Complianz manegi l'script d'estadístiques. D'aquesta manera, el complement pot detectar si s'ha d'enganxar al codi de consentiment de la galeta o no. Però si l'heu configurat i no voleu canviar-ho, podeu triar fer-ho"
+
+#: config/questions-wizard.php:148
+msgid "Who is the owner of the website (person or company)?"
+msgstr "Qui és el propietari del lloc web (persona o empresa)?"
+
+#: config/steps.php:25
+msgid "Website information"
+msgstr "Informació del lloc web"
+
+#: functions.php:1002
+msgid "For more information on this subject, please read this %sarticle%s"
+msgstr "Per obtenir més informació sobre aquest tema, llegiu aquest %s article %s"
+
+#: callback-notices.php:226
+msgid "You have indicated you use a statistics tool which tracks personal data. You can insert this script here so it only fires if the user consents to this."
+msgstr "Heu indicat que feu servir una eina d'estadístiques que s'encarregui de les dades personals. Podeu inserir aquest script aquí, de manera que només s'executi si l'usuari accepta això."
+
+#: callback-notices.php:32
+msgid "If you add the ID for your statistics tool here, Complianz will configure your site for statistics tracking."
+msgstr "Si afegiu l'ID per a l'eina d'estadístiques aquí, Complianz configurarà el vostre lloc per al seguiment d'estadístiques."
+
+#: callback-notices.php:21
+msgid "You have selected options which indicate your statistics tracking needs a cookie banner. To enable Complianz to handle the statistics, you should remove your current statistics tracking, and configure it in Complianz"
+msgstr "Heu seleccionat opcions que indiquen que el seguiment d'estadístiques necessita un bàner de galetes. Per permetre que Complianz gestioni les estadístiques, haureu d'eliminar el seguiment de les estadístiques actuals i configurar-lo a Complianz"
+
+#: class-admin.php:909
+msgid "Manage shop privacy"
+msgstr "Gestiona la privadesa de la botiga"
+
+#: class-wizard.php:1019
+msgid "Finish and check cookie banner settings"
+msgstr "Finalitza i comprova la configuració de la bústia de galetes"
+
+#: templates/do-not-sell-my-personal-data-form.php:12
+msgid "email@email.com"
+msgstr "email@email.com"
+
+#: cron/cron.php:58
+msgid "Once every day"
+msgstr "Una vegada cada dia"
+
+#: cron/cron.php:54
+msgid "Once every week"
+msgstr "Una vegada cada setmana"
+
+#: templates/do-not-sell-my-personal-data-form.php:13
+msgid "Send"
+msgstr "Envia"
+
+#: templates/do-not-sell-my-personal-data-form.php:11
+msgid "Your name"
+msgstr "El vostre nom"
+
+#: config/questions-wizard.php:136 dist/blocks.build.js:1
+#: src/block/block.js:260
+msgid "disclaimer"
+msgstr "exempció de responsabilitat"
+
+#: integrations/integrations-menu.php:37
+msgid "Plugins"
+msgstr "Extensions"
+
+#: config/questions-wizard.php:81
+msgid "There are some rules which only apply to California."
+msgstr "Hi ha algunes normes que només s'apliquen a Califòrnia."
+
+#: config/steps.php:16
+msgctxt "intro first step"
+msgid "Please note that you can always save and finish the wizard later (if you need a break), use our %sdocumentation%s for additional information or log a %ssupport ticket%s if you need our assistance."
+msgstr "Recordeu que sempre es pot guardar i finalitzar l'assistent més tard (si es requereix un descans), utilitzeu nostra %s documentació %s per obtenir informació addicional o introduïu un %s tiquet de suport %s si necessita la nostra ajuda."
+
+#: config/purpose.php:36
+msgid "IP address"
+msgstr "adreça IP"
+
+#: config/dynamic-fields.php:26
+msgid "What data do you collect for this purpose?"
+msgstr "Quines dades recopileu a aquest efecte?"
+
+#: class-review.php:98
+msgid "Maybe later"
+msgstr "Potser després"
+
+#: integrations/plugins/gravity-forms.php:31
+msgid "To submit this form, you need to accept our privacy statement"
+msgstr "Per enviar aquest formulari, heu d'acceptar la nostra declaració de privadesa"
+
+#: DNSMPD/class-DNSMPD.php:177
+msgid "Your email address was already registered!"
+msgstr "La vostra adreça de correu electrònic ja estava registrada."
+
+#: DNSMPD/class-DNSMPD.php:174
+msgid "Your request has been processed successfully!"
+msgstr "La vostra sol·licitud s'ha processat correctament."
+
+#: DNSMPD/class-DNSMPD.php:146
+msgid "Please enter your name"
+msgstr "Introduïu el vostre nom"
+
+#: DNSMPD/class-DNSMPD.php:46 DNSMPD/class-DNSMPD.php:47
+msgid "DNSMPI"
+msgstr "DNSMPI"
+
+#: cookiebanner/class-cookiebanner-table.php:207
+#: DNSMPD/class-DNSMPD-table.php:150
+#: class-cookiestatement-snapshot-table.php:165
+#: templates/cookie_settings.php:88 templates/service_settings.php:49
+msgid "Delete"
+msgstr "Suprimeix"
+
+#: DNSMPD/class-DNSMPD-table.php:146
+msgid "Unnamed user"
+msgstr "Usuari sense nom"
+
+#: DNSMPD/class-DNSMPD-table.php:64
+msgid "Users"
+msgstr "Usuaris"
+
+#: DNSMPD/class-DNSMPD-table.php:63
+msgid "User"
+msgstr "Usuari"
+
+#: class-review.php:93
+msgid "Leave a review"
+msgstr "Deixeu un comentari"
+
+#: DNSMPD/class-DNSMPD.php:140
+msgid "Please enter a valid email address."
+msgstr "Introduïu una adreça electrònica vàlida."
+
+#: class-review.php:86
+msgid "Hi, you have been using Complianz | GDPR cookie consent for a month now, awesome! If you have a moment, please consider leaving a review on WordPress.org to spread the word. We greatly appreciate it! If you have any questions or feedback, leave us a %smessage%s."
+msgstr "Hola, heu estat utilitzant Complianz | Consentiment de la galeta GDPR durant un mes, increïble! Si teniu un moment, considereu deixar un comentari a WordPress.org per difondre la paraula. Li agraïm molt! Si tens alguna pregunta o comentari, ens deixa un %s missatge %s ."
+
+#: integrations/plugins/gravity-forms.php:17
+msgid "(Gravity Forms)"
+msgstr "(Gravity Forms)"
+
+#: DNSMPD/class-DNSMPD.php:134
+msgid "Sorry, it looks like you're a bot"
+msgstr "Ho sentim, sembla que sou un bot"
+
+#: integrations/plugins/contact-form-7.php:94
+msgid "(Contact form 7)"
+msgstr "(Contact Form 7)"
+
+#: DNSMPD/class-DNSMPD.php:72
+msgid "Search Customers"
+msgstr "Cerca clients"
+
+#: DNSMPD/class-DNSMPD.php:61
+msgid "Do Not Sell My Personal Information requests"
+msgstr "Peticions de \"no veneu la meva informació personal\""
+
+#: DNSMPD/class-DNSMPD.php:152
+msgid "That's a long name you got there. Please try to shorten the name."
+msgstr "Aquest nom és massa llarg. Intenteu escurçar-lo."
+
+#: functions.php:1056
+msgid "(select a region)"
+msgstr "(seleccioneu una regió)"
+
+#: functions.php:152
+msgid "Denied"
+msgstr "Negat"
+
+#: functions.php:149
+msgid "Accepted"
+msgstr "Acceptat"
+
+#: functions.php:148 functions.php:151
+msgid "Current status: %s"
+msgstr "Estat actual: %s"
+
+#: config/warnings.php:69
+msgid "Your documents have not been updated in the past 12 months. Run the wizard to check your settings."
+msgstr "Els vostres documents no s'han actualitzat en els últims 12 mesos. Executeu l'assistent per comprovar la vostra configuració."
+
+#: config/warnings.php:21
+msgid "Not all fields have been entered, or you have not clicked the \"finish\" button yet."
+msgstr "No s'han introduït tots els camps, o encara no heu fet clic al botó  \"acabar \"."
+
+#: config/steps.php:93
+msgctxt "intro menu"
+msgid "Get ready to finish your configuration."
+msgstr "Prepareu-vos per acabar la vostra configuració."
+
+#: config/steps.php:12
+msgid "Visitors"
+msgstr "Visitants"
+
+#: config/steps.php:57
+msgctxt "intro scan"
+msgid "The cookie scan will request several pages on your site to check if cookies are placed and will check the html of your site for known third party scripts. The cookie scan will be recurring weekly to keep you up-to-date!"
+msgstr "L'escaneig de galetes demanarà diverses pàgines al vostre lloc per comprovar si es col·loquen les galetes i es comprovarà l'html del vostre lloc per als scripts de tercers coneguts. L'escaneig de galetes serà recurrent setmanalment per mantenir-vos al dia."
+
+#. Description of the plugin
+msgid "Complianz Privacy Suite for GDPR, CaCPA, DSVGO, AVG with a conditional cookie warning and customized cookie policy"
+msgstr "Complianz Privacy Suite per a GDPR, CaCPA, DSVGO, AVG amb una advertència de galetes condicionals i una política de cookies personalitzada"
+
+#: config/steps.php:14
+msgctxt "intro first step"
+msgid "We have tried to make our Wizard as simple and fast as possible. Although these questions are all necessary, if there’s any way you think we can improve the plugin, please let us %sknow%s!"
+msgstr "Hem tractat de fer el nostre assistent tan senzill i ràpid com sigui possible. Tot i que aquestes preguntes són necessàries, si hi ha alguna manera que penseu que podem millorar l'extensió, %s feu-nos-ho saber  %s ."
+
+#: config/steps.php:15
+msgctxt "intro first step"
+msgid "The answers in the first step of the wizard are needed to configure your documents and consent banner specifically to your needs."
+msgstr "Les respostes del primer pas de l’assistent són necessàries per configurar els vostres documents i el vostre consentiment específic per a les vostres necessitats."
+
+#: config/questions-wizard.php:230
+msgid "Indicate for what purpose personal data is processed via your website:"
+msgstr "Indiqueu per quin motiu les dades personals es processen a través del vostre lloc web:"
+
+#: config/questions-wizard.php:201
+msgid "Phone number"
+msgstr "Número de telèfon"
+
+#: config/questions-wizard.php:46
+msgid "This will determine how many and what kind of legal documents and the type of cookie banner and other requirements your site needs."
+msgstr "Això determinarà quants i quin tipus de documents legals i el tipus d’anuncis de galetes i altres requisits necessita el vostre lloc."
+
+#: config/general-settings.php:226
+msgid "Import settings"
+msgstr "Configuració d'importació"
+
+#: config/general-settings.php:214
+msgid "Export settings"
+msgstr "Configuració de l'exportació"
+
+#: config/general-settings.php:198
+msgctxt "email signature"
+msgid "Regards,"
+msgstr "Salutacions,"
+
+#: config/general-settings.php:197
+msgid "Your request has been processed successfully."
+msgstr "La vostra sol·licitud s'ha processat correctament."
+
+#: config/general-settings.php:195
+msgid "Hi {name}"
+msgstr "Hola {name}"
+
+#: config/general-settings.php:181
+msgid "Your request has been processed"
+msgstr "S'ha processat la vostra sol·licitud"
+
+#: config/general-settings.php:167
+msgid "When emails are sent, you can choose the sender email address here. Please note that it should have this website's domain as sender domain, otherwise the server might block the email from being sent."
+msgstr "Quan s'envien correus electrònics, podeu triar l'adreça electrònica del remitent aquí. Tingueu en compte que hauria de tenir el domini d'aquest lloc web com a domini remitent, en cas contrari el servidor podria bloquejar que s'enviés el correu electrònic."
+
+#: config/general-settings.php:164
+msgid "Notification sender email address"
+msgstr "Adreça electrònica del remitent de notificació"
+
+#: config/documents/cookie-policy-eu.php:175
+msgctxt "Legal document cookie policy"
+msgid "Email:"
+msgstr "Correu electrònic:"
+
+#: config/documents/cookie-policy-eu.php:174
+msgctxt "Legal document cookie policy"
+msgid "Website:"
+msgstr "Lloc web:"
+
+#: config/documents/cookie-policy-eu.php:167
+#: config/documents/cookie-policy-ca.php:149
+msgctxt "Legal document cookie policy:paragraph title"
+msgid "Contact details"
+msgstr "Detalls de contacte"
+
+#: config/general-settings.php:251
+msgid "This will reset all settings to defaults. All data in the Complianz plugin will be deleted"
+msgstr "Això restablirà tota la configuració als valors predeterminats. S'eliminaran totes les dades de l'extensió Complianz"
+
+#: config/general-settings.php:249
+msgid "Reset settings"
+msgstr "Restableix la configuració"
+
+#: config/general-settings.php:193
+msgid "Notification email content"
+msgstr "Contingut del correu electrònic de notificació"
+
+#: config/general-settings.php:179
+msgid "Notification email subject"
+msgstr "Assumpte del correu electrònic de notificació"
+
+#: config/documents/cookie-policy-eu.php:158
+#: config/documents/cookie-policy-ca.php:144
+msgctxt "Legal document cookie policy:paragraph title"
+msgid "Enabling/disabling and deleting cookies"
+msgstr "Activació / desactivació i eliminació de galetes"
+
+#: config/documents/cookie-policy-eu.php:146
+msgctxt "Legal document cookie policy"
+msgid "Right to rectification: you have the right to supplement, correct, have deleted or blocked your personal data whenever you wish."
+msgstr "Dret de rectificació: teniu dret a completar, corregir, suprimir o bloquejar les vostres dades personals sempre que ho desitgeu."
+
+#: config/documents/cookie-policy-eu.php:138
+#: config/documents/cookie-policy-ca.php:131
+msgctxt "Legal document cookie policy"
+msgid "You have the following rights with respect to your personal data:"
+msgstr "Teniu els drets següents respecte a les vostres dades personals:"
+
+#: config/documents/cookie-policy-eu.php:136
+#: config/documents/cookie-policy-ca.php:128
+msgctxt "Legal document cookie policy:paragraph title"
+msgid "Your rights with respect to personal data"
+msgstr "Els vostres drets respecte de les dades personals"
+
+#: config/documents/cookie-policy-eu.php:128
+#: config/documents/cookie-policy-ca.php:120
+msgctxt "Legal document cookie policy:paragraph title"
+msgid "Placed cookies"
+msgstr "Galetes col·locades"
+
+#: config/documents/cookie-policy-eu.php:144
+msgctxt "Legal document cookie policy"
+msgid "You have the right to know why your personal data is needed, what will happen to it, and how long it will be retained for."
+msgstr "Teniu dret a saber per què es necessiten les vostres dades personals, què li passarà i quant de temps es mantindrà."
+
+#: templates/cookiepolicy_services.php:13
+msgctxt "Legal document cookie policy"
+msgid "Sharing"
+msgstr "Compartició"
+
+#: config/documents/cookie-policy-eu.php:145
+msgctxt "Legal document cookie policy"
+msgid "Right of access: You have the right to access your personal data that is known to us."
+msgstr "Dret d'accés: teniu dret a accedir a les vostres dades personals que ens són conegudes."
+
+#: config/documents/cookie-policy-eu.php:112
+#: config/documents/cookie-policy-ca.php:104
+msgctxt "Legal document cookie policy"
+msgid "On our website we do not use social media buttons to promote web pages or share them on social networks."
+msgstr "Al nostre lloc web, no fem servir botons de mitjans socials per promocionar pàgines web ni compartir-les a les xarxes socials."
+
+#: config/documents/cookie-policy-eu.php:111
+#: config/documents/cookie-policy-eu.php:117
+#: config/documents/cookie-policy-ca.php:103
+#: config/documents/cookie-policy-ca.php:109
+msgctxt "Legal document cookie policy:paragraph title"
+msgid "Social media buttons"
+msgstr "Botons de mitjans socials"
+
+#: config/documents/cookie-policy-eu.php:105
+#: config/documents/cookie-policy-ca.php:97
+msgctxt "Legal document cookie policy"
+msgid "We do not use any advertising cookies on this website."
+msgstr "No utilitzem cap publicitat en aquest lloc web."
+
+#: config/documents/cookie-policy-eu.php:99
+msgctxt "Legal document cookie policy"
+msgid "Because these cookies are marked as tracking cookies, we ask your permission to place these."
+msgstr "Com que aquestes galetes estan marcades com a galetes de seguiment, demanem el vostre permís per col·locar-les."
+
+#: config/documents/cookie-policy-eu.php:81
+#: config/documents/cookie-policy-eu.php:90
+#: config/documents/cookie-policy-eu.php:104
+#: config/documents/cookie-policy-ca.php:71
+#: config/documents/cookie-policy-ca.php:80
+#: config/documents/cookie-policy-ca.php:96
+msgctxt "Legal document cookie policy:paragraph title"
+msgid "Advertising cookies"
+msgstr "Galetes publicitàries"
+
+#: config/documents/cookie-policy-eu.php:75
+#: config/documents/cookie-policy-ca.php:65
+msgctxt "Legal document cookie policy"
+msgid "We do not use analytical cookies on this website."
+msgstr "No utilitzem cookies analítiques en aquest lloc web."
+
+#: config/documents/cookie-policy-eu.php:58
+#: config/documents/cookie-policy-eu.php:66
+#: config/documents/cookie-policy-eu.php:74
+#: config/documents/cookie-policy-ca.php:57
+#: config/documents/cookie-policy-ca.php:64
+msgctxt "Legal document cookie policy:paragraph title"
+msgid "Analytical cookies"
+msgstr "Galetes analítiques"
+
+#: config/documents/cookie-policy-eu.php:52
+#: config/documents/cookie-policy-ca.php:51
+msgctxt "Legal document cookie policy:paragraph title"
+msgid "Technical or functional cookies"
+msgstr "Galetes tècniques o funcionals"
+
+#: config/documents/cookie-policy-eu.php:48
+#: config/documents/cookie-policy-ca.php:48
+msgctxt "Legal document cookie policy:paragraph title"
+msgid "Cookies"
+msgstr "Galetes"
+
+#: config/documents/cookie-policy-ca.php:43
+msgctxt "Legal document cookie policy:paragraph title"
+msgid "Third parties"
+msgstr "Tercers"
+
+#: config/documents/cookie-policy-eu.php:26
+#: config/documents/cookie-policy-eu.php:34
+#: config/documents/cookie-policy-ca.php:31
+msgctxt "Legal document cookie policy:paragraph title"
+msgid "Consent"
+msgstr "Consentiment"
+
+#: config/documents/cookie-policy-eu.php:17
+#: config/documents/cookie-policy-ca.php:22
+msgctxt "Legal document cookie policy:paragraph title"
+msgid "What are scripts?"
+msgstr "Quins són els scripts?"
+
+#: config/documents/cookie-policy-eu.php:21
+#: config/documents/cookie-policy-ca.php:26
+msgctxt "Legal document cookie policy:paragraph title"
+msgid "What is a web beacon?"
+msgstr "Què és un web beacon?"
+
+#: config/documents/cookie-policy-eu.php:13
+#: config/documents/cookie-policy-ca.php:18
+msgctxt "Legal document cookie policy:paragraph title"
+msgid "What are cookies?"
+msgstr "Què són les galetes?"
+
+#: config/documents/cookie-policy-eu.php:9
+#: config/documents/cookie-policy-ca.php:13
+msgctxt "Legal document cookie policy:paragraph title"
+msgid "Introduction"
+msgstr "Introducció"
+
+#: config/documents/cookie-policy-eu.php:6
+msgctxt "Legal document cookie policy"
+msgid "This cookie statement was last updated on %s and applies to citizens of the European Economic Area."
+msgstr "Aquesta informació de cookie es va actualitzar per última vegada el %s i s'aplica als ciutadans de l'Espai Econòmic Europeu."
+
+#: config/countries.php:52
+msgid "GDPR"
+msgstr "GDPR"
+
+#: config/countries.php:50
+msgid "EU"
+msgstr "EU"
+
+#: config/cookie-settings.php:275
+msgid "Hide settings button"
+msgstr "Amaga el botó de configuració"
+
+#: config/cookie-settings.php:210 cookiebanner/settings.php:708
+msgid "Text on link to cookie policy"
+msgstr "Text en enllaç a la política de galetes"
+
+#: config/general-settings.php:11
+msgid "If enabled, the cookie warning will not show for countries without a cookie law, and will adjust the warning type depending on supported privacy laws"
+msgstr "Si s'activa, l'advertència de galetes no es mostrarà per als països sense una norma de cookies, i ajustarà el tipus d'advertència depenent de les lleis de privadesa compatibles"
+
+#: config/purpose.php:81
+msgid "other information concerning the child or the parents, combined with an identifier as described above."
+msgstr "altra informació relativa al nen o als pares, combinada amb un identificador tal com s'ha descrit anteriorment."
+
+#: config/purpose.php:79
+msgid "an identifier that permits the physical or online contacting of a child"
+msgstr "un identificador que permet la contacte físic o en línia d'un nen"
+
+#: config/purpose.php:78
+msgid "a Social Security number"
+msgstr "un número de la Seguretat Social"
+
+#: config/purpose.php:77
+msgid "a telephone number"
+msgstr "un número de telèfon"
+
+#: config/purpose.php:75
+msgid "an email address from the parent or guardian"
+msgstr "una adreça de correu electrònic del pare o tutor"
+
+#: config/purpose.php:73
+msgid "an email address from the child"
+msgstr "una adreça de correu electrònic del nen"
+
+#: config/purpose.php:71
+msgid "a home or other physical address including street name and name of a city or town"
+msgstr "una casa o una altra adreça física que inclogui el nom del carrer i el nom d'una ciutat o poble"
+
+#: config/purpose.php:70
+msgid "a first and last name"
+msgstr "un nom i un cognom"
+
+#: config/purpose.php:63
+msgid "Geolocation data"
+msgstr "Dades de geolocalització"
+
+#: config/purpose.php:61
+msgid "Internet activity information, including, but not limited to, browsing history, search history, and information regarding a consumer's interaction with an Internet Web site, application, or advertisement."
+msgstr "Informació d'activitat a Internet, incloent, entre d'altres, l'historial de navegació, l'historial de cerca i la informació sobre la interacció d'un consumidor amb un lloc web d'Internet, una aplicació o publicitat."
+
+#: config/purpose.php:59
+msgid "Biometric information"
+msgstr "Informació biomètrica"
+
+#: config/purpose.php:57
+msgid "Commercial information, including records of personal property, products or services purchased, obtained, or considered"
+msgstr "Informació comercial, incloent-hi els registres de béns personals, productes o serveis adquirits, obtinguts o considerats"
+
+#: config/purpose.php:55
+msgid "Health insurance information"
+msgstr "Informació d'assegurança mèdica"
+
+#: config/purpose.php:54
+msgid "Medical information"
+msgstr "Informació mèdica"
+
+#: config/purpose.php:52
+msgid "Financial information such as bank account number of credit card number"
+msgstr "Informació financera, com ara el número de compte bancari del número de la targeta de crèdit"
+
+#: config/purpose.php:51
+msgid "Bank account number"
+msgstr "número de compte bancari"
+
+#: config/purpose.php:48
+msgid "Professional or employment-related information"
+msgstr "Informació professional o relacionada amb l'ocupació"
+
+#: config/purpose.php:46
+msgid "Education information"
+msgstr "Informació sobre educació"
+
+#: config/purpose.php:44
+msgid "Insurance policy number"
+msgstr "Número de pòlissa d'assegurança"
+
+#: config/purpose.php:42
+msgid "State identification card number"
+msgstr "Número de targeta d'identificació de l'estat"
+
+#: config/purpose.php:41
+msgid "Driver's license"
+msgstr "Carnet de conduir"
+
+#: config/purpose.php:40
+msgid "Passport number"
+msgstr "Número de passaport"
+
+#: config/purpose.php:38
+msgid "Physical characteristics or description"
+msgstr "Característiques físiques o descripció"
+
+#: config/purpose.php:37
+msgid "A signature"
+msgstr "Una signatura"
+
+#: config/purpose.php:34
+msgid "Any other identifier that permits the physical or online contacting of a specific individual"
+msgstr "Qualsevol altre identificador que permeti la connexió física o en línia d'un individu específic"
+
+#: config/purpose.php:32
+msgid "A social security number"
+msgstr "Un número de seguretat social"
+
+#: config/purpose.php:31
+msgid "A telephone number"
+msgstr "Un número de telèfon"
+
+#: config/purpose.php:30
+msgid "An email address"
+msgstr "Una adreça de correu electrònic"
+
+#: config/purpose.php:28
+msgid "A home or other physical address, including street name and name of a city or town"
+msgstr "Una casa o altra adreça física, incloent el nom del carrer i el nom d'una ciutat o poble"
+
+#: config/purpose.php:26
+msgid "Account name or alias"
+msgstr "Nom de compte o àlies"
+
+#: config/purpose.php:21
+msgid "To sell data to third parties"
+msgstr "Vendre dades a tercers"
+
+#: config/purpose.php:15
+msgid "To be able to offer personalized products and services."
+msgstr "Ser capaç d'oferir productes i serveis personalitzats."
+
+#: config/purpose.php:13
+msgid "Compiling and analyzing statistics for website improvement."
+msgstr "Compilar i analitzar estadístiques per millorar el lloc web."
+
+#: config/purpose.php:11
+msgid "To be able to comply with legal obligations"
+msgstr "Ser capaç de complir amb les obligacions legals"
+
+#: config/purpose.php:9
+msgid "To support services or products that a customer wants to buy or has purchased"
+msgstr "Per donar suport a serveis o productes que el client vol comprar o comprar"
+
+#: config/purpose.php:8
+msgid "Newsletters"
+msgstr "Butlletins informatius"
+
+#: config/purpose.php:6
+msgid "Registering an account"
+msgstr "Registre d'un compte"
+
+#: config/purpose.php:5
+msgid "Payments"
+msgstr "Pagaments"
+
+#: config/purpose.php:3
+msgid "Contact - Through phone, mail, email and/or webforms"
+msgstr "Contacte - A través del telèfon, correu electrònic, correu electrònic i / o formularis web"
+
+#: config/countries.php:38
+msgid "US"
+msgstr "EUA"
+
+#: config/cookie-settings.php:385 cookiebanner/settings.php:820
+msgid "Text on link to privacy statement"
+msgstr "Text en l'enllaç a la declaració de privadesa"
+
+#: config/cookie-settings.php:384 cookiebanner/settings.php:819
+#: integrations/plugins/gravity-forms.php:69
+msgid "Privacy statement"
+msgstr "Declaració de privadesa"
+
+#: config/purpose.php:50
+msgid "Employment history"
+msgstr "Historial d'ocupació"
+
+#: config/purpose.php:24
+msgid "A first and last name"
+msgstr "Un nom i cognom"
+
+#: config/cookie-settings.php:279 cookiebanner/settings.php:263
+msgid "If you hide this button, you should at least leave the option to revoke consent on your cookie policy or Do Not Sell My Personal Information page"
+msgstr "Si amagueu aquest botó, haureu de deixar com a mínim l’opció de revocar el consentiment a la vostra política de galetes o de la pàgina de no vendre la informació personal"
+
+#: class-wizard.php:513
+msgid "If this user stops editing, the lock will expire after %s minutes."
+msgstr "Si aquest usuari deixa d'editar, el bloqueig caducarà després de %s minuts."
+
+#: class-wizard.php:511
+msgid "The wizard is currently being edited by %s"
+msgstr "L'assistent s'està editant actualment per %s"
+
+#: class-wizard.php:139
+msgid "Your site needs a cookie warning. The cookie warning has been configured with default settings. Check the cookie warning settings to customize it."
+msgstr "El vostre lloc necessita una advertència de galetes. L'advertència de galetes s'ha configurat amb la configuració predeterminada. Comproveu la configuració d'advertència de les galetes per personalitzar-la."
+
+#: class-wizard.php:128
+msgid "All steps have been completed."
+msgstr "S'han completat tots els passos."
+
+#: class-field.php:1983
+msgid "Name of the third party with whom you share the data"
+msgstr "Nom del tercer amb qui compartiu les dades"
+
+#: class-field.php:1945
+msgid "Add new %s"
+msgstr "Afegeix un nou %s"
+
+#: class-field.php:1934 class-field.php:2041
+msgid "New entry"
+msgstr "Nova entrada"
+
+#: class-field.php:1886
+msgid "%s country"
+msgstr "%s país"
+
+#: class-field.php:1874
+msgid "A processing agreement outside Complianz Privacy Suite"
+msgstr "Un acord de processament fora de la suite de privadesa de Complianz"
+
+#: class-field.php:1851
+msgid "Name of the %s with whom you share the data"
+msgstr "Nom del %s amb el qual compartiu les dades"
+
+#: class-field.php:1825
+msgid "list"
+msgstr "llista"
+
+#: class-document.php:1608
+msgid "Your WordPress version does not support the functions needed for this step. You can upgrade to the latest WordPress version, or add the pages manually to a menu."
+msgstr "La versió de WordPress no és compatible amb les funcions necessàries per a aquest pas. Podeu actualitzar a la versió més recent de WordPress o afegir les pàgines manualment a un menú."
+
+#: class-document.php:1042
+msgctxt "Email message in notification email"
+msgid "Your legal documents on %s have not been updated in 12 months. Please log in and run the wizard to check if everything is up to date."
+msgstr "Els vostres documents legals a %s no s'han actualitzat en 12 mesos. Inicieu sessió i executeu l'assistent per comprovar si tot està actualitzat."
+
+#: class-document.php:1036
+msgctxt "Subject in notification email"
+msgid "Your legal documents on %s need to be updated."
+msgstr "Els vostres documents legals a %s necessiten ser actualitzats."
+
+#: class-admin.php:1282
+msgid "Your site is configured for %s."
+msgstr "El vostre lloc està configurat per a %s ."
+
+#: class-admin.php:1263
+msgid "System status"
+msgstr "Estat del sistema"
+
+#: class-admin.php:1255
+msgid "Nothing on your to do list"
+msgstr "No hi ha res a la vostra llista de fer"
+
+#: class-admin.php:1208
+msgid "Tasks"
+msgstr "Tasques"
+
+#: class-admin.php:1062
+msgid "& more!"
+msgstr "i més!"
+
+#: class-admin.php:1061
+msgid "Premium support"
+msgstr "Suport Premium"
+
+#: class-admin.php:1060
+msgid "More legal documents"
+msgstr "Més documents legals"
+
+#: class-admin.php:1059
+msgid "Multiple regions"
+msgstr "Múltiples regions"
+
+#: class-admin.php:1042
+msgid "Privacy Statement (%s) - (%spremium%s)"
+msgstr "Declaració de privadesa ( %s ) - ( %s premium %s )"
+
+#: class-admin.php:1000
+msgid "You should create a %s"
+msgstr "Heu de crear un %s"
+
+#: config/steps.php:20 config/steps.php:91 class-admin.php:920
+msgid "Documents"
+msgstr "Documents"
+
+#: class-admin.php:140
+msgid "Data successfully cleared"
+msgstr "Les dades s'han eliminat correctament"
+
+#: callback-notices.php:207
+msgid "You have indicated your site does not use cookies. If you're sure about this, you can skip this step"
+msgstr "Heu indicat que el vostre lloc no utilitza galetes. Si esteu segur d'això, podeu ometre aquest pas"
+
+#: callback-notices.php:83
+msgid "The scan found forms on your site, which means answer should probably include \"contact\"."
+msgstr "L'exploració ha trobat formularis al vostre lloc, el que significa que, probablement, la resposta hauria d'incloure \"contactar\"."
+
+#: class-wizard.php:130
+msgid "Click '%s' to complete the configuration. You can come back to change your configuration at any time."
+msgstr "Feu clic a '%s' per completar la configuració. Podeu tornar a canviar la configuració en qualsevol moment."
+
+#: class-field.php:1587
+msgid "Start"
+msgstr "Comença"
+
+#: cookie/class-cookie-admin.php:3323
+msgid "You are using an anonymous window. This will prevent most cookies from being placed. Please run the scan in a normal browser window."
+msgstr "Esteu utilitzant una finestra anònima. Això evitarà que la majoria de les galetes es desin. Executeu l'exploració en una finestra del navegador normal."
+
+#: cookie/class-cookie-admin.php:3320
+msgid "You are using an ad blocker. This will prevent most cookies from being placed. Please run the scan without an adblocker enabled."
+msgstr "Esteu utilitzant un bloquejador d'anuncis. Això evitarà que la majoria de les galetes es desin. Executeu l'escàner sense habilitar un blocador."
+
+#: cookie/class-cookie-admin.php:3336
+msgid "Third party scripts will get detected if they're listed in the third party list."
+msgstr "Els scripts de tercers es detectaran si apareixen a la llista de tercers."
+
+#: cookie/class-cookie-admin.php:3314
+msgid "You have Do Not Track enabled. This will prevent most cookies from being placed. Please run the scan with Do Not Track disabled."
+msgstr "No heu activat la pista. Això evitarà que es posin la majoria de galetes. Si us plau, executeu l’escaneig amb No not track disabled."
+
+#: integrations/integrations-menu.php:50
+msgctxt "intro script center"
+msgid "The script center should be used to add and block third-party scripts and iFrames before consent is given, or when consent is revoked. For example Hotjar and embedded video’s."
+msgstr "El centre d’escriptures s’hauria d’utilitzar per afegir i bloquejar scripts de tercers i iFrames abans que es doni el consentiment o quan es revoqui el consentiment. Per exemple Hotjar i vídeos incrustats."
+
+#: class-admin.php:1055
+msgid "Then you'll like the premium plugin even more! With: "
+msgstr "Llavors t'agradarà el connector premium encara més! Amb: "
+
+#: class-admin.php:1066
+msgid "Discover premium"
+msgstr "Descobriu la versió premium"
+
+#: class-admin.php:1057
+msgid "A/B testing"
+msgstr "Proves A/B"
+
+#: templates/service_settings.php:25
+msgid "Privacy Statement URL"
+msgstr "URL de declaració de privadesa"
+
+#: config/documents/cookie-policy-eu.php:35
+msgctxt "Legal document cookie policy"
+msgid "When you visit our website for the first time, we will show you a pop-up with an explanation about cookies. As soon as you click on \"%s\", you consent to us using the categories of cookies and plug-ins you selected in the pop-up, as described in this cookie statement. You can disable the use of cookies via your browser, but please note that our website may no longer work properly."
+msgstr "Quan visiteu el nostre lloc web per primera vegada, us mostrarem un pop-up amb una explicació sobre les cookies. Tan aviat com feu clic a \" %s \", consentiu-nos a nosaltres utilitzant les categories de galetes i connectors que heu seleccionat a la finestra emergent, tal com es descriu en aquesta declaració de galetes. Podeu desactivar l’ús de galetes a través del vostre navegador, però tingueu en compte que pot ser que el nostre lloc web ja no funcioni correctament."
+
+#: config/cookie-settings.php:277
+msgid "If you want to hide the revoke button, enable this check box. The revoke button will normally show after making a choice."
+msgstr "Si voleu ocultar el botó de revocació, activeu aquesta casella de verificació. El botó de revocar normalment es mostrarà després de fer una elecció."
+
+#: functions.php:85
+msgid "Based on your Analytics configuration you should fire Analytics as a non-functional cookie with a category of your choice, for example cmplz_event_0."
+msgstr "En funció de la configuració d'Analytics, hauríeu d'activar Analytics com a galeta no funcional amb una categoria que vulgueu, com ara cmplz_event_0."
+
+#: functions.php:81
+msgid "Based on your Analytics configuration you should fire Analytics as a functional cookie on event cmplz_event_functional."
+msgstr "En funció de la vostra configuració d'Analytics, hauríeu de disparar Analytics com a galeta funcional a l'esdeveniment cmplz_event_functional."
+
+#: DNSMPD/csv.php:59 DNSMPD/class-DNSMPD-table.php:166
+msgid "Email"
+msgstr "Correu electrònic"
+
+#: config/questions-wizard.php:431
+msgid "For the Google Analytics UA code, log on and click Admin and copy the UA code below Tracking-ID."
+msgstr "Per al codi de Google Analytics UA, inicieu sessió i feu clic a Administrador i copieu el codi UA de sota del seguiment."
+
+#: config/questions-wizard.php:414
+msgid "For the Google Tag Manager code, log on. Then, you will immediatly see Container codes. The one next to your website name is the code you will need to fill in here, the Container ID."
+msgstr "Per al codi del Gestor d'etiquetes de Google, inicieu sessió. Després, veureu immediatament els codis de contenidor. El que hi ha al costat del nom del vostre lloc web és el codi que heu d'emplenar aquí, l'identificador del contenidor."
+
+#: config/questions-wizard.php:350
+msgid "If you use Tag Manager to fire scripts on your site, Complianz will automatically enable categories."
+msgstr "Si utilitzeu el Gestor d'etiquetes per activar scripts al vostre lloc, Complianz habilitarà automàticament categories."
+
+#: config/questions-wizard.php:348
+msgid "Tag Manager fires scripts which place cookies"
+msgstr "El Gestor d'etiquetes dispara scripts que col·loquen les galetes"
+
+#: config/questions-wizard.php:327
+msgid "With Tag Manager you can configure the selective firing of cookies in the Tag Manager dashboard."
+msgstr "Amb l'administrador d'etiquetes, podeu configurar el processament selectiu de galetes al tauler d'etiquetes."
+
+#: config/questions-wizard.php:296
+msgid "Always block acquiring of IP addresses"
+msgstr "Bloqueja sempre l'adquisició d'adreces IP"
+
+#: config/cookie-settings.php:253
+msgid "Enter your custom Tag Manager categories, comma separated. The first item will fire event cmplz_event_0, the second one will fire cmplz_event_1 and so on. At page load cmplz_event_functional is fired, Marketing fires cmplz_event_all"
+msgstr "Introduïu les categories d'administrador d'etiquetes personalitzades separades per comes. El primer element provocarà l'esdeveniment cmplz_event_0, el segon farà que s'activi cmplz_event_1 i així successivament. A la càrrega de pàgina cmplz_event_functional es dispara, màrqueting incendis cmplz_event_all"
+
+#: config/cookie-settings.php:251 cookiebanner/settings.php:557
+msgid "Custom Tag Manager categories"
+msgstr "Categories de gestors d'etiquetes personalitzades"
+
+#: config/cookie-settings.php:223 config/cookie-settings.php:238
+#: cookiebanner/settings.php:521 cookiebanner/settings.php:537
+msgid "Depending on your settings and cookies you use, there can be two or three categories. With Tag Manager you can use more, custom categories."
+msgstr "Depenent de la configuració i les galetes que utilitzeu, pot haver-hi dues o tres categories. Amb el Gestor d'etiquetes podeu utilitzar més categories personalitzades."
+
+#: config/cookie-settings.php:221 config/cookie-settings.php:236
+#: cookiebanner/settings.php:519 cookiebanner/settings.php:535
+msgid "With categories, you can let users choose which category of cookies they want to accept."
+msgstr "Amb les categories, podeu permetre als usuaris triar quina categoria de galetes voleu acceptar."
+
+#: config/cookie-settings.php:220 config/cookie-settings.php:235
+msgid "Use categories"
+msgstr "Utilitza categories"
+
+#: config/cookie-settings.php:82
+msgid "The text that appears on the revoke button, which shows when a choice has been made in the cookie warning."
+msgstr "El text que apareix al botó de revocació, que mostra quan s'ha fet una selecció a l'advertiment de la galeta."
+
+#: config/cookie-settings.php:80 config/cookie-settings.php:122
+msgid "Settings text"
+msgstr "Text de configuració"
+
+#: config/cookie-settings.php:186 cookiebanner/settings.php:681
+msgid "This text is shown in the button which accepts all cookies. These are generally marketing related cookies, so you could also name it \"Marketing\""
+msgstr "Aquest text es mostra al botó que accepta totes les galetes. Generalment, aquestes són galetes relacionades amb la comercialització, de manera que també podeu anomenar-la  \"Màrqueting \""
+
+#: config/cookie-settings.php:185
+msgid "All cookies"
+msgstr "Totes les galetes"
+
+#: config/cookie-settings.php:174 cookiebanner/settings.php:655
+msgid "It depends on your settings if this category is necessary, so it will conditionally show"
+msgstr "Depèn de la vostra configuració si aquesta categoria és necessària, de manera que es mostrarà de forma condicional"
+
+#: config/cookie-settings.php:172
+msgid "Statistics cookies text"
+msgstr "Text de galetes d'estadístiques"
+
+#: config/steps.php:61 config/cookie-settings.php:171
+#: cookiebanner/settings.php:652 class-admin.php:1058
+msgid "Statistics"
+msgstr "Estadístiques"
+
+#: config/cookie-settings.php:144 cookiebanner/settings.php:667
+msgid "Marketing"
+msgstr "Màrqueting"
+
+#: config/cookie-settings.php:94 config/cookie-settings.php:133
+#: cookiebanner/settings.php:581
+msgid "Functional cookies text"
+msgstr "Text de les galetes funcionals"
+
+#: config/cookie-settings.php:108
+msgid "Save settings text"
+msgstr "Desa el text de configuració"
+
+#: config/cookie-settings.php:56 cookiebanner/settings.php:206
+msgid "Minimal"
+msgstr "Mínim"
+
+#: config/general-settings.php:37
+msgid "Duration in days of the A/B testing period"
+msgstr "Durada en dies del període de proves A / B"
+
+#: config/general-settings.php:23
+msgid "Enable A/B testing"
+msgstr "Activa les proves A / B"
+
+#: class-field.php:1871
+msgid "No agreement selected"
+msgstr "No s'ha seleccionat cap acord"
+
+#: config/warnings.php:7
+msgid "The Complianz plugin has new features. Please check the wizard to see if all your settings are still up to date."
+msgstr "L'extensió Complianz té funcions noves. Si us plau, consulteu l'assistent per veure si la vostra configuració encara està actualitzada."
+
+#: config/questions-wizard.php:299
+msgid "If you do not check to always block acquiring IP addresses, the IP addresses will get acquired as soon as the user accepts statistics or higher."
+msgstr "Si no marqueu que sempre es bloque l'adquisició d'adreces IP, les adreces IP es adquiriran tan bon punt l'usuari accepti estadístiques o superior."
+
+#: config/general-settings.php:72
+msgid "Enable if you want to add custom CSS for the documents"
+msgstr "Activeu si voleu afegir CSS personalitzat per als documents"
+
+#: config/general-settings.php:69
+msgid "Add custom document CSS"
+msgstr "Afegeix un document personalitzat CSS"
+
+#: config/cookie-settings.php:439 cookiebanner/settings.php:452
+msgid "Use Custom CSS"
+msgstr "Utilitza CSS personalitzat"
+
+#: config/cookie-settings.php:258 cookiebanner/settings.php:564
+msgid "First category, Second category"
+msgstr "Primera categoria, segona categoria"
+
+#: config/cookie-settings.php:131
+msgid "Functional cookies"
+msgstr "Galetes funcionals"
+
+#: config/cookie-settings.php:121 cookiebanner/settings.php:610
+msgid "View preferences"
+msgstr "Mostra les preferències"
+
+#: config/cookie-settings.php:107 cookiebanner/settings.php:595
+msgid "Save preferences"
+msgstr "Desa les preferències"
+
+#: config/cookie-settings.php:97 cookiebanner/settings.php:584
+msgid "When a users clicks this button, the message is dismissed, without activating all cookies. This can be described as a \"dismiss\" button or as an \"activate functional cookies\" only button."
+msgstr "Quan un usuari fa clic en aquest botó, es rebutja el missatge, sense activar totes les galetes. Això es pot descriure com un botó  \"descarta\" o com a només un botó  \"activa les galetes funcionals\"."
+
+#: config/cookie-settings.php:93 cookiebanner/settings.php:580
+msgid "Functional only"
+msgstr "Només funcional"
+
+#: config/general-settings.php:25
+msgid "If enabled, the plugin will track which cookie warning has the best conversion rate."
+msgstr "Si està habilitat, l'extensió farà un seguiment de quina advertència de galetes té la millor taxa de conversió."
+
+#: config/class-config.php:670
+msgid "If you want to run a/b testing to track which banner gets the highest acceptance ratio, %sget premium%s."
+msgstr "Si voleu executar proves a / b per fer un seguiment del bàner que obté la major proporció d'acceptació, %sobteniu la versió premium%s ."
+
+#: class-wizard.php:931
+msgid "This document has been saved as \"%s\" (%sview%s). You can view existing documents on the %soverview page%s"
+msgstr "Aquest document s'ha guardat com \"%s\" (%smostra%s). Podeu veure els documents existents en la %spàgina d'informació general%s"
+
+#: class-field.php:1862
+msgid "Select the processing agreement you made with this %s, or %screate one%s"
+msgstr "Seleccioneu l'acord de processament que hàgiu fet amb aquest %s , o %screeu-ne un%s"
+
+#: config/cookie-settings.php:39 cookiebanner/settings.php:189
+msgid "Center"
+msgstr "Centrat"
+
+#: class-cookiestatement-snapshot-table.php:163
+msgid "Download"
+msgstr "Baixa"
+
+#: cookiebanner/class-cookiebanner-table.php:204
+msgid "Edit"
+msgstr "Edita"
+
+#: config/warnings.php:64
+msgid "Matomo is being used, but is not configured in Complianz."
+msgstr "S'està utilitzant Matomo, però no està configurat a Complianz."
+
+#: config/warnings.php:59
+msgid "Google Tagmanager is being used, but is not configured in Complianz."
+msgstr "S'està utilitzant Google Tagmanager, però no està configurat a Complianz."
+
+#: config/questions-wizard.php:463
+msgid "e.g. https://domain.com/stats"
+msgstr "per exemple, https://domain.com/stats"
+
+#: config/questions-wizard.php:458
+msgid "Enter the URL of Matomo"
+msgstr "Introduïu l'URL de Matomo"
+
+#: config/questions-wizard.php:443
+msgid "Enter your Matomo site ID"
+msgstr "Introduïu l'identificador del lloc de Matomo"
+
+#: config/general-settings.php:93
+msgid "Add your own custom document css here"
+msgstr "Afegiu aquí el vostre propi document personalitzat"
+
+#: config/general-settings.php:79
+msgid "Custom document CSS"
+msgstr "Document personalitzat CSS"
+
+#: config/questions-wizard.php:535
+msgid "Select the types of third party services you use on your site."
+msgstr "Seleccioneu els tipus de serveis de tercers que feu servir al vostre lloc."
+
+#: config/questions-wizard.php:520
+msgid "Does your website use third party services?"
+msgstr "El vostre lloc web utilitza serveis de tercers?"
+
+#: config/cookie-settings.php:448 cookiebanner/settings.php:462
+msgid "Custom CSS"
+msgstr "CSS personalitzat"
+
+#: cookie/class-cookie-admin.php:3138
+msgid "Third party services"
+msgstr "Serveis de tercers"
+
+#: cookie/class-cookie-admin.php:3123
+msgid "Social media"
+msgstr "Mitjà de comunicació social"
+
+#: cookie/class-cookie-admin.php:3102
+msgid "Cookies on your own domain"
+msgstr "Galetes al vostre domini"
+
+#: class-admin.php:1109
+msgid "Check out the docs on complianz.io!"
+msgstr "Consulteu els documents a complianz.io."
+
+#: integrations/integrations-menu.php:41
+msgid "Script Center"
+msgstr "Centre de scripts"
+
+#: config/questions-wizard.php:522
+msgid "e.g. services like Google Fonts, Maps or recaptcha usually place cookies."
+msgstr "per exemple, serveis com Google Fonts, Maps o recaptcha solen col·locar galetes"
+
+#: class-admin.php:1106
+msgid "Documentation"
+msgstr "Documentació (en anglès)"
+
+#: config/general-settings.php:59
+msgid "Use document CSS"
+msgstr "Utilitzeu el document CSS"
+
+#: config/general-settings.php:62
+msgid "Disable if you don't want the default Complianz document CSS to load"
+msgstr "Desactiveu si no voleu que el document CSS per defecte de Complianz es carregui"
+
+#: class-wizard.php:1003
+msgid "View document"
+msgstr "Visualitza el document"
+
+#: cookiebanner/class-cookiebanner-table.php:228 DNSMPD/csv.php:58
+#: DNSMPD/class-DNSMPD-table.php:165 templates/cookie_settings.php:4
+#: templates/cookiepolicy_services.php:6 templates/service_settings.php:3
+msgid "Name"
+msgstr "Nom"
+
+#: class-field.php:815
+msgid "No options found"
+msgstr "No s'ha trobat cap opció"
+
+#: class-admin.php:1218
+msgid "No cookies detected yet"
+msgstr "Encara no s'han detectat galetes"
+
+#: config/cookie-settings.php:431
+msgid "Border color"
+msgstr "Color de la vora"
+
+#: config/questions-wizard.php:273
+msgid "Yes, with Matomo"
+msgstr "Sí, amb Matomo"
+
+#: config/general-settings.php:104
+msgid "Not recommended. You can disable the brute force blocking of third party scripts if you encounter issues with styling on your front-end."
+msgstr "No es recomana. Podeu desactivar el bloqueig de la força bruta de les seqüències d'ordres de tercers si trobeu problemes amb l'estil a la vostra interfície."
+
+#: config/general-settings.php:102
+msgid "Disable cookie blocker"
+msgstr "Desactiva el bloqueig de galetes"
+
+#: class-admin.php:1161
+msgid "Your progress"
+msgstr "El vostre progrés"
+
+#: class-admin.php:1194
+msgid "Continue"
+msgstr "Continua"
+
+#: class-admin.php:1148
+msgid "Free"
+msgstr "Gratuït"
+
+#: class-admin.php:1122
+msgid "Stay up to date with the latest news"
+msgstr "Manteniu-vos al dia amb les últimes novetats"
+
+#: class-admin.php:1119
+msgid "Our blog"
+msgstr "El nostre blog"
+
+#: class-admin.php:1079
+msgid "Really Simple SSL"
+msgstr "SSL molt senzill"
+
+#: class-admin.php:896
+msgid "Export personal data"
+msgstr "Exportació de dades personals"
+
+#: class-admin.php:869
+msgid "Create processing agreement"
+msgstr "Crea un acord de processament"
+
+#: class-admin.php:861
+msgid "Create dataleak report"
+msgstr "Crea un informe de dades"
+
+#: class-admin.php:840
+msgid "Tools"
+msgstr "Eines"
+
+#: class-admin.php:606
+msgid "All fields have been completed, but you have not clicked the finish button yet."
+msgstr "Tots els camps s'han completat, però encara no heu fet clic al botó Final."
+
+#: class-admin.php:1096
+msgid "Need new features or languages? Let us know!"
+msgstr "Necessiteu noves funcionalitatso idiomes? Feu-nos-ho saber!"
+
+#: class-admin.php:1093
+msgid "Feature requests"
+msgstr "Peticions de funcionalitats"
+
+#: config/questions-wizard.php:365
+msgid "If ip numbers are anonymized, the statistics cookie do not require a cookie warning"
+msgstr "Si els números d'ip són anònims, la galeta d'estadístiques no requereix cap advertència de galeta"
+
+#: config/questions-wizard.php:362
+msgid "Do you anonymize ip numbers in Matomo?"
+msgstr "Anonimitza els números IP a Matomo?"
+
+#: class-admin.php:593 class-admin.php:776
+msgid "Upgrade to premium"
+msgstr "Actualització a premium"
+
+#: class-admin.php:900
+msgid "Erase personal data"
+msgstr "Esborra les dades personals"
+
+#: class-admin.php:863 class-admin.php:871
+msgid "(%spremium%s)"
+msgstr "(%spremium%s)"
+
+#: class-admin.php:855
+msgid "Ask your questions on the %sWordPress forum%s"
+msgstr "Feu les vostres preguntes al %sfòrum del WordPress%s"
+
+#: class-admin.php:849
+msgid "For the most common issues see the Complianz %sknowledge base%s"
+msgstr "Per als problemes més comuns veure %sla base de coneixement%s del Complianz"
+
+#: cookie/class-cookie-admin.php:1645
+msgid "You use Matomo for statistics on your site, but ip numbers are not anonymized, so you should your tracking script here"
+msgstr "Utilitzaleu Matomo per a les estadístiques del vostre lloc, però els números IP no estan anonimitzats, de manera que hauríeu de fer servir el vostre script de seguiment aquí."
+
+#: cookie/class-cookie-admin.php:1642
+msgid "You use Matomo for statistics on your site, with ip numbers anonymized, so it is not necessary to add the script here."
+msgstr "Utilitzeu Matomo per obtenir estadístiques al vostre lloc, amb números IP anonimitzats, per la qual cosa no cal afegir el script aquí."
+
+#: class-admin.php:877
+msgid "Upgrade to Complianz premium for %spremium support%s"
+msgstr "Actualitzeu al Complianz Premium per a %ssuport premium%s"
+
+#: class-admin.php:1082
+msgid "Trusted by over 4 million WordPress users"
+msgstr "Amb la confiança de més de 4 milions d'usuaris del WordPress"
+
+#: config/warnings.php:30
+msgid "Please review step %s of the wizard for changes in cookies."
+msgstr "Reviseu el pas %s de l'assistent per als canvis en les galetes."
+
+#: cookiebanner/cookiebanner.php:203
+msgid "Please complete the wizard to check if you need a cookie warning."
+msgstr "Completeu l'assistent per comprovar si necessiteu una advertència de la galeta."
+
+#: class-admin.php:806
+msgid "Your license needs to be activated to unlock the wizard"
+msgstr "Cal activar la vostra llicència per desbloquejar l'assistent"
+
+#. Author URI of the plugin
+msgid "https://www.complianz.io"
+msgstr "https://www.complianz.io"
+
+#: functions.php:142
+msgid "Revoke cookie consent"
+msgstr "Revoca el consentiment de les galetes"
+
+#: config/steps.php:73
+msgid "Used cookies"
+msgstr "Galetes usades"
+
+#: config/steps.php:27
+msgctxt "intro company info"
+msgid "We need some information to be able to generate your documents."
+msgstr "Necessitem informació per poder generar els vostres documents."
+
+#: config/steps.php:9 cookiebanner/edit.php:97 cookiebanner/edit.php:114
+msgid "General"
+msgstr "General"
+
+#: config/questions-wizard.php:691
+msgid "Add the used cookies here"
+msgstr "Afegiu aquí les galetes usades"
+
+#: config/questions-wizard.php:585
+msgid "Select the types of social media you use on the site"
+msgstr "Seleccioneu els tipus de xarxes socials que feu servir al lloc"
+
+#: config/questions-wizard.php:426
+msgid "Enter your Analytics UA code"
+msgstr "Introduïu el codi UA d'Analytics"
+
+#: config/questions-wizard.php:409
+msgid "Enter your Google Tagmanager code"
+msgstr "Introduïu el vostre codi de Google Tagmanager"
+
+#: config/questions-wizard.php:324
+msgid "Acquiring IP-addresses is blocked."
+msgstr "S'ha bloquejat l'adquisició d'adreces IP."
+
+#: config/questions-wizard.php:294 config/questions-wizard.php:322
+msgid "Google is not allowed to use this data for other Google services"
+msgstr "Google no està autoritzat a utilitzar aquestes dades per a altres serveis de Google"
+
+#: config/questions-wizard.php:292 config/questions-wizard.php:320
+msgid "I have accepted the Google data processing amendment"
+msgstr "He acceptat l'esmena de processament de dades de Google"
+
+#: config/questions-wizard.php:289 config/questions-wizard.php:317
+msgid "Regarding the previous question, can you give more information?"
+msgstr "Pel que fa a la pregunta anterior, es pot donar més informació?"
+
+#: config/questions-wizard.php:275
+msgid "Yes, with Google Tag Manager"
+msgstr "Sí, amb el Gestor d'etiquetes de Google"
+
+#: config/questions-wizard.php:271
+msgid "Yes, with Google Analytics"
+msgstr "Sí, amb Google Analytics"
+
+#: config/questions-wizard.php:269
+msgid "Yes, and the personal data is available to us."
+msgstr "Sí, i les dades personals estan disponibles per a nosaltres."
+
+#: config/questions-wizard.php:267
+msgid "Yes, anonymous"
+msgstr "Sí, anònim"
+
+#: config/questions-wizard.php:264
+msgid "Do you compile statistics of your website?"
+msgstr "Compileu estadístiques del vostre lloc web?"
+
+#: config/questions-wizard.php:202
+msgid "What is the telephone number your visitors can use to contact you about privacy issues?"
+msgstr "Quin és el número de telèfon que els visitants poden utilitzar per contactar-vos sobre problemes de privadesa?"
+
+#: config/questions-wizard.php:189
+msgid "What is the email address your visitors can use to contact you about privacy issues?"
+msgstr "Quina és l'adreça de correu electrònic que els visitants poden utilitzar per contactar-vos sobre problemes de privadesa?"
+
+#: config/questions-wizard.php:176
+msgid "This setting is automatically selected based on your WordPress language setting."
+msgstr "Aquesta configuració es selecciona automàticament en funció de la vostra configuració d'idioma de WordPress."
+
+#: config/documents/cookie-policy-eu.php:154
+msgctxt "Legal document cookie policy"
+msgid "To exercise these rights, please contact us. Please refer to the contact details at the bottom of this cookie statement. If you have a complaint about how we handle your data, we would like to hear from you, but you also have the right to submit a complaint to the supervisory authority (the Data Protection Authority)."
+msgstr "Per exercir aquests drets, poseu-vos en contacte amb nosaltres. Consulteu les dades de contacte a la part inferior d'aquesta declaració de la galeta. Si teniu una queixa sobre com gestionem les vostres dades, ens agradaria saber de vosaltres, però també teniu el dret de presentar una reclamació a l'autoritat de supervisió (l'Agència de Protecció de Dades)."
+
+#: config/dynamic-fields.php:19
+msgid "Purpose:"
+msgstr "Propòsit:"
+
+#: config/countries.php:313
+msgid "Zimbabwe"
+msgstr "Zimbabwe"
+
+#: config/countries.php:312
+msgid "Zambia"
+msgstr "Zàmbia"
+
+#: config/countries.php:311
+msgid "Yemen"
+msgstr "Iemen"
+
+#: config/countries.php:310
+msgid "Western Sahara"
+msgstr "Sàhara Occidental"
+
+#: config/countries.php:309
+msgid "Wallis And Futuna"
+msgstr "Wallis i Futuna"
+
+#: config/countries.php:308
+msgid "Virgin Islands, U.S."
+msgstr "Illes Verges, EUA"
+
+#: config/countries.php:306
+msgid "Viet Nam"
+msgstr "Vietnam"
+
+#: config/countries.php:305
+msgid "Venezuela"
+msgstr "Veneçuela"
+
+#: config/countries.php:304
+msgid "Vanuatu"
+msgstr "Vanuatu"
+
+#: config/countries.php:303
+msgid "Uzbekistan"
+msgstr "Uzbekistan"
+
+#: config/countries.php:302
+msgid "Uruguay"
+msgstr "Uruguai"
+
+#: config/countries.php:301
+msgid "United States Outlying Islands"
+msgstr "Illes de fora dels Estats Units"
+
+#: config/countries.php:300
+msgid "United States"
+msgstr "Estats Units"
+
+#: config/countries.php:299
+msgid "United Kingdom"
+msgstr "Regne Unit"
+
+#: config/documents/cookie-policy-eu.php:14
+#: config/documents/cookie-policy-ca.php:19
+msgctxt "Legal document cookie policy"
+msgid "A cookie is a small simple file that is sent along with pages of this website and stored by your browser on the hard drive of your computer or another device. The information stored therein may be returned to our servers or to the servers of the relevant third parties during a subsequent visit."
+msgstr "Una galeta és un fitxer petit i senzill que s'envia juntament amb pàgines d'aquest lloc web i que el vostre navegador emmagatzema al disc dur de l'ordinador o un altre dispositiu. La informació emmagatzemada en ell es pot tornar als nostres servidors o als servidors dels tercers corresponents durant una visita posterior."
+
+#: config/countries.php:297
+msgid "Ukraine"
+msgstr "Ucraïna"
+
+#: config/countries.php:296
+msgid "Uganda"
+msgstr "Uganda"
+
+#: config/countries.php:295
+msgid "Tuvalu"
+msgstr "Tuvalu"
+
+#: config/countries.php:294
+msgid "Turks And Caicos Islands"
+msgstr "Illes turques i caicos"
+
+#: config/countries.php:293
+msgid "Turkmenistan"
+msgstr "Turkmenistan"
+
+#: config/countries.php:292
+msgid "Turkey"
+msgstr "Turquia"
+
+#: config/countries.php:291
+msgid "Tunisia"
+msgstr "Tunísia"
+
+#: config/countries.php:290
+msgid "Trinidad And Tobago"
+msgstr "Trinitat i Tobago"
+
+#: config/countries.php:289
+msgid "Tonga"
+msgstr "Tonga"
+
+#: config/countries.php:288
+msgid "Tokelau"
+msgstr "Tokelau"
+
+#: config/countries.php:285
+msgid "Thailand"
+msgstr "Tailàndia"
+
+#: config/countries.php:284
+msgid "Tanzania"
+msgstr "Tanzània"
+
+#: config/countries.php:283
+msgid "Tajikistan"
+msgstr "Tadjikistan"
+
+#: config/countries.php:282
+msgid "Taiwan"
+msgstr "Taiwan"
+
+#: config/countries.php:280
+msgid "Switzerland"
+msgstr "Suïssa"
+
+#: config/countries.php:279
+msgid "Sweden"
+msgstr "Suècia"
+
+#: config/countries.php:278
+msgid "Swaziland"
+msgstr "Swazilàndia"
+
+#: config/countries.php:277
+msgid "Svalbard And Jan Mayen"
+msgstr "Svalbard i Jan Mayen"
+
+#: config/countries.php:276
+msgid "Suriname"
+msgstr "Surinam"
+
+#: config/countries.php:275
+msgid "Sudan"
+msgstr "Sudan"
+
+#: config/countries.php:274
+msgid "Sri Lanka"
+msgstr "Sri Lanka"
+
+#: config/countries.php:273
+msgid "Spain"
+msgstr "Espanya"
+
+#: config/countries.php:272
+msgid "South Georgia And Sandwich Isl."
+msgstr "Geòrgia del Sud i Sandwich Isl."
+
+#: config/countries.php:270
+msgid "Somalia"
+msgstr "Somàlia"
+
+#: config/countries.php:269
+msgid "Solomon Islands"
+msgstr "Illes Salomó"
+
+#: config/countries.php:268
+msgid "Slovenia"
+msgstr "Eslovènia"
+
+#: config/countries.php:267
+msgid "Slovakia"
+msgstr "Eslovàquia"
+
+#: config/countries.php:266
+msgid "Singapore"
+msgstr "Singapur"
+
+#: config/countries.php:265
+msgid "Sierra Leone"
+msgstr "Sierra Leone"
+
+#: config/countries.php:264
+msgid "Seychelles"
+msgstr "Seychelles"
+
+#: config/countries.php:263
+msgid "Serbia"
+msgstr "Sèrbia"
+
+#: config/countries.php:262
+msgid "Senegal"
+msgstr "Senegal"
+
+#: config/countries.php:261
+msgid "Saudi Arabia"
+msgstr "Aràbia Saudita"
+
+#: config/countries.php:260
+msgid "Sao Tome And Principe"
+msgstr "Sao Tomé i el Príncep"
+
+#: config/countries.php:259
+msgid "San Marino"
+msgstr "San Marino"
+
+#: config/countries.php:258
+msgid "Samoa"
+msgstr "Samoa"
+
+#: config/countries.php:257
+msgid "Saint Vincent And Grenadines"
+msgstr "Saint Vincent i les Grenadines"
+
+#: config/countries.php:256
+msgid "Saint Pierre And Miquelon"
+msgstr "Saint Pierre i Miquelon"
+
+#: config/countries.php:255
+msgid "Saint Martin"
+msgstr "Saint Martin"
+
+#: config/countries.php:254
+msgid "Saint Lucia"
+msgstr "Saint Lucia"
+
+#: config/countries.php:253
+msgid "Saint Kitts And Nevis"
+msgstr "Saint Kitts i Nevis"
+
+#: config/countries.php:252
+msgid "Saint Helena"
+msgstr "Santa Helena"
+
+#: config/countries.php:251
+msgid "Saint Barthelemy"
+msgstr "Sant Bartomeu"
+
+#: config/countries.php:250
+msgid "Rwanda"
+msgstr "Rwanda"
+
+#: config/countries.php:249
+msgid "Russian Federation"
+msgstr "Federació Russa"
+
+#: config/countries.php:248
+msgid "Romania"
+msgstr "Romania"
+
+#: config/countries.php:247
+msgid "Reunion"
+msgstr "Reunió"
+
+#: config/countries.php:246
+msgid "Qatar"
+msgstr "Qatar"
+
+#: config/countries.php:245
+msgid "Puerto Rico"
+msgstr "Puerto Rico"
+
+#: config/countries.php:244
+msgid "Portugal"
+msgstr "Portugal"
+
+#: config/countries.php:243
+msgid "Poland"
+msgstr "Polònia"
+
+#: config/countries.php:242
+msgid "Pitcairn"
+msgstr "Pitcairn"
+
+#: config/countries.php:241
+msgid "Philippines"
+msgstr "Filipines"
+
+#: config/countries.php:240
+msgid "Peru"
+msgstr "Perú"
+
+#: config/countries.php:239
+msgid "Paraguay"
+msgstr "Paraguai"
+
+#: config/countries.php:238
+msgid "Papua New Guinea"
+msgstr "Papua Nova Guinea"
+
+#: config/countries.php:237
+msgid "Panama"
+msgstr "Panamà"
+
+#: config/countries.php:236
+msgid "Palestinian Territory, Occupied"
+msgstr "Territori palestí, ocupat"
+
+#: config/countries.php:235
+msgid "Palau"
+msgstr "Palau"
+
+#: config/countries.php:234
+msgid "Pakistan"
+msgstr "Pakistan"
+
+#: config/countries.php:233
+msgid "Oman"
+msgstr "Oman"
+
+#: config/countries.php:232
+msgid "Norway"
+msgstr "Noruega"
+
+#: config/countries.php:229
+msgid "Niue"
+msgstr "Niue"
+
+#: config/countries.php:228
+msgid "Nigeria"
+msgstr "Nigèria"
+
+#: config/countries.php:227
+msgid "Niger"
+msgstr "Níger"
+
+#: config/countries.php:226
+msgid "Nicaragua"
+msgstr "Nicaragua"
+
+#: config/countries.php:225
+msgid "New Zealand"
+msgstr "Nova Zelanda"
+
+#: config/countries.php:224
+msgid "New Caledonia"
+msgstr "Nova Caledònia"
+
+#: config/countries.php:223
+msgid "Netherlands Antilles"
+msgstr "Antilles Neerlandeses"
+
+#: config/countries.php:222
+msgid "Netherlands"
+msgstr "Països Baixos"
+
+#: config/countries.php:221
+msgid "Nepal"
+msgstr "Nepal"
+
+#: config/countries.php:220
+msgid "Nauru"
+msgstr "Nauru"
+
+#: config/countries.php:219
+msgid "Namibia"
+msgstr "Namíbia"
+
+#: config/countries.php:218
+msgid "Myanmar"
+msgstr "Myanmar"
+
+#: config/countries.php:217
+msgid "Mozambique"
+msgstr "Moçambic"
+
+#: config/countries.php:216
+msgid "Morocco"
+msgstr "Marroc"
+
+#: config/countries.php:215
+msgid "Montserrat"
+msgstr "Montserrat"
+
+#: config/countries.php:214
+msgid "Montenegro"
+msgstr "Montenegro"
+
+#: config/countries.php:213
+msgid "Mongolia"
+msgstr "Mongòlia"
+
+#: config/countries.php:212
+msgid "Monaco"
+msgstr "Mònaco"
+
+#: config/countries.php:211
+msgid "Moldova"
+msgstr "Moldàvia"
+
+#: config/countries.php:210
+msgid "Micronesia, Federated States Of"
+msgstr "Micronèsia, Estats Federats de"
+
+#: config/countries.php:209
+msgid "Mexico"
+msgstr "Mèxic"
+
+#: config/countries.php:208
+msgid "Mayotte"
+msgstr "Mayotte"
+
+#: config/countries.php:207
+msgid "Mauritius"
+msgstr "Maurici"
+
+#: config/countries.php:206
+msgid "Mauritania"
+msgstr "Mauritània"
+
+#: config/countries.php:205
+msgid "Martinique"
+msgstr "Martinica"
+
+#: config/countries.php:204
+msgid "Marshall Islands"
+msgstr "Illes Marshall"
+
+#: config/countries.php:203
+msgid "Malta"
+msgstr "Malta"
+
+#: config/countries.php:202
+msgid "Mali"
+msgstr "Mali"
+
+#: config/countries.php:201
+msgid "Maldives"
+msgstr "Maldives"
+
+#: config/countries.php:200
+msgid "Malaysia"
+msgstr "Malàisia"
+
+#: config/countries.php:199
+msgid "Malawi"
+msgstr "Malawi"
+
+#: config/countries.php:198
+msgid "Madagascar"
+msgstr "Madagascar"
+
+#: config/countries.php:196
+msgid "Macao"
+msgstr "Macau"
+
+#: config/countries.php:195
+msgid "Luxembourg"
+msgstr "Luxemburg"
+
+#: config/countries.php:194
+msgid "Lithuania"
+msgstr "Lituània"
+
+#: config/countries.php:193
+msgid "Liechtenstein"
+msgstr "Liechtenstein"
+
+#: config/countries.php:192
+msgid "Libyan Arab Jamahiriya"
+msgstr "Jamahiriya Àrab Líbia"
+
+#: config/countries.php:191
+msgid "Liberia"
+msgstr "Libèria"
+
+#: config/countries.php:190
+msgid "Lesotho"
+msgstr "Lesotho"
+
+#: config/countries.php:189
+msgid "Lebanon"
+msgstr "Líban"
+
+#: config/countries.php:188
+msgid "Latvia"
+msgstr "Letònia"
+
+#: config/countries.php:186
+msgid "Kyrgyzstan"
+msgstr "Kirguizistan"
+
+#: config/countries.php:185
+msgid "Kuwait"
+msgstr "Kuwait"
+
+#: config/countries.php:184
+msgid "Korea"
+msgstr "Corea"
+
+#: config/countries.php:183
+msgid "Kiribati"
+msgstr "Kiribati"
+
+#: config/countries.php:182
+msgid "Kenya"
+msgstr "Kenya"
+
+#: config/countries.php:181
+msgid "Kazakhstan"
+msgstr "Kazakhstan"
+
+#: config/countries.php:180
+msgid "Jordan"
+msgstr "Jordània"
+
+#: config/countries.php:179
+msgid "Jersey"
+msgstr "Jersey"
+
+#: config/countries.php:178
+msgid "Japan"
+msgstr "Japó"
+
+#: config/countries.php:177
+msgid "Jamaica"
+msgstr "Jamaica"
+
+#: config/countries.php:176
+msgid "Italy"
+msgstr "Itàlia"
+
+#: config/countries.php:175
+msgid "Israel"
+msgstr "Israel"
+
+#: config/countries.php:173
+msgid "Ireland"
+msgstr "Irlanda"
+
+#: config/countries.php:172
+msgid "Iraq"
+msgstr "Iraq"
+
+#: config/countries.php:171
+msgid "Iran, Islamic Republic Of"
+msgstr "Iran, República Islàmica de"
+
+#: config/countries.php:170
+msgid "Indonesia"
+msgstr "Indonèsia"
+
+#: config/countries.php:169
+msgid "India"
+msgstr "Índia"
+
+#: config/countries.php:168
+msgid "Iceland"
+msgstr "Islàndia"
+
+#: config/countries.php:167
+msgid "Hungary"
+msgstr "Hongria"
+
+#: config/countries.php:166
+msgid "Hong Kong"
+msgstr "Hong Kong"
+
+#: config/countries.php:165
+msgid "Honduras"
+msgstr "Hondures"
+
+#: config/countries.php:162
+msgid "Haiti"
+msgstr "Haití"
+
+#: config/countries.php:161
+msgid "Guyana"
+msgstr "Guyana"
+
+#: config/countries.php:160
+msgid "Guinea-Bissau"
+msgstr "Guinea Bissau"
+
+#: config/countries.php:159
+msgid "Guinea"
+msgstr "Guinea"
+
+#: config/countries.php:158
+msgid "Guernsey"
+msgstr "Guernsey"
+
+#: config/countries.php:157
+msgid "Guatemala"
+msgstr "Guatemala"
+
+#: config/countries.php:156
+msgid "Guam"
+msgstr "Guam"
+
+#: config/countries.php:154
+msgid "Grenada"
+msgstr "Grenada"
+
+#: config/countries.php:153
+msgid "Greenland"
+msgstr "Groenlàndia"
+
+#: config/countries.php:152
+msgid "Greece"
+msgstr "Grècia"
+
+#: config/countries.php:151
+msgid "Gibraltar"
+msgstr "Gibraltar"
+
+#: config/countries.php:150
+msgid "Ghana"
+msgstr "Ghana"
+
+#: config/countries.php:149
+msgid "Germany"
+msgstr "Alemanya"
+
+#: config/countries.php:148
+msgid "Georgia"
+msgstr "Geòrgia"
+
+#: config/countries.php:147
+msgid "Gambia"
+msgstr "Gàmbia"
+
+#: config/countries.php:146
+msgid "Gabon"
+msgstr "Gabon"
+
+#: config/countries.php:143
+msgid "French Guiana"
+msgstr "Guaiana Francesa"
+
+#: config/countries.php:142
+msgid "France"
+msgstr "França"
+
+#: config/countries.php:141
+msgid "Finland"
+msgstr "Finlàndia"
+
+#: config/countries.php:140
+msgid "Fiji"
+msgstr "Fiji"
+
+#: config/countries.php:137
+msgid "Ethiopia"
+msgstr "Etiòpia"
+
+#: config/countries.php:136
+msgid "Estonia"
+msgstr "Estònia"
+
+#: config/countries.php:135
+msgid "Eritrea"
+msgstr "Eritrea"
+
+#: config/countries.php:134
+msgid "Equatorial Guinea"
+msgstr "Guinea Equatorial"
+
+#: config/countries.php:133
+msgid "El Salvador"
+msgstr "El Salvador"
+
+#: config/countries.php:132
+msgid "Egypt"
+msgstr "Egipte"
+
+#: config/countries.php:131
+msgid "Ecuador"
+msgstr "Equador"
+
+#: config/countries.php:130
+msgid "Dominican Republic"
+msgstr "República Dominicana"
+
+#: config/countries.php:129
+msgid "Dominica"
+msgstr "Dominica"
+
+#: config/countries.php:128
+msgid "Djibouti"
+msgstr "Djibouti"
+
+#: config/countries.php:127
+msgid "Denmark"
+msgstr "Dinamarca"
+
+#: config/countries.php:126
+msgid "Czech Republic"
+msgstr "República Txeca"
+
+#: config/countries.php:125
+msgid "Cyprus"
+msgstr "Xipre"
+
+#: config/countries.php:124
+msgid "Cuba"
+msgstr "Cuba"
+
+#: config/countries.php:123
+msgid "Croatia"
+msgstr "Croàcia"
+
+#: config/countries.php:122
+msgid "Cote D'Ivoire"
+msgstr "Costa d'Ivori"
+
+#: config/countries.php:121
+msgid "Costa Rica"
+msgstr "Costa Rica"
+
+#: config/countries.php:120
+msgid "Cook Islands"
+msgstr "Illes Cook"
+
+#: config/countries.php:119
+msgid "Congo, Democratic Republic"
+msgstr "Congo, República Democràtica"
+
+#: config/countries.php:118
+msgid "Congo"
+msgstr "Congo"
+
+#: config/countries.php:117
+msgid "Comoros"
+msgstr "Comores"
+
+#: config/countries.php:116
+msgid "Colombia"
+msgstr "Colòmbia"
+
+#: config/countries.php:115
+msgid "Cocos (Keeling) Islands"
+msgstr "Illes Cocos (Keeling)"
+
+#: config/countries.php:113
+msgid "China"
+msgstr "Xina"
+
+#: config/countries.php:112
+msgid "Chile"
+msgstr "Xile"
+
+#: config/countries.php:111
+msgid "Chad"
+msgstr "Txad"
+
+#: config/countries.php:110
+msgid "Central African Republic"
+msgstr "República Centreafricana"
+
+#: config/countries.php:109
+msgid "Cayman Islands"
+msgstr "Illes Caiman"
+
+#: config/countries.php:108
+msgid "Cape Verde"
+msgstr "Cap Verd"
+
+#: config/countries.php:107
+msgid "Canada"
+msgstr "Canadà"
+
+#: config/countries.php:106
+msgid "Cameroon"
+msgstr "Camerun"
+
+#: config/countries.php:105
+msgid "Cambodia"
+msgstr "Cambodja"
+
+#: config/countries.php:104
+msgid "Burundi"
+msgstr "Burundi"
+
+#: config/countries.php:103
+msgid "Burkina Faso"
+msgstr "Burkina Faso"
+
+#: config/countries.php:102
+msgid "Bulgaria"
+msgstr "Bulgària"
+
+#: config/countries.php:99
+msgid "Brazil"
+msgstr "Brasil"
+
+#: config/countries.php:98
+msgid "Bouvet Island"
+msgstr "Illa Bouvet"
+
+#: config/countries.php:97
+msgid "Botswana"
+msgstr "Botswana"
+
+#: config/countries.php:96
+msgid "Bosnia And Herzegovina"
+msgstr "Bòsnia i Hercegovina"
+
+#: config/countries.php:95
+msgid "Bolivia"
+msgstr "Bolívia"
+
+#: config/countries.php:94
+msgid "Bhutan"
+msgstr "Bhutan"
+
+#: config/countries.php:92
+msgid "Benin"
+msgstr "Benín"
+
+#: config/countries.php:91
+msgid "Belize"
+msgstr "Belize"
+
+#: config/countries.php:90
+msgid "Belgium"
+msgstr "Bèlgica"
+
+#: config/countries.php:89
+msgid "Belarus"
+msgstr "Bielorússia"
+
+#: config/countries.php:88
+msgid "Barbados"
+msgstr "Barbados"
+
+#: config/countries.php:86
+msgid "Bahrain"
+msgstr "Bahrain"
+
+#: config/countries.php:85
+msgid "Bahamas"
+msgstr "Bahames"
+
+#: config/countries.php:83
+msgid "Austria"
+msgstr "Àustria"
+
+#: config/countries.php:82
+msgid "Australia"
+msgstr "Austràlia"
+
+#: config/countries.php:81
+msgid "Aruba"
+msgstr "Aruba"
+
+#: config/countries.php:80
+msgid "Armenia"
+msgstr "Armènia"
+
+#: config/countries.php:79
+msgid "Argentina"
+msgstr "Argentina"
+
+#: config/countries.php:78
+msgid "Antigua And Barbuda"
+msgstr "Antigua i Barbuda"
+
+#: config/countries.php:77
+msgid "Antarctica"
+msgstr "Antàrtida"
+
+#: config/countries.php:76
+msgid "Anguilla"
+msgstr "Anguilla"
+
+#: config/countries.php:75
+msgid "Angola"
+msgstr "Angola"
+
+#: config/countries.php:74
+msgid "Andorra"
+msgstr "Andorra"
+
+#: config/countries.php:72
+msgid "Algeria"
+msgstr "Algèria"
+
+#: config/countries.php:71
+msgid "Albania"
+msgstr "Albània"
+
+#: config/countries.php:70
+msgid "Aland Islands"
+msgstr "Illes Aland"
+
+#: config/countries.php:69
+msgid "Afghanistan"
+msgstr "Afganistan"
+
+#: config/cookie-settings.php:55 cookiebanner/settings.php:205
+msgid "Edgeless"
+msgstr "Sense vores"
+
+#: config/cookie-settings.php:54 cookiebanner/settings.php:204
+#: cookiebanner/settings.php:220
+msgid "Classic"
+msgstr "Clàssic"
+
+#: config/cookie-settings.php:53 cookiebanner/settings.php:203
+msgid "Block"
+msgstr "Bloc"
+
+#: config/cookie-settings.php:51
+msgid "Style"
+msgstr "Estil"
+
+#: config/cookie-settings.php:38 cookiebanner/settings.php:188
+msgid "Floating right"
+msgstr "Flotant a la dreta"
+
+#: config/cookie-settings.php:37 cookiebanner/settings.php:187
+msgid "Floating left"
+msgstr "Flotant a l'esquerra"
+
+#: config/cookie-settings.php:336 config/cookie-settings.php:337
+#: cookiebanner/settings.php:780 cookiebanner/settings.php:781
+#: integrations/plugins/gravity-forms.php:52
+#: integrations/plugins/gravity-forms.php:57
+#: integrations/plugins/gravity-forms.php:58
+msgid "Accept"
+msgstr "Accepta"
+
+#: config/cookie-settings.php:201 config/cookie-settings.php:348
+#: cookiebanner/settings.php:721 cookiebanner/settings.php:833
+msgid "Cookie message"
+msgstr "Missatge de galetes"
+
+#: config/general-settings.php:51
+msgid "Cookie banner expiration in days"
+msgstr "Venciment de la advertència de galetes en dies"
+
+#: config/cookie-settings.php:422
+msgid "Button text color"
+msgstr "Color del text del botó"
+
+#: config/cookie-settings.php:413
+msgid "Button background color"
+msgstr "Color de fons del botó"
+
+#: config/warnings.php:54
+msgid "Google Analytics is being used, but is not configured in Complianz."
+msgstr "S'està utilitzant Google Analytics, però no està configurat a Complianz."
+
+#: config/warnings.php:28
+msgid "Cookie changes have been detected."
+msgstr "S'han detectat canvis a les galetes."
+
+#: config/warnings.php:26
+msgid "No cookie changes have been detected."
+msgstr "No s'ha detectat cap canvi de galeta."
+
+#: config/warnings.php:19
+msgid "The wizard has been completed."
+msgstr "S'ha completat l'assistent."
+
+#: config/questions-wizard.php:277 config/class-config.php:661
+msgid "No"
+msgstr "No"
+
+#: config/class-config.php:660
+msgid "Yes"
+msgstr "Sí"
+
+#: class-wizard.php:978 shepherd/tour.php:149
+msgid "Previous"
+msgstr "Anterior"
+
+#: class-wizard.php:938
+msgid "processing agreements"
+msgstr "acords de processament"
+
+#: class-wizard.php:914
+msgid "Changes saved successfully"
+msgstr "Els canvis s'han desat correctament"
+
+#: config/steps.php:109 class-wizard.php:132 class-wizard.php:1004
+msgid "Finish"
+msgstr "Acaba"
+
+#: class-wizard.php:124
+msgid "Not all required fields are completed yet. Please check the steps to complete all required questions"
+msgstr "Encara no s'han completat tots els camps obligatoris. Comproveu els passos per completar totes les preguntes requerides"
+
+#: class-wizard.php:112
+msgid "Changes in cookies detected"
+msgstr "S'han detectat canvis a les galetes"
+
+#: class-field.php:1910 class-field.php:2018
+msgid "What type of data is shared"
+msgstr "Quin tipus de dades es comparteixen?"
+
+#: class-field.php:1716
+msgid "Add new cookie"
+msgstr "Afegeix una nova galeta"
+
+#: config/steps.php:36 class-field.php:1898 class-field.php:2008
+#: templates/cookie_settings.php:34
+msgid "Purpose"
+msgstr "Propòsit"
+
+#: config/steps.php:50
+msgid "Cookies"
+msgstr "Galetes"
+
+#: class-field.php:1644 class-field.php:1927 class-field.php:2036
+msgid "Remove"
+msgstr "Suprimeix"
+
+#: class-field.php:1632
+msgid "Description"
+msgstr "Descripció"
+
+#: class-field.php:1602 class-field.php:1923 class-field.php:2032
+#: cookiebanner/edit.php:150 class-wizard.php:1045
+#: templates/cookie_settings.php:85 templates/service_settings.php:46
+msgid "Save"
+msgstr "Desa"
+
+#: class-field.php:1482
+msgid "Choose an option"
+msgstr "Trieu una opció"
+
+#: class-field.php:520
+msgid "This field is required. Please complete the question before continuing"
+msgstr "Aquest camp és obligatori. Completeu la pregunta abans de continuar"
+
+#: class-document.php:879
+msgid "and"
+msgstr "i"
+
+#: class-document.php:600
+msgid "Annex"
+msgstr "Annex"
+
+#: class-document.php:1675
+msgid "Select a menu"
+msgstr "Seleccioneu un menú"
+
+#: class-document.php:1650
+msgid "Great! All your generated documents have been assigned to a menu, so you can skip this step."
+msgstr "Genial! Tots els documents generats s'han assignat a un menú, de manera que podeu ometre aquest pas."
+
+#: cookie/class-cookie-admin.php:3334
+msgid "Cookies as detected by the automatic cookie scan. Please note that only cookies set on your own domain are detected by this scan."
+msgstr "Galetes segons la detecció de l'escaneig automàtic de galetes. Tingueu en compte que aquesta exploració només detecta les galetes establertes al vostre domini."
+
+#: cookie/class-cookie-admin.php:2985
+msgid "%s at %s"
+msgstr "%s a %s"
+
+#: class-admin.php:1299
+msgid "Last cookie scan on %s"
+msgstr "Última exploració de galetes a %s"
+
+#: class-admin.php:1295
+msgid "Your site does not require a cookie warning. No cookie warning has been enabled."
+msgstr "El vostre lloc no requereix cap advertència de galetes. No s'ha activat cap avís de galetes."
+
+#: class-admin.php:1291
+msgid "Your site requires a cookie warning, which has been enabled"
+msgstr "El vostre lloc requereix una advertència de galetes, que s'ha activat"
+
+#: class-admin.php:721
+msgid "Complianz"
+msgstr "Complianz"
+
+#: class-admin.php:587
+msgid "Support"
+msgstr "Suport"
+
+#: callback-notices.php:73
+msgid "The scan found social media buttons or widgets for %s on your site, which means the answer should be yes"
+msgstr "L'exploració ha trobat botons de mitjans socials o widgets per a %s al vostre lloc, la qual cosa significa que la resposta hauria de ser sí"
+
+#: config/questions-wizard.php:786
+msgid "The most common third party cookies are blocked automatically. If you want to block other third party cookies, enter the iframe source here, comma separated. For more information on this, please read %sthis%s article"
+msgstr "Les galetes de tercers més habituals es bloquegen automàticament. Si voleu bloquejar altres galetes de tercers, introduïu aquí la font de iframe, separades per comes. Per obtenir més informació sobre això, llegiu %saquest article%s"
+
+#: config/questions-wizard.php:174
+msgid "What is your Country?"
+msgstr "Quin és el vostre país?"
+
+#: config/questions-wizard.php:162
+msgid "What is your address?"
+msgstr "Quin és la vostra adreça?"
+
+#: callback-notices.php:46
+msgid "The cookie scan detected %s on your site, which means the answer to this question should be %s."
+msgstr "L'exploració de galetes ha detectat %s galetes al vostre lloc, el que significa que la resposta a aquesta pregunta hauria de ser %s ."
+
+#: config/questions-wizard.php:724 config/questions-wizard.php:747
+msgid "To be able to activate cookies when a user accepts the cookie policy, the scripts that are used for these cookies need to be entered here, without <script></script> tags. For more information on this, please read %sthis%s article"
+msgstr "Per poder activar les galetes quan un usuari accepta la política de galetes, les seqüències d'ordres que s'utilitzen per a aquestes galetes s'han d'introduir aquí, sense etiquetes <script> </script>. Per obtenir més informació sobre això, llegiu %saquest article%s"
+
+#: config/questions-wizard.php:717
+msgid "Statistics script"
+msgstr "Script d'estadístiques"
+
+#: config/questions-wizard.php:722 config/questions-wizard.php:745
+msgid "Paste here all your scripts that activate cookies. Enter the scripts without the script tags"
+msgstr "Enganxeu aquí tots els scripts que activin les galetes. Introduïu els scripts sense les etiquetes HTML"
+
+#: config/questions-wizard.php:572
+msgid "e.g. Facebook, Twitter, LinkedIn sharing buttons or widgets. These usually place cookies"
+msgstr "p. ex. ginys o botons de compartir de Facebook, Twitter, LinkedIn. Aquestes solen col·locar galetes"
+
+#: config/questions-wizard.php:570
+msgid "Does your website use social media buttons or widgets?"
+msgstr "El vostre lloc web utilitza botons ofrece ginys de xarxes socials?"
+
+#: config/questions-wizard.php:601
+msgid "Does your website use cookies for advertising?"
+msgstr "El vostre lloc web fa servir galetes per a la publicitat?"
+
+#: config/questions-wizard.php:476
+msgid "This website uses cookies or similiar techniques."
+msgstr "Aquest lloc web utilitza galetes o tècniques similars."
+
+#: config/questions-wizard.php:301
+msgid "If you can check all three options, you might not need a cookie warning on your site."
+msgstr "Si podeu marcar les tres opcions, és possible que no necessiteu cap advertència de galetes al vostre lloc."
+
+#: config/questions-wizard.php:93
+msgid "cookie policy"
+msgstr "Política de galetes"
+
+#: config/countries.php:287
+msgid "Togo"
+msgstr "Togo"
+
+#: config/documents/cookie-policy-eu.php:168
+#: config/documents/cookie-policy-ca.php:150
+msgctxt "Legal document cookie policy"
+msgid "For questions and/or comments about our cookie policy and this statement, please contact us by using the following contact details:"
+msgstr "Per a preguntes i/o comentaris sobre la nostra política de galetes i aquesta declaració, poseu-vos en contacte amb nosaltres mitjançant les següents dades de contacte:"
+
+#: config/documents/cookie-policy-eu.php:163
+msgctxt "Legal document cookie policy"
+msgid "Please note that our website may not work properly if all cookies are disabled. If you do delete the cookies in your browser, they will be placed again after your consent when you visit our websites again."
+msgstr "Tingueu en compte que el nostre lloc web pot no funcionar correctament si totes les galetes estan desactivades. Si suprimiu les galetes del navegador, se'n crearan de noves després del vostre consentiment quan torneu a visitar els nostres llocs web."
+
+#: config/documents/cookie-policy-eu.php:149
+msgctxt "Legal document cookie policy"
+msgid "Right to object: you may object to the processing of your data. We comply with this, unless there are justified grounds for processing."
+msgstr "Dret a l'oposició: podeu oposar-vos al processament de les vostres dades. Complim amb això, tret que hi hagi motius justificats per al processament."
+
+#: config/documents/cookie-policy-eu.php:148
+msgctxt "Legal document cookie policy"
+msgid "Right to transfer your data: you have the right to request all your personal data from the controller and transfer it in its entirety to another controller."
+msgstr "Dret de transferir les vostres dades: teniu el dret de sol·licitar totes les dades personals del controlador i transferir-les en la seva totalitat a un altre controlador."
+
+#: config/documents/cookie-policy-eu.php:147
+msgctxt "Legal document cookie policy"
+msgid "If you give us your consent to process your data, you have the right to revoke that consent and to have your personal data deleted."
+msgstr "Si ens doneu el consentiment per processar les seves dades, teniu el dret de revocar aquest consentiment i de suprimir les vostres dades personals."
+
+#: config/countries.php:298
+msgid "United Arab Emirates"
+msgstr "Unió dels Emirats Àrabs"
+
+#: config/countries.php:73
+msgid "American Samoa"
+msgstr "Samoa Americana"
+
+#: config/countries.php:145
+msgid "French Southern Territories"
+msgstr "Territoris Francesos del Sud"
+
+#: config/countries.php:84
+msgid "Azerbaijan"
+msgstr "Azerbaitjan"
+
+#: config/countries.php:87
+msgid "Bangladesh"
+msgstr "Bangla Desh"
+
+#: config/countries.php:93
+msgid "Bermuda"
+msgstr "Bermuda"
+
+#: config/countries.php:101
+msgid "Brunei Darussalam"
+msgstr "Brunei (Negara Brunei Darussalam)"
+
+#: config/countries.php:114
+msgid "Christmas Island"
+msgstr "Illa Christmas"
+
+#: config/countries.php:138
+msgid "Falkland Islands (Malvinas)"
+msgstr "Illes Malvines (Falkland)"
+
+#: config/countries.php:139
+msgid "Faroe Islands"
+msgstr "Illes Fèroe"
+
+#: config/countries.php:155
+msgid "Guadeloupe"
+msgstr "Guadalupe"
+
+#: config/countries.php:100
+msgid "British Indian Ocean Territory"
+msgstr "Territori Britànic de l'Oceà Índic"
+
+#: config/countries.php:187
+msgid "Lao People's Democratic Republic"
+msgstr "República Democràtica Popular de Laos"
+
+#: config/countries.php:231
+msgid "Northern Mariana Islands"
+msgstr "Illes Marianes del Nord"
+
+#: config/countries.php:230
+msgid "Norfolk Island"
+msgstr "Illa Norfolk"
+
+#: config/countries.php:144
+msgid "French Polynesia"
+msgstr "Polinèsia francesa"
+
+#: config/countries.php:281
+msgid "Syrian Arab Republic"
+msgstr "República Àrab Síria"
+
+#: config/countries.php:286
+msgid "Timor-Leste"
+msgstr "Timor Oriental"
+
+#: config/countries.php:164
+msgid "Holy See (Vatican City State)"
+msgstr "Santa Seu (Estat del Vaticà)"
+
+#: config/countries.php:307
+msgid "Virgin Islands, British"
+msgstr "Illes Verges, Britàniques"
+
+#: config/countries.php:271
+msgid "South Africa"
+msgstr "Sudàfrica"
+
+#: config/countries.php:174
+msgid "Isle Of Man"
+msgstr "Illa de Man"
+
+#: config/countries.php:163
+msgid "Heard Island & Mcdonald Islands"
+msgstr "Illes Heard i McDonald"
+
+#: config/cookie-settings.php:41 cookiebanner/settings.php:191
+msgid "Push down"
+msgstr "Prem"
+
+#: config/cookie-settings.php:40 cookiebanner/settings.php:190
+msgid "Banner top"
+msgstr "Part de dalt del bàner"
+
+#: config/cookie-settings.php:36 cookiebanner/settings.php:186
+msgid "Banner bottom"
+msgstr "Part de baix del bàner"
+
+#: config/cookie-settings.php:34
+msgid "Popup position"
+msgstr "Posició de la finestra emergent"
+
+#: config/warnings.php:38
+msgid "You don't have SSL on your site yet. Most hosting companies can install SSL for you, which you can quickly enable with %sReally Simple SSL%s"
+msgstr "Encara no teniu SSL al vostre lloc. La majoria d'empreses d'allotjament poden instal·lar-vos SSL, que podeu activar ràpidament amb %sReally Simple SSL%s"
+
+#: config/warnings.php:36
+msgid "Great! You're already on SSL!"
+msgstr "Genial! Ja esteu amb SSL!"
+
+#: config/warnings.php:49
+msgid "Please review step %s of the wizard for changes in plugin privacy statements and cookies."
+msgstr "Reviseu el pas %s de l'assistent per als canvis en les declaracions de privadesa i les galetes de les extensions."
+
+#: config/warnings.php:47
+msgid "Plugin changes have been detected."
+msgstr "S'han detectat canvis d'extensions."
+
+#: config/warnings.php:45
+msgid "No plugin changes have been detected."
+msgstr "No s'ha detectat cap canvi a les extensions."
+
+#: class-wizard.php:988 shepherd/tour.php:148
+msgid "Next"
+msgstr "Següent"
+
+#: config/cookie-settings.php:209 cookiebanner/settings.php:707
+#: functions.php:1590
+msgid "Read more"
+msgstr "Saber més"
+
+#: config/cookie-settings.php:79 class-admin.php:580 class-admin.php:754
+#: class-admin.php:755 class-admin.php:1373 shepherd/tour.php:120
+msgid "Settings"
+msgstr "Opcions"
+
+#: class-admin.php:732 class-admin.php:733 shepherd/tour.php:85
+msgid "Dashboard"
+msgstr "Tauler"
+
+#: config/documents/cookie-policy-eu.php:82
+#: config/documents/cookie-policy-ca.php:72
+msgctxt "Legal document cookie policy"
+msgid "On this website we use advertising cookies, enabling us to personalize the advertisements for you, and we (and third parties) gain insights into the campaign results. This happens based on a profile we create based on your click and surfing on and outside %s. With these cookies you, as website visitor are linked to a unique ID, so you do not see the same ad more than once for example."
+msgstr "En aquest lloc web, utilitzem galetes publicitàries que ens permeten personalitzar els anuncis, i nosaltres (i tercers) obtenim informació sobre els resultats de la campanya. Això succeeix en funció d'un perfil que creem basat en el clic i la navegació fora de %s. Amb aquestes galetes esteu, com a visitant del lloc web, enllaçat amb una identificació única, amb el que per exemple no veureu el mateix anunci més d'una vegada."
+
+#: config/documents/cookie-policy-eu.php:53
+msgctxt "Legal document cookie policy"
+msgid "Some cookies ensure that certain parts of the website work properly and that your user preferences remain known. By placing functional cookies, we make it easier for you to visit our website. This way, you do not need to repeatedly enter the same information when visiting our website and, for example, the items remain in your shopping cart until you have paid. We may place these cookies without your consent."
+msgstr "Algunes galetes asseguren que certes parts del lloc web funcionen correctament i que les preferències dels usuaris segueixin sent conegudes. Utilitzant galetes funcionals, us facilitem que visiteu el nostre lloc web. D'aquesta manera, no cal que introduïu repetidament la mateixa informació quan visiteu el nostre lloc web i, per exemple, els elements romanen al carretó de la compra fins que hàgiu pagat. Podem posar aquestes galetes sense el vostre consentiment."
+
+#: config/general-settings.php:9
+msgid "Use geolocation"
+msgstr "Utilitza la geolocalització"
+
+#: config/cookie-settings.php:405
+msgid "Popup text color"
+msgstr "Color del text de la finestra emergent"
+
+#: config/cookie-settings.php:396
+msgid "Popup background color"
+msgstr "Color de fons de la finestra emergent"
+
+#: class-wizard.php:600
+msgid "%s min"
+msgstr "%s min"
+
+#: class-field.php:1622
+msgid "Add new"
+msgstr "Afegeix-ne un nou"
+
+#: class-document.php:715
+msgid "(See paragraph %s)"
+msgstr "(Vegeu el paràgraf %s)"
+
+#: class-document.php:721
+msgid "(See annex %s)"
+msgstr "(Vegeu l'annex %s)"
+
+#: cookie/class-cookie-admin.php:3345
+msgid "Re-scan"
+msgstr "Torna a escanejar"
+
+#: config/questions-wizard.php:251 config/steps.php:54
+#: cookie/class-cookie-admin.php:3327
+msgid "Cookie scan"
+msgstr "Escaneig de galetes"
+
+#: cookie/class-cookie-admin.php:3094
+msgid "Cookie scan in progress"
+msgstr "Escaneig de galetes en curs"
+
+#: cookie/class-cookie-admin.php:3092
+msgid "No cookies detected"
+msgstr "No s'ha detectat cap galeta"
+
+#: class-admin.php:741 class-admin.php:742 class-admin.php:798
+msgid "Wizard"
+msgstr "Assistent"
+
+#: class-admin.php:714
+msgid "Complianz %s"
+msgstr "Complianz %s"
+
+#: config/cookie-settings.php:199 config/cookie-settings.php:346
+#: cookiebanner/settings.php:719 cookiebanner/settings.php:831
+msgid "We use cookies to optimize our website and our service."
+msgstr "Utilitzem galetes per optimitzar el nostre lloc web i el nostre servei."
+
+#: config/class-config.php:665
+msgid "To enable the warning only for countries with a cookie law, %sget premium%s."
+msgstr "Per habilitar l'avís només per a països amb una llei de galetes, %s obteniu la versió premium%s ."
+
+#: class-wizard.php:948
+msgid "To learn what %s are and what you need them for, please read this  %sarticle%s"
+msgstr "Per saber què són %s i per a què ho necessiteu, llegiu aquest %sarticle%s"
+
+#: class-field.php:1995
+msgid "Third party country"
+msgstr "País tercer"
+
+#: cookiebanner/cookiebanner.php:207
+msgid "Your website does not require a cookie warning, so these settings do not apply."
+msgstr "El vostre lloc web no requereix cap advertència de galetes, de manera que aquesta configuració no s'aplica."
+
+#: class-wizard.php:943
+msgid "dataleak reports"
+msgstr "informes de filtracions de dades"
+
+#: class-wizard.php:63
+msgid "The wizard isn't completed yet. If you have answered all required questions, you just need to click 'finish' to complete it. In the wizard some general data is entered which is needed for this document. %sPlease complete the wizard first%s."
+msgstr "L'assistent encara no s'ha completat. Si heu respost a totes les preguntes necessàries, només heu de fer clic a \"finalitza\" per completar-lo. A l'assistent s'introdueixen algunes dades generals que es necessiten per a aquest document. %sCompleteu l'assistent primer%s ."
+
+#: class-wizard.php:58
+msgid "Great, the main wizard is completed. This means the general data is already in the system, and you can continue with the next question. This will start a new, empty document."
+msgstr "L'assistent principal s'ha completat. Això vol dir que les dades generals ja es troben al sistema, i podeu continuar amb la següent pregunta. Això iniciarà un nou document buit."
+
+#: class-document.php:1620
+msgid "No menus were found. Skip this step, or %screate a menu%s first."
+msgstr "No s'han trobat menús. Ometeu aquest pas o %screeu un menú%s abans."
+
+#: cookiebanner/cookiebanner.php:210
+msgid "Your website requires a cookie warning, these settings will determine how the popup will look."
+msgstr "El vostre lloc web requereix una advertència de galetes, aquesta configuració determinarà com es veurà la finestra emergent."
+
+#: class-document.php:1644
+msgid "The generated document %s has not been assigned to a menu yet, you can do this now, or skip this step and do it later."
+msgid_plural "The generated documents %s have not been assigned to a menu yet, you can do this now, or skip this step and do it later."
+msgstr[0] "El document generat %s encara no s'ha assignat a un menú, podeu fer-ho ara o saltar-vos aquest pas i fer-ho més tard."
+msgstr[1] "Els documents generats %s encara no s'han assignat a un menú, podeu fer-ho ara o saltar-vos aquest pas i fer-ho més tard."
+
+#: config/documents/cookie-policy-eu.php:10
+#: config/documents/cookie-policy-ca.php:14
+msgctxt "Legal document cookie policy"
+msgid "Our website, %s (hereinafter: \"the website\") uses cookies and other related technologies (for convenience all technologies are referred to as \"cookies\"). Cookies are also placed by third parties we have engaged. In the document below we inform you about the use of cookies on our website."
+msgstr "El nostre lloc web, %s (d'ara endavant  \"el lloc web\") utilitza galetes i altres tecnologies relacionades (per comoditat, totes les tecnologies es denominen  \"galetes\"). Les galetes també són col·locades per tercers que hem contractat. En el document següent us informem sobre l'ús de les galetes al nostre lloc web."
+
+#: config/documents/cookie-policy-eu.php:22
+#: config/documents/cookie-policy-ca.php:27
+msgctxt "Legal document cookie policy"
+msgid "A web beacon (or a pixel tag) is a small, invisible piece of text or image on a website that is used to monitor traffic on a website. In order to do this, various data about you is stored using web beacons."
+msgstr "Una balisa web (o una etiqueta de píxel) és una petita i invisible peça de text o imatge en un lloc web que s'utilitza per controlar el trànsit d'un lloc web. Per fer-ho, s'emmagatzemen diverses dades utilitzant balises web."
+
+#: config/documents/cookie-policy-eu.php:27
+msgctxt "Legal document cookie policy"
+msgid "When you visit our website for the first time, we will show you a pop-up with an explanation about cookies. As soon as you click on \"%s\", you consent to us using all cookies and plug-ins as described in the pop-up and this cookie statement. You can disable the use of cookies via your browser, but please note that our website may no longer work properly."
+msgstr "Quan visiteu el nostre lloc web per primera vegada, us mostrarem una finestra emergent amb una explicació sobre les galetes. Tan bon punt feu clic a  \"%s\", accepteu utilitzar totes les galetes i extensions tal com es descriu a la finestra emergent i a aquesta declaració de galetes. Podeu desactivar l'ús de les galetes a través del vostre navegador, però tingueu en compte que el nostre lloc web ja no funcionarà correctament."
+
+#: class-field.php:2049
+msgid "Add new third-party"
+msgstr "Afegeix un tercer"
+
+#: callback-notices.php:245
+msgid "The cookie scan detected %s types of cookies on your site which means the answer to this question should be Yes."
+msgstr "L'exploració de galetes detectat %s tipus de galetes al vostre lloc, la qual cosa significa que la resposta a aquesta pregunta hauria de ser Sí."

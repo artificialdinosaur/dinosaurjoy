@@ -1,0 +1,236 @@
+# Translation of Plugins - TinyMCE Advanced - Stable (latest release) in Croatian
+# This file is distributed under the same license as the Plugins - TinyMCE Advanced - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-05-08 15:28:10+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: hr\n"
+"Project-Id-Version: Plugins - TinyMCE Advanced - Stable (latest release)\n"
+
+#: tinymce-advanced.php:868
+msgid "Classic Paragraph"
+msgstr "Klasični paragraf"
+
+#: tadv_admin.php:880
+msgid "Disabled:"
+msgstr "Onemogućeno:"
+
+#: tadv_admin.php:832
+msgid "If you prefer to use both editors side by side, do not enable this option. It is better to install the %1$sClassic Editor plugin%2$s."
+msgstr "Ako preferirate koristiti oba uređivača, nemojte uključiti ovu opciju. Bolje je instalirati %1$sClassic Editor dodatak%2$s."
+
+#: tadv_admin.php:827
+msgid "It will allow you to use other plugins that enhance that editor, add old-style Meta Boxes, or in some way depend on the previous Edit Post screen."
+msgstr "Omogućiti će vam korištenje drugih dodataka koji poboljšavaju taj uređivač, dodaju stare meta okvire, ili na neki način zavise o prethodnom Uredi objavu zaslonu."
+
+#: tadv_admin.php:826
+msgid "Selecting this option will restore the previous (&#8220;classic&#8221;) editor and the previous Edit Post screen."
+msgstr "Odabirom ove opcije vratiti će te prethodni (&#8220;klasični&#8221;) uređivač i prethodni Uredi objavu zaslonu."
+
+#: tadv_admin.php:824
+msgid "Replace the Block Editor with the Classic Editor"
+msgstr "Zamjeni Blok uređivač s klasičnim uređivačem."
+
+#: tadv_admin.php:800
+msgid "This makes the Block Editor more familiar, easier to use, easier to get used to, and more compatible with your existing workflow."
+msgstr "Ovo čini Blok uređivač poznatijim, lakšim za korištenje i puno više kompatibilnijim s vašim postojećim radnim tokom."
+
+#: tadv_admin.php:758
+msgid "This affects buttons that are added by other plugins. These buttons will be appended to the top toolbar row instead of forming second, third, and forth rows."
+msgstr "Ovo utječe na dugmad koje su dodali drugi dodaci. Ova dugmad biti će dodana u gornju alatnu traku umjesto da se kreira drugi, treći ili četvrti red dugmadi."
+
+#: tadv_admin.php:426
+msgid "Enable the editor menu (recommended)."
+msgstr "Uključi izbornik uređivača (preporučeno)."
+
+#: tadv_admin.php:421
+msgid "The buttons will wrap around depending on the width of the toolbar."
+msgstr "Dugmad će premjestiti zavisno o širini alatne trake."
+
+#: tadv_admin.php:420
+msgid "For best results enable the menu and add only essential buttons."
+msgstr "Za najbolje rezultate uključite izbornik i dodajte samo neophodnu dugmad."
+
+#: tadv_admin.php:536 tadv_admin.php:704
+msgid "Drop buttons in the toolbars, or drag the buttons to rearrange them."
+msgstr "Ispustite dugmad u alatne trake, ili povucite dugmad kako bi hi premjestili."
+
+#: tadv_admin.php:948
+msgid "For other advanced TinyMCE settings, including settings for the Classic Paragraph block and more advanced table options, you can use the %1$sAdvanced TinyMCE Configuration plugin%2$s."
+msgstr "Za druge napredne TinyMCE postavke, uključujući postavke za Klasični paragraf blok i napredne opcije tablica, možete koristiti %1$sAdvanced TinyMCE Configuration dodatak%2$s."
+
+#: tadv_admin.php:784
+msgid "Replace the size setting available for fonts with: %s."
+msgstr "Zamijenite dostupne postavku veličine za fontove s: %s."
+
+#: tadv_admin.php:881
+msgid "A stylesheet file named editor-style.css was not added by your theme."
+msgstr "Vaša tema nije dodala stilski predložak editor-style.css."
+
+#: tadv_admin.php:961
+msgid "Settings import and export"
+msgstr "Uvoz i izvoz postavki"
+
+#: tinymce-advanced.php:1311
+msgid "Settings"
+msgstr "Postavke"
+
+#: tadv_admin.php:871
+msgid "Create CSS classes menu"
+msgstr "Kreirajte novi izbornik CSS klasa"
+
+#: tadv_admin.php:976
+msgid "The Classic Editor (Add New and Edit posts and pages)"
+msgstr "Klasični uređivač (Kreirajte nove i uredite objave i stranice)"
+
+#: tadv_admin.php:783
+msgid "Font sizes"
+msgstr "Veličine fontova"
+
+#: tadv_admin.php:765
+msgid "Enable more list options: upper or lower case letters for ordered lists, disk or square for unordered lists, etc."
+msgstr "Omogući više opcija listi: velika ili mala slova za brojevnu listu, kružić ili kvadrat za listu"
+
+#: tadv_admin.php:772
+msgid "Replace the browser context (right-click) menu."
+msgstr "Zamijeni kontekstualni izbornik (dostupan desnim klikom mišem)"
+
+#: tadv_admin.php:777
+msgid "Alternative link dialog"
+msgstr "Zamjenski dijalog poveznice"
+
+#: tadv_admin.php:778
+msgid "Open the TinyMCE link dialog when using the link button on the toolbar or the link menu item."
+msgstr "Otvori TinyMCE dijalog poveznice prilikom korištenja gumba za poveznicu na alatnoj traci ili stavke poveznice na izborniku."
+
+#: tadv_admin.php:753
+msgid "Options"
+msgstr "Postavke"
+
+#: tadv_admin.php:126
+msgid "Settings saved."
+msgstr "Opcije spremljene."
+
+#: tadv_admin.php:968
+msgid "Export Settings"
+msgstr "Izvezi postavke"
+
+#: tadv_admin.php:138 tadv_admin.php:998
+msgid "Save Changes"
+msgstr "Spremi izmjene"
+
+#: tadv_admin.php:38
+msgid "Default settings restored."
+msgstr "Izvorne postavke vraćene."
+
+#: tadv_admin.php:65
+msgid "Back to Editor Settings"
+msgstr "Povratak na postavke editora"
+
+#: tadv_admin.php:45
+msgid "TinyMCE Advanced Settings Import"
+msgstr "Uvoz naprednih postavki TinyMCE"
+
+#: tadv_admin.php:59
+msgid "Verify"
+msgstr "Verificiraj"
+
+#: tadv_admin.php:78
+msgid "Importing of settings failed."
+msgstr "Uvoz postavki nije uspio."
+
+#: tadv_admin.php:108
+msgid "ERROR: All toolbars are empty. Default settings loaded."
+msgstr "GREŠKA: Sve alatne trake su prazne. Učitane su izvorne postavke."
+
+#: tadv_admin.php:119
+msgid "Editor Settings"
+msgstr "Postavke editora"
+
+#: tadv_admin.php:590
+msgid "Enable the editor menu."
+msgstr "Omogući izbornik editora."
+
+#: tadv_admin.php:707
+msgid "Unused Buttons"
+msgstr "Nekorišteni gumbi"
+
+#: tadv_admin.php:763
+msgid "List Style Options"
+msgstr "Opcije liste"
+
+#: tadv_admin.php:771
+msgid "Context Menu"
+msgstr "Kontekstualni izbornik"
+
+#: tadv_admin.php:792
+msgid "Advanced Options"
+msgstr "Napredne opcije"
+
+#: tadv_admin.php:959
+msgid "Administration"
+msgstr "Administracija"
+
+#: tadv_admin.php:969
+msgid "Import Settings"
+msgstr "Uvoz postavki"
+
+#: tadv_admin.php:997
+msgid "Restore Default Settings"
+msgstr "Vrati izvorne postavke"
+
+#: tadv_admin.php:1003
+msgid "The [Toolbar toggle] button shows or hides the second, third, and forth button rows. It will only work when it is in the first row and there are buttons in the second row."
+msgstr "Gumb [sakrij/prikaži alatnu traku] prikazuje ili skriva drugi, treći i četvrti red gumbiju. Raditi će samo kada se nalazi u prvom redu i kada postoje gumbi u drugom redu."
+
+#: tinymce-advanced.php:370
+msgid "TinyMCE Advanced requires WordPress version %1$s or newer. It appears that you are running %2$s. This can make the editor unstable."
+msgstr "TinyMCE Advanced treba WordPress verziju %1$s ili noviju. Čini se da vi koristite %2$s što može utjecati na stabilnost editora."
+
+#: tinymce-advanced.php:378
+msgid "Please upgrade your WordPress installation or download an <a href=\"%s\">older version of the plugin</a>."
+msgstr "Molimo vas da nadogradite všu verziju WordPressa ili preuzmite <a href=\"%s\">stariju inačicu dodatka</a>."
+
+#. Plugin Name of the plugin
+msgid "TinyMCE Advanced"
+msgstr "TinyMCE Advanced"
+
+#. Plugin URI of the plugin
+msgid "http://www.laptoptips.ca/projects/tinymce-advanced/"
+msgstr "http://www.laptoptips.ca/projects/tinymce-advanced/"
+
+#. Author of the plugin
+msgid "Andrew Ozz"
+msgstr "Andrew Ozz"
+
+#. Author URI of the plugin
+msgid "http://www.laptoptips.ca/"
+msgstr "http://www.laptoptips.ca/"
+
+#: tadv_admin.php:850
+msgid "However it may behave unexpectedly in rare cases, so test it thoroughly before enabling it permanently."
+msgstr "Pripazite jer je moguće čudno ponašanje u rijetkim slučajevima, stoga ga dobro testirajte prije nego što ćete ga stalno omogućiti."
+
+#: tadv_admin.php:873
+msgid "Load the CSS classes used in editor-style.css and replace the Formats menu."
+msgstr "Učitaj CSS klase korištene u editor-sytle.css i zamijeni izbornik za Formatiranje."
+
+#: tadv_admin.php:851
+msgid "Line breaks in the Text tab in the Classic Editor would still affect the output, in particular do not use empty lines, line breaks inside HTML tags or multiple &lt;br&gt; tags."
+msgstr "Nove i prazne linije u Tekstualnom uređivaču i dalje mogu utjecati na rezultat, stoga nemojte koristiti prazne ili nove linije unutar HTML oznaka ili višestruke &lt;br /&gt; oznake."
+
+#: tadv_admin.php:963
+msgid "The settings are exported as a JSON encoded file."
+msgstr "Postavke su izvezene kao JSON kodirana datoteka."
+
+#: tadv_admin.php:56
+msgid "Alternatively the settings can be imported from a JSON encoded string. Please paste the exported string in the text area below."
+msgstr "Postavke mogu biti uvezene iz JSON kodirane datoteke. Molimo vas da dobiveni (izvezeni) niz znakova zalijepite u polje ispod."
+
+#: tadv_admin.php:849
+msgid "This will make it possible to use more advanced coding in the Text tab without the back-end filtering affecting it much."
+msgstr "Ovo će vam omogućiti korištenje naprednijeg kodiranja unutar Tekstualnog editora bez da vam administracijsko filtriranje utječe na njih."

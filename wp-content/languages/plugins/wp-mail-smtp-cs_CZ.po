@@ -1,0 +1,319 @@
+# Translation of Plugins - WP Mail SMTP by WPForms - Stable (latest release) in Czech
+# This file is distributed under the same license as the Plugins - WP Mail SMTP by WPForms - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-07-15 08:34:28+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: cs_CZ\n"
+"Project-Id-Version: Plugins - WP Mail SMTP by WPForms - Stable (latest release)\n"
+
+#: src/Admin/Pages/SettingsTab.php:75
+msgid "License Key"
+msgstr "Licenční klíč"
+
+#: src/Admin/Pages/SettingsTab.php:64
+msgid "License"
+msgstr "Licence"
+
+#: src/Admin/Area.php:356
+msgid "Processing..."
+msgstr "Zpracování..."
+
+#: src/Admin/Pages/About.php:305 src/Admin/Area.php:355
+msgid "Inactive"
+msgstr "Neaktivní"
+
+#. translators: %s - status HTML text.
+#: src/Admin/Pages/About.php:250
+msgid "Status: %s"
+msgstr "Stav: %s"
+
+#: src/Admin/Pages/About.php:367
+msgid "WPForms Pro"
+msgstr "WPForms Pro"
+
+#: src/Admin/Pages/About.php:553
+msgid "Pro"
+msgstr "Pro"
+
+#: src/Admin/Pages/About.php:699
+msgid "Priority Support"
+msgstr "Přednostní podpora"
+
+#: src/Admin/Pages/About.php:693
+msgid "Limited Support"
+msgstr "Omezená podpora"
+
+#: src/Admin/Pages/About.php:105 src/Admin/Area.php:224 src/Admin/Area.php:225
+msgid "About Us"
+msgstr "O nás"
+
+#: src/Providers/OptionsAbstract.php:228
+msgid "TLS"
+msgstr "TLS"
+
+#: src/Providers/OptionsAbstract.php:219
+msgid "SSL"
+msgstr "SSL"
+
+#: src/Admin/Pages/SettingsTab.php:85
+msgid "Mail"
+msgstr "Email"
+
+#: wp-mail-smtp-0.11.2.php:237 wp-mail-smtp-0.11.2.php:582
+msgid "WP Mail SMTP Settings"
+msgstr "WP Mail SMTP nastavení"
+
+#. Author of the plugin
+msgid "WPForms"
+msgstr "WPForms"
+
+#. Author URI of the plugin
+msgid "https://wpforms.com/"
+msgstr "https://wpforms.com/"
+
+#: src/Admin/Pages/TestTab.php:80
+msgid "HTML"
+msgstr "HTML"
+
+#: src/Admin/Pages/TestTab.php:90
+msgid "Send this email in HTML or in plain text format."
+msgstr "Odeslat v HTML nebo v textovém formátu."
+
+#: src/Admin/PageAbstract.php:81
+msgid "Save Settings"
+msgstr "Uložit nastavení"
+
+#: src/Admin/Pages/MiscTab.php:215 src/Admin/Pages/SettingsTab.php:542
+msgid "Settings were successfully saved."
+msgstr "Nastavení bylo úspěšně uloženo."
+
+#: src/Admin/Pages/TestTab.php:114
+msgid "Send Email"
+msgstr "Poslat email"
+
+#: src/Admin/Pages/TestTab.php:647
+msgid "no"
+msgstr "Ne"
+
+#: src/Admin/Pages/TestTab.php:720 src/Admin/Pages/TestTab.php:771
+#: src/Admin/Pages/TestTab.php:792 src/Admin/Pages/TestTab.php:819
+#: src/Admin/Pages/TestTab.php:835 src/Admin/Pages/TestTab.php:890
+#: src/Admin/Pages/TestTab.php:917
+msgid "Google API Error."
+msgstr "Chyba Google API."
+
+#: src/Admin/Pages/About.php:300 src/Admin/Area.php:353
+msgid "Activated"
+msgstr "Aktivováno"
+
+#: src/Admin/Pages/About.php:297 src/Admin/Area.php:354
+msgid "Active"
+msgstr "Aktivní"
+
+#: src/Admin/Pages/About.php:316
+msgid "Not Installed"
+msgstr "Není nainstalován"
+
+#: src/Admin/Pages/About.php:319
+msgid "Install Plugin"
+msgstr "Nainstalovat plugin"
+
+#: src/Providers/Mail/Options.php:25
+msgid "Default (none)"
+msgstr "Výchozí (žádný)"
+
+#: src/Providers/SMTP/Options.php:25
+msgid "Other SMTP"
+msgstr "Ostatní SMTP"
+
+#: src/Providers/Mailgun/Options.php:133
+msgid "EU"
+msgstr "EU"
+
+#: src/Providers/Mailgun/Options.php:124
+msgid "US"
+msgstr "US"
+
+#: src/Providers/Mailgun/Options.php:114
+msgid "Region"
+msgstr "Oblast"
+
+#: src/Providers/OptionsAbstract.php:210
+msgid "None"
+msgstr "Žádný"
+
+#: src/Providers/OptionsAbstract.php:254
+msgid "Auto TLS"
+msgstr "Automatické TLS"
+
+#: src/Providers/OptionsAbstract.php:295
+msgid "SMTP Username"
+msgstr "SMTP uživatelské jméno"
+
+#: src/Providers/OptionsAbstract.php:309
+msgid "SMTP Password"
+msgstr "SMTP heslo"
+
+#: src/Providers/Gmail/Options.php:168
+msgid "Remove Connection"
+msgstr "Odstranit spojení"
+
+#: wp-mail-smtp-0.11.2.php:343 wp-mail-smtp-0.11.2.php:443
+#: wp-mail-smtp-0.11.2.php:519
+msgid "Save Changes"
+msgstr "Uložit změny"
+
+#: src/Admin/Area.php:208 src/Admin/Area.php:209 src/Admin/Area.php:795
+#: wp-mail-smtp-0.11.2.php:688
+msgid "Settings"
+msgstr "Nastavení"
+
+#: wp-mail-smtp-0.11.2.php:430 wp-mail-smtp-0.11.2.php:473
+msgid "Password"
+msgstr "Heslo"
+
+#: src/Providers/OptionsAbstract.php:276 wp-mail-smtp-0.11.2.php:397
+#: wp-mail-smtp-0.11.2.php:401
+msgid "Authentication"
+msgstr "Ověření"
+
+#: src/Providers/OptionsAbstract.php:200 wp-mail-smtp-0.11.2.php:370
+#: wp-mail-smtp-0.11.2.php:374 wp-mail-smtp-0.11.2.php:489
+#: wp-mail-smtp-0.11.2.php:495
+msgid "Encryption"
+msgstr "Šifrování"
+
+#: wp-mail-smtp-0.11.2.php:406
+msgid "No: Do not use SMTP authentication."
+msgstr "Ne: Nepoužívat SMTP ověření."
+
+#: wp-mail-smtp-0.11.2.php:218
+msgid "Test Message Sent"
+msgstr "Testovací zpráva byla odeslána"
+
+#: wp-mail-smtp-0.11.2.php:222
+msgid "The full debugging output is shown below:"
+msgstr "Kompletní ladící výstup je zobrazen níže:"
+
+#: wp-mail-smtp-0.11.2.php:219
+msgid "The result was:"
+msgstr "Výsledek byl:"
+
+#: wp-mail-smtp-0.11.2.php:225
+msgid "The SMTP debugging output is shown below:"
+msgstr "SMTP ladící výstup je zobrazen níže:"
+
+#: wp-mail-smtp-0.11.2.php:422 wp-mail-smtp-0.11.2.php:465
+msgid "Username"
+msgstr "Uživatelské jméno"
+
+#: wp-mail-smtp-0.11.2.php:411
+msgid "Yes: Use SMTP authentication."
+msgstr "Ano: Použít SMTP ověření."
+
+#: src/Providers/OptionsAbstract.php:240 wp-mail-smtp-0.11.2.php:363
+#: wp-mail-smtp-0.11.2.php:481
+msgid "SMTP Port"
+msgstr "SMTP Port"
+
+#: src/Admin/Pages/SettingsTab.php:138 wp-mail-smtp-0.11.2.php:265
+msgid "From Name"
+msgstr "Jméno odesílatele"
+
+#: wp-mail-smtp-0.11.2.php:415
+msgid "If this is set to no, the values below are ignored."
+msgstr "Pokud je tohle nastaveno na Ne, pak jsou níže zadané hodnoty ignorovány."
+
+#: src/Admin/Pages/SettingsTab.php:201 wp-mail-smtp-0.11.2.php:280
+#: wp-mail-smtp-0.11.2.php:285
+msgid "Mailer"
+msgstr "Mailer"
+
+#: src/Providers/OptionsAbstract.php:186 wp-mail-smtp-0.11.2.php:355
+msgid "SMTP Host"
+msgstr "SMTP Host"
+
+#: wp-mail-smtp-0.11.2.php:348
+msgid "SMTP Options"
+msgstr "Nastavení SMTP"
+
+#: wp-mail-smtp-0.11.2.php:379 wp-mail-smtp-0.11.2.php:501
+msgid "No encryption."
+msgstr "Žádné šifrování"
+
+#: wp-mail-smtp-0.11.2.php:384 wp-mail-smtp-0.11.2.php:506
+msgid "Use SSL encryption."
+msgstr "Použít SSL šifrování"
+
+#: wp-mail-smtp-0.11.2.php:192 wp-mail-smtp-0.11.2.php:546
+msgid "Send Test"
+msgstr "Odeslat test"
+
+#: src/Admin/Pages/SettingsTab.php:179 wp-mail-smtp-0.11.2.php:321
+#: wp-mail-smtp-0.11.2.php:326
+msgid "Return Path"
+msgstr "Zpáteční cesta"
+
+#: wp-mail-smtp-0.11.2.php:256
+msgid "<strong>Please Note:</strong> You appear to be using a version of WordPress prior to 2.3. Please ignore the From Name field and instead enter Name&lt;email@domain.com&gt; in this field."
+msgstr "<strong>Čtěte prosím:</strong> Zdá se, že používáte WordPress 2.3. nebo nižší. Proto prosím zadejte do pole Jméno odesílatele Jméno&lt;email@domain.com&gt;"
+
+#: src/Admin/Pages/SettingsTab.php:188 wp-mail-smtp-0.11.2.php:331
+msgid "Set the return-path to match the From Email"
+msgstr "Nastavte zpáteční cestu (return-path) aby odpovídala E-mailu odesílatele"
+
+#: wp-mail-smtp-0.11.2.php:540
+msgid "Type an email address here and then click Send Test to generate a test email."
+msgstr "Napište zde emailovou adresu a klikněte na Odeslat test."
+
+#: src/Admin/Pages/TestTab.php:59 wp-mail-smtp-0.11.2.php:528
+msgid "Send a Test Email"
+msgstr "Odeslat testovací email"
+
+#: wp-mail-smtp-0.11.2.php:290
+msgid "Send all WordPress emails via SMTP."
+msgstr "Odesílat veškeré emaily z WordPressu pomocí SMTP."
+
+#: wp-mail-smtp-0.11.2.php:294
+msgid "Use the PHP mail() function to send emails."
+msgstr "Použít PHP funkci mail() pro odesílání emalů."
+
+#: wp-mail-smtp-0.11.2.php:350
+msgid "These options only apply if you have chosen to send mail by SMTP above."
+msgstr "Tato nastavení se uplatní pouze v případě pokud jste výše vybrali možnost odesílání emailů pomocí SMTP."
+
+#: wp-mail-smtp-0.11.2.php:271
+msgid "You can specify the name that emails should be sent from. If you leave this blank, the emails will be sent from WordPress."
+msgstr "Můžete zadat jméno odesílatele emailu, které se zobrazí příjemci. Necháte-li toto prázdné, odesílatelem emailů bude WordPress."
+
+#: wp-mail-smtp-0.11.2.php:253
+msgid "You can specify the email address that emails should be sent from. If you leave this blank, the default email will be used."
+msgstr "Můžete zadat emailovou adresu, ze které se budou odesílat emaily. Necháte-li toto pole prázdné, použije se výchozí email."
+
+#: src/Admin/Pages/SettingsTab.php:92 wp-mail-smtp-0.11.2.php:246
+msgid "From Email"
+msgstr "Email odesílatele"
+
+#: wp-mail-smtp-0.11.2.php:202
+msgid "This is a test email generated by the WP Mail SMTP WordPress plugin."
+msgstr "Toto je testovací email vygenerovaný WordPress pluginem WP Mail SMTP."
+
+#. Plugin Name of the plugin
+#: src/Admin/Area.php:197 src/Admin/Area.php:198 src/SiteHealth.php:40
+#: wp-mail-smtp-0.11.2.php:582
+msgid "WP Mail SMTP"
+msgstr "WP Mail SMTP"
+
+#: src/Providers/Gmail/Options.php:32
+msgid "Gmail"
+msgstr "Gmail"
+
+#. translators: %s - email address where test mail will be sent to.
+#: wp-mail-smtp-0.11.2.php:201
+msgid "Test mail to %s"
+msgstr "Testovací email pro %s"
